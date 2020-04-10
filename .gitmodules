@@ -1,0 +1,3 @@
+[submodule "alignment-evaluation/spam-align"]
+	path = alignment-evaluation/spam-align
+	url = git@gitlab.gwdg.de:robinwilliam.hundt/spam-align.git
