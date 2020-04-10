@@ -1,0 +1,77 @@
+1abo_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ycs_B             1   plallldssl eGEFDLVQri iyevddpslp ndegitalhn avcaghteiv 
+1pht_              1   ---------- ---------- ---------- ---------- ---------- 
+1ihv_A             1   ---------- -----MIQ-- ---------- ---------- ---------- 
+1bb9_              1   tt-------- -GRLDLppgf m--------- ---------- ---------- 
+1hjd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ov3_A             1   lgsp------ --EFIILQ-- ---------- ---------- ---------- 
+1ue9_A             1   gs-------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1abo_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ycs_B            51   kflvqfgvnv naadsdgwtp lhcaascnnv qvckflveSG AAvfamtySD 
+1pht_              1   ---------- ---------- ---------- ---------- AEG------- 
+1ihv_A             4   ---------- ---------- ---------- ---------- ---------- 
+1bb9_             13   ---------- ---------- ---------- ---------- ---------- 
+1hjd_A             1   ---------- ---------- ---------- ---------- --------AD 
+1ov3_A            11   ---------- ---------- ---------- ---------- ---------- 
+1ue9_A             3   ---------- ---------- ---------- --------SG SSG------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1abo_A             1   ---------- ---------- ---------- ----NLFVAL YDFVASGDNT 
+1ycs_B           101   MQTAADKcee meegytQCSq flygvqekmg imnkGVIYAL WDYEPQNDDE 
+1pht_              4   ---------- ---------- ---------- ----YQYRAL YDYKKEREED 
+1ihv_A             4   ---------- ---------- ---------- -----NFRVY Y--RDSRDpv 
+1bb9_             13   ---------- ---------- ---------- ----FKVQAQ HDYTATDTDE 
+1hjd_A             3   RKLCADQ--- ------ECSh pi-------- ----SMAVAL QDYMAPDCRF 
+1ov3_A            11   ---------- ---------- ---------- -----TYRAI ADYEKTSGSE 
+1ue9_A             8   ---------- ---------- ---------- ----EIAQVT SAYVASGSEQ 
+                                                                 
+                       0000000000 0000000000 0000000000 0000114577 7788888888 
+ 
+1abo_A            17   LSITKGEKLR VLGYN----- ---------- HNG--EWC-- ------EA-- 
+1ycs_B           151   LPMKEGDCMT IIHRE----- ---------- DEDEIEWW-- ------WA-- 
+1pht_             20   IDLHLGDILT VNKGSlvalg fsdgqearpe EIG---WLNG ------YN-- 
+1ihv_A            17   w--------- ---------- ---------- KGPAKLLWKG Egavviqdn- 
+1bb9_             29   LQLKAGDVVL VIPFQ----- ---------- NPEEQDEG-- ------Wlmg 
+1hjd_A            32   LTIHRGQVVY VFSKL----- ---------- KGRGRLFWGG SVqgdyYG-- 
+1ov3_A            26   MALSTGDVVE VVEKS----- ---------- ESG---WW-- ------FC-- 
+1ue9_A            24   LSLAPGQLIL ILKKN----- ---------- TSG---WWQG EL-------- 
+                                                                 
+                       8888888888 8644300000 0000000000 4331113300 0000002100 
+ 
+1abo_A            40   ---------- QTKNGQGWVP SNYITPVNS- ---------- ---------- 
+1ycs_B           176   ---------- RLNDKEGYVP RNLLGLyp-- ---------- ---------- 
+1pht_             59   ---------- ETTGERGDFP GTYVEYIGRK Kispp----- ---------- 
+1ihv_A            37   ---SD----- ---------- ---IKVVPRR KAK------- ---------- 
+1bb9_             56   vkeSDwnQHK ELEKCRGVFP ENFTERV--- ---------- ---------- 
+1hjd_A            65   ---------- DLAARLGYFP SSIVRED--- ---------- ---------- 
+1ov3_A            48   ---------- QMKAKRGWIP ASFLEPLDSP DEtedpepny agepyvaika 
+1ue9_A            48   -------QAR GKKRQKGWFP ASHVKLLGPS SERasg---- ---------- 
+                                                                 
+                       0000000000 2233334444 4444211110 0000000000 0000000000 
+ 
+1abo_A            59   ---------- ---------- ---------- ---------- ------- 
+1ycs_B           194   ---------- ---------- ---------- ---------- ------- 
+1pht_             84   ---------- ---------- ---------- ---------- ------- 
+1ihv_A            49   ---------- ---------- --------II Rd-------- ------- 
+1bb9_             83   ---------Q ---------- ---------- ---------- ------- 
+1hjd_A            82   ---------Q TLKPGKVDVk t---DKWdfy cq-------- ------- 
+1ov3_A            88   ytavegdevS LLEGEAVEVi hkllDGWwVI RkddvtgyfP Smylqks 
+1ue9_A            77   ---------- ---------- ---------- ---------P Ssg---- 
+                                                              
+                       0000000000 0000000000 0000000000 0000000000 0000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1abo_A      :0.069689(1ov3_A      :0.0525701ue9_A      :0.052570):0.017119):0.040417((1ycs_B      :0.0930581bb9_       :0.093058):0.0118101pht_       :0.104868):0.005239):0.0677051hjd_A      :0.177811):0.3623471ihv_A      :0.540158);
+ 
+ 

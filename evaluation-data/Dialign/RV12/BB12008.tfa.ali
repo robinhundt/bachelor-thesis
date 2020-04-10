@@ -1,0 +1,251 @@
+1buc_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ivh_A             1   vd--D----- ---------- ---------- ---------- ---------- 
+1rx0_A             1   tsciD----- ---------- ---------- ---------- ---------- 
+1r2j_A             1   erda------ ---------- ---------- ---------- ---------- 
+P76200             1   ---------- ---------- ---------- ---------- ---------- 
+Q10535             1   M--------- ---------- -------AQQ TQVTEEQARA LAEESRESGW 
+Q8jzn5             1   ms-------- -----GCVLL SRGATAAAAA ARASRVLREF TARRRPlhts 
+Q9kje8             1   ---------- ---------- ---------- ---------- ---------- 
+P71539             1   mt--D----- ---------- ---------- ---------- ---------- 
+P79274             1   -----MATRL LRGS-----L RLW------- --GGLCAPRL PTASRcshsg 
+P45954             1   --MEGLAVRL LRGSrllrrn --------FL TCLSSWKIPP HVSKSSQSEA 
+Q92947             1   maLRGVSVRL LsrgpGLHVL RTWVSSAAQT EKGGRTQSQL AKSSRPEFDW 
+Q9vsa3             1   M--------- ---------- -------AFL NKLAAPALRQ LVSQSRAYAA 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1buc_A             1   ------M--- ---D-----F NLT------- ---------- --DIQQDFLK 
+1ivh_A             4   --------A- ---I-----N GLS------- ---------- --EEQRQLRQ 
+1rx0_A             6   --------P- ---S-----M GLN------- ---------- --EEQKEFQK 
+1r2j_A             5   ---------- ---------- ---------- ---------- ---------- 
+P76200             1   ------M--- ---D-----F SLT------- ---------- --EEQELLLA 
+Q10535            25   DKP-SFA--- ---K-----E LFLGRFPLGL IHPFPKPSDA EEARTEAFLV 
+Q8jzn5            38   lqscSFA--- ---K-----E LFLGNIKQKG VFPFPEVSQH ELSEINQFVG 
+Q9kje8             1   ------M--- ---D-----F SLS------- ---------- --EEQTMLKE 
+P71539             4   --------T- ---S-----F IES------- ---------- --EERQALRK 
+P79274            32   geerlespsa kkltdigirR IFS------- ---------- --SEHDIFRE 
+P45954            41   LLNITNNGih fapL-----Q TFT------- ---------- --DEEMMIKS 
+Q92947            51   QDP-LVL--- ---E-----E QLT------- ---------- --TDEILIRD 
+Q9vsa3            25   VSHVSPNGT- ---S-----F ALT------- ---------- --EDQLQLQE 
+                                                                 
+                       0000000000 0000000000 0110000000 0000000000 0011111111 
+ 
+1buc_A            15   LAHDFGEKKL APTV-TERDH K--------- ----GIYD-- KELIDELLSL 
+1ivh_A            18   TMAKFLQEHL APKA-QEIDR S--------- ----NEFKnl REFWKQLGNL 
+1rx0_A            20   VAFDFAAREM APNM-AEWDQ K--------- ----ELFP-- VDVMRKAAQL 
+1r2j_A             5   ----LLTDLV GDRA-AEWDT S--------- ----GELP-- RDLLVRLGAD 
+P76200            15   SIRELITTNF PEEYFRTCDQ N--------- ----GTYP-- REFMRALADN 
+Q10535            63   KLREFLDT-V DG---SVIER A--------- ----AQIP-- DEYVKGLAEL 
+Q8jzn5            77   PLEKFFTEEV DS---RKIDQ E--------- ----GKIP-- VDTLEKLKSL 
+Q9kje8            15   VARRFTANEL MPLE-KVLLE remrmwtdgy tllpEADH-- ARLMKITQEM 
+P71539            18   AVASWVANYG HEYYL-DKAR K--------- ----HEHT-- SELWAEAGKL 
+P79274            63   SVRKFFQEEV IPHH-AEWEK A--------- ----GEVS-- RELWEKAGKQ 
+P45954            67   SVKKFAQEQI APLV-STMDE N--------- ----SKME-- KSVIQGLFQQ 
+Q92947            70   TFRTYCQERL MPRI-LLANR N--------- ----EVFH-- REIISEMGEL 
+Q9vsa3            47   LARKFTREEI IPVA-AQYDK S--------- ----GEYP-- WPIIKKAWEL 
+                                                                 
+                       1111111111 1111011122 2000000000 0000222200 2233333333 
+ 
+1buc_A            49   GITGAYFEEK YGGSGDDggd VLSYILAVEE LAKY-DAGVA ITLSATV--S 
+1ivh_A            54   GVLGITAPVQ YGGSGLG--- YLEHVLVMEE ISRA-SGAVG LSYGAHS--N 
+1rx0_A            54   GFGGVYIQTD VGGSGLS--- RLDTSVIFEA LATG-CTSTT -AYISIH--N 
+1r2j_A            35   GLLCAEVAAE HGGLGLG--- SRENGEFTAH VGSL-CSSLR -SVMTSQ--G 
+P76200            50   GISMLGVPEE FGGIPAD--- YVTQMLALME VSKC-GAPAF -LIT--N--G 
+Q10535            94   GCFGLKIPSE YGGLNMS--- QVAYNRVLMM VTTV-HSSLG ALLSAHQ--S 
+Q8jzn5           109   GLFGIQVPEE YGGLGLS--- NTMYARLg-E IISL-DASIT VTLAAHQ--A 
+Q9kje8            62   GFWGIEVDEK LGGQGLG--- MFAKTLVVEE MSKS-LIGFs hhgftlppdA 
+P71539            52   GFLGVNLPEE YGGGGAG--- MYELSLVMEE MAAA-GSALL -LMVVSP--A 
+P79274            97   GLLGINIAER HGGIGGD--- LYSAAIVWEE QAYSnCTGp- -GFSLHS--D 
+P45954           101   GLMGIEVDPE YGGTGAS--- FLSTVLVIEE LAKV-DASVA VFCEIQN--T 
+Q92947           104   GVLGPTIKg- YGCAGVS--- SVAYGLLARE LERV-DSGYR SAMSVQS--S 
+Q9vsa3            81   GLMNNHIPAD IGGLDLD--- VFTTCLSAEE LAYG-CTGIM -TALEAS--G 
+                                                                 
+                       3333333333 3333332000 2222222222 2211000000 0000000000 
+ 
+1buc_A            96   LCANPIWQFG TEAQKEKFLV P-LVEGTKLG AFGLTEPNAG TDASGQQTIA 
+1ivh_A            98   LCINQLVRNG NEAQKEKYLP K-LISGEYIG ALAMSEPNAG SDVVSMKLKA 
+1rx0_A            97   MCAWMIDSFG NEEQRHKFCP P-LCTMEKFA SYCLTEPGSG SDAASLLTSA 
+1r2j_A            78   MAAWTVQRLG DAGQRATFLK E-LTSG--LA AVGFSERQAG SDLSAMRTRV 
+P76200            91   QCIHSMRRFG SAEQLRKtae stLETGDPAY ALALTEPGAG SDNNSATTTY 
+Q10535           138   IGVPEPLKLA GTAEQKRRFL P-RCAAGAIS AFLLTEPDVG SDPARMASTA 
+Q8jzn5           152   IGLKGIILVG NDEQKAKYLP K-LSSGEHIA AFCLTEPASG SDAASIQTRA 
+Q9kje8           108   PNLYYLEECG SPAQRDKYVR R-YCRGEIDS AMMATEPGAG SDISGLTTTA 
+P71539            95   INGTIIAKFG TDDQKKRWLP G-IADGSLTM AFAITEPDAG SNSHKITTTA 
+P79274           140   IVMPYIANYG SEEQIKHFIP Q-MTAGKCIG AIAMTEPGAG SDLQGVRTNA 
+P45954           145   LINTLIRKHG TEEQKATYLP Q-LTT-EKVG SFCLSEAGAG SDSFALKTRA 
+Q92947           147   LVMHPIYAYG SEEQRQKYLP Q-LAKGELLG CFGLTEPNSG SDPSSMETRA 
+Q9vsa3           124   LGQTPVILSG NKEQKKKYLG R-LLEEPLVA AYCVTEPGAG SDVSGIKTRA 
+                                                                 
+                       0001111124 4444444444 4044444566 7888888899 9987777777 
+ 
+1buc_A           145   T--KNdDGTY TLNGSKIFIT NGGAADIYIV FAMTD-KSK- ---GNHG-IT 
+1ivh_A           147   E--KK-GNHY ILNGNKFWIT NGPDADVLIV YAKTD-LAav --PASRG-IT 
+1rx0_A           146   K--KQ-GDHY ILNGSKAFIS GAGESDIYVV MCRTg----- -GPGPKG-IS 
+1r2j_A           125   R--LD-GDTA VVDGHKVWTT AAAYADHLVV FGLQE-DGS- ---G-----A 
+P76200           141   T--RK-NGKV YINGQKTFIT GAKEYPYMLV LARDP-QPK- ---DPKKAFT 
+Q10535           187   TPIDD-GQAY ELEGVKLWTT NGVVADLLVV MARVP-RSE- ---GHRGGIS 
+Q8jzn5           201   TLSED-KKYF ILNGSKVWIT NGGLANIFTV FAKTE-Vvds dGSKTDK-MT 
+Q9kje8           157   V--RE-NGQW VINGSKIFIS KCDKDELFFI CIAVT-DKEA --PTKRR-FT 
+P71539           144   R--RD-GSDW IIKGQKVFIS GIDQAQAVLV VGRSE-EAK- ---TGKLRPA 
+P79274           189   K--KD-GSDW ILNGSKVFIT NGWLSDVVIV VAVTNREARS --P-AHG-IS 
+P45954           193   D--KE-GDYY VLNGSKMWIS SAEHAGLFLV MANVD-PTI- ---GYKG-IT 
+Q92947           196   HynsS-NKSY TLNGTKTWIT NSPMADLFVV WARCE-DGci r--------- 
+Q9vsa3           173   E--KK-GDEW VINGQKMWIT NGGVANWYFV LARTNPDPKC --PPSKA-FT 
+                                                                 
+                       5005505567 7777777777 5444333333 3332100000 0001111023 
+ 
+1buc_A           187   AFILEDGTPG FTYGKKEDKM GIHTSQTMEL VFQDVKVPAE NMLGEEGKGF 
+1ivh_A           190   AFIVEKGMPG FSTSKKLDKL GMRGSNTCEL IFEDCKIPAA NILGHENKGV 
+1rx0_A           186   CIVVEKGTPG LSFGKKEKKV GWNSQPTRAV IFEDCAVPVA NRIGSEGQGF 
+1r2j_A           162   VVVVPADTPG VRVERVPKPS GCRAAGHADL HLDQVRVPAG AVLAGSGASL 
+P76200           183   LWWVDSSKPG IKIN-PLHKI GWHMLSTCEV YLDNVEVEES DMVGEEGMGF 
+Q10535           231   AFVVEADSPG ITVERRNKFM GLRGIENGVT RLHRVRVPKD NLIGREGDGL 
+Q8jzn5           248   AFIVERDFGG ITNGKPEDKL GIRGSNTCEV HFENTRVPVE NVLGEVGGGF 
+Q9kje8           200   AFILDKDTPG LRIGAEIPVI G--AMPTWSV YLDNVRVGDE AVLGEVGDAF 
+P71539           186   LFVVPTDAPG FSYT-PIeme lVSPERQFQV FLDDVRLPAD ALVGAEDAAI 
+P79274           232   LFLVENGMKG FVKGRKLHKI GLKAQDTAEL FFEDVRLPAS ALLGEENKGF 
+P45954           234   SFLVDRDTPG LHIGKPENKL GLRASSTCPL TFENVKVPEA NILGQIGHGY 
+Q92947           235   GFLLEKGMRG LSAPRIQGKF SLRASATGMI IMDGVEVPEE NVLPGASSlg 
+Q9vsa3           217   GFIVERDSPG LTPGRKELNM GQRASDTRGI TFEDVRVPKE NVLIGEGAGF 
+                                                                 
+                       3334444444 4444444444 4444444444 4555555544 4444334333 
+ 
+1buc_A           237   KIAMM-TLDG GRIGVAAQAL GIAEAALADA VEYSKQRVQF GKPLCKFQSI 
+1ivh_A           240   YVLMS-GLDL ERLVLAGGPL GLMQAVLDHT IPYLHVREAF GQKIGHFQLM 
+1rx0_A           236   LIAVR-GLNG GRINIASCSL GAAHASVILT RDHLNVRKQF GEPLASNQYL 
+1r2j_A           212   PMLVAaSLAY GRKSVAWGCV GILRACRTAA VAHARTREQF GRPLGDHQLV 
+P76200           232   LNVMY-NFEM ERLINAARST GFAECAFEDA ARYANQRIAF GKPIGHNQMI 
+Q10535           281   KIALT-TLNA GRLSLPAIAT GVAKQALKIA REWSVERVQW GKPVGQHEAV 
+Q8jzn5           298   KVAMN-ILNS GRFSMGSAVA GMLKKLIELT AEYACTRKQF NRNLSEFGLI 
+Q9kje8           248   IPLQN-RFGV RRIELAAHCT GMAERLIQMM IDQANLRKTF GVALADRQTV 
+P71539           235   AQLFA-GLNP ERIMGAASAV GMGRFALGRA VDYVKTRKVW STPIGAHQGL 
+P79274           282   YYLMQ-ELPQ ERLLIAELAV SASEFMFEET RNYVKQRKAF GKTVAHIQTV 
+P45954           284   KYAIG-SLNE GRIGIAAQML GLAQGCFDYT IPYIKERIQF GKRLFDFQGL 
+Q92947           285   gpf-G-CLNN ARYGIAWGVL GASEFCLHTA RQYALDRMQF GVPLARNQLI 
+Q9vsa3           267   KIAMG-TFDK TRPPVAAGAV GLAQRCLDEA LKYALERKTF GVPIAYHQAV 
+                                                                 
+                       3333303333 3433333344 4444333333 3344444445 5555555555 
+ 
+1buc_A           286   SFKLADMKMQ IEAARNLVYK AACKKQE-G- -KPFTV--DA AIAKRVASDV 
+1ivh_A           289   QGKMADMYTR LMACRQYVYN VAKACDE-GH cta--K--DC AGVILYSAEC 
+1rx0_A           285   QFTLADMATR LVAARLMVRN AAVALQE-ER -KDAVA--LC SMAKLFATDE 
+1r2j_A           262   AGHIADLWTA EQIAAR---- VCey--A-S- -DHMVP--AT ILAKHVAAER 
+P76200           281   QEKLALMAIK IDNMRNMVLK VAWQA-D-QH -QSLRT--SA ALAKLYCART 
+Q10535           330   ASKISFIAAT NYALDAVVEL SSQMADE-GR -NDIRI--EA ALAKLWSSEM 
+Q8jzn5           347   QEKFALMAQK AYVMESMAYL TSGMLDqpGF -PDCSI--EA AMVKVFSSEA 
+Q9kje8           297   QNWIADSTIE LEQVRLQLYF TAWKSDQ-GH -KDLRL--EA ASLKIAATEM 
+P71539           284   AHPLAQCHIE VELAKLMTQK AATLYDH-G- -DDFGAAEAA NMAKYAAAEA 
+P79274           331   QHKLAELKTH ICVTRAFVD- SCLQLHE-TK -RLESA--AA SMAKYWASEL 
+P45954           333   QHQVAHVATQ LEAARLLTYN AARLLEA-G- -KPFIK--EA SMAKYYASEI 
+Q92947           333   QKKLADMLTE ITLGLH---- ACLQLGR-LK dQDKAAPEMV SLLKRNNCGK 
+Q9vsa3           316   QFMLADMAIG VETSRLAWRL SAWEIDQ-G- -RRNSY--YA SIAKCHAADM 
+                                                                 
+                       4444433222 2222211111 1100000000 0001000011 2222222222 
+ 
+1buc_A           331   AMRVTTEAVQ IFGGYGYS-- --------EE YPVARHMRDA KITQIYEGTN 
+1ivh_A           334   ATQVALDGIQ CFGGNGYI-- --------ND FPMGRFLRDA KLYEIGAGTS 
+1rx0_A           331   CFAICNQALQ MHGGYGYL-- --------KD YAVQQYVRDS RVHQILEGSN 
+1r2j_A           301   AAAGAATAAQ VLASAGag-- ---------- HVVERAYRDA KLMEIIEGSS 
+P76200           326   AMEVIDDAIQ IMGGLGYT-- --------DE ARVSRFWRDV RCERIGGGTD 
+Q10535           376   ACLVGDELLQ IRGGRGYEta eslaargeRA VPVEQMVRDL RINRIFEGSS 
+Q8jzn5           394   AWQCVSEALQ ILGGSGYM-- --------KD YPYERMLRDA RILLIFEGTN 
+Q9kje8           343   LTRVADRAIQ LHGGLGLS-- --------RE MGIEYVARMV RIWRVVEGAS 
+P71539           331   SSRAVDQAVQ SMGGNGLT-- --------KE YGVAAMMTSA RLARIAPISR 
+P79274           376   QNSVAYDCVQ LHGGWGYM-- --------WE YPIARAYVDA RVQPIYGGTN 
+P45954           378   AGQTTSKCIE WMGGVGYT-- --------KD YPVEKYFRDA KIGTIYEGAS 
+Q92947           378   ALDIARQARD MLGGNGIS-- --------DE YHVIRHAMNL EAVNTYEGTH 
+Q9vsa3           361   ANKIASDAVQ IFGGNGFN-- --------SE YPVEKLMRDA KIYQIYEGTS 
+                                                                 
+                       2223334455 5666666600 0000000066 6676666666 6666666666 
+ 
+1buc_A           371   EVQLMVTGGA LLr------- ---------- ---------- ---------- 
+1ivh_A           374   EVRRLVIGRA Fnad------ ---------- ---------- ---------- 
+1rx0_A           371   EVMRILISRS LLQE------ ---------- ---------- ---------- 
+1r2j_A           339   EMCRVMLAQH ALALP----- ---------- ---------- ---------- 
+P76200           366   EIMIYVAGRQ ILKDYqnk-- ---------- ---------- ---------- 
+Q10535           426   EIMRLLIARE AVDAHLTAAG dlanpkadlr qkaaaaagas gfyakwlpkl 
+Q8jzn5           434   EILRLFIALT GLqhagrilt srikelksgn vttvmetigr klrdslgrtv 
+Q9kje8           383   EIHRMSIAKK LLTDgrtysp fvaa------ ---------- ---------- 
+P71539           371   EMVLNFVAQT SLGLPrsy-- ---------- ---------- ---------- 
+P79274           416   EIMKELIARE IVHDk----- ---------- ---------- ---------- 
+P45954           418   NIQLNTIAKH IDAEY----- ---------- ---------- ---------- 
+Q92947           418   DIHALILGRA ITGIQAFTAS k--------- ---------- ---------- 
+Q9vsa3           401   QIQRLIISRN MYEAakgqa- ---------- ---------- ---------- 
+                                                                 
+                       6654443321 1000000000 0000000000 0000000000 0000000000 
+ 
+1buc_A           384   ---------- ---------- ---------- ---------- ---------- 
+1ivh_A           388   ---------- ---------- ---------- ---------- ---------- 
+1rx0_A           385   ---------- ---------- ---------- ---------- ---------- 
+1r2j_A           354   ---------- ---------- ---------- ---------- ---------- 
+P76200           384   ---------- ---------- ---------- ---------- ---------- 
+Q10535           476   vfgegqlptt yrefgalath lrfverSSRK LARNTFYg-- -----MARWQ 
+Q8jzn5           484   dlgltgdlgv vhpslgd--- ------SANK LEENVHYfgr tvetlLLRFG 
+Q9kje8           407   ---------- ---------- ---------- ---------- ---------- 
+P71539           389   ---------- ---------- ---------- ---------- ---------- 
+P79274           431   ---------- ---------- ---------- ---------- ---------- 
+P45954           433   ---------- ---------- ---------- ---------- ---------- 
+Q92947           439   ---------- ---------- ---------- ---------- ---------- 
+Q9vsa3           420   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1buc_A           384   ---------- ---------- ---------- ---------- ---------- 
+1ivh_A           388   ---------- ---------- ---------- ---------- ---------- 
+1rx0_A           385   ---------- ---------- ---------- ---------- ---------- 
+1r2j_A           354   ---------- ---------- ---------- ---------- ---------- 
+P76200           384   ---------- ---------- ---------- ---------- ---------- 
+Q10535           519   ASLEKKQGFL GRIVDIGAEL FAISAACVRA Eaqrtadpve geqayeLAEA 
+Q8jzn5           525   KNIVEEQLVL KRVANILINL YGMTAVLSRA Srsiriglrn hdhevlLANM 
+Q9kje8           407   ---------- ---------- ---------- ---------- ---------- 
+P71539           389   ---------- ---------- ---------- ---------- ---------- 
+P79274           431   ---------- ---------- ---------- ---------- ---------- 
+P45954           433   ---------- ---------- ---------- ---------- ---------- 
+Q92947           439   ---------- ---------- ---------- ---------- ---------- 
+Q9vsa3           420   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1buc_A           384   ---------- ---------- ---------- ---------- ---------- 
+1ivh_A           388   ---------- ---------- ---------- ---------- ---------- 
+1rx0_A           385   ---------- ---------- ---------- ---------- ---------- 
+1r2j_A           354   ---------- ---------- ---------- ---------- ---------- 
+P76200           384   ---------- ---------- ---------- ---------- ---------- 
+Q10535           569   FCQQAtlrve alfdalw--- -SNTDSIDVR LANDVLEGRy twleqgildq 
+Q8jzn5           575   FCVEAyfqnl fslsqldkna pENLDEQIKK VSRQILEKRa yicahpldra 
+Q9kje8           407   ---------- ---------- ---------- ---------- ---------- 
+P71539           389   ---------- ---------- ---------- ---------- ---------- 
+P79274           431   ---------- ---------- ---------- ---------- ---------- 
+P45954           433   ---------- ---------- ---------- ---------- ---------- 
+Q92947           439   ---------- ---------- ---------- ---------- ---------- 
+Q9vsa3           420   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1buc_A           384   ---------- ---------- ---------- ------ 
+1ivh_A           388   ---------- ---------- ---------- ------ 
+1rx0_A           385   ---------- ---------- ---------- ------ 
+1r2j_A           354   ---------- ---------- ---------- ------ 
+P76200           384   ---------- ---------- ---------- ------ 
+Q10535           615   segtgpwias wepgpstean larrfltvsp sseakl 
+Q8jzn5           625   s--------- ---------- ---------- ------ 
+Q9kje8           407   ---------- ---------- ---------- ------ 
+P71539           389   ---------- ---------- ---------- ------ 
+P79274           431   ---------- ---------- ---------- ------ 
+P45954           433   ---------- ---------- ---------- ------ 
+Q92947           439   ---------- ---------- ---------- ------ 
+Q9vsa3           420   ---------- ---------- ---------- ------ 
+                                                  
+                       0000000000 0000000000 0000000000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((((((1buc_A      :0.007760P45954      :0.007760):0.0009661ivh_A      :0.008726):0.000168Q9vsa3      :0.008894):0.0004581rx0_A      :0.009352):0.000480Q8jzn5      :0.009832):0.001100P79274      :0.010932):0.004332Q92947      :0.015264):0.002279Q10535      :0.017543):0.002011(P76200      :0.016927Q9kje8      :0.016927):0.002628):0.000726P71539      :0.020280):0.0077141r2j_A      :0.027995);
+ 
+ 

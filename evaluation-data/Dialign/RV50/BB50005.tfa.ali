@@ -1,0 +1,305 @@
+1lcf_              1   g--------- ---------- -RRRSVQWCA VSNPEATKCF QWQRNMRKVR 
+1aov_              1   ---------- ---------A PPKTTVRWCT ISSAEEKKCN SLKDHMQQER 
+1jnf_A             1   ---------- ---------- --EKTVRWCA VNDHEASKCA NFRDSMKKVL 
+TRFE_XENLA         1   mdfsLRVALC LSMLALCLAI QKEKQVRWCV KSNSELKKCK DLVDTCKNKE 
+SAX_RANCA          1   maptfqtalf ftiISLSFAA PNAKQVRWCA ISDLEQKKCN DLVGSCNVPD 
+TRF1_SALSA         1   MKL-LLLSAL LGCLATAYAA PAEGIVKWCV KSEQELRKCH DLAAKV---- 
+TRFE_ORYLA         1   MKP-LLLLTL LGCLAAAL-A VPAQKVKWCV KSDQEFRKCS DLAAAS---- 
+TRFE_GADMO         1   g--------- ---------- ---------- ---------- ---------- 
+TRFE_PAROL         1   MKP-LLLLPL LGCLATiasc id--TVKWCV TSTKENLKCT ALAAAA---- 
+TRFM_HUMAN         1   mrgpsgalwl l--LALRT-V LGGMEVRWCA TSDPEQHKCG NMSEAFREag 
+TRF_BLADI          1   m---LLCLTL LFSASAVL-A MPTPEgsphh eiykvcvpeg al-ESCHRMS 
+                                                                 
+                       0000000000 0000000000 0000011111 1111111111 1100000000 
+ 
+1lcf_             31   ---GPPVSCL KRDSPIQCIQ AIAENRADAV TLDGGFIYEA GLAPYKLRPV 
+1aov_             32   ----VTLSCV QKATYLDCIK AISNNEADAI SLDGGQVFEA GLAPYKLKPI 
+1jnf_A            29   PEDGPRIICV KKASYLDCIK AIAAHEADAV TLDAGLVHEA GLTPNNLKPV 
+TRFE_XENLA        51   ----IKLSCV EKSNTDECST AIQEDHADAI CVDGGDVYKG SLQPYNLKPI 
+SAX_RANCA         51   ----ITLVCV LRSSTEDCMT AIKDGQADAM FLDSGEVYEA SKDPYNLKPI 
+TRF1_SALSA        46   ----AEFSCV RKDGSFECIQ AIKGGEADAI TLDGGDIYTA GLTNYGLQPI 
+TRFE_ORYLA        45   ----PAFSCV KKESTLDCII AIKAGEADAI TVDGGDVYTA GLNNYDLHPI 
+TRFE_GADMO         2   ---------I KEADATECIL AIKAGEADAI TLDGGEIYTA GQHPYDLQPI 
+TRFE_PAROL        44   ----PVFSCV ARASITDCLT AIKAGEADAI TLDGGEIYTA GLDEYKLHPI 
+TRFM_HUMAN        48   iq--PSLLCV RGTSADHCVQ LIAAQEADAI TLDGGAIYEA GKE-HGLKPV 
+TRF_BLADI         46   QESDLHMTCV AARDRIECLD KIKHREADFA PVDPEDMYVA AKIPQQdfii 
+                                                                 
+                       0000111112 2221125555 5555555555 5555555555 5544444444 
+ 
+1lcf_             78   AAEVYGT-ER Q--------- ---------- ---------- ---------- 
+1aov_             78   AAEVYE--Rs ggs------- ---------- ---------- ---------- 
+1jnf_A            79   VAEFYGS-KE N--------- ---------- ---------- ---------- 
+TRFE_XENLA        97   MAENYGShT- E--------- ---------- ---------- ---------- 
+SAX_RANCA         97   IAEPYSSnrd lqkclkerqq alakkmighy ipqcdekgny qpqqchgstg 
+TRF1_SALSA        92   IAEDYG--E- D--------- ---------- ---------- ---------- 
+TRFE_ORYLA        91   IAEDYG--T- S--------- ---------- ---------- ---------- 
+TRFE_GADMO        43   ISEKYGSg-- ---------- ---------- ---------- ---------- 
+TRFE_PAROL        90   IAEQYG--T- S--------- ---------- ---------- ---------- 
+TRFM_HUMAN        95   VGEVYD--Q- E--------- ---------- ---------- ---------- 
+TRF_BLADI         96   fkeirtkeEP D--------- ---------- ---------- ---------- 
+                                                                 
+                       4444430010 1000000000 0000000000 0000000000 0000000000 
+ 
+1lcf_             88   ---------- ---------- ---------- ---------- ---------- 
+1aov_             89   ---------- ---------- ---------- ---------- ---------- 
+1jnf_A            89   ---------- ---------- ---------- ---------- ---------- 
+TRFE_XENLA       107   ---------- ---------- ---------- ---------- ---------- 
+SAX_RANCA        147   hcwcvnamge kisgtntppg qtratcerhe lpkclkerqv alggdekvlg 
+TRF1_SALSA       100   ---------- ---------- ---------- ---------- ---------- 
+TRFE_ORYLA        99   ---------- ---------- ---------- ---------- ---------- 
+TRFE_GADMO        51   ---------- ---------- ---------- ---------- ---------- 
+TRFE_PAROL        98   ---------- ---------- ---------- ---------- ---------- 
+TRFM_HUMAN       103   ---------- ---------- ---------- ---------- ---------- 
+TRF_BLADI        107   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1lcf_             88   ---------- ---------- ---------- ---------- ---------- 
+1aov_             89   ---------- ---------- ---------- ---------- ---------- 
+1jnf_A            89   ---------- ---------- ---------- ---------- ---------- 
+TRFE_XENLA       107   ---------- ---------- ---------- ---------- ---------- 
+SAX_RANCA        197   rfvpqcdekg nyepqqfhgs tgyswcvnai geeiagtktp pgkipatcqk 
+TRF1_SALSA       100   ---------- ---------- ---------- ---------- ---------- 
+TRFE_ORYLA        99   ---------- ---------- ---------- ---------- ---------- 
+TRFE_GADMO        51   ---------- ---------- ---------- ---------- ---------- 
+TRFE_PAROL        98   ---------- ---------- ---------- ---------- ---------- 
+TRFM_HUMAN       103   ---------- ---------- ---------- ---------- ---------- 
+TRF_BLADI        107   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1lcf_             88   ---PRTHYYA VAVVKKGGSF Q-LNELQGLK SCHTGLRRTA GWNVPIGTLR 
+1aov_             89   ----TTSYYA VAVVKKGTDF M-IKDLRGKT SCHTGLGRSA GWNIPIGTLI 
+1jnf_A            89   ---PKTFYYA VALVKKGSNF Q-LNELQGKK SCHTGLGRSA GWNIPIGLll 
+TRFE_XENLA       107   ---TDTCYYA VAVVKKSSKF T-FDELKDKK SCHTGIGKTA GWNIIIGLLL 
+SAX_RANCA        247   hdlVTTCHYA VAMVKKSSAF Q-FNQLKGKR SCHSGVSKTD GWKALVTVLV 
+TRF1_SALSA       100   ---SDTCYYA VAVAKKGTAF G-FKTLRGKK SCHTGLGKSA GWNIPIGTLV 
+TRFE_ORYLA        99   ---SETCYYA VAVAKKGTTF G-IRDLRGKK SCHTGLGKSA GWNIPIGTLV 
+TRFE_GADMO        51   ----SSCYYA VAVVKKDTGF S-FKQLRGKK SCHTGIGKTA GWNIPIGTLL 
+TRFE_PAROL        98   ---TDTCYYA VAVAKKNTGF G-LHQLMGKK SCHTGVGKSA GWNIPIGTLL 
+TRFM_HUMAN       103   ---VGTSYYA VAVVRRSSHV T-IDTLKGVK SCHTGINRTV GWNVPVGYLV 
+TRF_BLADI        107   ---EEFRYEA VCVIHKDLDI TsIHGLQGLK SCHTGVGRNV GYKIPITKLR 
+                                                                 
+                       0001123788 8888888877 7088888888 8888888888 8877777411 
+ 
+1lcf_            134   pf--LNWTG- ----P-PEPI EAAVARFFSA SCVPGAD--- -------K-- 
+1aov_            134   HREDIEWEG- ----IESGIS EQAVAKFFSA SCVPGAT--- -------I-- 
+1jnf_A           135   cdlpe----- ----P-RKPL EKAVASFFSG SCVPCAD--- -------G-- 
+TRFE_XENLA       153   ERKLLKWAG- ----PDSETW RNAVSKFFKA SCVPGAK--- -------E-- 
+SAX_RANCA        296   EKKLLSWDG- ----PAKESI QRAMSKFFSV SCIPGAT--- -------Q-- 
+TRF1_SALSA       146   TESQIRWAG- ----IEDRPV ESAVSDFFNA SCAPGAT--- -------M-- 
+TRFE_ORYLA       145   SMDIIQWAG- ----VEDKPV EEEVSTFFQA SCVPGAT--- -------R-- 
+TRFE_GADMO        96   TTGQLVWSG- ----Q-EDLP VESVSTFFSK SCVPGAG--- -------Glv 
+TRFE_PAROL       144   SMDFIKWKG- ----SDDKKL EEVVGEFFHS SCAPGAT--- -------D-- 
+TRFM_HUMAN       149   esgrlsvmgc d--------V LKAVSDYFGG SCVPGAG--- -------E-- 
+TRF_BLADI        154   HMGVLgplnn sdltP-RENE LHALSHLFSE ACLVGkwapd paqnqalK-- 
+                                                                 
+                       1000111110 0000111112 2222222222 2222221000 0000000100 
+ 
+1lcf_            164   GQFPNLCR-- --LCAGT--G ENKC-AFSS- QEPYFSYSGA FKCLKDGAGD 
+1aov_            167   EQ--KLCR-- --QCKG---- --Daktkclr NGPYSGYSGA FQCLKDGKGD 
+1jnf_A           163   ADFPQLCQ-- --LCPG---- ---C-GCSS- VQPYFGYSGA FKCLKDGLGD 
+TRFE_XENLA       186   P---KLSQ-- --LCAGI--K EHKC-SRSN- NEPYYNYAGA FKCLQDDQGD 
+SAX_RANCA        329   T---NLCK-- --QCKGE--E GKNC-KNSH- DEPYYGNYGA FRCLKEDMGD 
+TRF1_SALSA       179   GS--KLCQ-- --LCKG---- --DC-SRSH- KEPYYDYAGA FQCLKDGAGD 
+TRFE_ORYLA       178   GS--KLCE-- --LCKG---- --DC-SRSQ- KEPYYDYNGA FNCLAEGAGD 
+TRFE_GADMO       130   GG--KLCT-- --LCPS---- --DC-SKSA- TNPYFGYAGA FKCLKDDAGD 
+TRFE_PAROL       177   SA--NLCK-- --LCIG---- --DCsKSSE- TEPYYNYHGA FQCLKDGKGD 
+TRFM_HUMAN       179   T---SYSEsl crLCRGdssG EGVC-DKSP- LERYYDYSGA FRCLAEGAGD 
+TRF_BLADI        201   AKYPNLCA-- --LCEH---- --PE-ICDY- PDKYSGYDGA LRCLAEHGGQ 
+                                                                 
+                       1100111100 0011110000 0024044440 4566666666 6666666666 
+ 
+1lcf_            206   VAFIRESTVF EDLsdeAE-- ------R--- ----DEYELL CPDNTRKPVD 
+1aov_            205   VAFVKHTTVQ ENAP--EE-- ------K--- ----DEYELL CLDGSRQPVD 
+1jnf_A           200   VAFVKQETIF ENLPskDE-- ------R--- ----DQYELL CLDNTRKPVD 
+TRFE_XENLA       225   VAFVKQSTVP E-----EFh- ---------- ----KDYELL CPDNTRKSIK 
+SAX_RANCA        368   VAFLRSTALS D-----EH-- ------S--- ----EVYELL CPDNTRKPLN 
+TRF1_SALSA       215   VAFIKPLAVP A-----AE-- ------K--- ----ASYELL CKDGTRASID 
+TRFE_ORYLA       214   VAFVKHLTVP D-----QE-- ------K--- ----SKYELL CRDNTRAPID 
+TRFE_GADMO       166   VAFINHLTVP A-----SE-- ------K--- ----ANYELL CLDGTRAPID 
+TRFE_PAROL       214   VAFVKHLTVP E-----EE-- ------K--- ----NDYELL CKDNTRKPID 
+TRFM_HUMAN       224   VAFVKHSTVL ENtdgktlps wgqallS--- ----QDFELL CRDGSRADVT 
+TRF_BLADI        239   VAWTKVYYVK K-----HFgm aigageavpt gqnpDDYAYL CPDATKKPIT 
+                                                                 
+                       6666555453 2000002300 0000003000 0000346666 6666666666 
+ 
+1lcf_            241   KFKDCHLARV PSHAVVARSV NGKE-DAIWN LLRQAQEKFG KDKS------ 
+1aov_            238   SYKTCNWARV AAHAVVARDD S-KI-DDIWS FLGMQ----- ---AYSLGVD 
+1jnf_A           235   EYEQCHLARV PSHAVVARSV DGKE-DLIWE LLNQA----- ---QEHFGKD 
+TRFE_XENLA       255   EYKNCNLAKV PAHAVLTRGR DDKS-KDIIE FLQEAQKTQe C--------- 
+SAX_RANCA        398   KYKECNLGTV PAGTVVTRKI SDKT-EDINN FLMEAQKRQ- C--------- 
+TRF1_SALSA       245   SYKTCHLARV PAHAVVSRKD PE-LANRIYN KLVAV----- ---K------ 
+TRFE_ORYLA       244   DYKKCNLARV PAHAIVTHKD PQ-LAELIWT SLNSV----- ---Q------ 
+TRFE_GADMO       196   SYKTCNLARV PAHAVVSRVD PE-LAERIFT ALTTV----- ---T------ 
+TRFE_PAROL       244   QFENCDLAKV PSHAVVTRKD NEeLAQFIWQ SLSSV----- ---K------ 
+TRFM_HUMAN       267   EWRQCHLARV PAHAVVVRAD TDgg--LIFR LLNEGQRLFS HEGS------ 
+TRF_BLADI        284   GKPCIWAARp wq-------- ---------- ---------- ---------- 
+                                                                 
+                       6666666666 6666665532 1100000000 0000000000 0000000000 
+ 
+1lcf_            284   ---PKFQLFG SPSG-Q--KD LLFKDSAIGF SRVPPRIDSG LYLGSGYFTA 
+1aov_            278   TTSDFHLFGP PGkkdpvlKD LLFKDSAIML KRVPELMDSQ LYLGFEYYSA 
+1jnf_A           276   KSGDF-QLFS S--PHG--KN LLFKDSAYGF FKVPPRMDAN LYLGYEYVTA 
+TRFE_XENLA       295   ------KLFS SPVW-G--RD LIFKDSAVSL IPLPSSMDSF LFLGADYFQC 
+SAX_RANCA        437   ------KLFS S--AHG--KD LMFDDSTLQL ALLSSEVDAF LYLGVKLFHA 
+TRF1_SALSA       280   ---DFNLFSS DGYA-A--KN LMFKDSAQKL VQLPTTTDSF LYLGAEYMST 
+TRFE_ORYLA       279   ---NFNLFSS EAYAPS--KN LMFKDSTQRL VKLPQNTDSF LYLGAQYMSI 
+TRFE_GADMO       231   ---GFSFFSS AGFG-A--AN LMFKDTTQSL VRLPDGSNSF LYLGAKYMAS 
+TRFE_PAROL       280   ---NFNLFSS TPYG-G--KN LMFKDSTTTL VQLPLNVDHT MYLGPHYLES 
+TRFM_HUMAN       309   ---SFQMFSS EAYG-Q--KD LLFKDSTSEL VPIATQTy-E AWLGHEYLHA 
+TRF_BLADI        296   ---------- -GYM-A--NH DLDNDIADLR AKISLADTIG ETENADWLSK 
+                                                                 
+                       0000000000 0000010023 3333333333 3333333333 3333333322 
+ 
+1lcf_            328   IQNLRK---- ---------- ---------- --SEEEVAAR RARVVWCAVG 
+1aov_            328   IQSLRK---- ---------- ---------- --DQlTVGPR ENKIQWCAVG 
+1jnf_A           321   VRNLREGicp dplqdec--- ---------- ---------- -KAVKWCALG 
+TRFE_XENLA       336   IQALKEGvk- ---------- ---------- ----EDDSAA QVKVRWCTQS 
+SAX_RANCA        477   MKALTG---- ---------- ---------- --Dahl--PS KNKVRWCTIN 
+TRF1_SALSA       324   IRSLKK---- ---------- ---------- --SQ-ATGAS SRAIKWCAVG 
+TRFE_ORYLA       324   VRSLKK---- ---------- ---------- --EQ-SVGTN SNAIKWCAVG 
+TRFE_GADMO       275   IQSLKK---- ---------- ---------- --Esdqp--I TPAIKWCAVG 
+TRFE_PAROL       324   VKALKivni- ---------- ---------- ---PS---TT SDAMKWCAVG 
+TRFM_HUMAN       352   MKGLLC---- ---------- ---------- --DPN---RL PPYLRWCVLS 
+TRF_BLADI        332   VLDLnnktip idnqgpyspe nylnkanytd viER-DTGAP HRPVRFCVTS 
+                                                                 
+                       2222220000 0000000000 0000000000 0000000000 0013333333 
+ 
+1lcf_            352   EQELRKCNQW SGLS-----E GSVTCSSAST TEDCIALVLK GEADAMSLDG 
+1aov_            352   KDEKSKCDRW SVVS-----N GEVECTILDD NKDCIVKITK GEADAISLDG 
+1jnf_A           347   HHERLKCDEW SVTS-----G GLIECESAET PEDCIAKIMN GEADAMSLDG 
+TRFE_XENLA       361   KAEKTKCDDW TTIS-----G GAIECTEAST AEECIVQILK GDADAVTLDG 
+SAX_RANCA        499   KLEKMKCDDW SAVS-----G GAIACTEASC PKGCVKQILK GEADAVKLEV 
+TRF1_SALSA       347   HAEKGKCDTW TINSFA-DGE SKISCQDAPT VEECIKKIMR KEADAIAVDG 
+TRFE_ORYLA       347   HAETAKCDTW SINSVT-DDT AAIECQNAPS VEECLKKIMR KEADAMAVDG 
+TRFE_GADMO       297   HAEKKKCDSW SSFSVS-DGV KSVACQISLT VEGCFQRIMR QEADAMSVDG 
+TRFE_PAROL       347   RSESDKCDSW SVASLV-QDG TTIDCIKGNT VDDCLKKIMH KEADAMAVDG 
+TRFM_HUMAN       373   TPEIQKCGDM AVAFRRQRLK PEIQCVSAKS PQHCMERIQA EQVDAVTLSG 
+TRF_BLADI        381   DAELEKCRVL KRAAYSRDIR PAFDCVREAG LHECLRTVRD DGADVITLDG 
+                                                                 
+                       3333333333 3222000001 1222222223 3556555666 6666666666 
+ 
+1lcf_            397   GYVYTAGKC- GLVPVLAENY KSQQSSDpdp ncvdrPVEGY L-----AVAV 
+1aov_            397   GFVYTAGVC- GLVPVVGESY EDEtqcskde eqpa-----Y Y-----FAVA 
+1jnf_A           392   GYVYIAGQC- GLVPVLAENY ESTD---CKK A----PEEGY L-----SVAV 
+TRFE_XENLA       406   GYMYTAGLC- GLVPVMGEYY DQDDLTPCqr scsqakgv-- Y-----YAVA 
+SAX_RANCA        544   QYMYEALMC- GLLPAVEEYH NKDDFGPCKT P----GSpyt dfgtlrAVAL 
+TRF1_SALSA       396   GEVYTAGKC- GLVPVMVEQY DADL---CSA P----GEASS Y-----YAVA 
+TRFE_ORYLA       396   GEVYTAGKC- GLVPAMVEQY DAEL---CSS SG---GQASS Y-----YAVA 
+TRFE_GADMO       346   GQVYTAGKC- QLIPAMVEQY NQSL---CSS AGtpqat--- Y-----FAVA 
+TRFE_PAROL       396   GQVYTAGKC- GLVPAMVEQY DQ---GQCSA P----GAARL Y-----YAVA 
+TRFM_HUMAN       423   EDIYTAGKKY GLVPAAGEHY APEDSSNsy- ---------Y V-----VAVV 
+TRF_BLADI        431   GEVFVAQRQY NLKPIVAEQY GEhgsl---- ---------Y Y-----AVAV 
+                                                                 
+                       6666666550 5555555555 3211000100 0000000001 3000004444 
+ 
+1lcf_            441   VRRSDTSLTW NSVKGKKSCH TAVDRTAGWN IPMGLLFNQT ----GSCK-- 
+1aov_            436   VVKKSSAITW NNLQGKKSCH TAVGRTAGWN IPMGLIHNKT ----GSCD-- 
+1jnf_A           429   VKKSNPDINW NNLEGKKSCH TAVDRTAGWN IPMGLLYNRI ----NHCR-- 
+TRFE_XENLA       448   IVKKGTQVSW SNLRGVKTCH TAVGRTAGWN IPVGLITSET ----ANCD-- 
+SAX_RANCA        589   VKKSNKDINW NNIKGKKSCH TGVGDIAGWV IPVSLIRRQN ----DNSD-- 
+TRF1_SALSA       433   VAKKGSGLTW KTLKGKRSCH TGLGRTAGWN IPMGLIHQET ----NDCD-- 
+TRFE_ORYLA       434   VVKKDSGVTW ENLKGKKSCH TGIGRTAGWN IPMGRIYDQT ----KDCD-- 
+TRFE_GADMO       384   VVKKGSGVTW DNLRGKRSCH TGLGRTAGWN IPMGLVHSIH ----GSCD-- 
+TRFE_PAROL       433   VIKKGSGVTW ENLRNKRSCH TGIGRNAGWN IPMGLIYEQT ----KNCN-- 
+TRFM_HUMAN       458   RRDSSHAFTL DELRGKRSCH AGFGSPAGWD VPVGALIQRG FIRPKDCDvl 
+TRF_BLADI        463   VRKDSTYQSI EDLRGAKSCH TGYGRNAGWN VPLYTLLSKE LISKNSCpys 
+                                                                 
+                       5555555677 8888888888 8888888888 8887543222 0000223300 
+ 
+1lcf_            485   --F-DEYFSQ SCA------- --PGSDPRSN L--CALCI-- GDeqg----E 
+1aov_            480   --F-DDYFSE GCA------- --PGSPPNSR L--CKLCQ-- GSGENLLE-- 
+1jnf_A           473   --F-DEFFRQ GCA------- --PGSQKNSS L--CELCV-- Gp-------- 
+TRFE_XENLA       492   --F-ASYVGE SCA------- --PGSDVKSN L--CALCI-- GDPEKLSERE 
+SAX_RANCA        633   --I-DSFFGE SCA------- --PGSDTKSN L--CKLCI-- GDPKNsaan- 
+TRF1_SALSA       477   --F-TKYFSK GCA------- --PGSEV--- G--SPFCAQC KGSGKAVGDE 
+TRFE_ORYLA       478   --F-TKFFPS GCA------- --PEPKP--- AlhCALCV-- KAAAKLSGDE 
+TRFE_GADMO       428   --F-GGFFPS GCA------- --PGSEP--- S--STFCRQC AGSGSGVEDG 
+TRFE_PAROL       477   --F-SAFFSS SCA------- --PGADP--- S--SQLCAQC AGNAESI--- 
+TRFM_HUMAN       508   taV-SEFFNA SCV------- --PVNNPKNY P--SSLCALC VGDEQGR--- 
+TRF_BLADI        513   salsSYFSGG SCVpgaqlpe nnPANQN--- P--DSLCSIC AGNLDAPNND 
+                                                                 
+                       0030333322 2220000000 0022222111 1001111100 1100000000 
+ 
+1lcf_            515   N--KCVPNSN ERYYGYTGAF RCLAENAGDV AFVKDVTVLQ NTDGNNNEA- 
+1aov_            512   ---KCVASSH EKYYGYTGAL RCLVE-QGDV AFIKHSTVGE NVSGSNKDD- 
+1jnf_A           499   S--VCAPNNR EGYYGYTGAF RCLVE-KGDV AFVKSQTVLQ NTGGRNSEP- 
+TRFE_XENLA       526   K--KCSPSAS EAYYGYSGAF RCLVE-KGQV GFAKHTTVFE NTDGKNP-AG 
+SAX_RANCA        666   T--KCSLSDK EAYYGNQGAF RCLVE-KGDV AFVPHTVVFE NTDGKNP-AV 
+TRF1_SALSA       510   Y--RCKARSE EQYYGYTGAF RCLVEDAGDV AFIKHTIVPE STDGNGP-D- 
+TRFE_ORYLA       511   A--KCKARPE EQYYGYAGAF RCLAEGAGDV AFIKHTIVGE NTDGNGP-D- 
+TRFE_GADMO       461   S--KCSASSV EKYYGYAGAF RCLVDGAGDV AFIKHTIVAD NSDGQGP-A- 
+TRFE_PAROL       507   N--KCKASNE ERYYAYAGAF RCLAEGKGDV AFVKHSIVKE NTDGQGP-E- 
+TRFM_HUMAN       543   N--KCVGNSQ ERYYGYRGAF RCLVENAGDV AFVRHTTVFD NTNGHNS-EP 
+TRF_BLADI        558   pawKCSASND ESFFGYSGAF RCLASGEGQV AFVKHTTVPE NTDGHNQ-AA 
+                                                                 
+                       1003555555 6666666666 6666634666 6666666666 6666432020 
+ 
+1lcf_            562   WAKDLKLADF ALLCLDG-KR KPVTEARSCH LAMAPNHAVV SRMDKVERLK 
+1aov_            557   WAKGLTRDDF ELLCTNG-KR AKTMDYKTCH LAKVPTHAVV ARPEKANKIR 
+1jnf_A           545   WAKDLKEEDF ELLCLDG-TR KPVSEAHNCH LAKAPNHAVV SRKDKAACVK 
+TRFE_XENLA       572   WAKDLKSEDF ELLCPDG-SR APVTDYKRCN LAEVPAHAVV TLPDKREQVA 
+SAX_RANCA        712   WAKNLKSEDF ELLCLDG-SR APVSNYKSCK LSGIPPPAIV TREESISDVV 
+TRF1_SALSA       556   WAKDLKSSDF ELLCQDG-TT QPVTKFSECH LAKVPAHAVI TRPETRGDVV 
+TRFE_ORYLA       557   WARSLKSDDY QLICPGK-GP VPISEYASCN LAVVPAHAVV TRPESRSDVV 
+TRFE_GADMO       507   WATALKSSDY QLICPGGvGR AEISDFASCN LAAVPSHAVV TRQDIRDDVV 
+TRFE_PAROL       553   WAKAFLSNDY ELICPSK-GP VSVENFMSCN LAKVNAHAVV TRPEIRTKVV 
+TRFM_HUMAN       590   WAAELRSEDY ELLCPNG-AR AEVSQFAACN LAQIPPHAVM VRPDTNIFTV 
+TRF_BLADI        607   WTAGLRSEDF ELLCADG-GR ASINEYSRCH LAEVPPHMVV TSNDKTDiql 
+                                                                 
+                       4444555555 5555544044 4455555555 5555555555 5333322222 
+ 
+1lcf_            611   QVLLHQ-QAK FGRNGSDCPD KFCLF--QS- ETKNLLFNDN TECLA--RLH 
+1aov_            606   ELLEGQ-EKL FGLHGTEK-E RFMMF--QS- QTKDLLFKAL TKCLV--KLR 
+1jnf_A           594   QKLLDL-QVE FGNTVADCSS KFCMF--HS- KTKDLLFRDD TKCLV--DLR 
+TRFE_XENLA       621   KIVVNQ-QSL YGRKGFQK-D IFQMF--QST GGKDLLFKDS TQCLL--EIP 
+SAX_RANCA        761   RIVANQ-QSL YGRKGFEK-D MFQLF--SSN KGNNLLFNDN TQCLItfDRQ 
+TRF1_SALSA       605   SILLEL-QAK FGSSGSD--S SFRMF--QSS VEKNLLFKDS TKCLQ--EIP 
+TRFE_ORYLA       606   RVLQVQ-QTF FGASGSD--P SFKLF--QSQ NGNNLLFKDS TKCLQ--EVP 
+TRFE_GADMO       557   KMLLDQ-QRK FGIDGSD--P LFRIY--ESK DGNNLLFKDS TKCLK--EIP 
+TRFE_PAROL       602   TFLNNQ-QSH FGNSASE--E SFKMF--TSP DGENLLFKYS TKCLQ--EIP 
+TRFM_HUMAN       639   YGLLDKaQDL FGDDHNK--N GFKMFdsSNY HGQDLLFKDA TVRAV--PVG 
+TRF_BLADI        656   neirhailaa gdlysrrp-D LFKLFgdfg- GTKDLLFKNS ATGLL--SVE 
+                                                                 
+                       2221220222 2211111001 1111100111 1223333333 3333300333 
+ 
+1lcf_            655   GKTTYEKYLG PQYVAGITNL KKCSTS--PL LEACEFLrk- ---------- 
+1aov_            649   QGITYKEFLG DEYYASVASL NTCNPS--DL LQVCTFLedk ---------- 
+1jnf_A           638   GKNTYEKYLG ADYIKAVSNL RKCSTS--RL LEACTFHKH- ---------- 
+TRFE_XENLA       665   SKTTMQEFLG DKYHTAVTSL NKCSTS--RL LAACTFHaa- ---------- 
+SAX_RANCA        807   PKDIMEDYFG KPYYTTVYGA SRSAMS--SE LISACTIKHc ---------- 
+TRF1_SALSA       648   KGTKYQDFLG KEYMIAMQSL RKCSDSTSDL EKACTFHSCQ QKE------- 
+TRFE_ORYLA       649   AGTSYDQFLG SGYMEAMTSL RKCSDTASDL EKSCTFHSCQ Qt-------- 
+TRFE_GADMO       600   SLTTADAFLG TGYVNAIMSL RQCPETASEL EKTCISSSCS TAE------- 
+TRFE_PAROL       645   AHLDYKGFLG QEYMTVMSSL RTCKESTSDL EQLCTYNMCQ T--------- 
+TRFM_HUMAN       685   EKTTYRGWLG LDYVAALEGM SSQQCS--GA AAPApgapll plllpalaar 
+TRF_BLADI        702   NGSPLMQ--- -RYSEILEVI RACENQPTp- ---------- ---------- 
+                                                                 
+                       2222222333 3333333333 2222110011 1111110000 0000000000 
+ 
+1lcf_            692   ------ 
+1aov_            687   ------ 
+1jnf_A           675   ------ 
+TRFE_XENLA       702   ------ 
+SAX_RANCA        845   ------ 
+TRF1_SALSA       691   ------ 
+TRFE_ORYLA       691   ------ 
+TRFE_GADMO       643   ------ 
+TRFE_PAROL       686   ------ 
+TRFM_HUMAN       733   llppal 
+TRF_BLADI        727   ------ 
+                 
+                       000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((((1lcf_       :0.0018281jnf_A      :0.001828):0.0006371aov_       :0.002465):0.000626(((TRF1_SALSA  :0.001478TRFE_ORYLA  :0.001478):0.000344TRFE_PAROL  :0.001822):0.000214TRFE_GADMO  :0.002036):0.001056):0.000161(TRFE_XENLA  :0.002324SAX_RANCA   :0.002324):0.000928):0.001358TRFM_HUMAN  :0.004611):0.003688TRF_BLADI   :0.008298);
+ 
+ 

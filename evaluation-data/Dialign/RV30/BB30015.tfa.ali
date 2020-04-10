@@ -1,0 +1,371 @@
+1aac_              1   d--------- ---------- ---------- ---KATip-- ---------S 
+1j5c_A             1   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7         1   MK-------- ---------- ----VLASFA RRLSLFAVAA VLCVGSFFLS 
+PLAS_ANASO         1   MK-------- ---------- ----LIAASL RRLSLAVLTV LLVVSSFAVF 
+1ag6_              1   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A             1   a--------- ---------- ---------- ---------- ---------- 
+1baw_A             1   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV         1   mplk------ ---------- ---FGLIVAT AAL-IASAAS LMAAdhq--- 
+PLAS_SCEOB         1   mas------- ---------- ---LMRKAAV APAKATRTTV KASASLQRVA 
+1cuo_A             1   ---------- ---------- ---------- ---------A SCETTVT--- 
+AZU1_METJ          1   ---------- ---------- ---------- ---------A GCSVDVE--- 
+AZU2_ALCXX         1   ---------- ---------- ---------- ---------A QCEATVE--- 
+AZU1_ALCXX         1   ---------- ---------- ---------- ---------A ECSVDIA--- 
+AZUR_BORPE         1   M--------- ---------F KQVLGGMALM AAFSAPVLAA ECSVDIA--- 
+AZUR_METFL         1   M--------- ---------R NQLLFALAFI PTIAAA--AS NCEVNVS--- 
+1fwx_A             1   as-------- ---------- ---------- ---------- ---------- 
+NOSZ_ALCEU         1   mskekasign g---PGGIGR RQFLGTAALA GLAGVVACTD KGAAPAAAAV 
+NOSZ_BRUME         1   mteetrksq- -------LSR RQLLGTSAFV AAAGASGLGG ALLAGSSETA 
+NOSZ_BRAJA         1   m-----SDS- --DNIKGVSR RTLLGTTAAA AGVGLAGGAV VTKDGAGFVS 
+NSZ1_PSEAE         1   msddtkSPH- --EETHGLNR RGFLGASALT GAAALVGASA LGSAVVGREA 
+NOSZ_PSEFL         1   msdkkdqvpg avEAPRGVSR RSFLGTGAVT GAV-LAGATA LGAGTFTRES 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0111111000 
+ 
+1aac_              8   ESPFAAA--- ---------- ---EVADGA- ---------- Ivv------- 
+1j5c_A             1   ---------- ---------- -ANA-TVKMG ---------- ---------- 
+PLAS_SYNP7        29   AAPASAQ--- ---------- ---TVAIKMG ---------- ---------- 
+PLAS_ANASO        29   TPSASAE--- ---------- ---TYTVKLG ---------- ---------- 
+1ag6_              1   ---------- ---------- ----VEVLLG ---------- ---------- 
+1b3i_A             2   ---------- ---------- ---SVQIKMG ---------- ---------- 
+1baw_A             1   ------E--- ---------- ---TFTVKMG ---------- ---------- 
+AZUP_RHILV        28   ---------- ---------- ----VQMLNK ---------- ---------- 
+PLAS_SCEOB        31   QAAGVAVA-- ----GFSLAL SANAANVKLG ---------- ---------- 
+1cuo_A             9   -------S-- ----GDTMTY STRSISVPAS ---------- ---------- 
+AZU1_METJ          9   -------A-- ----NDAMQY NTKNIDVEKS ---------- ---------- 
+AZU2_ALCXX         9   -------S-- ----NDAMQY NVKEIVVDKS ---------- ---------- 
+AZU1_ALCXX         9   -------G-- ----NDGMQF DKKEITVSKS ---------- ---------- 
+AZUR_BORPE        30   -------G-- ----TDQMQF DKKAIEVSKS ---------- ---------- 
+AZUR_METFL        28   -------A-- ----GDSMAF NTRSIDIPKS ---------- ---------- 
+1fwx_A             3   ---------- ---------- -----ADGS- ---------- VAPGQLDDYY 
+NOSZ_ALCEU        48   GAPASGahga ahgaGASV-- ---------- ---------H LKPGELDTYY 
+NOSZ_BRUME        43   LAAGAAKG-- ----GMSP-- ---------- ---------E VKPGELDEYY 
+NOSZ_BRAJA        43   TADAQTK--- ---------- ---SAAPKap parpavqktE VAPGELDEYY 
+NSZ1_PSEAE        48   RAAGKGE--- ----RSKA-- ---------- ---------E VAPGELDEYY 
+NOSZ_PSEFL        50   WAAAAKEA-- ----KSKI-- ---------- ---------H VGPGELDEYY 
+                                                                 
+                       0000000100 0000111211 1112224444 0000000001 2222222222 
+ 
+1aac_             24   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A             9   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        43   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO        43   ---------- ---------- ---------- ---------- ---------- 
+1ag6_              7   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A             9   ---------- ---------- ---------- ---------- ---------- 
+1baw_A             9   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        34   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB        55   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_METJ         26   ---------- ---------- ---------- ---------- ---------- 
+AZU2_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZUR_BORPE        47   ---------- ---------- ---------- ---------- ---------- 
+AZUR_METFL        45   ---------- ---------- ---------- ---------- ---------- 
+1fwx_A            17   GFWSSGQSGE MRILGIPSMR ELMRVPVFNR CSATGWGQTN ESVRIHERTM 
+NOSZ_ALCEU        77   GLWSGGHTGD MRVLGLPSGR EILRIPCFVP DALVGWGITN ESKKVMGarp 
+NOSZ_BRUME        66   VFFSSGQCGE VRIVGLPSMR ELMRIPVFNR DSATGWGLTN ESRKVLTEGL 
+NOSZ_BRAJA        77   VFFSSGQSGE MRIIGLPSMR ELMRVPVFNR CSATGWGQTN ESLKVLTEGM 
+NSZ1_PSEAE        70   GFWSGGHSGE VRVLGVPSMR ELMRIPVFNV DSATGWGLTN ESKRVLGDSA 
+NOSZ_PSEFL        73   GFWSGGHQGE VRVLGVPSMR ELMRIPVFNV DSATGWGLTN ESKRILGDSA 
+                                                                 
+                       2222222222 2222222222 2222222221 0111111111 1111110000 
+ 
+1aac_             24   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A             9   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        43   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO        43   ---------- ---------- ---------- ---------- ---------- 
+1ag6_              7   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A             9   ---------- ---------- ---------- ---------- ---------- 
+1baw_A             9   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        34   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB        55   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_METJ         26   ---------- ---------- ---------- ---------- ---------- 
+AZU2_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZUR_BORPE        47   ---------- ---------- ---------- ---------- ---------- 
+AZUR_METFL        45   ---------- ---------- ---------- ---------- ---------- 
+1fwx_A            67   SERTKKFLAA NGkrihdNGD LHHVHMSFTE GKYDGRFLFM NDKANTRVAR 
+NOSZ_ALCEU       127   dgtlR----- ----YT-VAD THHTHASYKD GNYDGRYAWV NDKINSRIAR 
+NOSZ_BRUME       116   LPQDREFLKD RGDIFL-NGD LHHPHPSFTD GTYDGRYLYA NDKANTRVCR 
+NOSZ_BRAJA       127   QPATREFLKN RGGTFM-NGD LHHPHVSFTD GTYDGRYAFM NDKANSRVAR 
+NSZ1_PSEAE       120   ----R----- ----FL-NGD CHHPHISMTD GKYDGKYLFI NDKANSRVAR 
+NOSZ_PSEFL       123   ----K----- ----YQ-NGD CHHPHISMTD GKYDGKYLFI NDKANSRVAR 
+                                                                 
+                       0000000000 0000000122 2222222222 2222222222 2222222222 
+ 
+1aac_             24   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A             9   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        43   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO        43   ---------- ---------- ---------- ---------- ---------- 
+1ag6_              7   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A             9   ---------- ---------- ---------- ---------- ---------- 
+1baw_A             9   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        34   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB        55   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_METJ         26   ---------- ---------- ---------- ---------- ---------- 
+AZU2_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZUR_BORPE        47   ---------- ---------- ---------- ---------- ---------- 
+AZUR_METFL        45   ---------- ---------- ---------- ---------- ---------- 
+1fwx_A           117   VRCDVMKCDA ILEIPNAKGI HGLRPQK--- ----WPRSNY VFCNGEDETP 
+NOSZ_ALCEU       167   IRLDyfiCDK ITELPNVQGF HGIFPDKrdp vdtkINYTTR VFCGGEFGIP 
+NOSZ_BRUME       165   IRLDVMKCDK IIQLPNQHTV HGLRVQK--- ----YPKTGY VFCNGEDRVP 
+NOSZ_BRAJA       176   VRLDVMKCDK IIELPNQHTV HGLRLQK--- ----YPRTGY VFCNGEDGVP 
+NSZ1_PSEAE       156   IRLDVMKCDR IVTIPNVQAI HGLRLQK--- ----VPHTRY VFCNAEFIIP 
+NOSZ_PSEFL       159   IRLDIMKCDK ILTVPNVQAI HGLRLQK--- ----VPYTKY VFANAEFVIP 
+                                                                 
+                       2222111211 1111111111 1111111000 0000111111 1111111111 
+ 
+1aac_             24   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A             9   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        43   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO        43   ---------- ---------- ---------- ---------- ---------- 
+1ag6_              7   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A             9   ---------- ---------- ---------- ---------- ---------- 
+1baw_A             9   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        34   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB        55   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_METJ         26   ---------- ---------- ---------- ---------- ---------- 
+AZU2_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZU1_ALCXX        26   ---------- ---------- ---------- ---------- ---------- 
+AZUR_BORPE        47   ---------- ---------- ---------- ---------- ---------- 
+AZUR_METFL        45   ---------- ---------- ---------- ---------- ---------- 
+1fwx_A           160   LVNDGTNMED VANYV-NVFT AVDADKWEVA WQVLVSGNLD NCDADYEGKW 
+NOSZ_ALCEU       217   LPSapt--ED AGKYR-SLFT CVDAETMAVR WQVLIDGNCD LVATSYDGKL 
+NOSZ_BRUME       208   IPNDGSHLND VKQYH-AIFT AVDGETMKVA WQVMVDGNLD NVDCDYXGKY 
+NOSZ_BRAJA       219   LPNDGKVLDN PKEYH-SIFT ALDGDTMKVA WQVMVSGNLD NVDSDYQGKY 
+NSZ1_PSEAE       199   HPNDGSTFDL sgdNAFTLYN AIDAETMEVA WQVIVDGNLD NTDMDYSGRF 
+NOSZ_PSEFL       202   HPNDGHTFDL qdkNSFTMFN AIDAEKMEMA FQVIVDGNLD NSDADYTGKY 
+                                                                 
+                       1111100000 0000000111 1111111111 1111111111 1111111111 
+ 
+1aac_             24   ---------- ---------- ---------- ---------- ------DIAK 
+1j5c_A             9   ---------- ---------- ---------- ---------- -----SDSGA 
+PLAS_SYNP7        43   ---------- ---------- ---------- ---------- -----ADNGM 
+PLAS_ANASO        43   ---------- ---------- ---------- ---------- -----SDKGL 
+1ag6_              7   ---------- ---------- ---------- ---------- -----GDDGS 
+1b3i_A             9   ---------- ---------- ---------- ---------- -----TDKYA 
+1baw_A             9   ---------- ---------- ---------- ---------- -----ADSGL 
+AZUP_RHILV        34   ---------- ---------- ---------- ---------- -----GTDGA 
+PLAS_SCEOB        55   ---------- ---------- ---------- ---------- -----ADSGA 
+1cuo_A            26   ---------- ---------- ---------- ---------- -----CAEFT 
+AZU1_METJ         26   ---------- ---------- ---------- ---------- -----CKEFT 
+AZU2_ALCXX        26   ---------- ---------- ---------- ---------- -----CKQFT 
+AZU1_ALCXX        26   ---------- ---------- ---------- ---------- -----CKQFT 
+AZUR_BORPE        47   ---------- ---------- ---------- ---------- -----CKQFT 
+AZUR_METFL        45   ---------- ---------- ---------- ---------- -----CKEFT 
+1fwx_A           209   AFSTSYNSEK GMTLPEMTAA EMDHIVVFNI AEIEKAIAAG DYQELNGVKV 
+NOSZ_ALCEU       264   AATNQYNTEN GAHFEDMMSA ERDACVFFNI ARIEAAVQAG KFKTYGDSKV 
+NOSZ_BRUME       257   AFSTCYNSEE GTTLAEMMSS EQDWIVVFNL KRIEEAVANG DFKEMNGVPV 
+NOSZ_BRAJA       268   CFSTCYNAEE GVTLAEMTAN EQDWVVIFNL KRIEEAVKKG DFKEMNGVPV 
+NSZ1_PSEAE       249   AASTCYNSEK AVDLGGMMRN ERDWVVVFDI PRIEAEIKAK RFVTLGDSKV 
+NOSZ_PSEFL       252   AASTCYNSEK AYDLGGMMRN ERDWVVVFNI LRIEAAIKAG KFITLDGSKV 
+                                                                 
+                       1111111111 1111011111 1111111111 1111111111 1111155555 
+ 
+1aac_             28   MKYETPELH- --VKV--GDT VTWINREAMP HNVHFVAGV- ---LGEAAl- 
+1j5c_A            14   LVFEPSTVT- --IKA--GEE VKWVNNKLSP HNIVFAAD-- -GVDADTAAK 
+PLAS_SYNP7        48   LAFEPSTIE- --IQA--GDT VQWVNNKLAP HNVVv----- -EGQ----PE 
+PLAS_ANASO        48   LVFEPAKLT- --IKP--GDT VEFLNNKVPP HNVVFDAALN PAKSADLAKS 
+1ag6_             12   LAFLPGDFS- --VAS--GEE IVFKNNAGFP HNVVFDEDEI PSGVDAAKIS 
+1b3i_A            14   PLYEPKALS- --ISA--GDT VEFVMNKVGP HNVIFDKVP- ---AGESAPA 
+1baw_A            14   LQFEPANVT- --VHP--GDT VKWVNNKLPP HNILFDDKQV PGASKELADK 
+AZUP_RHILV        39   MVFEPGFLK- --IAP--GDT VTFIPTDKS- HNVETFKGLI PDGV----P- 
+PLAS_SCEOB        60   LVFEPATVT- --IKA--GDS VTWTNNAGFP HNIVFDEDAV PAGVNA--DA 
+1cuo_A            31   VNFEHKGHM- --PKT--GMG HNWVL----- ---------- ---------- 
+AZU1_METJ         31   VNLKHTGSL- --PKN--VMG HNLVI----- ---------- ---------- 
+AZU2_ALCXX        31   MHLKHVGKM- --AKV--AMG HNLVL----- ---------- ---------- 
+AZU1_ALCXX        31   VNLKHPGKL- --AKN--VMG HNWVL----- ---------- ---------- 
+AZUR_BORPE        52   VNLKHTGKL- --PRN--VMG HNWVL----- ---------- ---------- 
+AZUR_METFL        50   VNFAHTGTA- --SKA--GMG HNWVL----- ---------- ---------- 
+1fwx_A           259   --VDGR---- ---KeasSLF TRYIPIANNP HGCNMAPD-- -KKHLCVAGK 
+NOSZ_ALCEU       314   PVVDGtqaan kdPKTa---L TAYVSVPKNP HGVNASPD-- -QKYFICAGK 
+NOSZ_BRUME       307   --IDGR---- ---HG--SKY TRYIPVPNSP HGINTALD-- -GIHVVANGK 
+NOSZ_BRAJA       318   --IDGR---- ---KG--SPY TRYVPVSNNP HGMNTAPD-- -GIHIVAAGK 
+NSZ1_PSEAE       299   PVVDGRRKD- --GKD--SPV TRYIPVPKNP HGLNTSPD-- -GKYFIANGK 
+NOSZ_PSEFL       302   PVVDGRKTD- --GKD--SEF TRYIPVPKNP HGLNTSSD-- -GKYFIANGK 
+                                                                 
+                       5555555440 0045400556 6666644444 4444332200 0222222222 
+ 
+1aac_             68   ---KGPMM-- ---------- ---------- ---------- ---------- 
+1j5c_A            56   LSHKGLAF-- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        83   LSHKDLAF-- ---------- ---------- ---------- ---------- 
+PLAS_ANASO        93   LSHKQLLM-- ---------- ---------- ---------- ---------- 
+1ag6_             57   MSEEDLLN-- ---------- ---------- ---------- ---------- 
+1b3i_A            55   LSNTKLAI-- ---------- ---------- ---------- ---------- 
+1baw_A            59   LSHSQLMF-- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        78   ----DFKS-- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB       103   LSHDDYLN-- ---------- ---------- ---------- ---------- 
+1cuo_A            51   ---------- ---------- ---------- ---------- ---------- 
+AZU1_METJ         51   ---------- ---------- ---------- ---------- ---------- 
+AZU2_ALCXX        51   ---------- ---------- ---------- ---------- ---------- 
+AZU1_ALCXX        51   ---------- ---------- ---------- ---------- ---------- 
+AZUR_BORPE        72   ---------- ---------- ---------- ---------- ---------- 
+AZUR_METFL        70   ---------- ---------- ---------- ---------- ---------- 
+1fwx_A           297   LSPTVTVLDV TRFDAVFYEN -ADPRSAVVA EPELGLGPLH TAFDGRGNAY 
+NOSZ_ALCEU       358   LSPTATVIEL SRVlgwfdgk qekldDAIVA EVELGLGPLH TAFDGRGNAY 
+NOSZ_BRUME       343   LSPTVTVFDV RKFDDLFDDK -IKPRDAVVA EPELGLGPLH TAYDDKGNAY 
+NOSZ_BRAJA       354   LSPTVTVMDV RLFDQLFDDK -IKPRDVVVA EPELGLGPLH TAYDGKGNAY 
+NSZ1_PSEAE       341   LSPTCTMIAI ERLGDLFAGK lADPRDVVVG EPELGLGPLH TTFDGRGNAY 
+NOSZ_PSEFL       344   LSPTVSMIAI DRLDDLFNDR ykDPREVIVA EPELGLGPLH TTFDGRGNAY 
+                                                                 
+                       3333333311 1100000000 0011122333 3333333333 3333333333 
+ 
+1aac_             73   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A            64   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        91   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO       101   ---------- ---------- ---------- ---------- ---------- 
+1ag6_             65   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A            63   ---------- ---------- ---------- ---------- ---------- 
+1baw_A            67   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        82   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB       111   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            51   ---------- ---------- ---------- ---------- ---------A 
+AZU1_METJ         51   ---------- ---------- ---------- ---------- ---------T 
+AZU2_ALCXX        51   ---------- ---------- ---------- ---------- ---------T 
+AZU1_ALCXX        51   ---------- ---------- ---------- ---------- ---------T 
+AZUR_BORPE        72   ---------- ---------- ---------- ---------- ---------T 
+AZUR_METFL        70   ---------- ---------- ---------- ---------- ---------A 
+1fwx_A           346   TSLFLDSQVV KWNIEDAIRA YAGEKVD-PI KDKLDVHYQP GHLKTVMGET 
+NOSZ_ALCEU       408   TTLFLDSQLV KWNLDAAIKF HKGDKnakYV VDRLDLQYQP GHVNASQSET 
+NOSZ_BRUME       392   TTLFIDSQIC KWNIEDAKRA FKGEKVD-PI RQKLDVHYQP GHNHSSMGQT 
+NOSZ_BRAJA       403   TTLFLDSQVV KWNIDLAKRA FKGEKVD-PI IQKLDVHYQP GHNHSSMGQT 
+NSZ1_PSEAE       391   TTLFIDSQLV KWNLADAVRA YKGEKVD-YI RQKLDVQYQP GHNHATLCET 
+NOSZ_PSEFL       394   TTLFIDSQVV KWNMDEAIRA YKGEKVN-YI KQKLDVQYQP GHNHASLTET 
+                                                                 
+                       3333333332 3322211111 1111111012 2222222222 2211111113 
+ 
+1aac_             73   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A            64   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        91   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO       101   ---------- ---------- ---------- ---------- ---------- 
+1ag6_             65   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A            63   ---------- ---------- ---------- ---------- ---------- 
+1baw_A            67   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        82   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB       111   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            52   KSAD------ ---------- ---------- ---------- ---------- 
+AZU1_METJ         52   KTAD------ ---------- ---------- ---------- ---------- 
+AZU2_ALCXX        52   KDAD------ ---------- ---------- ---------- ---------- 
+AZU1_ALCXX        52   KQAD------ ---------- ---------- ---------- ---------- 
+AZUR_BORPE        73   KTAD------ ---------- ---------- ---------- ---------- 
+AZUR_METFL        71   RSAD------ ---------- ---------- ---------- ---------- 
+1fwx_A           395   LDATNDWLVC LSKFSKDRFL NVGPLKPEND QLIDISGDKM VLVHDGPTFA 
+NOSZ_ALCEU       458   VAADGKYLAV GCKFSKDRFL PVGPLHPENE QLIDISGQKM VLMADHPVRG 
+NOSZ_BRUME       441   KEVDGKWLIS LNKFSKDRYL NVGPLKPEND QLIDISGDKM VIVHDGPSFA 
+NOSZ_BRAJA       452   KEADGKWLIS LNKFSKDRFL NVGPLKPEND QLIDISGDQM KLVHDGPSFA 
+NSZ1_PSEAE       440   SEADGKWIVV LSKFSKDRFL PTGPLHPEND QLIDISGEEM KLVHDGPTFA 
+NOSZ_PSEFL       443   SEADGKWLVV LCKFSKDRFL PTGPLHPEND QLIDISGEEM KLVHDGPAFA 
+                                                                 
+                       3333111111 1112222222 2222222222 2222222222 2222222222 
+ 
+1aac_             73   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A            64   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        91   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO       101   ---------- ---------- ---------- ---------- ---------- 
+1ag6_             65   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A            63   ---------- ---------- ---------- ---------- ---------- 
+1baw_A            67   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        82   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB       111   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            56   ---------- ---------- ---------- VGDVAKEGAH AGA-DNNFVT 
+AZU1_METJ         56   ---------- ---------- ---------- FKAVMNDGVA AGE-AGNFVK 
+AZU2_ALCXX        56   ---------- ---------- ---------- KQAVATDGMG AGL-AQDYVK 
+AZU1_ALCXX        56   ---------- ---------- ---------- MQGAVNDGMA AGL-DNNYVK 
+AZUR_BORPE        77   ---------- ---------- ---------- MQAVEKDGIA AGL-DNQYLK 
+AZUR_METFL        75   ---------- ---------- ---------- VNDLAKAGVE AGI-DKNFIP 
+1fwx_A           445   EPHDAIAVHp silsdiKSVW DRNDPMWAET RAQAEADGVD IDnwTEEVIR 
+NOSZ_ALCEU       508   EPHDFIIFKR ELVRP-KQVY ALDDfplaik dp-------- --K-ESGVFR 
+NOSZ_BRUME       491   EPHDATIVHR SKINP-VSFW SREDPFFADA VAQAKADGLD LME-ANEVVR 
+NOSZ_BRAJA       502   EPHDATIVHR SKINP-ISIW DRADPMFADA VKQAKADGIN LEA-DSKIIR 
+NSZ1_PSEAE       490   EPHDCILARR DQIKT-RKIW DRKDPFFAET VKRAEKDGID LMK-DNKVIR 
+NOSZ_PSEFL       493   EPHDCILARR DQIKT-QKIW NRNDPFFADT VALAKKDGIN LET-DNKVIR 
+                                                                 
+                       2222221110 0000000111 1111111111 2122222222 2220223333 
+ 
+1aac_             73   ---------- ---------- ---------- ---------- ---------- 
+1j5c_A            64   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SYNP7        91   ---------- ---------- ---------- ---------- ---------- 
+PLAS_ANASO       101   ---------- ---------- ---------- ---------- ---------- 
+1ag6_             65   ---------- ---------- ---------- ---------- ---------- 
+1b3i_A            63   ---------- ---------- ---------- ---------- ---------- 
+1baw_A            67   ---------- ---------- ---------- ---------- ---------- 
+AZUP_RHILV        82   ---------- ---------- ---------- ---------- ---------- 
+PLAS_SCEOB       111   ---------- ---------- ---------- ---------- ---------- 
+1cuo_A            75   PGDKRVIAFT PIIGGGEKTS VKFKVS---- ---------- ---------- 
+AZU1_METJ         75   AGDARVVAHT KLVGGGEKDS VKVDVS---- ---------- ---------- 
+AZU2_ALCXX        75   AGDTRVIAHT KVIGGGESDS VTFDVS---- ---------- ---------- 
+AZU1_ALCXX        75   KDDARVIAHT KVIGGGETDS VTFDVS---- ---------- ---------- 
+AZUR_BORPE        96   AGDTRVLAHT KVLGGGESDS VTFDVA---- ---------- ---------- 
+AZUR_METFL        94   PNDPRVLAYT PLVGGGEKTS VTFKPS---- ---------- ---------- 
+1fwx_A           495   DGNKVRVYMS SVAPSFSIES FTVKEGDEVT VIVTNLDEID DLTHGFTMGN 
+NOSZ_ALCEU       546   NGRKVTVKIT SQAPAFSLRE FKLKKGDEVT LILTNLDKIE DLTHGFAIPK 
+NOSZ_BRUME       539   DGNKVRVYMT SSAPAFGLTE FTVQQDDEVT VYVTNIDEIE DLTHGFAIVN 
+NOSZ_BRAJA       550   DGNKVRVYMT STAPAFGLEQ FQVKQGDQVT VYITNIDAVE DLTHGFCIVN 
+NSZ1_PSEAE       538   EGNKVRVYMV SMAPSFGLTE FKVKQGDEVT VTITNLDEIE DVTHGFVMVN 
+NOSZ_PSEFL       541   DGNKVRVYMT SMAPAYGLTE FTVKQGNEVT VTITNIDQIE DVSHGFVMTN 
+                                                                 
+                       3333333333 3334444434 4333332222 2112222222 2222221111 
+ 
+1aac_             73   ---------K KEQAYSLTFT E---AGTYDY HCT-PHPFMR --GKVVVE-- 
+1j5c_A            64   ---------A AGESFTSTFT E---PGTYTY YCE-PHRGAG MVGKVVVD-- 
+PLAS_SYNP7        91   ---------S PGETFEATFS E---PGTYTY YCE-PHRGAG MVGKIVVQ-- 
+PLAS_ANASO       101   ---------S PGQSTSTTFP ADAPAGEYTF YCE-PHRGAG MGGKITVAG- 
+1ag6_             65   ---------A PGETYKVTLT E---KGTYKF YCS-PHQGAG MVGKVTVN-- 
+1b3i_A            63   ---------A PGSFYSVTLG T---PGTYSF YCT-PHRGAG MVGTITVE-- 
+1baw_A            67   ---------S PGESYEITFS SDFPAGTYTY YCA-PHRGAG MVGKITVEG- 
+AZUP_RHILV        82   ---------K PNEQYQVKFD I---PGAYVL KCT-PHVGMG MVALIQVGDn 
+PLAS_SCEOB       111   ---------A PGESYTAKFD T---AGEYGY FCE-PHQGAG MVGKVIVQ-- 
+1cuo_A           101   ---------- -------ALS K---DEAYTY FCSYPGHFSM MRGTLKLEe- 
+AZU1_METJ        101   ---------- -------KLA A---GEKYTF FCSFPGHATM MRGTVTVK-- 
+AZU2_ALCXX       101   ---------- -------KIA A---GENYAY FCSFPGHWAM MKGTLKLGS- 
+AZU1_ALCXX       101   ---------- -------KLA A---GEDYAY FCSFPGHFAL MKGVLKLVD- 
+AZUR_BORPE       122   ---------- -------KLA A---GDDYTF FCSFPGHGAL MKGTLKLVD- 
+AZUR_METFL       120   ---------- -------ILK D---GESYSF YCSFAFHSFM MRGTVKLVD- 
+1fwx_A           545   YGVAMEIGPQ MTSSVTFVAA N---PGVYWY YCQWFCHALH MEMRGRMLVE 
+NOSZ_ALCEU       596   YNVNfivNPQ ETASVTFVAD K---PGVFWC YCTHFCHALH LEMRTRMIVE 
+NOSZ_BRUME       589   YGVNMEVAPQ ATASVTFKAS K---PGVWWY YCSWFCHAMH MEMQGRMLVE 
+NOSZ_BRAJA       600   YGIQMEVAPM ATASVSFSAD K---AGVYWY YCSWFCHAMH MEMKGRMFVE 
+NSZ1_PSEAE       588   HGVCMEISPQ QTSSITFVAD K---PGVHWY YCSWFCHALH MEMCGRMLVE 
+NOSZ_PSEFL       591   HGASMEISPQ QTSSITFTAD K---AGLHWY YCSWFCHALH MEMVGRMLVE 
+                                                                 
+                       1111111124 4444444666 6000688888 9984887777 7777766432 
+ 
+1aac_            106   ---------- ---------- ---------- ---- 
+1j5c_A            99   ---------- ---------- ---------- ---- 
+PLAS_SYNP7       126   ---------- ---------- ---------- ---- 
+PLAS_ANASO       140   ---------- ---------- ---------- ---- 
+1ag6_            100   ---------- ---------- ---------- ---- 
+1b3i_A            98   ---------- ---------- ---------- ---- 
+1baw_A           106   ---------- ---------- ---------- ---- 
+AZUP_RHILV       119   panlepikia kvpnmvrkrl dadlaqitpa qitq 
+PLAS_SCEOB       146   ---------- ---------- ---------- ---- 
+1cuo_A           130   ---------- ---------- ---------- ---- 
+AZU1_METJ        129   ---------- ---------- ---------- ---- 
+AZU2_ALCXX       130   ---------- ---------- ---------- ---- 
+AZU1_ALCXX       130   ---------- ---------- ---------- ---- 
+AZUR_BORPE       151   ---------- ---------- ---------- ---- 
+AZUR_METFL       149   ---------- ---------- ---------- ---- 
+1fwx_A           592   PKEA------ ---------- ---------- ---- 
+NOSZ_ALCEU       643   a--------- ---------- ---------- ---- 
+NOSZ_BRUME       636   PKKA------ ---------- ---------- ---- 
+NOSZ_BRAJA       647   PKsv------ ---------- ---------- ---- 
+NSZ1_PSEAE       635   KA-------- ---------- ---------- ---- 
+NOSZ_PSEFL       638   KA-------- ---------- ---------- ---- 
+                                                
+                       0000000000 0000000000 0000000000 0000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1aac_       :0.034938((((1j5c_A      :0.010084PLAS_SYNP7  :0.010084):0.001987(PLAS_ANASO  :0.0103581baw_A      :0.010358):0.001712):0.004107(1ag6_       :0.013914PLAS_SCEOB  :0.013914):0.002264):0.0013111b3i_A      :0.017489):0.017448):0.007849AZUP_RHILV  :0.042787):0.278333((1cuo_A      :0.009130AZUR_METFL  :0.009130):0.003367(AZU1_METJ   :0.008510(AZU2_ALCXX  :0.008074(AZU1_ALCXX  :0.006478AZUR_BORPE  :0.006478):0.001596):0.000437):0.003987):0.308623):0.075743(((1fwx_A      :0.001891(NOSZ_BRUME  :0.001353NOSZ_BRAJA  :0.001353):0.000538):0.000144(NSZ1_PSEAE  :0.001302NOSZ_PSEFL  :0.001302):0.000733):0.000874NOSZ_ALCEU  :0.002909):0.393954);
+ 
+ 

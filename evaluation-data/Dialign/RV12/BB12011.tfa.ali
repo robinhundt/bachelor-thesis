@@ -1,0 +1,491 @@
+1ciy_              1   y--------- ---------- ---------- ---------- ---------- 
+1dlc_              1   tt-------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP         1   MSPN-NQNEY EII---DALS PTSVSDNSIR YPLANDQTNT LQNMNYK--- 
+CQAA_BACTF         1   MNSE-EMNHV NPF---EISD NNDVSIPSQR YPFANDPADS Vfcad----- 
+C1BA_BACTK         1   MTSN-RKNEN EII---NAVS nhsa------ ------QMDL LPDARIE--- 
+CKAA_BACUF         1   MNPY--QNND EIV---DV-- PENYDNNLNR YPYANDPNVA MQNTNYK--- 
+C9AA_BACTG         1   m----NQNKH GII---GASN CGCASDDVAK YPLANNPYSS ALNLNscqns 
+CPAA_BACTJ         1   MNPYQNKSEC EIL---NA-- PLNNINMPNR YPFANDPNAV MKNGNYK--- 
+CJAA_BACTJ         1   MHYY--GNRN EYDILNASSN DSNMSNTYPR YPLANPQQDL MQNTNYK--- 
+CAAA_BACTI         1   MNPY--QNKN EYEIFNAPSN GFSKSNNYSR YPLANKPNQP LKNTNYK--- 
+C4BA_BACTI         1   ---------- ---------- ------MNSG YPLANDLQGS MKNTNYK--- 
+COAA_BACTJ         1   MNQYQNKNEY EIL---ES-- SQNNMNMPNR YPFADDPNAV MKNGNYK--- 
+                                                                 
+                       0000000000 0000000000 0011111112 2222222222 2222222000 
+ 
+1ciy_              2   ---------- ---------- ----TPIDIS ---------- --LSLTQFLL 
+1dlc_              3   ---------- ---------- ---------- -KD---VIQK GISVVGDLLG 
+C8CA_BACTP        44   ---DYLKMTE ST-----NAE lsrnpgtFIS AQD---AVGT GIDIVSTIIS 
+CQAA_BACTF        42   ---DFLQSYG EF-----NMD NFGESEPFID ASG---AINA AIGVTGTVLG 
+C1BA_BACTK        32   ---DSLCIAE GN-----NID PFV------- SAS---TVQT GINIAGRILG 
+CKAA_BACUF        41   ---DWMNGYE EI-----Np- ---------S SIT---AILA SIGILNRVIA 
+C9AA_BACTG        44   silNWINIIG D--------- ---------A AKE---AVSI GTTIVSLITA 
+CPAA_BACTJ        43   ---DWLNECD Gitpsifgt- --------L- ------GVLA SIVISTINLA 
+CJAA_BACTJ        46   ---DWLNVCE GY-----HIE NPR------- EASvraGLGK GLGIVSTIVG 
+CAAA_BACTI        46   ---DWLNVCQ DNQQYGNNAG NFASSETIV- ------GVSA GIIVVGTMLG 
+C4BA_BACTI        22   ---DWLAMCE NNQQYGVNpa ainsSSVSTA ---------- --LKVAGAIL 
+COAA_BACTJ        43   ---DWVNECE GS-----NIS PSP------- AAA---ITSK IVSIVLKTLA 
+                                                                 
+                       0002222111 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_             16   SEFVPGAGFV Lg----LVDI IWG-IFG--- PSQWDAFLVQ IEQLINQRIE 
+1dlc_             19   VVGFPFGGAL VSFYTNFLNT IWP-S----- EDPWKAFMEQ VEALMDQKIA 
+C8CA_BACTP        83   GLGIPVLGEV FSILGSLIGL LWP-SNN--- ENVWQIFMNR VEELIDQKIL 
+CQAA_BACTF        81   FLGVPFAGAL TTFYQKLFGF LFP-NNN--- TKQWEEFMKQ VEALIDEKIS 
+C1BA_BACTK        64   VLGVPFAGQL ASFYSFLVGE LWPRG----- RDQWEIFLEH VEQLINQQIT 
+CKAA_BACUF        70   LTGVLGNTQE ---VISIIQD algfi-R--- NGTGNELLIH VEQLIQQTLA 
+C9AA_BACTG        73   PSLTGLISIV YDLIGKVLGg ssg------- QSISDLSICD LLSIIDLRVS 
+CPAA_BACTJ        74   TSPSIGDAFA ---LVSSIGE YWPET----- KTSFPLSVAD VNRLIREALD 
+CJAA_BACTJ        81   FFGGSIILDT IGLFYQISEL LWP-EDD-TQ QYTWQDIMNH VEDLIDKRIT 
+CAAA_BACTI        86   AFAAPVLAAG IISFGTLLPI FWQ-GSDPA- -NVWQDLL-N IGGRPIQEID 
+C4BA_BACTI        57   KFVNPPAGTV LTVLSAVLPI LWP-TNTPTP ERVWNDFMTN TGNLIDQTVT 
+COAA_BACTJ        75   KAVASSLADS ---IKSSLGI SKT-ITE--- NNVSQVSMVQ VHQIINRRIQ 
+                                                                 
+                       0000000000 0000000000 0000000000 0001111111 1111111111 
+ 
+1ciy_             58   EFARNQAISR LEGLSNLYQI YAE-SFREWE ADPTNPALR- --EEMRIQFN 
+1dlc_             63   DYAKNKALAE LQGLQNNVED YVS-ALSSWQ KNPVSSRNPH SQGRIRELFS 
+C8CA_BACTP       129   DSVRSRAIAD LANSRIAVEY YQN-ALEDWR KNPHSTRSA- --ALVKERFG 
+CQAA_BACTF       127   DAVRNKAISE LQGLVNNITL YTE-ALEEWL ENKENPAVR- --DRVLQRWR 
+C1BA_BACTK       109   ENARNTALAR LQGLGDSFRA YQQ-SLEDWL ENRDDARTR- --SVLYTQYI 
+CKAA_BACUF       113   TQYRSAATGA IYGISRSYDN YLM-FFRQWE RNRTRENG-- --QQVESAFT 
+C9AA_BACTG       116   QSVLNDGIAD FNGSVLLYRN YLE-ALDSWN KNPNSASA-- --EELRTRFR 
+CPAA_BACTJ       116   QNAINRATGK FNGLMDTYNT VYLKNLQDWY DTRipa-NPQ GDSQLREaar 
+CJAA_BACTJ       129   EVIRGNAIRT LADLQGKVDD YNN-WLKKWK DDPKSTGNL- --STLVTKFT 
+CAAA_BACTI       132   KNIINVLTSI VTPIKNQLDK YQE-FFDKWE PARTHANA-- --KAVHDLFT 
+C4BA_BACTI       106   AYVRTDANAK MTVVKDYLDQ YTT-KFNTWK REPNNQSYR- --TAVITQFN 
+COAA_BACTJ       118   ETILDLGESS LNGLVAIYNR DYLGALEAWN NNKs---NIN YQTNVAEAFK 
+                                                                 
+                       1111111111 1111111111 1000000000 0000000000 0000000000 
+ 
+1ciy_            104   D----MNSAL T-T------- -AI-PL--LA VQNYQVPLLS VYVQAANLHL 
+1dlc_            112   Q----AESHF R-N------- -SM-PS--FA ISGYEVLFLT TYAQAANTHL 
+C8CA_BACTP       175   N----AEAIL R-T------- -NM-GS--FS QTNYETPLLP TYAQAASLHL 
+CQAA_BACTF       173   I----LDGFF E-Q------- -QM-PS--FA VKGFEVLLLV VYTQAANLHL 
+C1BA_BACTK       155   A----LELDF L-N------- -AM-PL--FA IRNQEVPLLM VYAQAANLHL 
+CKAA_BACUF       158   T----Intlc inalapqa-- -----S--LS RRGFETLLLP NYAMAANFHL 
+C9AA_BACTG       161   I----ADSEF D-RILtrgsl tNG-GS--LA RQNAQILLLP SFASAAFFHL 
+CPAA_BACTJ       165   rsleeIERDF R-K------- -ALAGE--FA EAGSQIVLLP IYAQAANIHL 
+CJAA_BACTJ       175   A----LDSDF N-G------- -AIrtvnnQG SPGYELLLLP VYAQIANLHL 
+CAAA_BACTI       177   T----LEPII D-KDLdm--- -----L--KN NASYRIPTLP AYAQIATWHL 
+C4BA_BACTI       152   L----TSAKL ReT------- -AV-YF--SN LVGYELLLLP IYAQVANFNL 
+COAA_BACTJ       165   T----VEREF F-T------- -KLKGI--YR TSSSQITLLP TFTQAANLHL 
+                                                                 
+                       0000000000 0000000000 0010110022 2234555555 5555555555 
+ 
+1ciy_            138   SVLRDVSVFG QRWGFDa-AT INSR------ --YND-LTRL IGNYTDYAVR 
+1dlc_            146   FLLKDAQIYG EEWGYEKEDI --------A- EFYKR-QLKL TQEYTDHCVK 
+C8CA_BACTP       209   LVMRDVQIYG KEWGYPQNDI --------D- LFYKE-QVSY TARYSDHCVQ 
+CQAA_BACTF       207   LSLRDAYIYG AEWGLTPTNI --------D- QNHTR-LLRH SAEYTDHCVN 
+C1BA_BACTK       189   LLLRDASLFG SEFGLTSQEI --------Q- RYYER-QVER TRDYSDYCVE 
+CKAA_BACUF       195   LLLRDAVLYR NQWLSNsiST ANVN------ --LNI-LRAA INEYITHCTR 
+C9AA_BACTG       203   LLLRDATRYG TNWGLynatp fIN------- --YQSKLVEL IELYTDYCVH 
+CPAA_BACTJ       204   LILKDAMQFR TDLGLirpvg vpittSAED- PFESE-FLLR IKKYTDHCIS 
+CJAA_BACTJ       212   LLLRDAQIYG DKWWSara-- -----NARD- NYYQI-QLEK TKEYTEYCIN 
+CAAA_BACTI       212   NLLKHAATYY NIWLQNQG-- -INpstfnss NYYQGYLKRK IQEYTDYCIQ 
+C4BA_BACTI       187   LLIRDGLINA QEWSLar--- -----SAGD- QLYNT-MVQY TKEYIAHSIT 
+COAA_BACTJ       200   SMLRDAVMYQ EGWNLQSH-- -IN------- --YSKELDDA LEDYTNYCVE 
+                                                                 
+                       5555555554 4442100000 0000000000 0111101112 2234444444 
+ 
+1ciy_            178   WYNTGLERV- -WGPDSR--- DWVRYNQFRR ELTLTVLDIV ALFSNYDSRR 
+1dlc_            186   WYNVGLDKL- -RGSSYE--- SWVNFNRYRR EMTLTVLDLI ALFPLYDVRL 
+C8CA_BACTP       249   WYNAGLNKL- -RGTGAK--- QWVDYNRFRR EMNVMVLDLV ALFPNYDARI 
+CQAA_BACTF       247   WYNTGLKQL- -ENSDAK--- SWFQYNRFRR EMTLSVLDVI ALFPAYDVKM 
+C1BA_BACTK       229   WYNTGLNSL- -RGTNAA--- SWVRYNQFRR DLTLGVLDLV ALFPSYDTRT 
+CKAA_BACUF       236   WYQDGLNRF- -DRSSRAnmn EWRRFNAYRR DMTLSVLDFA TVFPTYDPVL 
+C9AA_BACTG       244   WYNRGFNELR QRGTSAT--- AWLEFHRYRR EMTLMVLDIV ASFSSLDITN 
+CPAA_BACTJ       252   YYDDGLAKIR SRGSDGE--- TWWEFNKFRR EMTLTVLDLV ALYPTHNIKL 
+CJAA_BACTJ       253   WYNKGLNDF- -R--TAG--- QWVNFNRYRR EMTLTVLDII SMFPIYDARL 
+CAAA_BACTI       259   TYNAGLTMI- -RTNTNA--- TWNMYNTYRL EMTLTVLDLI AIFPNYDPEK 
+C4BA_BACTI       227   WYNKGLDVL- -RNKSNG--- QWITFNDYKR EMTIQVLDIL ALFASYDPRR 
+COAA_BACTJ       238   VYTKGLNAL- -RGSTAI--- DWLEFNSFRR DMTLMVLDLV AIFPNYNPVR 
+                                                                 
+                       4444444440 0444444000 4666777888 9888788888 8888888888 
+ 
+1ciy_            223   YPIR------ -TVSQLTREI YTN-PVLENF DGS------- ---------- 
+1dlc_            231   YPKE------ -VKTELTRDV LTD-PIVGVN NLRGYGT--- ---------- 
+C8CA_BACTP       294   YPLE------ -TNAELTREI FTD-PVGSYV TGQSSTL--- ----ISWydm 
+CQAA_BACTF       292   YPIP------ -TNFQLTREV YTD-VIGKIG RND-SDHWYS A-NAPSFSNL 
+C1BA_BACTK       274   YPIN------ -TSAQLTREV YTD-AIGATG VNmaSMNWYN N-NAPSFSAI 
+CKAA_BACUF       284   FPAA------ -TNVELTRVV YTD-PIVMAG GRT------- ---------- 
+C9AA_BACTG       291   YPIE------ -TDFQLSRVI YTD-PIGFVH RSSLRGE--- ---------- 
+CPAA_BACTJ       299   YPIP------ -TQTELSRVV YTD-PVGCFG NRK-SDif-- --SRLNFDYL 
+CJAA_BACTJ       296   YPTE------ -VKTELTREI YSD-VINGEI YGLMTPY--- ----FSFEKA 
+CAAA_BACTI       304   YPIG------ -VKSELIREV YTN-VN---- ---------S D-TFRTITEL 
+C4BA_BACTI       272   YPADkidntk lSKTEFTREI YTalVE---- ---------S P-SSKSIAAL 
+COAA_BACTJ       283   YPLS------ -TKISLSRKI YTD-PVGRTd spsfgdwtnt grTLANFNDL 
+                                                                 
+                       8877000000 0666666655 5430321000 0000000000 0000000000 
+ 
+1ciy_            248   ---FRGMAQR IEQNIRQPHL MD-------- -ILNSITIYT DVHRG----- 
+1dlc_            260   ------TFSN IENYIRKPHL FD-------- -YLHRIQFHT RFQPGY---- 
+C8CA_BACTP       329   ipaALPSFST LENLLRKPDF FT-------- -LLQEIRMYT SFRQN----- 
+CQAA_BACTF       332   E--------- -STLIRTPHV VD-------- -YIKKLKIFY ATVDYY---- 
+C1BA_BACTK       315   E--------- -AAAIRSPHL LD-------- -FLEQLTIFS ASSRW----- 
+CKAA_BACUF       309   ---AIPGFTR MENLVNSASR VS-------- -FLNQMNIYT SFYFR----- 
+C9AA_BACTG       320   ------SWFS FVNranfsdl enaipnprps wFLNNMIIST GSLTL----- 
+CPAA_BACTJ       336   E--------- -NRLTRPREP FN-------- -YLNSVQLFA STVSN----- 
+CJAA_BACTJ       331   E--------- -SLYTRAPHL FT-------- -WLKGFRFVT NSISYWT--- 
+CAAA_BACTI       332   E--------- -NGLTRNPTL FT-------- -WINQGRFYT RNSRdildpy 
+C4BA_BACTI       308   E--------- -AALTRDVHL FT-------- -WLKRVDFWT NTIyq----- 
+COAA_BACTJ       325   E--------- -REVTDSPSL VK-------- -WLGDMTIYT GAIDSYR--- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            281   ---------- ---------- ---------- -FNYWSGHQI TASPV----- 
+1dlc_            291   ---------- ---------- ------YGND SFNYWSGNYV STRPS----- 
+C8CA_BACTP       365   ---------- ----GT---- --------IE YYNYWGGQRL TLSyiygssf 
+CQAA_BACTF       359   ---------- ---------- ------GIYG RSGKWVGHII TSAtsantte 
+C1BA_BACTK       341   ---------- ----SN---- --------TR HMTYWRGHTI QSRPI----- 
+CKAA_BACUF       342   ---------- ----PH---- --------NI PRYYWSGNQN FLSNG----- 
+C9AA_BACTG       359   ---------- ----Pvspst DRARVWYGSr drispansqf itelisg--- 
+CPAA_BACTJ       362   ---------- ----SN---- --------NG EV-------- ---------- 
+CJAA_BACTJ       359   ---FLSGGQN KYSYTN---- --------NS SI-------- ---------- 
+CAAA_BACTI       363   DIFSFTGNQM AFTHTN---- --------DD rniiwgavhg niisqdtskv 
+C4BA_BACTI       334   DLRFLSANKI GFSYTN---- --------SS AM-------- ---------- 
+COAA_BACTJ       353   ---PTSPG-- ---------- DRIGVWYGNI NAFYHTGRTD VVMFR----- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            295   ---------- -----GFSGP EFAFPLFGNa gnaappvlvs ltgl------ 
+1dlc_            310   ---------- -----IGSND IITSPFYGNK SSEPVQNLEF NGEKVYRAVA 
+C8CA_BACTP       389   nkysgvlaga ediipVGQND Iyrvvwtyi- ---------- ---------- 
+CQAA_BACTF       383   trn------- ---------- ------YGTI VNHDSVELNF EGKNIYKTGS 
+C1BA_BACTK       360   ---------- -----Gggln --TSTHGATN TSINPVTLRF ASRDVYRTES 
+CKAA_BACUF       361   ---------- ---------- --TSNLYGYR SD-GRTTFNV SNIDIFRVNM 
+C9AA_BACTG       392   ---------- ---------- ---------- -QHTTATQTI LGRNIFRVDS 
+CPAA_BACTJ       368   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       376   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       401   fpfyr----- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       354   ---------- ---------- ---------- ---------- ---------- 
+COAA_BACTJ       383   ---------- ---------- --QTGDTAYE DP-STFISNI LYDDIYKLDL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            324   -----GIFR- -----TLSSP LYRRIILGSG PNNQELFVLD GTEFSFASLT 
+1dlc_            345   NTNLAVWPS- -----AVYSG VTKVEFSQYN DQTDEASTQT ---------- 
+C8CA_BACTP       418   ---------- ---------- ---------G RYTNSLLGVN PVTFYFSNNT 
+CQAA_BACTF       410   LPQG---VP- -----PYQIG YVTPIYFitr avnfftvsg- ---------- 
+C1BA_BACTK       393   YAGVLLW--- ---------- ---------G IYLEPIHGVP TVRFNFTNpq 
+CKAA_BACUF       388   TTHIGGAFT- -----DDYRG LHRAEFIGAN TQNNQRTSLL ---------- 
+C9AA_BACTG       411   QACN---LN- -----DTTYG VNRAVFYHDA SEGSQRSvye gyirttgidn 
+CPAA_BACTJ       368   ---------- ---------- ---------- --LRGNLNKI MFEGGWTASr 
+CJAA_BACTJ       376   ---------- ---------- ---------- --NEGSFRGQ DTDYGGTSST 
+CAAA_BACTI       406   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       354   ---------- ---------- ---------- --QESGIYGS SGFGSNLTHQ 
+COAA_BACTJ       410   RAAA---VSt iqgamDTTFG VSSSRFFdir grnqlyqsnk pypslpi--- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            363   TNLPSTIYR- QRGT------ ---------- ---------- ---------- 
+1dlc_            379   ---------Y dskrnvgavs w--------- ---------- ---------- 
+C8CA_BACTP       439   QKTYSKPKQ- FAGG------ ---------- ---------- ---------- 
+CQAA_BACTF       440   ---------- ---------- ---------- --------SK TSVEKYYSKK 
+C1BA_BACTK       421   nisdrgtanY SQPYESPGLQ LK-------- ---------- ---------- 
+CKAA_BACUF       422   ---------Y SVEIPSSHFR FE-------- ---------- ---------- 
+C9AA_BACTG       452   p--------- ---------R VQ-------- ---------- ---------- 
+CPAA_BACTJ       386   sgdgvttgtp FSTM------ ---------- ---------- ---------- 
+CJAA_BACTJ       394   INIPSNSYV- YNLW------ ---------- ---------- ---------- 
+CAAA_BACTI       406   ---NKPIDKV EIVRHREYSD IIYEMIFFSN SSEVFRYSSN STIENNYKRT 
+C4BA_BACTI       372   IQLNSNVYKT SITDTSSPSN RVTKMDFYKI DGTLASYNSN ITptpeglrt 
+COAA_BACTJ       454   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            376   ---------- ---VDSLDVI PP-------- ---------- ---------- 
+1dlc_            391   ---------- ----DSIDQL PP-------- ---------- ---------- 
+C8CA_BACTP       452   ---------- ---IKTIDs- -G-------- ---------- ---------- 
+CQAA_BACTF       452   DRYyseglpe eqgVFSTEQL PP-------- ---------- ---------- 
+C1BA_BACTK       443   ---------- ----DSETEL PP-------- ---------- ---------- 
+CKAA_BACUF       435   ---------- ----NHTVFL PG-------- ---------- ---------- 
+C9AA_BACTG       456   ---------- ----NINTYL PG-------- ---------- ---------- 
+CPAA_BACTJ       400   ---------- ---DWSYGWG YPRKHYAEIT SRSQALPGLN NSIHVIVGid 
+CJAA_BACTJ       407   ---------- ---TENYEYI YPWGDPVNIT KMNFSVTDNN SSKELIYGah 
+CAAA_BACTI       453   DSYmipkqtw ---------- ---------- ---------- ---------- 
+C4BA_BACTI       422   ---------- ---------- ---------- ---------- ---------- 
+COAA_BACTJ       454   ---------- ------TITF PG-------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            385   ---------- ---------- --------QD NSVPPRAGFS HRLSHVT--- 
+1dlc_            399   ---------- ---------- --------ET TDEPLEKGYS HQLNYVM--- 
+C8CA_BACTP       459   ---------- ---------- --------EE LTYENYQSYS HRVSYIT--- 
+CQAA_BACTF       474   ---------- ---------- --------NS IAEPEHIAYS HRLCHVT--- 
+C1BA_BACTK       451   ---------- ---------- --------ET TERPNYESYS HRLSHIG--- 
+CKAA_BACUF       443   ---------- ---------- --------ES GLEPNERNYT HRLFQMM--- 
+C9AA_BACTG       464   ---------- ---------- --------EN SDIPTPEDYT HILSTTI--- 
+CPAA_BACTJ       437   sfraigpggq gdhtfslpgg dmydcgkvQI NPLEDYRNSD HWISDMM--- 
+CJAA_BACTJ       444   rtnkpvvrTD FDFLTNK--- --------EG TELAKYNDYN HILSYML--- 
+CAAA_BACTI       463   ---------- ---------- ---------- ----KNEEYG HTLSYIK--- 
+C4BA_BACTI       422   --------TF FGFSTNE--- --------NT PNQPTVNDYT HILSYIK--- 
+COAA_BACTJ       460   ---------- ---------- --------EE SSEGNANDYS HLLCDVKilq 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            404   ---MLSQ--- -----AAGAV ------YTLR APTFSWQHRS AEFNNIIPSS 
+1dlc_            418   ---CFlmqg- -----S---- -------RGT IPVLTWTHKS VDFFNMIDSK 
+C8CA_BACTP       478   ---SFEI--- -----KStgg tvl-----GV VPIFGWTHSS ASRNNFIYAT 
+CQAA_BACTF       493   ---FISV--- -----SNGNK ------YSKD LPLFSWTHSS VDFDNYVYPT 
+C1BA_BACTK       470   ---IILQ--- -----S---- -------RVN VPVYSWTHRS ADRTNTIGPN 
+CKAA_BACUF       462   ---NEVsvnp ----NA---- -------RGR VFLHAWTHRS LRRTNGLRSD 
+C9AA_BACTG       483   ---NLTgglr qvasNR---- -------RSS LVMYGWTHKS LARNNTINPD 
+CPAA_BACTJ       484   ---TINQ--- -----SVqla snptqtFAFS ALSLGWHHSS AGNRNVYVYD 
+CJAA_BACTJ       480   ---INGE--- -----TFG-- ------QKRH GYSFAFTHSS VDPNNTIAAN 
+CAAA_BACTI       476   ---TDNY--- -----IFSVV ------RERR RVAFSWTHTS VDFQNTIDLD 
+C4BA_BACTI       450   ---TDVID-- ---------- ------YNSN RVSFAWTHKI VDPNNQIYTD 
+COAA_BACTJ       482   edsSNICE-- ---------- ------GRSS LLSHAWTHAS LDRNNTILPD 
+                                                                 
+                       0000000000 0000000000 0000000000 1122333334 4444444444 
+ 
+1ciy_            437   QITQIPLTKS TNLGSGTSVV KGP----GFT GGDILRRTSP G-QISTLRVN 
+1dlc_            448   KITQLPLVKA YKLQSGASVV AGP----RFT GGDIIQCTEN G-SAATIYVT 
+C8CA_BACTP       512   KISQIPINKA SRTSGGAvwn fqeglynGGP VMKLSGSGSQ VINLR---VA 
+CQAA_BACTF       526   KITQLPATKG YNVS----IV KEP----GFI GGDIGKNNGQ I-LGK---YK 
+C1BA_BACTK       498   RITQIPMVKA SELPQGTTVV RGP----GFT GGDILRRTNT G-GFGPIRVT 
+CKAA_BACUF       494   QILQIPAVKT ISNGGDRAVV LNY----GEN IMKLDNLTTG LSYKL---TA 
+C9AA_BACTG       519   RITQIPLTKV DTRGTGVSYV NDP----GFI GGALLQRTDH G-SLGVLRVQ 
+CPAA_BACTJ       523   KITQIPATKT VRehp---MI KGP----GFT GGDLADLSSN S-DIlqydlr 
+CJAA_BACTJ       511   KITQIPVVKA SSINGSISIE KGP----GFT GGDLVKMRAD S-GLT---MR 
+CAAA_BACTI       509   NITQIHALKA LKVSSDSKIV KGP----GHT GGDLVILKDS M-DFR---VR 
+C4BA_BACTI       479   AITQVPAVKS NFLNATAKVI KGP----GHT GGDLVALTSN G-TLS---GR 
+COAA_BACTJ       514   EITQIPAVTA YELRGNSSVV AGP----GST GGDLVKMSYH Svwsf----- 
+                                                                 
+                       4444444443 3332222222 2220000222 2222111111 1010000000 
+ 
+1ciy_            482   IT----A--- ----PLSQRY RVRIRYASTT NLQFHTSIDG RPINQGN--- 
+1dlc_            493   PD----V--- ----SYSQKY RARIHYASTS QITFTLSLDG APFNQYY--- 
+C8CA_BACTP       559   T---DAK--- ----GASQRY RIRIRYASDR AGKFTISSRS PENpatysas 
+CQAA_BACTF       564   V---NVE--- ----DVSQKY RFRVRYATET EGELGIKIDG RTVNLYQ--- 
+C1BA_BACTK       543   VN----G--- ----PLTQRY RIGFRYASTV DFDFFVSRGG TTVNNFR--- 
+CKAA_BACUF       537   V---DSE--- ----ASNTRF IVRVRYASMN NNKLNLVLNG AQIASLN--- 
+C9AA_BACTG       564   FP----L--- ----HLRQQY RIRVRYASTT NIRLSVNGSF GTISQ-N--- 
+CPAA_BACTJ       565   sdydDRL--- ----TEDVPF RIRIRCASIG VSTISVDNWG SSSPQVT--- 
+CJAA_BACTJ       553   F---KAE--- ----LLDKKY RVRIRYKCNY SSKLILRKWK GEGYIQQQih 
+CAAA_BACTI       551   FL----K--- ----NVSRQY QVRIRYATNA PKTTVFLTGI DTISV-E--- 
+C4BA_BACTI       521   M---EIQckt SIFNDPTRSY GLRIRYAANS PIVLNVSYVL QGVSRGT--- 
+COAA_BACTJ       555   ---------- KVYCSELKNY RVRIRYASHG NCQFLMKRWP STGVAPRQwa 
+                                                                 
+                       0000000000 0000001111 1111111110 0000000000 0000000000 
+ 
+1ciy_            518   --FSA-TMSS GSNL-----Q ---SGSFRTV GFTTPFNF-- -SNG---SSV 
+1dlc_            529   --FDK-TINK GDTL-----T ---YNSFNLA SFSTPFEL-- -SGN---N-- 
+C8CA_BACTP       599   iaYTN-TMST NASL-----T ---YSTFAYA ESgpinlgis gSSR---T-- 
+CQAA_BACTF       601   --YKK-TKAP GDPL-----T ---YKAFDYL SFSTPVKF-- -NNA---SST 
+C1BA_BACTK       579   --FLR-TMNS GDEL-----K ---YGNFVRR AFTTPFTF-- -TQI---QDI 
+CKAA_BACUF       574   --VEH-TVQR GGSL-----T DLQYGNFKYA TFAGNFKM-- -GSQ---S-- 
+C9AA_BACTG       599   --LPS-TMRL GEDL-----R ---YGSFAIR EFNTSIRP-- -TAS---PDQ 
+CPAA_BACTJ       605   --VAS-Ta-- -ASL-----D TLKYESFQYV SIPGNYYF-- -DSAprirl- 
+CJAA_BACTJ       593   ni-------- ---------- SPTYGAFSYL ESFTITTT-- -ENIFDLTME 
+CAAA_BACTI       586   --LPStTSRQ NPNA-----T DLTYADFGYV TFPRTVPN-- -KTfegedtl 
+C4BA_BACTI       565   --TIS-TEST FSrpnniipT DLKYEEFRYK DPFdaivpmr lssnqliT-- 
+COAA_BACTJ       595   rhnv-----Q GTFS-----N SMRYEAFKYL DIFTITPE-- -ENNFAFTID 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            551   -FTLSAHVFN SGN------- --EVYIDRIE FVPAEVT--- ---------- 
+1dlc_            560   -LQIGVTGLS AGD------- --KVYIDKIE FIPVN----- ---------- 
+C8CA_BACTP       635   -FDISITKEA GAA------- --NLYIDRIE FIPVNTLFEA EE---DLDVA 
+CQAA_BACTF       634   -IELFLQN-K TSG------- --TFYLAGIE IIPVKSNYEE EL---TLEEA 
+C1BA_BACTK       612   -IRTSIQGLS GNG------- --EVYIDKIE IIPVTATFEA EY---DLERA 
+CKAA_BACUF       608   -I-LGIFKEI PNI------- --DFVLDKIE LIPSNFMSSL EQ---TQNYN 
+C9AA_BACTG       632   -IRLTIEpsf irq------- --EVYVDRIE FIPVNPTREA KE---DLEAA 
+CPAA_BACTJ       640   --------LR QPG------- --RLLVDRIE IIPVNFFPLS EQENKSVDSl 
+CJAA_BACTJ       622   --------Vt ypygrqfved ipSLILDKIE FLPTN----- ---------- 
+CAAA_BACTI       626   lMTLYGTP-N HSY------- --NIYIDKIE FIPITQSVLD YTEKQNIEKT 
+C4BA_BACTI       610   -IAIQPLNMT SNN------- --QVIIDRIE IIPITQSVLD ETENQNLESE 
+COAA_BACTJ       632   --------LE SGG------- --DLFIDKIE FIPVSGSAFE YEGKQNIEKT 
+                                                                 
+                       0000000000 0000000000 0011111111 1111100011 1100011111 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       672   KKAVNGLFT- NEKDA-LQTS VTDYQVNQAA NLIECLSDEL YPNEKRMLWD 
+CQAA_BACTF       670   KKAVSSLFT- DARNA-LKID VTDYQIDQAA NLVECISGDL YAKEKIVLLR 
+C1BA_BACTK       649   QEAVNALFT- NTnprrLKTD VTDYHIDQVS NLVACLSDEF CLDEKRELLE 
+CKAA_BACUF       644   TYNQDTIYTh ---------- ---------- ---------- ---------- 
+C9AA_BACTG       669   KKAVASLFT- RTRDG-LQVN VKDYQVDQAA NLVSCLSDEQ YGYDKKMLLE 
+CPAA_BACTJ       673   fin------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       666   QKIVNDLFVN ---------- ---------- ---------- ---------- 
+C4BA_BACTI       650   REVVNALFTN DAKDA-LNIG TTDYDIDQAA NLVECISEEL YPKEKMLLLD 
+COAA_BACTJ       665   QKAVNDLFIN ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111111110 0000001111 1111110111 1110111000 0001111100 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       720   AVKEAKRLVQ ARNLLQDTGF NRING--E-- ---------- --------NG 
+CQAA_BACTF       718   AVKFAKQLSQ SQNLLSDPEF NNVNR--E-- ---------- --------NS 
+C1BA_BACTK       698   KVKYAKRLSD ERNLLQDPNF TSINK--Qpd fistneqsnf tsiheqseHG 
+CKAA_BACUF       654   ---------- ---------- ---------- ---------- ---------- 
+C9AA_BACTG       717   AVRAAKRLSR ERNLLQDPDF NTINsteE-- ---------- --------NG 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       699   EVKNAKQLSQ SRNVLQNGDF ESatl----- ---------- ---------G 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       748   WTGSTGIEVV EGDVLFKDRS LRLTSAREid tET----YPT YLYQQIDESL 
+CQAA_BACTF       746   WTASTSVAII EGDPLYKGRA VQLSSARD-- -EN----FPT YLYQKIDEST 
+C1BA_BACTK       746   WWGSENITIQ EGNDVFKENY VTLPGTFN-- -EC----YPT YLYQKIGESE 
+CKAA_BACUF       654   ---------- ---------- ---------- ---------- ---------- 
+C9AA_BACTG       747   WKASNGVTIS EGGPFYKGRA IQLASAR--- -EN----YPT YIYQKVDASE 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       725   WTTSDNITIQ EDDPIFKGHY LHMSGAR--- -DidgtiFPT YIFQKIDESK 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000111 1111111111 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       794   LKPYTRYKLK GFIGSSQDLE IKLIRHranq -IVKNVPDNL ----LPDVRP 
+CQAA_BACTF       789   LKPYTRYQLR GFVEGSENLD VYLIRYGAA- HVRMNVPYNL eiidtss--P 
+C1BA_BACTK       789   LKAYTRYQLR GYIEDSQDLE IYLIRYNAK- HETLDVPgte slwpLSVESP 
+CKAA_BACUF       654   ---------- ---------- ---------- ---------- ---------- 
+C9AA_BACTG       789   LKPYTRYRLD GFVKSSQDLE IDLIHHH-KV HLVKNVPDNL ----VSDTYP 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       771   LKPYTRYLVR GFVGSSKDVE LVVSRYGeEI DAIMNVPADL ----NYLYPS 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111111111 1111111111 1111110000 0000000000 0000000000 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       839   VNSCGGVDRC SEQQYVDANL ALENNgengn m-SS------ -DSHAFSFHI 
+CQAA_BACTF       836   VNPCEEVDGL SHRscnvfdr ckqsisvapd antgpdqidg -DPHAFSFHI 
+C1BA_BACTK       838   IGRCGEPNRC APHFEWNPDL DCSCRDGEKC --AH------ -HSHHFSLDI 
+CKAA_BACUF       654   ---------- ---------- ---------- ---------- ---------- 
+C9AA_BACTG       834   DDSCSGINRC QEQQMVNAQL ETEHHHPMDC ceAA------ -QTHEFSSYI 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       817   TFDCEGSNRC Etsavpanig ntsdmlyscq ydtgkkhvvc qDSHQFSFTI 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       881   DTGEIDLNEN TGIWIVFKIP TTNGNATLGN LEFVEEGPLS GETLEWAQQQ 
+CQAA_BACTF       885   DTGTVDSTEN LGIWVAFKIS ELDGSAIFGN LELIEVGPLS GEALAQVQRK 
+C1BA_BACTK       879   DVGCTDLHEN LGVWVVFKIK TQEGHARLGN LEFIEEKPLL GEALSRVKRA 
+CKAA_BACUF       654   ---------- ---------- ---------- ---------- ---------- 
+C9AA_BACTG       877   DTGDLNSSVD QGIWAIFKVR TTDGYATLGN LELVEVGPLS GESLEREQRD 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       867   DTGALDTNEN IGVWVMFKIS SPDGYASLDN LEVIEEGPID GEALSRVKHM 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000011111 1111111110 0011111111 1101111111 1111000000 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       931   EQQWQDKMAR KRAASEKTYY AAKQAIDRLF ADYQDQKLNS GVEMSDLLAA 
+CQAA_BACTF       935   EEKWKQVLAK KRETTAQtvc sgeasqltns sqilkirnyd liqnfrifsl 
+C1BA_BACTK       929   EKKWRDKREK LQLETKRVYT EAKEAVDALF VDSQYDRLQA DTNIGMIHAA 
+CKAA_BACUF       654   ---------- -----NQGYD TYDQNSSGMY HQSYNNYDQN MDTTYQPSYD 
+C9AA_BACTG       927   NTKWSAELGR KRAETDRVYQ DAKQSINHLF VDYQDQQLNP EIGMADIMDA 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       917   EKKWNDQMEA KRSETQQAYD VAKQAIDALF TNVQDEALQF DTTLAQIQYA 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP       981   QNLVQSIPYV YNDALPEIPG MNYTSFTELT NRLQQAWNLY DLQNAIPNGD 
+CQAA_BACTF       985   rntlsikfki ytitnypysr LNYDLFMELE NRIQNA-SLY MTSNILQNGG 
+C1BA_BACTK       979   DKLVHRIREA YLSELPVIPG VNAEIFEELE GHIITAISLY DARNVVKNGD 
+CKAA_BACUF       689   NYnq------ ---------- ---------- ---------- ---------- 
+C9AA_BACTG       977   QNLVASISDV YSDAVLQIPG INYEIYTELS NRLQQASYLY TSRNAVQNGD 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI       967   EYLVQSIPYV YNDWLSDVPG MNYDIYVELD ARVAQARYLY DTRNIIKNGD 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000111 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP      1031   FRNGLSNWNA TSDVNVQQLS DTSVLVIPNW NSQVSQQFTV QPNYRYVLRV 
+CQAA_BACTF      1034   FKSDVTSWET TANAEVQQID GASVLVLSNW NASVAQSVNV QNDHGYVLRV 
+C1BA_BACTK      1029   FNNGLTCWNV KGHVDVQQSH HRSDLVIPEW EAEVSQAVRV CPGCGYILRV 
+CKAA_BACUF       693   --------NA SGTYDDGYNP NASDSYDQSY TNNYSQNTNS MYDQGYy--- 
+C9AA_BACTG      1027   FNNGLDSWNA TAGASVQQDG NTHFLVLSHW DAQVSQQFRV QPNCKYVLRV 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI      1017   FTQGVMGWHV TGNADVQQID GVSVLVLSNW SAGVSQNVHL QHNHGYVLRV 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111100000 0000000000 0000111111 1111110000 1111111111 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP      1081   TARKEGVGDG YVIIRDGANQ TETLTFNICD ddtgvlSTDQ TS-------- 
+CQAA_BACTF      1084   TAKKEGIGNG YVTILDCANH IDTLTFSACR SDsdtsSNEL TA-------- 
+C1BA_BACTK      1079   TAYKEGYGEG CVTIHEIENN TDELKFKNRE Eeevyptdtg tcndytahqg 
+CKAA_BACUF       732   ---------- -------NNN YDQHSGCTCN Q--------- ---------- 
+C9AA_BACTG      1077   TAEKVGGGDG YVTIRDDAHH TETLTFNACD YDingtyvtd nT-------- 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI      1067   IAKKEGPGNG YVTLMDCEEN QEKLTFTSCE E--------- ---------- 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111111111 1111000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP      1123   ---------- ---------- ---------- ---------- ---------- 
+CQAA_BACTF      1126   ---------- ---------- ---------- ---------- ---------- 
+C1BA_BACTK      1129   tagcadacns rnagyedaye vdttasvnyk ptyeeetytd vrrdnhceyd 
+CKAA_BACUF       746   ---------- ---------- ---------- ---------- ---------- 
+C9AA_BACTG      1119   ---------- ---------- ---------- ---------- ---------- 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI      1098   ---------- ---------- ---------- ---------- ---------- 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ciy_            578   ---------- ---------- ---------- ---------- ---------- 
+1dlc_            585   ---------- ---------- ---------- ---------- ---------- 
+C8CA_BACTP      1123   ---------- --YITKTVEF TPSTEQVWID MSETEGVFNI ESVELVLEEE 
+CQAA_BACTF      1126   ---------- --YVTKTLEI FPDTEQIRIE IGETEGMFYV ESVELIRMEn 
+C1BA_BACTK      1179   rgyvnyppvp aGYVTKELEY FPETDTVWIE IGETEGKFIV DSVELLLMEE 
+CKAA_BACUF       746   ---------- -GYdnnylk- ---------- ---------- ---------- 
+C9AA_BACTG      1119   ---------- --YLTKEVVF HPETQHMWVE VNETEGAFHI DSIEFVETEK 
+CPAA_BACTJ       676   ---------- ---------- ---------- ---------- ---------- 
+CJAA_BACTJ       649   ---------- ---------- ---------- ---------- ---------- 
+CAAA_BACTI       676   ---------- ---------- ---------- ---------- ---------- 
+C4BA_BACTI      1098   ---------- -GYITKTVDV FPDTDRVRIE IGETEGSFYI ESIELICMNE 
+COAA_BACTJ       675   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0011111111 1111111111 1111111111 1111110000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1ciy_       :0.0056421dlc_       :0.005642):0.001543(((C8CA_BACTP  :0.002391C9AA_BACTG  :0.002391):0.000653(CQAA_BACTF  :0.002743C1BA_BACTK  :0.002743):0.000300):0.000628C4BA_BACTI  :0.003671):0.003513):0.004125(CKAA_BACUF  :0.010640((CPAA_BACTJ  :0.006728COAA_BACTJ  :0.006728):0.002744(CJAA_BACTJ  :0.007939CAAA_BACTI  :0.007939):0.001533):0.001168):0.000670);
+ 
+ 

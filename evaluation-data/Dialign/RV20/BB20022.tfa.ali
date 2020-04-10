@@ -1,0 +1,804 @@
+1h2b_A             1   kaarlh---- ---------- ---------- ---------- ------EYNK 
+1f8f_A             1   lk-------- ---------- ---------- ---DII-AAV -----TPCKG 
+ADH_SULSO          1   ---------- ---------- ---------- ----MR-AVR -----LVEIG 
+ADH2_EMENI         1   M--------- ---------- -----AAPE- IPKKQK-AVI Y----DNPGT 
+YJGB_ECOLI         1   M--------- ---------- ---------- --SMIK-SYA -----AKEAG 
+ADH1_CAEEL         1   M--------- ---------- ------TVE- LPSTQR-ALV -----FDTWN 
+ADH2_CAEEL         1   M--------- ---------- -----SSAN- IPATQS-ALI -----FEKYG 
+ADH5_YEAST         1   M--------- ---------- -----PSQV- IPEKQK-AIV -----FYETD 
+ADH1_CANAL         1   M--------- ---------- ------SEQ- IPKTQK-AVV -----FDTNG 
+ADH1_PICST         1   ---------- ---------- -------MS- VPTTQK-AVV -----FESNG 
+ADH2_PICST         1   ---------- ---------- -------MS- IPTTQK-AVI -----FETNG 
+ADH1_KLULA         1   M--------- ---------- ------AAS- IPETQK-GVI -----FYENG 
+ADH3_YEAST         1   mlrtstlftr rvqpslfSRN ILRLQSTAA- IPKTQK-GVI -----FYENK 
+ADH4_KLULA         1   mfrlaraqta lankasvSRS FLRLNSSFA- IPETQK-GVI -----FYENG 
+ADH1_ASPFL         1   ---------- ---------- -------MS- IPEMQW-AQV -----AEQKG 
+ADH1_NEUCR         1   M--------- ---------- -----PQFE- IPEQQW-AQV -----VEKKG 
+ADH_SCHPO          1   ---------- ---------- -------MT- IPDKQlaAVF H----THGGP 
+ADHA_RHIME         1   M--------- ---------- ---------- ---TMT-AAV -----VREFG 
+ADHP_ECOLI         1   ---------- ---------- ---------- -----M-KAA -----VVTKD 
+ADH1_ZYMMO         1   ---------- ---------- ---------- -----M-KAA -----VITKD 
+ADH1_BACST         1   ---------- ---------- ---------- ----MK-AAV -----VEQFK 
+ADH2_BACST         1   ---------- ---------- ---------- ----MK-AAV -----VNEFK 
+MTD_PETCR          1   ---------- ---------- ---------- ---------- ---------- 
+MTD_APIGR          1   MAK-S----- ---------- -----SEIE- HPVKAF-GWA -----ARDTT 
+MTD_FRAAN          1   mai------- ---------- ------EQE- HRKKAS-GWA -----ARDSS 
+MTD_MESCR          1   mansA----- ---------- -----PENV- HPQKAF-GWA -----ARDTS 
+MTD1_ARATH         1   mgkvl----- ---------- ---------- -EKEAF-GLA -----AKDES 
+MTD1_STYHU         1   m--------- ---------- ---------- ASSKAF-GWA -----AKDAS 
+MTDH_ARATH         1   MAK-S----- ---------- -----PETE- HPNKVF-GWG -----ARDKS 
+CADH_MEDSA         1   M--------- ---------- -----GSIEA AERTTV-GLA -----AKDPS 
+CAD1_ARACO         1   M--------- ---------- -----GSLE- AERKTT-GWA -----ARDPS 
+CAD2_ARATH         1   M--------- ---------- -----GIME- AERKTT-GWA -----ARDPS 
+CAD1_ARATH         1   M--------- ---------- -----GSVEA GEKKAL-GWA -----ARDPS 
+CAD1_EUCGU         1   M--------- ---------- -----GSLE- KERTTT-GWA -----ARDPS 
+CADH_LOLPR         1   M--------- ---------- -----GSVDA SEKTIT-GWA -----ARDAT 
+CAD2_PICAB         1   M--------- ---------- -----GSLE- SEKTVT-GYA -----ARDSS 
+ADHC_MYCTU         1   M--------- ---------- ---------- --STVA-AYA -----AMSAT 
+YAHK_ECOLI         1   M--------- ---------- ---------- ---KIK-AVG -----AYSAK 
+ADH_ALCEU          1   mtam------ ---------- ---------- -----M-KAA -----VFVEP 
+TDH_PYRAB          1   MSEK------ ---------- ---------- ----MV-AIM -----KTKPA 
+Y053_HAEIN         1   mker------ ---------- ---------- -----I-KAI -----CLEKP 
+DHSO_BACSU         1   thtvpqn--- ---------- ---------- -----M-KAA -----VMHNT 
+DHSO_BACHD         1   ---------- ---------- ---------- ----MK-ALV K----TQHGT 
+TDH_THETN          1   MDGL------ ---------- ---------- ----MT-AVV -----KQYHK 
+XYLD_MORMO         1   M--------- ---------- ---------- ---IMK-ALV -----LEKAG 
+FADH_AMYME         1   ---------- ---------- ---------- -PQTVR-GVI -----ARSKG 
+XYLB_PSEPU         1   M--------- ---------- ---------- ---EIK-AAI -----VRQKN 
+FADH_CANMA         1   mseS------ ---------- ------TVG- KPITCK-AAV -----AWEAA 
+FAH1_SCHPO         1   msf------- ---------- -------EG- KTITCK-AAV -----AWGAK 
+ADH2_STRCA         1   ---T------ ---------- ------TEG- KVIKCK-AAI -----AWEAG 
+ADHP_RABIT         1   g--------- ---------- ------TKG- KVIKCK-AAI -----AWEAG 
+ADH4_RANPE         1   c--------- ---------- ------TAG- KDITCK-AAV -----AWEPH 
+ADH1_NAJNA         1   ---S------ ---------- ------TAG- KVIKCK-AAI -----AWELN 
+ADHB_UROHA         1   ---S------ ---------- ------TAG- KVIKCK-AAV -----VWEPK 
+ADHA_GEOBU         1   ---S------ ---------- ------TAG- KVIKCR-AAV -----LWEKN 
+1vj1_A             1   hxii------ ---------- ---------- ----QR-VVL N----SRPGK 
+1gu7_A             1   mita------ ---------- ---------- -----Q-AVL YtqhgEPKDV 
+1o89_A             1   ---------- ---------- ---------- -----L-QAL -----LLEQQ 
+                                                                 
+                       0000000000 0000000000 0000000000 1111110122 0000022222 
+ 
+1h2b_A            11   PLRIEDVDY- ------PRLE GRFDVIVRIA GAGVCHTDLH LVQ----GMW 
+1f8f_A            14   ADFELQALK- ------IRQP QGDEVLVKVV ATGMCHTDLI VR------DQ 
+ADH_SULSO         11   KPLSLQEIG- ------VPKP KGPQVLIKVE AAGVCHSDVH MRQ----GRF 
+ADH2_EMENI        21   VSTKVVELD- ------VPEP GDNEVLINLT HSGVCHSDFG IMT----NTW 
+YJGB_ECOLI        14   GELEVYEYD- ------PGEL RPQDVEVQVD YCGICHSDLS MID----NEW 
+ADH1_CAEEL        19   GPLEVRQVP- ------VPSP ADDEILVKIE YSGICHSDLH VWL----GDL 
+ADH2_CAEEL        20   GPLEVRQVS- ------VPQP QENELLVKIE YSGICHSDLH TWE----GDF 
+ADH5_YEAST        20   GKLEYKDVT- ------VPEP KPNEILVHVK YSGVCHSDLH AWH----GDW 
+ADH1_CANAL        19   GQLVYKDYP- ------VPTP KPNELLIHVK YSGVCHTDLH ARK----GDW 
+ADH1_PICST        17   GPLLYKDIP- ------VPTP KPNEILINVK YSGVCHTDLH AWK----GDW 
+ADH2_PICST        17   GPLLYKDIP- ------VPKP KPNELLINVK YSGVCHTDLH AWK----GDW 
+ADH1_KLULA        19   GELQYKDIP- ------VPKP KANELLINVK YSGVCHTDLH AWK----GDW 
+ADH3_YEAST        44   GKLHYKDIP- ------VPEP KPNEILINVK YSGVCHTDLH AWH----GDW 
+ADH4_KLULA        44   GKLEYKDLP- ------VPKP KANEILINVK YSGVCHTDLH AWK----GDW 
+ADH1_ASPFL        17   GPLIYKQIP- ------VPKP GPDEILVKVR YSGVCHTDLH ALK----GDW 
+ADH1_NEUCR        20   GPVVFKQIP- ------VQKP GPDEVLINVK YSGVCHTDLH AMK----GDW 
+ADH_SCHPO         19   ENVKFEEVP- ------VAEP GQDEVLVNIK YTGVCHTDLH ALQ----GDW 
+ADHA_RHIME        13   KPLVIEEVP- ------VPQP GPGQVLIKYE ATGVCHTDLH AAK----GDW 
+ADHP_ECOLI        10   HHVDVTYKT- ------LRSL KHGEALLKME CCGVCHTDLH VKN----GDF 
+ADH1_ZYMMO        10   HTIEVKDTK- ------LRPL KYGEALLEME YCGVCHTDLH VKN----GDF 
+ADH1_BACST        11   KPLQVKEVE- ------KPKI SYGEVLVRIK ACGVCHTDLH AAH----GDW 
+ADH2_BACST        11   KALEIKEVE- ------RPKL EEGEVLVKIE ACGVCHTDLH AAH----GDW 
+MTD_PETCR          1   -ILSPFKFS- ------RRAT GDNDVRFKVL YCGVCHSDLH MVK----NEW 
+MTD_APIGR         23   GLLSPFKFS- ------RRAT GEKDVRLKVL FCGVCHSDHH MIH----NNW 
+MTD_FRAAN         21   GVLSPFNFY- ------RRET GEKDVTFKVL YCGICHSDLH MVK----NEW 
+MTD_MESCR         24   GTLSPLKFS- ------RRAT GEQDVTFKVL YCGICHSDLH YIK----NEW 
+MTD1_ARATH        19   GILSPFSFS- ------RRAT GEKDVRFKVL FCGICHTDLS MAK----NEW 
+MTD1_STYHU        16   GHLSPFHFT- ------RRQN EADDVTLKIL YCGVCHSDLH TVK----NDW 
+MTDH_ARATH        23   GVLSPFHFS- ------RRDN GENDVTVKIL FCGVCHTDLH TIK----NDW 
+CADH_MEDSA        21   GILTPYTYT- ------LRNT GPDDVYIKIH YCGVCHSDLH QIK----NDL 
+CAD1_ARACO        20   GVLSPYTYT- ------LRET GPEDVFIKII YCGICHTDIH QIK----NDL 
+CAD2_ARATH        20   GILSPYTYT- ------LRET GPEDVNIRII CCGICHTDLH QTK----NDL 
+CAD1_ARATH        21   GVLSPYSYT- ------LRST GADDVYIKVI CCGICHTDIH QIK----NDL 
+CAD1_EUCGU        20   GVLSPYTYS- ------LRNT GPEDLYIKVL SCGICHSDIH QIK----NDL 
+CADH_LOLPR        21   GHLSPYTYN- ------LRRT GAEDVVLKVL YCGICHTDLH QTK----NHL 
+CAD2_PICAB        20   GHLSPYTYT- ------LRNK GPEDVIVRVI YCGICHSDLV QMH----NEM 
+ADHC_MYCTU        14   EPLTKTTIT- ------RRDP GPHDVAIDIK FAGICHSDIH TVK----AEW 
+YAHK_ECOLI        13   QPLEPMDIT- ------RREP GPNDVKIEIA YCGVCHSDLH QVR----SEW 
+ADH_ALCEU         14   GRIELADKP- ------IPDI GPNDALVRIT TTTICGTDVH ILK----GEY 
+TDH_PYRAB         15   YGAELVEVD- ------VPKP GPGEVLIKVI ATSICGTDLH IYE----WNE 
+Y053_HAEIN        14   NNVVVKEVP- ------YPEK SDNDVLIQVE SMGICGSDIG AYR----GTN 
+DHSO_BACSU        17   REIKIETLP- ------VPDI NHDEVLIKVM AVGICGSDLH YYTNGRIGNY 
+DHSO_BACHD        12   GHFAVQEKP- ------EPTP GKHQVKIKVK YTGVCGSDIH TYE----GHY 
+TDH_THETN         15   EGADIVKKE- ------IPKI GPDEVLIKVK ATSICGTDVH IYV----WNE 
+XYLD_MORMO        13   KIAIQDWQS- ------NEVL GDDDVEIKIH TVGICGSDVH YYQHGRIGPF 
+FADH_AMYME        14   APVELTDIV- ------IPDP GPSEVTALIA TCAVCHTDLT YRE----GGI 
+XYLB_PSEPU        13   GPFLLEHVA- ------LNEP AEDQVLVRLV ATGLCHTDLV CR------DQ 
+FADH_CANMA        22   KPLSIEDVT- ------VAPP KRHEVRIKLY DTGVCHTDAY TLS----GVD 
+FAH1_SCHPO        20   EPLSIEDIQ- ------VAPP KAHEVRVKVD WSAVCHTDAY TLS----GVD 
+ADH2_STRCA        19   KPLSVEEIE- ------VSPP KDHEVRVKIV ATGVCRTDEH AIN----PSF 
+ADHP_RABIT        19   KPLSIEEVE- ------VAPP KAHEVRVQIN AAGLCRSDTH VIN----PKF 
+ADH4_RANPE        19   KPLSLETIT- ------VAPP KAHEVRIKIL ASGICGSDSS VLK----EII 
+ADH1_NAJNA        19   KPLSIEQIE- ------VAPP KAHEVRIKIL ATGVCRSDEH VIS----GAF 
+ADHB_UROHA        19   KPFSIVEIE- ------VAPP KAHEVRIKIL ASGICRSDDH VLS----GAL 
+ADHA_GEOBU        19   KPFSIEEVE- ------VAPP KAYEVRIKIV ATGICRSDDH VVN----GSI 
+1vj1_A            16   NGNPVAEnfr veefslLDAL NEGQVQVRTL YLSVDPyxrc kxnedtgtDY 
+1gu7_A            19   LFTQSFEID- ------DDNL APNEVIVKTL GSPVNPSDIN QIQ----GVY 
+1o89_A            10   TLASVQTLD- ------ESRL PEGDVTVDVH WSSLNYKDAL AIT----GKG 
+                                                                 
+                       2333344440 0000004444 5556666676 7777777776 6650000554 
+ 
+1h2b_A            50   hel-----LQ -P-------- -KL---PYTL GHENVGYI-- -----EEVAE 
+1f8f_A            51   K-------YP -V-------- -PL---PAVL GHEGSGII-- -----EAIGP 
+ADH_SULSO         50   GnlrivedLG -V-------- -KL---PVTL GHEIAGKI-- -----EEVGD 
+ADH2_EMENI        60   K-------IL -P-------- -FPtqpGQVG GHEGVGKV-- -----VKLGA 
+YJGB_ECOLI        53   G--------F -S-------- -QY---PLVA GHEVIGRV-- -----VALGS 
+ADH1_CAEEL        58   K-------DM -S-------- -VC---PLVG GHEGAGSV-- -----VQIGK 
+ADH2_CAEEL        59   E-------YA -S-------- -IC---PLIG GHEGAGTV-- -----VTIGS 
+ADH5_YEAST        59   P-------FQ -L-------- -KF---PLIG GHEGAGVV-- -----VKLGS 
+ADH1_CANAL        58   P-------LA -T-------- -KL---PLVG GHEGAGVV-- -----VGMGE 
+ADH1_PICST        56   P-------LD -T-------- -KL---PLVG GHEGAGVV-- -----VGIGS 
+ADH2_PICST        56   P-------LD -T-------- -KL---PLVG GHEGAGVV-- -----VALGE 
+ADH1_KLULA        58   P-------LP -T-------- -KL---PLVG GHEGAGVV-- -----VAMGE 
+ADH3_YEAST        83   P-------LP -V-------- -KL---PLVG GHEGAGVV-- -----VKLGS 
+ADH4_KLULA        83   P-------LP -V-------- -KL---PLVG GHEGAGIV-- -----VAKGE 
+ADH1_ASPFL        56   P-------LP -V-------- -KM---PLVG GHEGAGVV-- -----VARGD 
+ADH1_NEUCR        59   P-------LA -T-------- -KM---PLVG GHEGAGVV-- -----VAKGE 
+ADH_SCHPO         58   P-------LP -A-------- -KM---PLIG GHEGAGVV-- -----VKVGA 
+ADHA_RHIME        52   P-------VR -P-------- -NP---PFIP GHEGVGYV-- -----AKLGA 
+ADHP_ECOLI        49   ---------G -D-------- -KT---GVIL GHEGIGVV-- -----AEVGP 
+ADH1_ZYMMO        49   ---------G -D-------- -ET---GRIT GHEGIGIV-- -----KQVGE 
+ADH1_BACST        50   P-------VK -P-------- -KL---PLIP GHEGVGVI-- -----EEVGP 
+ADH2_BACST        50   P-------IK -P-------- -KL---PLIP GHEGVGIV-- -----VEVAK 
+MTD_PETCR         39   G--------M -T-------- -TY---PIVP GHEIVGRV-- -----TEVGS 
+MTD_APIGR         62   G--------F -T-------- -TY---PIVP GHEIVGVV-- -----TEVGS 
+MTD_FRAAN         60   G--------F -S-------- -TY---PLVP GHEIVGEV-- -----TEVGS 
+MTD_MESCR         63   G--------N -A-------- -VY---PAIP GHEIVGVV-- -----TEVGN 
+MTD1_ARATH        58   G--------L -T-------- -TY---PLVP GHEIVGVV-- -----TEVGA 
+MTD1_STYHU        55   G--------F -T-------- -TY---PVVP GHEIAGIV-- -----TKVGS 
+MTDH_ARATH        62   G--------Y -S-------- -YY---PVVP GHEIVGIA-- -----TKVGK 
+CADH_MEDSA        60   G--------M -S-------- -NY---PMVP GHEVVGEV-- -----LEVGS 
+CAD1_ARACO        59   G--------A -S-------- -NY---PMVP GHEVVGEV-- -----VEVGS 
+CAD2_ARATH        59   G--------M -S-------- -NY---PMVP GHEVVGEV-- -----VEVGS 
+CAD1_ARATH        60   G--------M -S-------- -NY---PMVP GHEVVGEV-- -----LEVGS 
+CAD1_EUCGU        59   G--------M -S-------- -HY---PMVP GHEVVGEV-- -----LEVGS 
+CADH_LOLPR        60   G--------A -S-------- -KY---PMVP GHEVVGEV-- -----VEVGP 
+CAD2_PICAB        59   G--------M -S-------- -NY---PMVP GHEVVGVV-- -----TEIGS 
+ADHC_MYCTU        53   G--------Q -P-------- -NY---PVVP GHEIAGVV-- -----TAVGS 
+YAHK_ECOLI        52   A--------G -T-------- -VY---PCVP GHEIVGRV-- -----VAVGD 
+ADH_ALCEU         53   P-------VA -K-------- ------GLTV GHEPVGII-- -----EKLGS 
+TDH_PYRAB         54   WAQS-----R -I-------- -KP---PQIM GHEVAGEV-- -----VEVGP 
+Y053_HAEIN        53   P-------LV -T-------- -YP----RIL GHEIVGRV-- -----IESGI 
+DHSO_BACSU        60   V-------VE -K-------- ------PFIL GHECAGEI-- -----AAVGS 
+DHSO_BACHD        51   P-------VA -A-------- ------PVTL GHEFSGEI-- -----VELGE 
+TDH_THETN         54   WAKS-----R -I-------- -KP---PKTM GHEFVGEV-- -----VEIGE 
+XYLD_MORMO        56   V-------VD -E-------- ------PMVL GHEASGVI-- -----TAAGK 
+FADH_AMYME        53   ---------N -D-------- -EF---PFLL GHEAAGTV-- -----ESVGE 
+XYLB_PSEPU        50   H-------YP -V-------- -PL---PMVF GHEGAGVV-- -----ERVGS 
+FADH_CANMA        61   ---------P EG-------- -AF---PVIL GHEGAGIV-- -----ESIGE 
+FAH1_SCHPO        59   ---------P EG-------- -AF---PIVL GHEGAGIV-- -----ESIGE 
+ADH2_STRCA        58   ---------K EG-------- -VF---PVIL GHEGAGIV-- -----ESIGQ 
+ADHP_RABIT        58   ---------E GA-------- -FL---PVIL GHEGAGIV-- -----ESVGP 
+ADH4_RANPE        58   ---------P -S-------- -KF---PVIL GHEAVGVV-- -----ESIGA 
+ADH1_NAJNA        58   ---------R -M-------- -PL---PMVL GHEAAGVV-- -----ESVGE 
+ADHB_UROHA        58   ---------K -V-------- -NF---PIIL GHEAAGVV-- -----ESVGE 
+ADHA_GEOBU        58   ---------I -T-------- -PL---PAIL GHEAGGIV-- -----ESIGE 
+1vj1_A            66   L-------AP -W-------- -QL---AQVA DGGGIGIVee skhqkLAKGD 
+1gu7_A            58   P-------SK -Pakttgfgt tEP---AAPC GNEGLFEV-- -----IKVGS 
+1o89_A            49   K-------II -R-------- -NF---PMIP GIDFAGTV-- -----RT--S 
+                                                                 
+                       3000000013 0300000000 0440007778 8988888800 0000088888 
+ 
+1h2b_A            75   --GVEGLEKG DPVILHPAVT DGT-CLACRA GEDMHC-ENL E-F------- 
+1f8f_A            74   --NVTELQVG DHVVLSYGY- -CGKCTQCNT GNPAYC-SEF F-GRNFSGad 
+ADH_SULSO         80   --EVVGYSKG DLVAVNPWQG EGN-CYYCRI GEEHLC-DSP R-W------- 
+ADH2_EMENI        86   GAEASGLKIG DRVGVKWISS ACGQCPPCQD GADGLC-FNQ K-V------- 
+YJGB_ECOLI        75   AAQDKGLQVG QRVGIGWTAR SCGHCDACIS GNQINC-EQG A-V------- 
+ADH1_CAEEL        81   --NVTGWQLG DKAGVKLMNF NCLNCEFCKK GHEPLC-HHI Q-N------- 
+ADH2_CAEEL        82   --KVKGWNIG DRAGIKLINA NCLNCEYCKT GHEPLC-DHI Q-N------- 
+ADH5_YEAST        82   --NVKGWKVG DFAGIKWLNG TCMSCEYCEV GNESQC-PYL D-G------- 
+ADH1_CANAL        81   --NVKGWKIG DFAGIKWLNG SCMSCEFCQQ GAEPNC-GEA D-L------- 
+ADH1_PICST        79   --NVTGWELG DYAGIKWLNG SCLNCEFCQH SDEPNC-AKA D-L------- 
+ADH2_PICST        79   --NVTGWEIG DYAGIKWING SCLQCEYCVT AHESNC-PDA D-L------- 
+ADH1_KLULA        81   --NVKGWKIG DFAGIKWLNG SCMSCEYCEL SNESNC-PEA D-L------- 
+ADH3_YEAST       106   --NVKGWKVG DLAGIKWLNG SCMTCEFCES GHESNC-PDA D-L------- 
+ADH4_KLULA       106   --NVKNFEIG DYAGIKWLNG SCMSCELCEQ GYESNC-LQA D-L------- 
+ADH1_ASPFL        79   --LVTEFEIG DHAGLKWLNG SCLACEFCKQ ADEPLC-PNA S-L------- 
+ADH1_NEUCR        82   --LVTEVEVG DHAGIKWLNG SCLACSFCMQ ADEPLC-PHA L-L------- 
+ADH_SCHPO         81   --GVTRLKIG DRVGVKWMNS SCGNCEYCMK AEETIC-PHI Q-L------- 
+ADHA_RHIME        75   --EVTRLKEG DRVGVPWLHT ACGCCTPCRT GWETLC-GSQ Q-N------- 
+ADHP_ECOLI        70   --GVTSLKPG DRASVAWFYE GCGHCEYCNS GNETLC-RSV K-N------- 
+ADH1_ZYMMO        70   --GVTSLKAG DRASVAWFFK GCGHCEYCVS GNETLC-RNV E-N------- 
+ADH1_BACST        73   --GVTHLKVG DRVGIPWLYS ACGHCDYCLS GQETLC-ERQ Q-N------- 
+ADH2_BACST        73   --GVKSIKVG DRVGIPWLYS ACGECEYCLT GQETLC-PHQ L-N------- 
+MTD_PETCR         61   --KVEKFKVG DAVGVGCLVG SCLSCENCDD DSENNC-AKQ V-Q------- 
+MTD_APIGR         84   --KVEKVKVG DNVGIGCLVG SCRSCESCCD NRESHC-ENT I-D------- 
+MTD_FRAAN         82   --KVQKFKVG DRVGVGCIVG SCRSCENCTD HLENYC-PKQ I-L------- 
+MTD_MESCR         85   --KVQNFKVG DKVGVGCMVG SCRSCESCEN HLENYC-PKM I-L------- 
+MTD1_ARATH        80   --KVKKFNAG DKVGVGYMAG SCRSCDSCND GDENYC-PKM I-L------- 
+MTD1_STYHU        77   --NVTKFKEG DRVGVGVIVD SCQECECCQQ DLESYC-PKP V-F------- 
+MTDH_ARATH        84   --NVTKFKEG DRVGVGVISG SCQSCESCDQ DLENYC-PQM S-F------- 
+CADH_MEDSA        82   --NVTRFKVG EIVGVGLLVG CCKSCRACDS EIEQYC-NKK I-W------- 
+CAD1_ARACO        81   --DVTKFKVG DCVGDGTIVG CCKTCRPCKA DVEQYC-NKK I-W------- 
+CAD2_ARATH        81   --DVSKFTVG DIVGVGCLVG CCGGCSPCER DLEQYC-PKK I-W------- 
+CAD1_ARATH        82   --DVSKFTVG DVVGVGVVVG CCGSCKPCSS ELEQYC-NKR I-W------- 
+CAD1_EUCGU        81   --EVTKYRVG DRVGTGIVVG CCRSCSPCNS DQEQYC-NKK I-W------- 
+CADH_LOLPR        82   --EVSKYSVG DVVGVGVIVG CCRDCRPCKA NVEQYC-NKK I-W------- 
+CAD2_PICAB        81   --EVKKFKVG EHVGVGCIVG SCRSCSNCNG SMEQYC-SKR I-W------- 
+ADHC_MYCTU        75   --EVTKYRQG DRVGVGCFVD SCRECNSCTR GIEQYCkPGA N-F------- 
+YAHK_ECOLI        74   --QVEKYAPG DLVGVGCIVD SCKHCEECED GLENYC-DHM T-G------- 
+ADH_ALCEU         74   --AVTGYREG QRVIAGAICP NFNSYAAQDg vasqdgsylm ---------- 
+TDH_PYRAB         79   --GVEGIEVG DYVSVETHIV CGK-CYACRR GQYHVC-QNT K-I------- 
+Y053_HAEIN        75   Gms-DGVRVG DRVIVDPYVC CGQ-CYPCSI GRTNCC-ESL K-V------- 
+DHSO_BACSU        81   --SVDQFKVG DRVAVEPGVT CGR-CEACKE GRYNLC-PDV QFL------- 
+DHSO_BACHD        72   --GVTGFNVG DRVTSETTYS ICGKCSYCTS GDYNLC-SHR K-G------- 
+TDH_THETN         79   --NVTSVKVG DLVSAETHIV CGK-CRACRT GNAHIC-ENT L-I------- 
+XYLD_MORMO        77   --NVKHLKVG DRVCMEPGIP Dlqspqs-RA GIYNLD-PAV RFW------- 
+FADH_AMYME        74   --GVDSVQPG DYVVLNWRAV CGQ-CRACKR GRPQYC-FST F-N------- 
+XYLB_PSEPU        73   --AVKKVQPG DHVVLTFYT- -CGSCDACLS GDPTSC-ANS F-GPNFMGrs 
+FADH_CANMA        83   --GVTNVKVG DHVIALYTPE CGE-CKFCKS GKTNLC-GKI R-A------- 
+FAH1_SCHPO        81   --GVINVRPG DHVILLYTPE CKE-CKFCRS GKTNLC-SKI R-E------- 
+ADH2_STRCA        80   --GVSKFKPG DKVIPLYMPQ CGH-CKFCLN PKTNLC-EKI SKI------- 
+ADHP_RABIT        80   --GVTNVKPG DKVIPLYIPH CKK-CKFCLS PLTNFC-EKF CKg------- 
+ADH4_RANPE        79   --GVTCVKPG DKVIPLFVPQ CGS-CRACKS SNSNFC-EKN D-M------- 
+ADH1_NAJNA        79   --GVTCVKPG DKVIPLFAPQ CGK-CRACQS PKGNLC-TSN D-L------- 
+ADHB_UROHA        79   --GVTSMKPG DKVIPIFLPQ CGE-CNSCRH PRGNVC-KKS E-L------- 
+ADHA_GEOBU        79   --GVTTVKPG DKVIPLFVPQ CGK-CRACKH PESNLC-KHG D-L------- 
+1vj1_A            96   --FVTSFyw- ------PWQt kai------- ---------L D-G------- 
+1gu7_A            90   --NVSSLEAG DWVIPSHVN- -FGTwrthal g--------- ---------- 
+1o89_A            70   --EDPRFHAG QEVLl----- ---------T GW-------- --G------- 
+                                                                 
+                       0078778888 8776554444 4544544433 3333330222 2020000000 
+ 
+1h2b_A           113   ---------- -------P-- -----GL-NI D--------- ---------- 
+1f8f_A           118   segnhalcvn d--------- ---------- ---------- ---------- 
+ADH_SULSO        118   ---------- -------L-- -----GI-NF D--------- ---------- 
+ADH2_EMENI       127   ---------- -------S-- -----GY-YT P--------- ---------- 
+YJGB_ECOLI       116   ---------- -------P-- -----TI-MN R--------- ---------- 
+ADH1_CAEEL       120   ---------- -------Y-- -----GF-DR S--------- ---------- 
+ADH2_CAEEL       121   ---------- -------Y-- -----GI-DR H--------- ---------- 
+ADH5_YEAST       121   ---------- -------T-- -----GF-TH D--------- ---------- 
+ADH1_CANAL       120   ---------- -------S-- -----GY-TH D--------- ---------- 
+ADH1_PICST       118   ---------- -------S-- -----GY-TH D--------- ---------- 
+ADH2_PICST       118   ---------- -------S-- -----GY-TH D--------- ---------- 
+ADH1_KLULA       120   ---------- -------S-- -----GY-TH D--------- ---------- 
+ADH3_YEAST       145   ---------- -------S-- -----GY-TH D--------- ---------- 
+ADH4_KLULA       145   ---------- -------S-- -----GY-TH D--------- ---------- 
+ADH1_ASPFL       118   ---------- -------S-- -----GY-TV D--------- ---------- 
+ADH1_NEUCR       121   ---------- -------S-- -----GY-TV D--------- ---------- 
+ADH_SCHPO        120   ---------- -------S-- -----GY-TV D--------- ---------- 
+ADHA_RHIME       114   ---------- -------T-- -----GY-SV D--------- ---------- 
+ADHP_ECOLI       109   ---------- -------A-- -----GY-SV D--------- ---------- 
+ADH1_ZYMMO       109   ---------- -------A-- -----GY-TV D--------- ---------- 
+ADH1_BACST       112   ---------- -------A-- -----GY-SV D--------- ---------- 
+ADH2_BACST       112   ---------- -------G-- -----GY-SV D--------- ---------- 
+MTD_PETCR        100   ---------- -------TYA FTNVDGS-IT Y--------- ---------- 
+MTD_APIGR        123   ---------- -------TYG SIYFDGT-MT H--------- ---------- 
+MTD_FRAAN        121   ---------- -------TYG AKYYDGS-TT Y--------- ---------- 
+MTD_MESCR        124   ---------- -------TYG STYYDGT-LT Y--------- ---------- 
+MTD1_ARATH       119   ---------- -------TSG AKNFDDT-MT H--------- ---------- 
+MTD1_STYHU       116   ---------- -------TYN SPYk-GT-RT Q--------- ---------- 
+MTDH_ARATH       123   ---------- -------TYN AIGSDGT-KN Y--------- ---------- 
+CADH_MEDSA       121   ---------- -------SYN DVYTDGK-IT Q--------- ---------- 
+CAD1_ARACO       120   ---------- -------SYN DVYTDGK-PT Q--------- ---------- 
+CAD2_ARATH       120   ---------- -------SYN DVYINGQ-PT Q--------- ---------- 
+CAD1_ARATH       121   ---------- -------SYN DVYTDGK-PT Q--------- ---------- 
+CAD1_EUCGU       120   ---------- -------NYN DVYTDGK-PT Q--------- ---------- 
+CADH_LOLPR       121   ---------- -------SYN DVYTDGK-PT Q--------- ---------- 
+CAD2_PICAB       120   ---------- -------TYN DVNHDGT-PT Q--------- ---------- 
+ADHC_MYCTU       115   ---------- -------TYN SIGKDGQ-PT Q--------- ---------- 
+YAHK_ECOLI       113   ---------- -------TYN SPTPDepgHT L--------- ---------- 
+ADH_ALCEU        112   ASGQCGCHGY KATagwrF-- -----GN-MI D--------- ---------- 
+TDH_PYRAB        117   ---------- -------F-- -----GV-DT D--------- ---------- 
+Y053_HAEIN       114   ---------- -------I-- -----GV-HI D--------- ---------- 
+DHSO_BACSU       120   ---------- -------A-- -----TP-PV D--------- ---------- 
+DHSO_BACHD       111   ---------- -------L-- -----GN-QQ D--------- ---------- 
+TDH_THETN        117   ---------- -------L-- -----GV-DT D--------- ---------- 
+XYLD_MORMO       116   ---------- -------A-- -----TP-PI D--------- ---------- 
+FADH_AMYME       112   ---------- -------Atq kmtltd---- ---------- -----GTELT 
+XYLB_PSEPU       117   VTGECTIHDH QGAevga--- ---------- ---------- ---------- 
+FADH_CANMA       121   ---------- -------TQG KG-------- ---VMPDGTS RFTCKGKEIL 
+FAH1_SCHPO       119   ---------- -------TQG RG-------- ---LMPDGTS RFSCRDKTLL 
+ADH2_STRCA       119   ---------- -------K-- -----TP-IS DQEVMSDGTS RFTCKGKPIY 
+ADHP_RABIT       119   ---------- -------K-- -----NP-LI EQELMEDKTS RFTCKGKSIY 
+ADH4_RANPE       117   ---------- -------GAK TG-------- ---LMADMTS RFTCRGKPIY 
+ADH1_NAJNA       117   ---------- -------NSG SG-------- ---LMPDGTS RFTCKGKSIH 
+ADHB_UROHA       117   ---------- -------GPF TG-------- ---LLYDGTS RFTYQGKPVY 
+ADHA_GEOBU       117   ---------- -------GRA QG-------- ---TLMDGTS RFTCKGKPIH 
+1vj1_A           113   ---------- -------N-- -----Glekv d--------- ---------- 
+1gu7_A           117   ---------- ---------- ---------N D--------- ---------- 
+1o89_A            87   ---------- -------V-- -----GE-NH W--------- ---------- 
+                                                                 
+                       0000000000 0000000210 0000022022 2000000000 0000000000 
+ 
+1h2b_A           119   -----GGFAE FMRTSHR--S VIKLP-KDIs reKLVEMAPL ADAGITAYR- 
+1f8f_A           129   HFFAQSSFAT YALSREN--N TVKVT-KDV- --PIELLGPL GCGIQTGAGA 
+ADH_SULSO        124   -----GAYAE YVIVPHY--K YMYKL-RRL- --NAVEAAPL TCSGITTYR- 
+ADH2_EMENI       133   -----GTFQQ YVLGPAQ--Y VTPIP-DGL- --PSAEAAPL LCAGVTVYA- 
+YJGB_ECOLI       122   -----GGFAE KLRADWQ--W VIPLP-ENI- --DIESAGPL LCGGITVFK- 
+ADH1_CAEEL       126   -----GTFQE YLTIRGV--D AAKIN-KDT- --NLAAAAPI LCAGVTVYK- 
+ADH2_CAEEL       127   -----GTFQE YLTIRDI--D AIKVS-NDT- --NLAAAAPV LCGGVTAYK- 
+ADH5_YEAST       127   -----GTFQE YATADAV--Q AAHIP-PNV- --NLAEVAPI LCAGITVYK- 
+ADH1_CANAL       126   -----GSFEQ YATADAV--Q AAKIP-AGT- --DLANVAPI LCAGVTVYK- 
+ADH1_PICST       124   -----GSFQQ YATADAV--Q AARLP-KGT- --DLAQAAPI LCAGITVYK- 
+ADH2_PICST       124   -----GSFQQ YATADAI--Q AARIP-KGT- --DLALIAPI LCAGITVYK- 
+ADH1_KLULA       126   -----GSFQQ YATADAV--Q AAKIP-VGT- --DLAEVAPV LCAGVTVYK- 
+ADH3_YEAST       151   -----GSFQQ FATADAI--Q AAKIQ-QGT- --DLAEVAPI LCAGVTVYK- 
+ADH4_KLULA       151   -----GSFQQ YRTADAV--Q AAQIP-KGT- --DLAEIAPI LCAGVTVYK- 
+ADH1_ASPFL       124   -----GTFQQ YAIGKAT--H ASKLP-KNV- --PLDAVAPV LCAGITVYK- 
+ADH1_NEUCR       127   -----GSFQQ YAIAKAA--H VAKIP-KGC- --DLETTAPV LCAGITVYK- 
+ADH_SCHPO        126   -----GTFQH YCIANAT--H ATIIP-ESV- --PLEVAAPI MCAGITCYR- 
+ADHA_RHIME       120   -----GTFAQ YGLADPD--F VGRLP-ARL- --EFGPAAPV LCAGVTVYK- 
+ADHP_ECOLI       115   -----GGMAE ECIVVAD--Y AVKVP-DGL- --DSAAASSI TCAGVTTYK- 
+ADH1_ZYMMO       115   -----GAMAE ECIVVAD--Y SVKVP-DGL- --DPAVASSI TCAGVTTYK- 
+ADH1_BACST       118   -----GGYAE YCRAAAD--Y VVKIP-DNL- --SFEEAAPI FCAGVTTYK- 
+ADH2_BACST       118   -----GGYAE YCKAPAD--Y VAKIP-DNL- --DPVEVAPI LCAGVTTYK- 
+MTD_PETCR        113   -----GGYAD SMVADQH--F VLRWP-ENL- --PLDSGAPL LCAGITTYS- 
+MTD_APIGR        136   -----GGYSD TMVADEH--F ILRWP-KNL- --PLDSGAPL LCAGITTYS- 
+MTD_FRAAN        134   -----GGYSD IMVADEH--F IVRIP-DNL- --PLDGAAPL LCAGITTYS- 
+MTD_MESCR        137   -----GGYSD IMVVEEH--F AVRIP-DNM- --ALDATAPL LCAGVTVYS- 
+MTD1_ARATH       132   -----GGYSD HMVCAED--F IIRIP-DNL- --PLDGAAPL LCAGVTVYS- 
+MTD1_STYHU       128   -----GGYSD FVVVHQR--F VLQFP-DNL- --PLDAGAPL LCAGITVYS- 
+MTDH_ARATH       136   -----GGYSE NIVVDQR--F VLRFP-ENL- --PSDSGAPL LCAGITVYS- 
+CADH_MEDSA       134   -----GGFAE STVVEQK--F VVKIP-EGL- --APEQVAPL LCAGVTVYS- 
+CAD1_ARACO       133   -----GGFSG HMVVDQK--F VVKIP-DGM- --APEQAAPL LCAGVTVYS- 
+CAD2_ARATH       133   -----GGFAK ATVVHQK--F VVKIP-EGM- --AVEQAAPL LCAGVTVYS- 
+CAD1_ARATH       134   -----GGFAD TMIVNQK--F VVKIP-EGM- --AVEQAAPL LCAGVTVYS- 
+CAD1_EUCGU       133   -----GGFAG EIVVGER--F VVKIP-DGL- --ESEQAAPL MCAGVTVYR- 
+CADH_LOLPR       134   -----GGFAG SMVVDQK--F VVKIP-AGL- --APEQAAPL LCAGVTVYS- 
+CAD2_PICAB       133   -----GGFAS SMVVDQM--F VVRIP-ENL- --PLEQAAPL LCAGVTVYS- 
+ADHC_MYCTU       128   -----GGYSE AIVVDEN--Y VLRIP-DVL- --PLDVAAPL LCAGITLYS- 
+YAHK_ECOLI       127   -----GGYSQ QIVVHER--Y VLRIRhPQE- --QLAAVAPL LCAGITTYS- 
+ADH_ALCEU        135   -----GTQAE YVLVPDAqaN LTPIP-DGL- --TDEQVLMC PDIMSTGFK- 
+TDH_PYRAB        123   -----GVFAE YAVVPAQ--N VWKNP-KSI- --PPEYATLQ EP-LGNAVD- 
+Y053_HAEIN       120   -----GGMQE VIRHPAH--L LTKVP-DNL- --PIHQLPLA EP-LTIALH- 
+DHSO_BACSU       126   -----GAFVQ YIKMRQD--F VFLIP-DSL- --SYEEAALI EP-FSVGIH- 
+DHSO_BACHD       117   -----GSFAK YVIARQE--S LHHLP-AGV- --DDRSAAMT EP-LACTHH- 
+TDH_THETN        123   -----GAFAE YIKVPES--N VWIND-KNI- --PLEILSIQ EP-LGNAVH- 
+XYLD_MORMO       122   -----GCLRE SVIHPAA--F TFKLP-DNV- --SFAQGAMV EP-LAIGMQ- 
+FADH_AMYME       126   PALGIGAFAD KTLVHAG--Q CTKVD-PAAd --PAV-AGLL GCGVMAGLGA 
+XYLB_PSEPU       134   SFFGQSSFAT YALSYER--N TVKVT-KDV- --PLELLGPL GCGIQTGAGS 
+FADH_CANMA       143   HFMGCSTFSQ YTVVADI--S VVAIN-PKA- --EFDKACLL GCGITTGYGA 
+FAH1_SCHPO       141   HYMGCSSFSQ YTVVADI--S LVAIS-HSA- --PLRSICLL GCGVTTGFGA 
+ADH2_STRCA       144   HFMGTSTFSE YTVVSES--S LAKID-AAA- --PLDKVCLI GCGFSTGYGA 
+ADHP_RABIT       144   HFFGISAFSQ YTVVKDV--N LAKID-DDA- --NLERVCLI GCGFSTGYGA 
+ADH4_RANPE       139   NLVGTSTFTE YTVVADI--A VAKID-PKA- --PLE-SCLI GCGFATGYGA 
+ADH1_NAJNA       139   HFISTSTFTE YTVVHEN--S VVKID-PSA- --PLEKVCLI GCGFSTGYGA 
+ADHB_UROHA       139   HFVRTGTFTE YTVAPED--S VVKID-ASA- --PLEKVCLI GCGFSTGYGA 
+ADHA_GEOBU       139   HFLGVTTFSE YTVVSEI--S VTKID-ATS- --PLEKVCLI GCGFSTGYGS 
+1vj1_A           120   ---------- ---------- ----P-QLV- --DGHLSYFL GAIGXPGLT- 
+1gu7_A           119   -----DDFIK LPNPAQS--K ANGKP-NGL- --TINQGATI SVNPLTAYL- 
+1o89_A            93   -----GGLAE QARVKGD--W LVAMP-QGL- --DARKAMII GTAGFTAML- 
+                                                                 
+                       0000033433 3333333003 3344404440 0044444555 5555555550 
+ 
+1h2b_A           160   AVK------K AArtL-Y-PG A-YVAIVG-V GGLGHIAVQL -LKVMTPATV 
+1f8f_A           173   CIN------A LK--V-T-PA S-SFVTWG-A GAVGLSALLA -AKVCGASII 
+ADH_SULSO        162   AVR------K AS--L-D-PT K-TLLVVGAG GGLGTMAVQI -AKAVSGATI 
+ADH2_EMENI       171   SLK------R SK--A-Q-PG Q-WIVISGAG GGLGHLAVQI aAKGMGL-RV 
+YJGB_ECOLI       160   PLL------M HH--I-T-AT S-RVGVIG-I GGLGHIAIKL -LHAMGC-EV 
+ADH1_CAEEL       164   ALK------E SN--V-A-PG Q-IIVLTGAG GGLGSLAIQY -ACAMGM-RV 
+ADH2_CAEEL       165   SLK------A TN--V-K-PG Q-IVVLTGAG GGLGSFGIQY -AKAMGM-RV 
+ADH5_YEAST       165   ALK------R AN--V-I-PG Q-WVTISGAC GGLGSLAIQY -ALAMGY-RV 
+ADH1_CANAL       164   ALK------T AD--L-A-AG Q-WVAISGAG GGLGSLAVQY -ARAMGL-RV 
+ADH1_PICST       162   ALK------T AQ--I-Q-PG N-WVCISGAG GGLGSLAIQY -AKAMGF-RV 
+ADH2_PICST       162   ALK------T AQ--L-Q-AG Q-WVAVSGAA GGLGSLAIQY -AKAMGY-RV 
+ADH1_KLULA       164   ALK------S AN--L-K-AG D-WVAISGAA GGLGSLAVQY -AKAMGY-RV 
+ADH3_YEAST       189   ALK------E AD--L-K-AG D-WVAISGAA GGLGSLAVQY -ATAMGY-RV 
+ADH4_KLULA       189   ALK------T AD--L-K-PG Q-WVAISGAA GGLGSLAVQY -RKAMGL-RV 
+ADH1_ASPFL       162   GLK------E SG--V-R-PG Q-TVAIVGAG GGLGSLALQY -AKAMGI-RV 
+ADH1_NEUCR       165   GLK------E SG--V-R-PG Q-CVAIVGAG GGLGSMAIQY -ANAMGL-HA 
+ADH_SCHPO        164   ALK------E SK--V-G-PG E-WICIPGAG GGLGHLAVQY -AKAMAM-RV 
+ADHA_RHIME       158   GLK------E TE--V-R-PG E-WVLVSG-I GGLGHMAVQY -AKAMGM-HV 
+ADHP_ECOLI       153   AVK------L SK--I-R-PG Q-WIAIYG-L GGLGNLALQY -AKNVFNAKV 
+ADH1_ZYMMO       153   AVK------V SQ--I-Q-PG Q-WLAIYG-L GGLGNLALQY -AKNVFNAKV 
+ADH1_BACST       156   ALK------V TG--A-K-PG E-WVAIYG-I GGLGHVAVQY -AKAMGL-NV 
+ADH2_BACST       156   ALK------V SG--A-R-PG E-WVAIYG-I GGLGHIALQY -AKAMGL-NV 
+MTD_PETCR        151   PLR------Y HG--LDK-PG T-KVGVVG-L GGLGHVAVKM -AKAFGA-HV 
+MTD_APIGR        174   PLK------Y YG--LDK-PG T-KIGVVG-L GGLGHVAVKM -AKAFGA-QV 
+MTD_FRAAN        172   PLR------Y FG--LDK-PG M-HVGVVG-L GGLGHVAVKF -AKAMGV-KV 
+MTD_MESCR        175   PLK------H FE--LDK-PG L-HIGVVG-L GGLGHMAVKF -GKAFGA-KV 
+MTD1_ARATH       170   PMK------Y HG--LDK-PG M-HIGVVG-L GGLGHVAVKF -AKAMGT-KV 
+MTD1_STYHU       166   PMK------Y YG--MTE-PG K-HLGVAG-L GGLGHVAIKF -GKAFGL-KV 
+MTDH_ARATH       174   PMK------Y YG--MTE-AG K-HLGVAG-L GGLGHVAVKS -GKAFGL-KV 
+CADH_MEDSA       172   PLS------H FG--LKT-PG L-RGGILG-L GGVGHMGVKV -AKALGH-HV 
+CAD1_ARACO       171   PLT------H FG--LKEiSG L-RGGILG-L GGVGHMGVKL -AKAMGH-HV 
+CAD2_ARATH       171   PLS------H FG--LKQ-PG L-RGGILG-L GGVGHMGVKI -AKAMGH-HV 
+CAD1_ARATH       172   PLS------H FG--LMA-SG L-KGGILG-L GGVGHMGVKI -AKAMGH-HV 
+CAD1_EUCGU       171   PLV------R FG--LKQ-SG L-RGGILG-L GGVGHMGVKI -AKAMGH-HV 
+CADH_LOLPR       172   PLK------H FG--LMT-PG L-RGGILG-L GGVGHMGVKV -AKSMGH-HV 
+CAD2_PICAB       171   PMK------H FG--MTE-PG K-KCGILG-L GGVGHMGVKI -AKAFGL-HV 
+ADHC_MYCTU       166   PLR------H WN--A-G-AN T-RVAIIG-L GGLGHMGVKL -GAAMGA-DV 
+YAHK_ECOLI       166   PLR------H WQ--A-G-PG K-KVGVVG-I GGLGHMGIKL -AHAMGA-HV 
+ADH_ALCEU        175   GAE------N AN--I-R-IG H-TVAVFA-Q GPIGLCATAG -ARLCGATTI 
+TDH_PYRAB        160   TV-------- LA--GPI-SG K-SVLITG-A GPLGLLGIAV -AKASGAYPV 
+Y053_HAEIN       157   ALH------R TT--L-K-SG E-HIVIIG-A GAIGLMAALA -AVQYGA-IP 
+DHSO_BACSU       163   AAA------R TK--L-Q-PG S-TIAIMG-M GPVGLMAVAA -AKAFGAGTI 
+DHSO_BACHD       154   AIA------K TS--I-N-KG D-LVVVTG-P GPIGLLAAQV -AKSHGGTVI 
+TDH_THETN        160   TV-------- FS--GDV-VG K-SVAVIG-C GPIGMMAIPL -LKRTGAAAI 
+XYLD_MORMO       159   SAT------K AG--I-K-PG D-IGLVIG-A GTIGII-TQS -ALAGGCSDV 
+FADH_AMYME       170   AVN------T GA--V-S-RG D-SVAVIG-C GAVGDAVIAG -ARLAGANKI 
+XYLB_PSEPU       178   VLN------A LN--P-P-AG S-AIAIFG-A GAVGLSAVMA -AVVAGCTTI 
+FADH_CANMA       187   ATI------T AN--V-Q-KG D-NVAVFG-G GIVGLSVIQG -CAERGAAQI 
+FAH1_SCHPO       185   VTH------S AK--V-E-SG S-TVAVVG-C GCVGLAAMQG -AVAAGASRI 
+ADH2_STRCA       188   AIN------T AQ--V-E-PG S-TCAVFG-L GGVGLSAVMG -CKAAGASKI 
+ADHP_RABIT       188   AIN------T AK--V-T-PG S-TCAVFG-L GGVGLSAIMG -CKTAGASRI 
+ADH4_RANPE       182   AVN------T AK--V-T-PG S-TCAVFG-L GGVGFSAIVG -CKAAGASRI 
+ADH1_NAJNA       183   AMQ------T AK--V-E-PG S-ICAVFG-L GGVGLSVVMG -CKAAGASRI 
+ADHB_UROHA       183   AIN------S AK--V-Q-PG S-TCAVFG-L GGVGLSAVMG -CKAAGASRI 
+ADHA_GEOBU       183   AVK------V GK--V-A-RG S-ICSCVW-S GRVGLSAIIG -CKAAGAARI 
+1vj1_A           141   SLIGVQEKGH IS--A-G-SN Q-TXVVSGAA GACGSLAGQI -GHLLGCSRV 
+1gu7_A           157   MLT------H YV--KLT-PG KDWFIQNGGT SAVGKYASQI -GKLLNFNSI 
+1o89_A           131   CVMALEDAG- -----VR-PQ DGEIVVTGAS GGVGSTAVAL -LHKLGY-QV 
+                                                                 
+                       5540000004 4400414044 4045555514 5555555554 0444443034 
+ 
+1h2b_A           199   IALDVK---E -EKLKLAER- LGADHVVDAR RDPVK----- ----QV---- 
+1f8f_A           210   IAVDIV---E -SRLELAKQ- LGATHVINSK TQDPV----- ----AA---- 
+ADH_SULSO        200   IGVDVR---E -EAVEAAKR- AGADYVINAS MQDPL----- ----AE---- 
+ADH2_EMENI       209   IGVDHG---S -KEE-LVKA- SGAEHFVDIT KF-PTGdkfe aISSHV---- 
+YJGB_ECOLI       196   TAFSSN---P -AKEQEVLA- MGADKVVNSR DPQAL----- ----KA---- 
+ADH1_CAEEL       201   VAMDHG---S -KEA-HCKG- LGAEWFVDAF ET-PD----- -IVSHI---- 
+ADH2_CAEEL       202   VAVDHI---S -KED-HCRN- LGAEWFVDAF DT-PD----- -IVAHI---- 
+ADH5_YEAST       202   IGIDGG---N -AKRKLFEQ- LGGEIFIDFT EE-KD----- -IVGAI---- 
+ADH1_CANAL       201   VAIDGG---D -EKGEFVKS- LGAEAYVDFT KD-KD----- -IVEAV---- 
+ADH1_PICST       199   IAIDGG---E -EKGEFVKS- LGAEAYVDFT VS-KD----- -IVKDI---- 
+ADH2_PICST       199   VGIDGG---A -DKGEFAKS- LGAEVFVDFL SS-KD----- -VVADV---- 
+ADH1_KLULA       201   LGIDAG---E -EKAKLFKD- LGGEYFIDFT KS-KN----- -IPEEV---- 
+ADH3_YEAST       226   LGIDAG---E -EKEKLFKK- LGGEVFIDFT KT-KN----- -MVSDI---- 
+ADH4_KLULA       226   LGIDGG---D -GKEELFKQ- CGGEVFIDFR KS-KD----- -MVADI---- 
+ADH1_ASPFL       199   VAIDGG---E -EKQAMCEQ- LGAEAYVDFT KT-QD----- -LVADV---- 
+ADH1_NEUCR       202   IAIDGG---E -EKGKNCRE- LGAQAYVDFT TT-KD----- -LVADV---- 
+ADH_SCHPO        201   VAIDTG---D -DKAELVKS- FGAEVFLDFK KE-AD----- -MIEAV---- 
+ADHA_RHIME       194   AAADIF---P -DKLALAEK- LGADLVVDAR APDAV----- ----EE---- 
+ADHP_ECOLI       190   IAIDVN---D -EQLKLATE- MGADLAINSH TEDAA----- ----KI---- 
+ADH1_ZYMMO       190   IAIDVN---D -EQLAFAKE- LGADMVINPK NEDAA----- ----KI---- 
+ADH1_BACST       192   VAVDLG---D -EKLELAKQ- LGADLVVNPK HDDAA----- ----QW---- 
+ADH2_BACST       192   VAVDIS---D -EKSKLAKD- LGADIAINGL KEDPV----- ----KA---- 
+MTD_PETCR        188   TVISTS---E -SKKQEALEK LGADEFLVSS DSDQM----- ----QA---- 
+MTD_APIGR        211   TVIDIS---E -SKRKEALEK LGADSFLLNS DQEQM----- ----KG---- 
+MTD_FRAAN        209   TVISTS---P -KKEEEALKH LGADSFLVSR DQDQM----- ----QA---- 
+MTD_MESCR        212   TVISTS---P -NKKDEAVNR LGADSFVVSR EPEQM----- ----QS---- 
+MTD1_ARATH       207   TVISTS---E -RKRDEAVTR LGADAFLVSR DPKQM----- ----KD---- 
+MTD1_STYHU       203   TVISSS---P -NKESEAIDV LGADSFLLSS DPEKM----- ----KA---- 
+MTDH_ARATH       211   TVISSS---S -TKAEEAINH LGADSFLVTT DPQKM----- ----KA---- 
+CADH_MEDSA       209   TVISSS---D -KKKKEALED LGADNYLVSS DTVGM----- ----QE---- 
+CAD1_ARACO       209   TVISSS---D -KKKEEAIDH LGADAYLVSS DATQM----- ----QE---- 
+CAD2_ARATH       208   TVISSS---N -KKREEALQD LGADDYVIGS DQAKM----- ----SE---- 
+CAD1_ARATH       209   TVISSS---D -KKKEEAIEH LGADDYVVSS DPAEM----- ----QR---- 
+CAD1_EUCGU       208   TVISSS---D -KKRTEALEH LGADAYLVSS DENGM----- ----KE---- 
+CADH_LOLPR       209   TVISSS---D -KKRAEAMDD LGADDYLVSS DEAQM----- ----AA---- 
+CAD2_PICAB       208   TVISSS---D -KKKEEALEV LGADAYLVSK DAEKM----- ----QE---- 
+ADHC_MYCTU       202   TVLSQS---L -KKMEDGLR- LGAKSYYATA DPDTF----- ----RK---- 
+YAHK_ECOLI       202   VAFTTS---E -AKREAAKA- LGADEVVNSR NADEM----- ----AA---- 
+ADH_ALCEU        212   IAIDGN---D -HRLEIARK- MGADVVLNFR NCDVV----- ----DE---- 
+TDH_PYRAB        196   IVSEPS---D -FRRELAKK- VGADYVINPF EEDVV----- ----KE---- 
+Y053_HAEIN       193   ILVDIL---E -QRLEYAKS- LGIEHIVNPH KEDDI----- ----KR---- 
+DHSO_BACSU       200   IVTDLE---P -LRLEAAKK- MGATHIINIR EQDAL----- ----EE---- 
+DHSO_BACHD       191   ITGLSN---D QVRLKKAKE- VGIDYAIDTQ EVDIK----- ----EL---- 
+TDH_THETN        196   FAIEPA---D -YRRELAHK- LGATRVINPL REDVV----- ----SI---- 
+XYLD_MORMO       195   IICDVF---D -EKLKVAEK- YQGLHAVNSK DQQAL----- ----ADk--- 
+FADH_AMYME       207   IAVDRD---A -KKLEWATE- LGATHTVNAT ETDVV----- ----EA---- 
+XYLB_PSEPU       215   IAVDVK---E -NRLELASE- LGATHIINPA ANDPI----- ----EA---- 
+FADH_CANMA       224   ILVDIS---D -KKEEWGQK- LGATAFVNPT KL-PEGtt-- -IVDKL---- 
+FAH1_SCHPO       222   IAIDIN---A -DKEVYAKK- FGATDFIDSS KV-KD----- -LVQYV---- 
+ADH2_STRCA       225   FGIDIN---K -DKFPLAKK- LGATDCLNPQ DIRKP----- -VQEII---- 
+ADHP_RABIT       225   IAIDIN---S -DKFAKAKA- LGATDCLNPR ELNKP----- -VQDVI---- 
+ADH4_RANPE       219   IGVGTH---K -DKFPKAIE- LGATECLNPK DYDKP----- -IYEVI---- 
+ADH1_NAJNA       220   IGVDIN---K -DKFAKAKE- MGATECINPL DFKKP----- -INEVL---- 
+ADHB_UROHA       220   IGIDIN---K -EKFPKAKE- LGATECVNPL DYKKP----- -INEVL---- 
+ADHA_GEOBU       220   IAVDIN---K -DKFAKAKE- LGATECVNPQ DYDKP----- -IYQVL---- 
+1vj1_A           185   VGICGT---Q EKCLFLTSE- LGFDAAVNYK TGNVA----- ----EQ---- 
+1gu7_A           197   SVIRDRpnlD -EVVASLKE- LGATQVITED QNNSR----- ----EFgpti 
+1o89_A           172   VAVSGR---E -STHEYLKS- LGASRVLPRD EFAES----- ----RP---- 
+                                                                 
+                       4444440004 0443333330 3333332222 2112200000 0000110000 
+ 
+1h2b_A           231   ---ME-LTR- -GRGVNVAMD FVGS------ ---------- ---QATVDYT 
+1f8f_A           242   ---IKEITD- -G-GVNFALE STGS------ ---------- ---PEILKQG 
+ADH_SULSO        232   ---IRRITE- -SKGVDAVID LNNS------ ---------- ---EKTLSVY 
+ADH2_EMENI       248   ---KSLTTKG LGAHAVIV-- CTAS------ ---------- ---NIAYAQS 
+YJGB_ECOLI       228   ---L---AG- -QFDLIIN-- TVNV------ ---------- ---SLDWQPY 
+ADH1_CAEEL       234   ---TKLTEG- -GPHGVIN-- FAVA------ ---------- ---RKPMEQA 
+ADH2_CAEEL       235   ---RKLTNG- -GAHGVVS-- FAAA------ ---------- ---KKPMEYA 
+ADH5_YEAST       236   ---IKATNG- -GSHGVIN-- VSVS------ ---------- ---EAAIEAS 
+ADH1_CANAL       235   ---KKATDG- -GPHGAIN-- VSVS------ ---------- ---EKAIDQS 
+ADH1_PICST       233   ---QTATDG- -GPHAAIN-- VSVS------ ---------- ---EKAIAQS 
+ADH2_PICST       233   ---LKATNG- -GAHGVIN-- VSVS------ ---------- ---ERAMQQS 
+ADH1_KLULA       235   ---IEATKG- -GAHGVIN-- VSVS------ ---------- ---EFAIEQS 
+ADH3_YEAST       260   ---QEATKG- -GPHGVIN-- VSVS------ ---------- ---EAAISLS 
+ADH4_KLULA       260   ---QEATNG- -GPHGVIN-- VSVS------ ---------- ---EAAVSMS 
+ADH1_ASPFL       233   ---KAATPEG LGAHAVIL-- LAVA------ ---------- ---EKPFQQA 
+ADH1_NEUCR       236   ---KAATPDG LGPHAVIL-- LAVS------ ---------- ---EKPFHQA 
+ADH_SCHPO        235   ---KAATNG- -GAHGTLV-- LSTS------ ---------- ---PKSYEQA 
+ADHA_RHIME       226   ---VQRRTG- -GLHGALV-- TAVS------ ---------- ---PKAMEQA 
+ADHP_ECOLI       222   ---VQEKTG- -GAHAAVV-- TAVA------ ---------- ---KAAFNSA 
+ADH1_ZYMMO       222   ---IQEKVG- -GAHATVV-- TAVA------ ---------- ---KSAFNSA 
+ADH1_BACST       224   ---IKEKVG- -GVHATVV-- TAVS------ ---------- ---KAAFESA 
+ADH2_BACST       224   ---IHDQVG- -GVHAAIS-- VAVN------ ---------- ---KKAFEQA 
+MTD_PETCR        221   ---A---TG- -TLHGIID-- TVSA------ ---------- ---LHPVVPL 
+MTD_APIGR        244   ---A---RS- -SLDGIID-- TVPV------ ---------- ---NHPLAPL 
+MTD_FRAAN        242   ---A---IG- -TMDGIID-- TVSA------ ---------- ---QHPLLPL 
+MTD_MESCR        245   ---A---MG- -TLDGIID-- TVSA------ ---------- ---AHPLLPL 
+MTD1_ARATH       240   ---A---MG- -TMDGIID-- TVSA------ ---------- ---THPLLPL 
+MTD1_STYHU       236   ---A---TG- -TMDYIID-- TISA------ ---------- ---VHSLVSL 
+MTDH_ARATH       244   ---A---IG- -TMDYIID-- TISA------ ---------- ---VHALYPL 
+CADH_MEDSA       242   ---A---AD- -SLDYIID-- TVPV------ ---------- ---GHPLEPY 
+CAD1_ARACO       242   ---A---AD- -SLDYIID-- TVPV------ ---------- ---FHPLEPY 
+CAD2_ARATH       241   ---L---AD- -SLDYVID-- TVPV------ ---------- ---HHALEPY 
+CAD1_ARATH       242   ---L---AD- -SLDYIID-- TVPV------ ---------- ---FHPLDPY 
+CAD1_EUCGU       241   ---A---TD- -SLDYVFD-- TIPV------ ---------- ---VHPLEPY 
+CADH_LOLPR       242   ---A---MD- -SLDYIID-- TVPV------ ---------- ---KHPLEPY 
+CAD2_PICAB       241   ---A---AE- -SLDYIMD-- TIPV------ ---------- ---AHPLEPY 
+ADHC_MYCTU       234   ---L---RG- -GFDLILN-- TVSA------ ---------- ---NLDLGQY 
+YAHK_ECOLI       234   ---H---LK- -SFDFILN-- TVAA------ ---------- ---PHNLDDF 
+ADH_ALCEU        244   ---VMKLTG- -GRGVDASIE ALGT------ ---------- ---QATFEQS 
+TDH_PYRAB        228   ---VMDITD- -GNGVDVFLE FSGA------ ---------- ---PKALEQG 
+Y053_HAEIN       225   ---IKEITS- -GRMAEVVME ASGA------ ---------- ---NISIKNT 
+DHSO_BACSU       232   ---IKTITN- -DRGVDVAWE TAGN------ ---------- ---PAALQSA 
+DHSO_BACHD       224   ---VSELTD- -GYGADVVLE CSGA------ ---------- ---VPAAKQG 
+TDH_THETN        228   ---IKSETE- -GYGADVVLD FSGN------ ---------- ---PTAIRQG 
+XYLD_MORMO       228   ---VRELTG- -GEGVNVLFE CSGA------ ---------- ---KPVIASI 
+FADH_AMYME       239   ---VQALTG- -GFGADVVID AVGR------ ---------- ---PETWKQA 
+XYLB_PSEPU       247   ---IKEIFA- -D-GVPYVLE TSGL------ ---------- ---PAVLTQA 
+FADH_CANMA       261   ---IEMTDG- -GCDFTFDC- TGNV------ ---------- ---GVMRNAL 
+FAH1_SCHPO       256   ---IDVTDG- -GVDYAFDC- TGNV------ ---------- ---TVMQQEL 
+ADH2_STRCA       260   ---AEMTNG- -GVDFAIEC- IGNP------ ---------- ---DVMKAAF 
+ADHP_RABIT       260   ---VEMTNG- -GVDFAIDC- AGGS------ ---------- ---EVMKATV 
+ADH4_RANPE       254   ---CEKTNG- -GVDYAVEC- AGRI------ ---------- ---ETMMNAL 
+ADH1_NAJNA       255   ---FDLTGGE -GVDYSFEV- IGRT------ ---------- ---ETMISAF 
+ADHB_UROHA       255   ---FDMTDGE -GVEYSFEV- IGRT------ ---------- ---DTMTAAL 
+ADHA_GEOBU       255   ---QEMTDG- -GVDFSFEV- IGRL------ ---------- ---DTMVSAL 
+1vj1_A           218   ---LREACP- -G-GVDVYFD NVGGdisntv isqxnenshi ilcPPPLPPA 
+1gu7_A           236   kewIKQSGG- -EAKLALNC- VGGK------ ---------- ---Ss--TGI 
+1o89_A           204   ---LEKQVw- ----AGAI-- DTVG------ ---------- ---DKVLAKV 
+                                                                 
+                       0001111120 0222222200 2222000000 0000000000 0002222222 
+ 
+1h2b_A           256   PYLLGRMGRL IIVGY-GG-E LRF----P-T --IR-VISS- --EVSFEGSL 
+1f8f_A           267   VDALGILGKI AVVGAPQLGT TAQ----F-D --VNdLLLG- --GKTILGVV 
+ADH_SULSO        258   PKALAKQGKY VMVGLFGA-D LHY----H-A --PL-ITLS- --EIQFVGSL 
+ADH2_EMENI       274   LLFLRYNGTM VCVGIPEN-E PQriasaY-P --GL-FIQK- --HVHVTGSA 
+YJGB_ECOLI       249   FEALTYGGNF HTVGAVLT-P LSV----P-A --FT-LIAG- --DRSVSGSA 
+ADH1_CAEEL       258   VEYVRKRGTV VFVGLPKDSK VTF----D-T --TP-FIFN- --AITIKGSI 
+ADH2_CAEEL       259   LEYVRKRGTV VFVGLPKDGT IPL----D-T --LS-LICN- --EITVKGSI 
+ADH5_YEAST       260   TRYCRPNGTV VLVGMPAHAY CNS----D-V --FN-QVVK- --SISIVGSC 
+ADH1_CANAL       259   VEYVRPLGKV VLVGLPAHAK VTA----P-V --FD-AVVK- --SIEIKGSY 
+ADH1_PICST       257   CQYVRSTGTV VLVGLPAGAK VVA----P-V --FD-AVVK- --SISIRGSY 
+ADH2_PICST       257   VDYVRPTGTV VLVGLPAGAK VSA----S-V --FS-SVVR- --TIQIKGSY 
+ADH1_KLULA       259   TNYVRSNGTV VLVGLPRDAK CKS----D-V --FN-QVVK- --SISIVGSY 
+ADH3_YEAST       284   TEYVRPCGTV VLVGLPANAY VKS----E-V --FS-HVVK- --SINIKGSY 
+ADH4_KLULA       284   TEYLRPTGLV VLVGLPADAY VKS----E-V --FS-HVVK- --SISIKGSY 
+ADH1_ASPFL       259   AEYV-SRGTV VAIGLPAGAF LRA----P-V --FN-TVVR- --MINIKGSY 
+ADH1_NEUCR       262   VDYVRSRGTI ICIGLPAGAK FQA----P-V --FD-TVIR- --MITIKGSY 
+ADH_SCHPO        259   AGFARPGSTM VTVSMPAGAK LGA----D-I --FW-LTVK- --MLKICGSH 
+ADHA_RHIME       250   YSMLRSKGTM ALVGLPPG-Q ICL----P-V --FD-TVLK- --RITVRGSI 
+ADHP_ECOLI       246   VDAVRAGGRV VAVGLPPE-S MSL----D-I --PR-LVLD- --GIEVVGSL 
+ADH1_ZYMMO       246   VEAIRAGGRV VAVGLPPE-K MDL----S-I --PR-LVLD- --GIEVLGSL 
+ADH1_BACST       248   YKSIRRGGAC VLVGLPPE-E IPI----P-I --FD-TVLN- --GVKIIGSI 
+ADH2_BACST       248   YQSVKRGGTL VVVGLPNA-D LPI----P-I --FD-TVLN- --GVSVKGSI 
+MTD_PETCR        242   LGLLKVNGKL VMVGAPEK-P LEL----P-V --FP-LLMG- --RKVLAGSN 
+MTD_APIGR        265   FDLLKPNGKL VMVGAPEK-P FEL----P-V --FS-LLKG- --RKLLGGTI 
+MTD_FRAAN        263   IGLLNSHGKL VMVGAPEK-P LEL----P-V --FP-LLMG- --RKMVAGSG 
+MTD_MESCR        266   LGLLKSQGKM IMVGVPDK-P LEL----P-V --FP-LLQG- --RKILAGSC 
+MTD1_ARATH       261   LGLLKNKGKL VMVGAPAE-P LEL----P-V --FP-LIFG- --RKMVVGSM 
+MTD1_STYHU       257   LGLLKLNGKL VTVGLPSK-P LQL----P-I --FP-LVAG- --RKLIGGSN 
+MTDH_ARATH       265   LGLLKVNGKL IALGLPEK-P LEL----P-M --FP-LVLG- --RKMVGGSD 
+CADH_MEDSA       263   LSLLKIDGKL ILMGVINT-P LQF----V-T --PM-VMLG- --RKSITGSF 
+CAD1_ARACO       263   LSLLKLDGKL ILMGVINT-P LQF----I-S --PM-VMLG- --RKAITGSF 
+CAD2_ARATH       262   LSLLKLDGKL ILMGVINN-P LQF----L-T --PL-LMLG- --RKVITGSF 
+CAD1_ARATH       263   LACLKLDGKL ILMGVINT-P LQF----V-T --PL-VILG- --RKVISGSF 
+CAD1_EUCGU       262   LALLKLDGKL ILTGVINA-P LQF----I-S --PM-VML-- ---ESITGSF 
+CADH_LOLPR       263   LALLKMDGKL VLMGVIGE-P LSF----V-S --PM-VMLG- --RKTITGSF 
+CAD2_PICAB       262   LALLKTNGKL VMLGVVPE-P LHF----V-T --PL-LILG- --RRSIAGSF 
+ADHC_MYCTU       255   LNLLDVDGTL VELGIPEH-P MAV----P-A --FA-LALM- --RRSLAGSN 
+YAHK_ECOLI       255   TTLLKRDGTM TLVGAPAT-P HKS----PeV --FN-LIMK- --RRAIAGSM 
+ADH_ALCEU        270   LRVLKPGGTL SSLGVYSS-D LTI----P-L --SA-FAAGl gdHKINTALC 
+TDH_PYRAB        254   LQAVTPAGRV SLLGLYPG-K VSI----D-F --NN-LIIF- --KALTVYGI 
+Y053_HAEIN       251   LHYASFAGRI ALTGWPKT-E TPL----P-T --NL-ITFK- --ELNIYGSR 
+DHSO_BACSU       258   LASVRRGGKL AIVGLPSQNE IPL----N-V --PF-IADN- --EIDIYGIF 
+DHSO_BACHD       250   IDLLRKKGQY AQVGLFAQPE IQF----N-F --EK-IIQK- --EISVVGSR 
+TDH_THETN        254   LEYIAKGGRM SILGLPDN-E VPI----D-I --TN-NVVF- --KGITIQGI 
+XYLD_MORMO       254   SDHIAPGGTA VLVGMPID-P APL----D-I --VA-AQAK- --EVTFKtil 
+FADH_AMYME       265   FYARDLAGTV VLVGVPTP-D MRL----E-M plLD-FFSR- --GGALKSSW 
+XYLB_PSEPU       272   ILSSAIGGEI GIVGAPPMGA TVP----V-D --IN-FLLF- --NRKLRGIV 
+FADH_CANMA       286   EACHKGWGTS VIIGVAAAGK EIS----T-R --PF-QLVT- --GRTWKGAA 
+FAH1_SCHPO       281   QFCHKGWGKL CVIGVAAAGK TLD----F-R --PF-LVVT- --GRQVLGSA 
+ADH2_STRCA       285   ESTTVGWGTC VIVGVAVGEQ SIP----F-S --PM-QLIM- --GRKIKATF 
+ADHP_RABIT       285   DCATVGWGSC TFVGVNLADK GLT----I-S --PI-ELIL- --GRTLKGTN 
+ADH4_RANPE       279   QSTYCGSGVT VVLGLASPNE RLP----L-D --PL-LLLT- --GRSLKGSV 
+ADH1_NAJNA       281   TSCHQNLGTS VVVGVPPNAS MIT----Y-N --PL-MLFT- --GRTWKGCV 
+ADHB_UROHA       281   ASCHNNYGTS VIVGVPPSAS QIA----F-D --PL-LLFT- --GRTWKGSV 
+ADHA_GEOBU       280   MCCQESHGVS VIVGVPPNAQ SLT----M-D --PM-VLLS- --GRSWKGAV 
+1vj1_A           262   VEAIRKERNI Trerftvl-- ---------- ---------- ---------- 
+1gu7_A           262   ARKLNNNGLM LTYGGMSFQP VTI----P-T --SL-YIFK- --NFTSAGFW 
+1o89_A           225   LAQMNYGGCV AACGLAGGFT LPT----T-V --MP-FILR- --NVRLQGVD 
+                                                                 
+                       2222222222 2222222202 1110000102 0022022220 0022232333 
+ 
+1h2b_A           293   VGNY-VEL-- ---HELVTLA LQG------K VRVEVDI-HK -LDE------ 
+1f8f_A           307   EGSG-SPK-- ---KFIPELV RLYQQGKF-P FDQLVKF-YA -FDE------ 
+ADH_SULSO        296   VGNQ-SDF-- ---LGIMRLA EAG------K VKPMITKTMK -LEE------ 
+ADH2_EMENI       316   VGNR-NEA-- ---IETMEFA ARG------V IKAHFRE-EK -MEA------ 
+YJGB_ECOLI       287   TGTP-YEL-- ---RKLMRFA ARS------K VAPTTEL-FP -MSK------ 
+ADH1_CAEEL       297   VGSR-LDV-- ---DEAMEFV TRG------I VKVPLEL-VK -LED------ 
+ADH2_CAEEL       298   VGSR-MDV-- ---DEAIDFI TRG------I VHVPIEL-VK -LED------ 
+ADH5_YEAST       299   VGNR-ADT-- ---REALDFF ARG------L IKSPIHL-AG -LSD------ 
+ADH1_CANAL       298   VGNR-KDT-- ---AEAIDFF SRG------L IKCPIKI-VG -LSD------ 
+ADH1_PICST       296   VGNR-ADS-- ---AEAIDFF TRG------L IKCPIKV-VG -LSE------ 
+ADH2_PICST       296   VGNR-ADS-- ---AEAIDFF TRG------L IKCPIKI-VG -LSE------ 
+ADH1_KLULA       298   VGNR-ADT-- ---REAIDFF SRG------L VKAPIHV-VG -LSE------ 
+ADH3_YEAST       323   VGNR-ADT-- ---REALDFF SRG------L IKSPIKI-VG -LSE------ 
+ADH4_KLULA       323   VGNR-ADT-- ---REATDLF TRG------L VKSPIKI-IG -LSE------ 
+ADH1_ASPFL       297   VGNR-QDG-- ---VEAVDFF ARG------L IKAPFKT-AP -LQD------ 
+ADH1_NEUCR       301   VGNR-QDT-- ---QEALDFF ARG------L IKVPIKT-VG -LSK------ 
+ADH_SCHPO        298   VGNR-IDS-- ---IEALEYV SRG------L VKPYYKV-QP -FST------ 
+ADHA_RHIME       288   VGTR-QDL-- ---EEALEFA GEG------K VAAHFSW-DK -IEN------ 
+ADHP_ECOLI       284   VGTR-QDL-- ---TEAFQFA AEG------K VVPKVAL-RP -LAD------ 
+ADH1_ZYMMO       284   VGTR-EDL-- ---KEAFQFA AEG------K VKPKVTK-RK -VEE------ 
+ADH1_BACST       286   VGTR-KDL-- ---QEALQFA AEG------K VKTIVEV-QP -LEN------ 
+ADH2_BACST       286   VGTR-KDM-- ---QEALDFA ARG------K VRPIVET-AE -LEE------ 
+MTD_PETCR        280   IGGL-KET-- ---QEMLDFA AQH------N ITADVEV-IP -VDY------ 
+MTD_APIGR        303   NGGI-KET-- ---QEMLDFA AKH------N ITADVEV-IP -MDY------ 
+MTD_FRAAN        301   IGGM-KET-- ---QEMIDFA ARH------N ITADIEV-IP -IDY------ 
+MTD_MESCR        304   IGGM-KET-- ---QEMIDFA AKH------D IKSDIEV-VP -MDY------ 
+MTD1_ARATH       299   VGGI-KET-- ---QEMVDLA GKH------N ITADIEL-IS -ADY------ 
+MTD1_STYHU       295   FGGL-KET-- ---QEMLDFC GKH------N IAANIEL-IK -MDE------ 
+MTDH_ARATH       303   VGGM-KET-- ---QEMLDFC AKH------N ITADIEL-IK -MDE------ 
+CADH_MEDSA       301   VGSV-KET-- ---EEMLEFW KEK------G LTSMIEI-VT -MDY------ 
+CAD1_ARACO       301   IGSM-KET-- ---EEMLDFC NEK------G ITSTIEV-VK -MDY------ 
+CAD2_ARATH       300   IGSM-KET-- ---EEMLEFC KEK------G LSSIIEV-VK -MDY------ 
+CAD1_ARATH       301   IGSI-KET-- ---EEVLAFC KEK------G LTSTIET-VK -IDE------ 
+CAD1_EUCGU       298   IGSM-KET-- ---EEMLEFC KEK------G LTSQIEV-IK -MDY------ 
+CADH_LOLPR       301   IGSI-EET-- ---EEVLRFC VDK------G LTSQIEV-VK -MDY------ 
+CAD2_PICAB       300   IGSM-EET-- ---QETLDFC AEK------K VSSMIEV-VG -LDY------ 
+ADHC_MYCTU       293   IGGI-AET-- ---QEMLNFC AEH------G VTPEIEL-IE -PDY------ 
+YAHK_ECOLI       294   IGGI-PET-- ---QEMLDFC AEH------G IVADIEM-IR -ADQ------ 
+ADH_ALCEU        311   PGGk---E-- ---R-MRRLI NVIESGRV-D LGALVTHQYR -LDD------ 
+TDH_PYRAB        292   TGRH-LWET- -----WYTVS RLLQSGKL-N LDPIITHKYK GFDK------ 
+Y053_HAEIN       289   TSKG-E---- -----FEEAL DMLATNKI-N ASHIITKCIK FEEipsfisd 
+DHSO_BACSU       297   RYAN-T---- -----YPKGI EFLASGIV-D TKHLVTDQYS LEQT------ 
+DHSO_BACHD       289   SQKPaD---- -----WEPAL SLLNEKKV-N AKTLVTHEYT -ISE------ 
+TDH_THETN        292   TGRR-MYDT- -----WYTVK GLLKSGlaeD LKPIITHTFP -LTE------ 
+XYLD_MORMO       292   RYAN-M---- -----YPRTI RLLSSGKL-N VAPLLSATYK FKDS------ 
+FADH_AMYME       305   YGDC-LPE-- ---RDFPVLI DLHLQGRL-P LDKFVTERIS -LDD------ 
+XYLB_PSEPU       311   EGQS-ISD-- ---IFIPRLV ELYRQGKF-P FDKLIKF-YP -FDE------ 
+FADH_CANMA       325   FGGV-KGR-- ---SQLPGIV NNYLDGKL-K VEEFITHREP -LAA------ 
+FAH1_SCHPO       320   FGGV-KGR-- ---SELPNFV DEYMQGHF-K VDEYITNEEP -LKN------ 
+ADH2_STRCA       324   FGGW-KSV-- ---KSVPKLV SDYMAKKF-D LDALVSHTLP -LDK------ 
+ADHP_RABIT       324   FGGW-DAE-- ---T-VPKLV SDYKNGKF-D LDALVTHTLP -FDK------ 
+ADH4_RANPE       318   FGGF-KGE-- ---E-VSRLV DDYMKKKI-N VNFLVSTKLT -LDQ------ 
+ADH1_NAJNA       320   FGGW-KSK-- ---DSVPKLV SDFMQKKF-V LDPLITHTLP -FEK------ 
+ADHB_UROHA       320   FGGW-KSK-- ---DAVPRLV SDFMGKKF-I LDPLITHTMP -FEK------ 
+ADHA_GEOBU       319   FGGY-KGK-- ---DDVPKLV ADFMAKKF-P LEPLITNVFP -FAK------ 
+1vj1_A           280   ---------- ---------- ---------- ---NYKD-KF -EPG------ 
+1gu7_A           301   VTEL-LKN-- ---N------ ---------- -----KE-LK -TST------ 
+1o89_A           264   Svmtpperra qawQRLVADL PES------F YTQAAKE-IS -LSE------ 
+                                                                 
+                       3322022200 0002222222 2220000002 3222222022 0232000000 
+ 
+1h2b_A           323   ---------- INDVLE-RLE KGEVLGRAVL IP-------- ---------- 
+1f8f_A           342   ---------- INQAAI-DSR KGITLKPIIK IA-------- ---------- 
+ADH_SULSO        327   ---------- ANEAID-NLE NFKAIGRQVL IP-------- ---------- 
+ADH2_EMENI       346   ---------- LTEIFK-EME EGKLQGRVVL DLS------- ---------- 
+YJGB_ECOLI       317   ---------- INDAIQ-HVR DGKARYRVVL KADf------ ---------- 
+ADH1_CAEEL       327   ---------- VPAVYQ-RML DGKINSRAVV DFSL------ ---------- 
+ADH2_CAEEL       328   ---------- VPSVYQ-RMK DGKVTSRVVV DFSMr----- ---------- 
+ADH5_YEAST       329   ---------- VPEIFA-KME KGEIVGRYVV ETSK------ ---------- 
+ADH1_CANAL       328   ---------- LPEVFK-LME EGKILGRYVL DTSK------ ---------- 
+ADH1_PICST       326   ---------- LPKVYE-LME AGKVIGRYVV DTSK------ ---------- 
+ADH2_PICST       326   ---------- LASVYE-LME QGKILGRYVV DTSK------ ---------- 
+ADH1_KLULA       328   ---------- LPSIYE-KME KGAIVGRYVV DTSK------ ---------- 
+ADH3_YEAST       353   ---------- LPKVYD-LME KGKILGRYVV DTSK------ ---------- 
+ADH4_KLULA       353   ---------- LPEAYA-LME QGKILGRFVV DTYK------ ---------- 
+ADH1_ASPFL       327   ---------- LPKIFE-LME QGKIAGRYVL EIPE------ ---------- 
+ADH1_NEUCR       331   ---------- LQEVYD-LME EGKIVGRYVV DTSK------ ---------- 
+ADH_SCHPO        328   ---------- LPDVYR-LMH ENKIAGRIVL DLSK------ ---------- 
+ADHA_RHIME       318   ---------- INAIFE-RME EGKIDGRIVL DLNG------ ---------- 
+ADHP_ECOLI       314   ---------- INTIFT-EME EGKIRGRMVI DFRH------ ---------- 
+ADH1_ZYMMO       314   ---------- INQIFD-EME HGKFTGRMVV DFTHh----- ---------- 
+ADH1_BACST       316   ---------- INDVFD-RML KGQINGRVVL KVD------- ---------- 
+ADH2_BACST       316   ---------- INEVFE-RME KGKINGRIVL KLKEd----- ---------- 
+MTD_PETCR        310   ---------- VNTAME-RLV KSDVRYRFVI DVANTIKTE- ---------- 
+MTD_APIGR        333   ---------- VNTAME-RLV KSDVRYRFVI DIANTMRTEE Slga------ 
+MTD_FRAAN        331   ---------- LNTAME-RLV KADVRYRFVI DIGNTLKvrs ---------- 
+MTD_MESCR        334   ---------- VNTAME-RLL KGDVRYRFVI DVANTLKAE- ---------- 
+MTD1_ARATH       329   ---------- VNTAME-RLA KADVKYRFVI DVANTMKPtp ---------- 
+MTD1_STYHU       325   ---------- INTAIE-RLS KADVKYRFVI DVANSLSssn m--------- 
+MTDH_ARATH       333   ---------- INTAME-RLA KSDVRYRFVI DVANSLSPp- ---------- 
+CADH_MEDSA       331   ---------- INKAFE-RLE KNDVRYRFVV DVKGSKFEe- ---------- 
+CAD1_ARACO       331   ---------- INTAFE-RLE KNDVRYRFVV DVAGSKLDQE t--------- 
+CAD2_ARATH       330   ---------- VNTAFE-RLE KNDVRYRFVV DVEGSNLDa- ---------- 
+CAD1_ARATH       331   ---------- LNIAFE-RLR KNDVRYRFVV DVAGSNLVEE AAtttn---- 
+CAD1_EUCGU       328   ---------- VNTALE-RLE KNDVRYRFVV DVVGSKLD-- ---------- 
+CADH_LOLPR       331   ---------- LNQALE-RLE RNDVRYRFVV DVAGSNIDDT AA-------- 
+CAD2_PICAB       330   ---------- INTAME-RLV KNDVRYRFVV DVARSNLDK- ---------- 
+ADHC_MYCTU       323   ---------- INDAYE-RVL ASDVRYRFVI DISal----- ---------- 
+YAHK_ECOLI       324   ---------- INEAYE-RML RGDVKYRFVI DNRtltd--- ---------- 
+ADH_ALCEU        344   ---------- IVAAYD-LFA NQRDGVLKIA IKph------ ---------- 
+TDH_PYRAB        328   ---------- YEEAFE-LMR AGKTGKVVFM LK-------- ---------- 
+Y053_HAEIN       328   lsdhpenylk INAVF----- ---------- ---------- ---------- 
+DHSO_BACSU       330   ---------- QDAMERALQF KNECLKVMVY PNR------- ---------- 
+DHSO_BACHD       322   ---------- WDKAYH-AIK SGEAIKVLLT PID------- ---------- 
+TDH_THETN        328   ---------- YQKGME-LMI KGQCGKVVLY P--------- ---------- 
+XYLD_MORMO       325   ---------- VEAYERAaep vrlm------ ---------- ---------- 
+FADH_AMYME       341   ---------- VEKAFH-TMH AGEVLRSVVV W--------- ---------- 
+XYLB_PSEPU       346   ---------- INRAAE-DSE KGVTLKPVLR IG-------- ---------- 
+FADH_CANMA       361   ---------- INKAFE-EMH AGDCIRAVVD LS-------- ---------- 
+FAH1_SCHPO       356   ---------- INKAFD-HMH EGKCIRCVVD MNKp------ ---------- 
+ADH2_STRCA       360   ---------- INDAFD-LMN AGKSNRTILV F--------- ---------- 
+ADHP_RABIT       359   ---------- INEALN-LLD QGKSIRTVLI F--------- ---------- 
+ADH4_RANPE       353   ---------- INKAFE-LLS SGQGVRSIMI Y--------- ---------- 
+ADH1_NAJNA       356   ---------- INEGFD-LLR SGKSIRTVLI F--------- ---------- 
+ADHB_UROHA       356   ---------- INEGFE-LLR SGKSIRTVLT F--------- ---------- 
+ADHA_GEOBU       355   ---------- INEGFD-LLR AGKSIRTVLT F--------- ---------- 
+1vj1_A           289   ---------- ILQLSQ-WFK EGKLKVKETV akglenxgva fqsxxtggnv 
+1gu7_A           316   ---------- LNQIIA-WYE EGKLTDAKSI ETlydgtkpl helyqdgvan 
+1o89_A           300   ---------- APNFAE-AII NNQIQGRTLV KV-------- ---------- 
+                                                                 
+                       0000000000 3323220222 2222222222 2111000000 0000000000 
+ 
+1h2b_A           344   ---------- ------ 
+1f8f_A           363   ---------- ------ 
+ADH_SULSO        348   ---------- ------ 
+ADH2_EMENI       368   ---------- ------ 
+YJGB_ECOLI       340   ---------- ------ 
+ADH1_CAEEL       350   ---------- ------ 
+ADH2_CAEEL       352   ---------- ------ 
+ADH5_YEAST       352   ---------- ------ 
+ADH1_CANAL       351   ---------- ------ 
+ADH1_PICST       349   ---------- ------ 
+ADH2_PICST       349   ---------- ------ 
+ADH1_KLULA       351   ---------- ------ 
+ADH3_YEAST       376   ---------- ------ 
+ADH4_KLULA       376   ---------- ------ 
+ADH1_ASPFL       350   ---------- ------ 
+ADH1_NEUCR       354   ---------- ------ 
+ADH_SCHPO        351   ---------- ------ 
+ADHA_RHIME       341   ---------- ------ 
+ADHP_ECOLI       337   ---------- ------ 
+ADH1_ZYMMO       338   ---------- ------ 
+ADH1_BACST       338   ---------- ------ 
+ADH2_BACST       340   ---------- ------ 
+MTD_PETCR        338   ---------- ------ 
+MTD_APIGR        366   ---------- ------ 
+MTD_FRAAN        360   ---------- ------ 
+MTD_MESCR        362   ---------- ------ 
+MTD1_ARATH       358   ---------- ------ 
+MTD1_STYHU       355   ---------- ------ 
+MTDH_ARATH       361   ---------- ------ 
+CADH_MEDSA       359   ---------- ------ 
+CAD1_ARACO       361   ---------- ------ 
+CAD2_ARATH       358   ---------- ------ 
+CAD1_ARATH       366   ---------- ------ 
+CAD1_EUCGU       355   ---------- ------ 
+CADH_LOLPR       362   ---------- ------ 
+CAD2_PICAB       358   ---------- ------ 
+ADHC_MYCTU       347   ---------- ------ 
+YAHK_ECOLI       350   ---------- ------ 
+ADH_ALCEU        367   ---------- ------ 
+TDH_PYRAB        349   ---------- ------ 
+Y053_HAEIN       343   ---------- ------ 
+DHSO_BACSU       353   ---------- ------ 
+DHSO_BACHD       344   ---------- ------ 
+TDH_THETN        348   ---------- ------ 
+XYLD_MORMO       339   ---------- ------ 
+FADH_AMYME       361   ---------- ------ 
+XYLB_PSEPU       367   ---------- ------ 
+FADH_CANMA       382   ---------- ------ 
+FAH1_SCHPO       379   ---------- ------ 
+ADH2_STRCA       380   ---------- ------ 
+ADHP_RABIT       379   ---------- ------ 
+ADH4_RANPE       373   ---------- ------ 
+ADH1_NAJNA       376   ---------- ------ 
+ADHB_UROHA       376   ---------- ------ 
+ADHA_GEOBU       375   ---------- ------ 
+1vj1_A           328   ---GKQIVci sedssl 
+1gu7_A           355   skdGKQLIty ------ 
+1o89_A           321   ---------- ------ 
+                            
+                       0000000000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((1h2b_A      :0.008762ADH_SULSO   :0.008762):0.006452(ADH2_EMENI  :0.008272(((ADH1_CAEEL  :0.002655ADH2_CAEEL  :0.002655):0.002688(((ADH5_YEAST  :0.002981((ADH1_CANAL  :0.002453(ADH1_PICST  :0.002310ADH2_PICST  :0.002310):0.000143):0.000252(ADH1_KLULA  :0.002450(ADH3_YEAST  :0.002319ADH4_KLULA  :0.002319):0.000131):0.000255):0.000276):0.000738(ADH1_ASPFL  :0.002526ADH1_NEUCR  :0.002526):0.001193):0.000983ADH_SCHPO   :0.004702):0.000642):0.002225((ADHA_RHIME  :0.004228(ADH1_BACST  :0.002744ADH2_BACST  :0.002744):0.001484):0.000695(ADHP_ECOLI  :0.002567ADH1_ZYMMO  :0.002567):0.002357):0.002644):0.000704):0.006942):0.000760(YJGB_ECOLI  :0.008849(((((MTD_PETCR   :0.002620MTD_APIGR   :0.002620):0.000244((MTD_FRAAN   :0.002435MTD_MESCR   :0.002435):0.000291MTD1_ARATH  :0.002727):0.000138):0.000401(MTD1_STYHU  :0.002525MTDH_ARATH  :0.002525):0.000740):0.001229((((CADH_MEDSA  :0.002403(CAD1_ARACO  :0.002270CAD1_EUCGU  :0.002270):0.000133):0.000016(CAD2_ARATH  :0.002348CAD1_ARATH  :0.002348):0.000071):0.000090CADH_LOLPR  :0.002509):0.000464CAD2_PICAB  :0.002974):0.001521):0.001208(ADHC_MYCTU  :0.004714YAHK_ECOLI  :0.004714):0.000988):0.003146):0.007125):0.016100(((1f8f_A      :0.004077XYLB_PSEPU  :0.004077):0.009164(FADH_AMYME  :0.011983((FADH_CANMA  :0.002902FAH1_SCHPO  :0.002902):0.002094(((ADH2_STRCA  :0.002700ADHP_RABIT  :0.002700):0.000712((ADH1_NAJNA  :0.002282ADHB_UROHA  :0.002282):0.000420ADHA_GEOBU  :0.002702):0.000711):0.000201ADH4_RANPE  :0.003613):0.001383):0.006987):0.001259):0.013113(ADH_ALCEU   :0.019687((((TDH_PYRAB   :0.004173TDH_THETN   :0.004173):0.007791DHSO_BACHD  :0.011964):0.003129(DHSO_BACSU  :0.008845XYLD_MORMO  :0.008845):0.006248):0.000371Y053_HAEIN  :0.015464):0.004223):0.006668):0.005719):0.0488051o89_A      :0.080878):0.0265501gu7_A      :0.107428):0.2021811vj1_A      :0.309609);
+ 
+ 

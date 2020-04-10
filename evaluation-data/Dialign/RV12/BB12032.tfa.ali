@@ -1,0 +1,47 @@
+1cb9_A             1   LK-------- ---------- ---CKKlv-- -----PLFS- KTCPAGKNLC 
+1kba_A             1   RT-------- ---------- ---CL---I- ---SPSSTP- QTCPNGQDIC 
+1fas_              1   TM-------- ---------- ---CYSHTT- ---TSRAIL- TNC--GENSC 
+1drs_              1   RI-------- ---------- ---CYNHLG- ---TKPPTT- ETC--QEDSC 
+1cod_              1   LE-------- ---------- ---CHNQQS- ---SQTPTT- TGCSGGETNC 
+NXL3_OPHHA         1   TK-------- ---------- ---CY---V- ---TPDVKS- ETCPAGQDLC 
+CADO_BUNCA         1   MK-------- ---------- ---CK---Ic nfdTCRAgel KVCASGEKYC 
+NXSH_BUNMU         1   MKtllltlvv vtivcldlgy tiiCRTRDT- ---YQIPITf TNCEEG-HVC 
+TXM2_NAJKA         1   LT-------- ---------- ---CVKEKS- ---IFGVTT- EDCPDGQNLC 
+                                                                 
+                       0000000000 0000000000 0001100010 0001111220 3344455556 
+ 
+1cb9_A            22   YKMFMVAA-- --PH-VPVKR GCIDVCPKS- SLLVKY-VCC NTDKCN---- 
+1kba_A            22   FLKAQCDKFC SIRG-PVIEQ GCVATCPQfr SNYr-SLLCC TTDNCNH--- 
+1fas_             23   YRKSRRHP-- --PK-MVLGR GCGC--PPG- DDYLEVKCCT SPDKCNY--- 
+1drs_             23   YKNIWtfdn- ------IIRR GCGCFTPRG- DMPGPY--CC ESDKCNL--- 
+1cod_             25   YKKRWRDH-- --RG-YRTER GCG--CPSV- KN-GIEINCC TTDRCNn--- 
+NXL3_OPHHA        22   YTETWCVAWC TVRG-KRVSL TCAAICPIV- PP-KVSIKCC STDACGpfpt 
+CADO_BUNCA        27   FKESWREA-- --RG-TRIER GCAATCPKG- SVYGLYVLCC TTDDCN---- 
+NXSH_BUNMU        46   YKYSTTET-- --PNRILIHR GCAAKCPKrl r-----VICC STDKCNk--- 
+TXM2_NAJKA        25   FKRWHMIV-- --PGRYKKTR GCAATCPIA- EN-RDVIECC STDKCNL--- 
+                                                                 
+                       6433222200 0022022334 5544344310 1101122388 8898870000 
+ 
+1cb9_A            61   ----- 
+1kba_A            67   ----- 
+1fas_             62   ----- 
+1drs_             60   ----- 
+1cod_             63   ----- 
+NXL3_OPHHA        69   wpnvr 
+CADO_BUNCA        67   ----- 
+NXSH_BUNMU        84   ----- 
+TXM2_NAJKA        66   ----- 
+                
+                       00000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((1cb9_A      :0.033705TXM2_NAJKA  :0.033705):0.002931(1kba_A      :0.028623NXL3_OPHHA  :0.028623):0.008013):0.004008(1cod_       :0.028378CADO_BUNCA  :0.028378):0.012266):0.008445NXSH_BUNMU  :0.049089):0.025506(1fas_       :0.0413651drs_       :0.041365):0.033230);
+ 
+ 

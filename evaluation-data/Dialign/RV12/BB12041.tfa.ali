@@ -1,0 +1,51 @@
+1wad_              1   v--------- ---------- -----DVPAD g--------- AKIDFiagge 
+1czj_              1   tfE------- -------IPE SV-TMSPKQF EGYTPKKGD- ---------- 
+1gm4_A             1   ---------- ---------- APAVPDKPVE V-------KG S--QK----- 
+CY3B_DESAF         1   mkklfsmlva aalvgtmAMA AQAVPQVPAD VVIDHLSNPN AKLEY----- 
+CY31_DESDN         1   a-D------- -------APG DDYVISAPEG MKAKPKGDKP GALQK----- 
+1gyo_A             1   l-D------- -------VPC KV-VITAPEG EDPHPRFGK- ---------- 
+3cao_A             1   x--------- ---------E DM-Th-VPTD a-----FGKL E--RP----- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1wad_             18   knlTVVFNHS THKDV----- KCDDCHHdp- --------GD KQYAGCTTDG 
+1czj_             25   ----VTFNHA SHMDI----- ACQQCHHTV- -------PDT YTIESCMTEG 
+1gm4_A            17   ---TVMFPHA PHEKV----- ECVTCHHLV- -------DGK ESYAKCGSSG 
+CY3B_DESAF        46   ---KVKFSHK AHASLgtdaa ACQKCHHKW- -------DGK SEIGGCATEG 
+CY31_DESDN        31   ---TVPFPHT KHATV----- ECVQCHHTL- -----EADG- GAVKKCTTSG 
+1gyo_A            24   ----VEMSHA KHRNV----- SCVSCHHMF- -------DGC GDFQKCAD-- 
+3cao_A            19   ---AAVFNHD EHNEkagie- SCNACHHVWv ngvlaEDED- SVGTPCSD-- 
+                                                                 
+                       0001555566 6666600000 7999999330 0000000233 3333354433 
+ 
+1wad_             54   CHNILD--KA DKSvns---- WYKVVHdakg gakpTCISCH KDKAGDDKEL 
+1czj_             58   CHDNIK--ER TE---ISSVY RTFHTTKDSE K---SCVGCH RELKRQGPSD 
+1gm4_A            51   CHDDLTA-KK GE---KSLYY VVHARGELKH T---SCLACH SKVVAEKPEL 
+CY3B_DESAF        85   CHADTTSfKA TE---KDPKF LMTAFHSKSP M---SCQGCH KEMKTAKKTT 
+CY31_DESDN        66   CHDSLE--FR DKAnaKDIKL VESAF----H T---QCIDCH ALKKKDKKPT 
+1gyo_A            55   CHID-----R Ddrsyer--G FYKAWHSESE I---SCRGCH KAMKAKNEQT 
+3cao_A            62   CHAleq---- -D---GDTPG LQDAYHQQ-- -----CWGCH -----EKQAK 
+                                                                 
+                       4422210011 0000000000 0001111122 2000466666 5544455554 
+ 
+1wad_             98   KKKLTGCKGS ACHP-- 
+1czj_            100   AP--LACNS- -CHVQ- 
+1gm4_A            94   KKDLTGCAKS KCHP-- 
+CY3B_DESAF       129   GP--TACAQ- -CHNQk 
+CY31_DESDN       107   GP--TACGK- -CHTTN 
+1gyo_A            95   GP--IGCLQg -CHea- 
+3cao_A            92   GP--VMCGE- -CHVKN 
+                            
+                       5500555440 033210 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1wad_       :0.0226811gm4_A      :0.022681):0.006806CY31_DESDN  :0.029487):0.008648((1czj_       :0.027500CY3B_DESAF  :0.027500):0.0025021gyo_A      :0.030001):0.008134):0.0266403cao_A      :0.064775);
+ 
+ 

@@ -1,0 +1,29 @@
+1hpi_              1   m-----ERLS EDDPAAQALE YRHD---ASS VQHPAYE--- EGQTCLNCLL 
+1hip_              1   sapANA--VA ADNATAIALK YNQDATKSER VAAARPGLPP EEQHCADCQF 
+2hip_A             1   ------EPRA ED---GHAHD YVNEA--ADA SGHPRYQ--- EGQLCENCAF 
+1hlq_A             1   a--APL--VA ETDANAKSLG YVADTTKADK TKYPKHT--- KDQSCSTCAL 
+HPIS_THIPF         1   EDLPHVD--A ATNPIAQSLH YIEDANASER NPVTKTELPG SEQFCHNCSF 
+HPIS_PARSP         1   QDLPPLDPSA EQ---AQALN YVKDT--AEA ADHPAHQ--- EGEQCDNCMF 
+                                                                 
+                       0000001111 1100033333 3333211333 3344444000 5666666666 
+ 
+1hpi_             40   YTDASA---Q DWGPCSV--F PGKLVSANGW CTAWVAR-- 
+1hip_             49   MQADAAgatD EWKGCQL--F PGKLINVNGW CASWTLKAg 
+2hip_A            37   WGEAVQ---D GWGRCThpdF DEVLVKAEGW CSVYApas- 
+1hlq_A            44   YQGKTAP--- -QGACPL--F AGKEVVAKGW CSAWAKKA- 
+HPIS_THIPF        49   IQADSGA--- -WRPCTL--Y PGYTVSEDGW CLSWAHKta 
+HPIS_PARSP        43   FQADS----- --QGCQL--F PQNSVEPAGW CQSWTAQn- 
+                                                     
+                       6433320000 2466887007 7778888899 988842200 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1hpi_       :0.0339441hlq_A      :0.033944):0.002649(1hip_       :0.025664HPIS_THIPF  :0.025664):0.010929):0.008986(2hip_A      :0.031474HPIS_PARSP  :0.031474):0.014104);
+ 
+ 

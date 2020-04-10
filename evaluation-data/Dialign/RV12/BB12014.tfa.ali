@@ -1,0 +1,83 @@
+1fjl_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ftz_              1   d--------- ---------- ---------- ---------- ---------- 
+1ftt_              1   m--------- ---------- ---------- ---------- ---------- 
+1mnm_C             1   gl-------- ---------- ---------- ---------- ------VFNV 
+1akh_A             1   i--------- ---------- ---------- --------SP QARAF----- 
+1bw5_              1   m--------- ---------- ---------- ---------- ---------- 
+HM17_APIME         1   ---------- ---------- ---------- -----CTl-- ---------- 
+HM05_CAEEL         1   mpsadtef-- ---------- -------IRV IRIKSANGSE KMLEIPakld 
+BRX2_HUMAN         1   mideilsket cdyfeklsly svcpslvVRP KPLHSCTGSP SLRAYPLLSV 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1fjl_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ftz_              2   ---------- ---------- ---------- ---------- ---------- 
+1ftt_              2   ---------- ---------- ---------- ---------- ---------- 
+1mnm_C             7   VTQDminK-- ---------- ---------- ---------- ---------- 
+1akh_A             9   ---------- ---------- ---------- ---------- ---------- 
+1bw5_              2   ---------- ---------- ---------- ---------- ---------- 
+HM17_APIME         4   -------R-- ---------- ---------- ---------- ---------- 
+HM05_CAEEL        32   l--------- ---------- ---------- ---------- ---------- 
+BRX2_HUMAN        51   ITRQptvish lvpatpgiaq alschqvtea vsaeapggea lasseseteq 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1fjl_A             1   ------KQRR SRTTFSASQL DELERAFE-- -RTQYPDIYT REELAQRTNL 
+1ftz_              2   -------SKR TRQTYTRYQT LELEKEFH-- -FNRYITRRR RIDIANALSL 
+1ftt_              2   -------RRK RRVLFSQAQV YELERRFK-- -QQKYLSAPE REHLASMIHL 
+1mnm_C            15   ---STKPYRG HR--FTKENV RILESWFAkn iENPYLDTKG LENLMKNTSL 
+1akh_A             9   ---------- ---------- --LEEVFR-- -RKQSLNSKE KEEVAKKCGI 
+1bw5_              2   ------KTTR VRTVLNEKQL HTLRTCYA-- -ANPRPDALM KEQLVEMTGL 
+HM17_APIME         5   ---KHKPNRK PRTPFTTQQL LSLEKKFR-- -EKQYLTIAE RAEFSSSLHL 
+HM05_CAEEL        33   -----ERPKR PRTVFTDEQL EKLEESFN-- -TSGYLSGST RAKLAESLGL 
+BRX2_HUMAN       101   ptpRQKKPRR SRTIFTELQL MGLEKKFQ-- -KQKYLSTPD RLDLAQSLGL 
+                                                                 
+                       0000000122 2222222222 2244444400 0445555445 8778887888 
+ 
+1fjl_A            42   TEARIQVWFQ NRRARLRK-- ---------- ---------- ---------- 
+1ftz_             42   SERQIKIWFQ NRRMKSKK-- ---------- ---------- ---------- 
+1ftt_             42   TPTQVKIWFQ NHRYKMKR-- ---------- ---------- ---------- 
+1mnm_C            60   SRIQIKNWVS NRRRKEKt-- ---------- ---------- ---------- 
+1akh_A            34   TPLQVRVWFI NKRMRS---- ---------- ---------- ---------- 
+1bw5_             43   SPRVIRVWFQ NKRCKDKK-- ---------- ---------- ---------- 
+HM17_APIME        49   TETQVKIWFQ NRRAKAKRLq ---------- ---------- ---------- 
+HM05_CAEEL        75   SDNQVKVWFQ NRRTKQKKId srkftlqkyn ffykkvknnf rnrkfhnfLK 
+BRX2_HUMAN       148   TQLQVKTWYQ NRRMKWKKMv ---------- ---------- --------LK 
+                                                                 
+                       8888999999 9998866500 0000000000 0000000000 0000000000 
+ 
+1fjl_A            60   ---------- ---------- ----QHTsvs ---------- ---------- 
+1ftz_             60   ---------- ---------- ----DRTlds speh------ ---------- 
+1ftt_             60   ---------- ---------- ----QAKDKA AQQ------- ---------- 
+1mnm_C            78   ---------- ---------- ---------- ---------- ---------- 
+1akh_A            50   ---------- ---------- ---------- ---------- ---------- 
+1bw5_             61   ---------- ---------- ----RSimmk ---------- ---------- 
+HM17_APIME        69   ---------- ---------- ---------- ---------- ---------- 
+HM05_CAEEL       125   KNDVFAGKIK NFPLPNGIlc qirn------ ---------- ---------- 
+BRX2_HUMAN       170   GGQEAPTKPK GRPKKNSIpt seeiEAEEKM NSQaqgqeql epsqgqeelc 
+                                                                 
+                       0000000000 0000000000 0000100000 0000000000 0000000000 
+ 
+1fjl_A            66   ---------- ---------- ---------- ----- 
+1ftz_             70   ---------- ---------- ---------- ----- 
+1ftt_             69   ---------- ---------- ---------- ----- 
+1mnm_C            78   ---------- ---------- ---------- ----- 
+1akh_A            50   ---------- ---------- ---------- ----- 
+1bw5_             67   ---------- ---------- ---------- ----- 
+HM17_APIME        69   EAEIEKLRls a--------- ---------- ----- 
+HM05_CAEEL       149   ---------- ---------- ---------- ----- 
+BRX2_HUMAN       220   EAQEPKARdv plemaeppdp pqelpipsse pppls 
+                                                 
+                       0000000000 0000000000 0000000000 00000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1fjl_A      :0.037088(1ftz_       :0.034551((1ftt_       :0.027110HM17_APIME  :0.027110):0.005346(HM05_CAEEL  :0.029198BRX2_HUMAN  :0.029198):0.003258):0.002095):0.002537):0.0186941akh_A      :0.055782):0.0040041bw5_       :0.059786):0.0284041mnm_C      :0.088190);
+ 
+ 

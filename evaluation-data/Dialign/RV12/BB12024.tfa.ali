@@ -1,0 +1,53 @@
+1led_              1   xn-------- ---------- -----TVNFT YPDFwsyslk NGTEITFLGD 
+1lte_              1   ---------- ---------- ---VETISFS FSEFEP---- GNDNLTLQGA 
+1avb_A             1   snda------ ---------- -------SFN ve--TF---- NKTNLILQGD 
+LECN_PEA           1   malyrtkelv slvsimfvll atnIEALSFN FPKITP---- GNTAITLQGN 
+                                                                 
+                       0000000000 0000000000 0001111111 1111220000 2223333333 
+ 
+1led_             28   ATrip-GALQ LTKTDANGNP VRS-SAGQAS YSEPVFLWD- STGKAASFYT 
+1lte_             24   SLITQSGVLQ LTKINQNGMP AWD-STGRTL YAKPVHIWDM TTGTVASFET 
+1avb_A            22   ATVSSEGHLL LTNVKGNee- --D-SMGRAF YSAPIQINDR TIDNLASFST 
+LECN_PEA          47   AKILANGVLA LTNSTQippt ttfpSTGRAL YSTPVPLWDS ATGNVASFVT 
+                                                                 
+                       3333335555 5554442111 1130999999 9999999996 6777777777 
+ 
+1led_             75   SFTFLLKNyg ap-T-ADGLA FFLAPVDSSV KD--YGGFLG LFrhetaadp 
+1lte_             73   RFSFSIEQPy trpLPADGLV FFMGPTKSKP AQ--GYGYLG IFNQSK---- 
+1avb_A            68   NFTFRInakn ienS-AYGLA FALVPVGSRP KL--KGRYLG LFNTTN---- 
+LECN_PEA          97   SFSFVILNPs gr-VPTDGLV FFIAPPDTEI pnnsQSQYLG VVDSKT---- 
+                                                                 
+                       7777774320 0001023333 3333544444 3300333333 3311110000 
+ 
+1led_            121   SKN--QVVAV EFDTWINKdW NDPPYPHIGI DVNSI--VSV ATTRWendda 
+1lte_            117   QDNSYQTLGV EFDTFSNp-W DPPQVPHIGI DVNSI--RSI KTQPFQLD-- 
+1avb_A           111   YDRDAHTVAV VFDTVSNR-- -------IEI DVNSIrpIAT ESCNFGHN-- 
+LECN_PEA         142   SIN--RFVGL EFDLYANsf- -DPYMRHIGI DINSL--IST KTVRYNFV-- 
+                                                                 
+                       1111122222 2222222001 1333334555 5555500566 6644433300 
+ 
+1led_            167   yGSSIATAHI TYDARSKILT VLLSYE-HGR DYI-LSHVVD LAKVLPQKVR 
+1lte_            162   -NGQVANVVI KYDASSKLLH AVLVYPsSGA IYT-IAEIVD VKQVLPEWVD 
+1avb_A           150   -NGEKAEVRI TYDSPKNDLR VSLLYP-SSE EkchVSATVP LEKEVEDWVS 
+LECN_PEA         184   -SGSLTKVTI IYDSPSNTLT AVITYE-NGQ IST-ISQNVD LKAVLPKDVS 
+                                                                 
+                       0444444444 4666666666 6444430455 4330444477 7777777777 
+ 
+1led_            215   IGFSAGVGYD EVTy----IL SWHFFSTLDG Tnk------ 
+1lte_            210   VGLSGATGAQ RDAAETHDVY SWSFQASLpe --------- 
+1avb_A           198   VGFSATSGSK KETTETHNVL SWSFSSNfi- --------- 
+LECN_PEA         231   VGFSATSti- ---AVSHNIH SWSFTSNLEA Ttgnivsqv 
+                                                     
+                       7775555322 2222233344 4444444000 000000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1led_       :0.016010(1lte_       :0.011692LECN_PEA    :0.011692):0.004318):0.0058511avb_A      :0.021860);
+ 
+ 

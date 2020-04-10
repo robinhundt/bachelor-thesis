@@ -1,0 +1,25 @@
+1aab_              1   g---KGDPKK PRGKMSSYAF FVQTSREEHK KKHPDASvnf SEFSKKCSER 
+1j46_A             1   mq------DR VKRPMNAFIV WSRDQRRKMA LENPRMRN-- SEISKQLGYQ 
+1k99_A             1   mkklKKHPDF PKKPLTPYFR FFMEKRAKYA KLHPEMSNl- -DLTKILSKK 
+2lef_A             1   mh-------- IKKPLNAFML YMKEMRANVV AESTLKES-- AAINQILGRR 
+                                                                 
+                       0000111122 5555555555 5555555555 5555444300 4677777999 
+ 
+1aab_             48   WKTMSAKEKG KFEDMAKADK ARYEREMKTY ip-------- ---PKge- 
+1j46_A            43   WKMLTEAEKW PFFQEAQKLQ AMHREKYPNY KYR--PRRKA KMLPK--- 
+1k99_A            49   YKELPEKKKM KYIQDFQREK QEFERNLARF redhpDLIQN AKK----- 
+2lef_A            41   WHALSREEQA KYYELARKER QLHMQLYPGW SAR--DNYGK KKKRKrek 
+                                                               
+                       9667777777 7777777766 5444444444 1110011111 11111000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1aab_       :0.0570111k99_A      :0.057011):0.029452(1j46_A      :0.0427172lef_A      :0.042717):0.043746);
+ 
+ 

@@ -1,0 +1,1091 @@
+2gsa_A             1   fk-------- ---------- ---------- ---------- ---------- 
+GSA_AQUAE          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACHD          1   M--------- ---------- ---------- ---------- ---------- 
+GSA_BACSU          1   M--------- ---------- ---------- ---------- ---------- 
+GSA_STAAM          1   ---------- ---------- ---------- ---------- ---------- 
+GSA1_LISIN         1   M--------- ---------- ---------- ---------- ---------- 
+GSA_SYNY3          1   mvnatp---- ---------- ---------- ---------- ---------- 
+GSA_CHLRE          1   mqmqlnAKTV QGAFKAQRPR SVRG------ ---------- ---------- 
+GSA_SOYBN          1   m--------- ---------- AVSA------ ---------- ---------- 
+GSA_HORVU          1   magaaa---- ---------- AVAS------ ---------- ---------- 
+GSA1_ARATH         1   ms-------- ---------- --AT------ ---------- ---------- 
+GSA_CLOPE          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOAB          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_CAMJE          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_HELPJ          1   m--------- ---------- ---------- ---------- ---------- 
+GSA_ECO57          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_PASMU          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_VIBCH          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_SHEON          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_PSEAE          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_XANAC          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_XYLFA          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_NEIMA          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_DEIRA          1   mtlsethp-- ---------- ---------- ---------- ---------- 
+GSA_MYCLE          1   mgstdqatap agpav----- ---------- ---------- ---------- 
+GSAB_BACSU         1   m--------- ---------- ---------- ---------- ---------- 
+GSAB_LISIN         1   ---------- ---------- ---------- ---------- ---------- 
+GSA_METKA          1   m--------- ---------- ---------- ---------- ---------- 
+GSA_METJA          1   m--------- ---------- ---------- ---------- ---------- 
+GSA_METAC          1   mv-------- ---------- ---------- ---------- ---------- 
+GSA_AERPE          1   mdvlasg--- ---------- ---------- ---------- ---------- 
+GSA_PYRAE          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_HALN1          1   ---------- ---------- ---------- ---------- ---------- 
+1ohv_A             1   fdydgplmkt evpg------ ---------- ---------- ---------- 
+1b5o_A             1   mr-------- ---------- ---------- ---------- ---------- 
+1b8g_A             1   mlsrnatssy flgw------ ---------- ---------- ---------- 
+1fg3_A             1   tvti------ ---------- ---------- ---------- ---------- 
+1lc5_A             1   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ax4_A             1   ------AKRI VEPFRIKMVE KIRVPSREER EAALKEAGYN PFLLPSSAVY 
+1ajs_A             1   appsvfaevp qaqpv--LVF KLIADFREDP DPRKVNLGVG AYRTDDCQPW 
+1d2f_A             1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+2gsa_A             3   ---------- ---------- ---------- ---------- --------TI 
+GSA_AQUAE          1   ---------- ---------- ---------- ---------- ---------M 
+GSA_BACHD          2   ---------- ---------- ---------- ---------- ------KTFE 
+GSA_BACSU          2   ---------- ---------- ---------- ---------- ------RSYE 
+GSA_STAAM          1   ---------- ---------- ---------- ---------- ------MRYT 
+GSA1_LISIN         2   ---------- ---------- ---------- ---------- ------QNYI 
+GSA_SYNY3          7   ---------- ---------- ---------- ---------- ------FITT 
+GSA_CHLRE         25   ---NVAVRAV AAPpkl---- ---------- ---------- -------VTK 
+GSA_SOYBN          6   ---ITGARLT LGMSLSSSTR SRTVAMAVSi dpktdNK--- ------LTLT 
+GSA_HORVU         11   ---GISIRPV AAPKISRAPR SRSVVRAA-- -------VSI DE--KAYTVQ 
+GSA1_ARATH         5   ---LTGSGTA LGFSCSSKIS KRVSSSPASN RccikmsVSV DEkkKSFSLQ 
+GSA_CLOPE          1   ---------- ---------- ---------- ---------- --------MD 
+GSA_CLOAB          1   ---------- ---------- ---------- ---------- ---------M 
+GSA_CAMJE          1   ---------- ---------- ---------- ---------- ---------M 
+GSA_HELPJ          2   ---------- ---------- ---------- -----E---- --------LL 
+GSA_ECO57          1   ---------- ---------- ---------- ---------- --------MS 
+GSA_PASMU          1   ---------- ---------- ---------- ---------- --------MT 
+GSA_VIBCH          1   ---------- ---------- ---------- ---------- --------MT 
+GSA_SHEON          1   ---------- ---------- ---------- ---------- --------MT 
+GSA_PSEAE          1   ---------- ---------- ---------- ---------- --------MS 
+GSA_XANAC          1   ---------- ---------- ---------- ---------- ------MNHS 
+GSA_XYLFA          1   ---------- ---------- ---------- ---------- ------MNHS 
+GSA_NEIMA          1   ---------- ---------- ---------- ---------- --------MN 
+GSA_DEIRA          9   ---------- ---------- ---------- ---------- --------TA 
+GSA_MYCLE         16   ---------- ---------- ---------- ---------- ---------S 
+GSAB_BACSU         2   ---------- ---------- ---------- ---------- --------HT 
+GSAB_LISIN         1   ---------- ---------- ---------- ---------- ------MDHS 
+GSA_METKA          2   ---------- ---------- ---------- -GYEDE---- --------FP 
+GSA_METJA          2   ---------- ---------- ---------- ---------- -----ALKMD 
+GSA_METAC          3   ---------- ---------- ---------- -----SE--- ------VTLD 
+GSA_AERPE          8   ---------- ---------- ---------- ---------- ---------E 
+GSA_PYRAE          1   ---------- ---------- ---------- ---------- ---------- 
+GSA_HALN1          1   ---------- ---------- ---------- ---------- ------MNRE 
+1ohv_A            15   ---------- --------PR SRELMKqlni iqnaeavhff cn-------- 
+1b5o_A             3   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A            15   ---------- ---------- ---------- ---------- ------QEYE 
+1fg3_A             5   ---------- ---------- ---------- ---------- ---------- 
+1lc5_A             1   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ax4_A            45   IdlLTDSGTn amsdhqwaam itgdeayags rNYYDL---- --------KD 
+1ajs_A            49   Vlpvvr---- -------KVE QRIANNSSLN Heylpil--- ---------- 
+1d2f_A             1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000001 
+ 
+2gsa_A             5   KSD--EIFAA AQKLMPGGVS SPVRAFKSV- G--------- ---GQPI-VF 
+GSA_AQUAE          2   KNE--KLYRE ALQVMPGGVN SPVRAFKAV- G--------- ---GKPI-FL 
+GSA_BACHD          6   KSS--AAFNR AKPLMPGGVN SPVRAFKSV- N--------- ---MDPV-FM 
+GSA_BACSU          6   KSK--TAFKE AQKLMPGGVN SPVRAFKSV- D--------- ---MDPI-FM 
+GSA_STAAM          5   KSE--EAMKV AETLMPGGVN SPVRAFKSV- D--------- ---TPAI-FM 
+GSA1_LISIN         6   KSE--KAFKE AKKVLPGGVN SPVRAFNSV- D--------- ---ASPV-FM 
+GSA_SYNY3         11   KSE--EIFAA AQHLMPGGVS SPVRAFKSV- G--------- ---GQPI-VF 
+GSA_CHLRE         41   RSE--EIFKE AQELLPGGVN SPVRAFRSV- G--------- ---GGPI-VF 
+GSA_SOYBN         44   KSE--EAFAA AKELMPGGVN SPVRAFKSV- G--------- ---GQPI-VI 
+GSA_HORVU         47   KSE--EIFNA AKELMPGGVN SPVRAFKSV- G--------- ---GQPI-VF 
+GSA1_ARATH        52   KSE--EAFNA AKNLMPGGVN SPVRAFKSV- G--------- ---GQPV-LI 
+GSA_CLOPE          3   RNK--EIFEE SKKYMPGGVN SPVRSFGSV- G--------- ---INPP-VI 
+GSA_CLOAB          2   TNK--EIFEE SKEYMPGGVN SPVRAYMDL- N--------- ---IDPP-II 
+GSA_CAMJE          2   TNK--KAFKE TCKFIAGGVN SPVRAFANV- Q--------- ---SEPK-FI 
+GSA_HELPJ          5   HSI--NDFNE AKQVIAGGVN SPVRAFKSV- K--------- ---GTPP-FI 
+GSA_ECO57          3   KSE--NLYSA ARELIPGGVN SPVRAFTGV- G--------- ---GTPL-FI 
+GSA_PASMU          3   TSL--SLFQR AQHRIPGGVN SPVRAFKGV- G--------- ---GTPI-FI 
+GSA_VIBCH          3   KSA--ELYQK AQTTIPGGVN SPVRAFNGV- G--------- ---GSPI-FI 
+GSA_SHEON          3   RSE--ALFEQ AKKTIPGGVN SPVRAFNGV- G--------- ---GSPL-FI 
+GSA_PSEAE          3   RSE--TLFNN AQKHIPGGVN SPVRAFKSV- G--------- ---GTPL-FF 
+GSA_XANAC          5   RSH--ALFAQ AQTLLPGGVN SPVRAFKSV- G--------- ---GEPF-FV 
+GSA_XYLFA          5   RSH--TLFVQ AQTRIPGGVN SPVRAFRSV- G--------- ---GEPF-FV 
+GSA_NEIMA          3   RNE--ILFDR AKAVIPGGVN SPVRAFGSV- G--------- ---GVPR-FI 
+GSA_DEIRA         11   RSE--ALFVR ARAVTPGGVN SPVRAFRSV- G--------- ---GVPR-FI 
+GSA_MYCLE         17   ISA--KLFED ACAVIPGGVN SPVRAFSAV- G--------- ---GTPL-FI 
+GSAB_BACSU         4   KSI--ELHNE ALQHIVGGVN SPSRSYKAVG G--------- ---GSPV-AM 
+GSAB_LISIN         5   MSK--KLHDE ALLHIVGGVN SPSRSNKGVG G--------- ---GIPV-TM 
+GSA_METKA          9   ESL--ELFKR AERVMPGGVS SPVRRF---- D--------- ---PYPF-YV 
+GSA_METJA          7   KSK--ELFEE AKKYLVGGVN SPVRYF---- K--------- ---PYPF-FV 
+GSA_METAC          9   KSR--QMYEK AKTLIPGGVS SPVRAI---- K--------- ---PYPF-YT 
+GSA_AERPE          9   KSR--MLFER TKELFPGGVN SPVRA--AV- K--------- ---PYPF-YV 
+GSA_PYRAE          1   -----MLFER AKSVFPGGVN SPARAL---- K--------- ---HLPspLV 
+GSA_HALN1          5   TSR--ELYDR SLDVLVGGVN STVRA--AP- Q--------- ---PYPT-FV 
+1ohv_A            39   ---------- ---------- ---------- ---------- ---------Y 
+1b5o_A             3   ---------- -------GLS RRVQAM---- K--------- ---PSAT-VA 
+1b8g_A            19   KNpyhEVHNt ngiiqmgl-- ---------- ---------- ---------- 
+1fg3_A             5   ---------T DLARENVRNL TPYQSARRL- G--------- ---GNGD-VW 
+1lc5_A             1   ------LFNT Ahg---GNIR EPATVLGisp dqlldfsani nplGMPV-SV 
+1jg8_A             1   ---------- ---------- ---------- ---------- ---------- 
+1ax4_A            83   KAK--ELFNy dyi------- --IPAHQGR- G--------- ---AENI-LF 
+1ajs_A            75   -GL--AEFRT CASRLALGDD SPALQEKRV- G--------- ---GVQS-L- 
+1d2f_A             1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       2220023333 3333334444 4444433330 3000000000 0003344044 
+ 
+2gsa_A            39   DRVKDAYAWD VDGNRYIDYV GTWGPAICGH AHPEVIE-AL KV-------- 
+GSA_AQUAE         36   VKGRGPRVWD AEGNEYIDFL ASWGAIILGH APKKVVK-AV QE-------- 
+GSA_BACHD         40   ERGKGANIYD IDGNEYIDYV LSWGPLILGH ADDQVVE-KL KE-------- 
+GSA_BACSU         40   ERGKGSKIFD IDGNEYIDYV LSWGPLILGH TNDRVVE-SL KK-------- 
+GSA_STAAM         39   DHGKGSKIYD IDGNEYIDYV LSWGPLILGH RDPQVIS-HL HE-------- 
+GSA1_LISIN        40   DHGKGAYITD VDGNEYIDYV LSWGPLILGH ADPSVVN-AI TN-------- 
+GSA_SYNY3         45   DRVEGAQIWD VDGNQYIDYV GTWGPAICGH AHPDVIS-AL KQ-------- 
+GSA_CHLRE         75   DRVKGAYCWD VDGNKYIDYV GSWGPAICGH GNDEVNN-AL KA-------- 
+GSA_SOYBN         78   DSVKGSRMWD IDGNEYIDYV GSWGPAIIGH ADDQVLA-AL GE-------- 
+GSA_HORVU         81   DSVKGSHMWD VDGNEYIDYV GSWGPAIIGH ADDKVNA-AL IE-------- 
+GSA1_ARATH        86   DSVKGSKMWD IDGNEYIDYV GSWGPAIIGH ADDEVLA-AL AE-------- 
+GSA_CLOPE         37   KSGKGAMIKD ENGNEYIDFV LAWGPMILGH CDEDVVE-AI KK-------- 
+GSA_CLOAB         36   KSGKDSHLFD EEGKEYIDFI EAWGPMILGH KNQKVLN-EV KE-------- 
+GSA_CAMJE         36   SHGKGAYIFD IDGNSYIDYV QSWGPLLFGH CDKDIQK-AC QK-------- 
+GSA_HELPJ         39   LKGKGAYLYD VDNNHYIDFV QSWGPLIFGH ADEEIEE-NI IN-------- 
+GSA_ECO57         37   EKADGAYLYD VDGKAYIDYV GSWGPMVLGH NHPAIRN-AV IE-------- 
+GSA_PASMU         37   EKAQGAYLYD TEGNQYIDYV GSWGPMILGH NHPTILD-AV IS-------- 
+GSA_VIBCH         37   DRADGALIFD ADGKAYIDYV GSWGPMILGH NHAVIRE-AV IQ-------- 
+GSA_SHEON         37   EKADGAYIYD ADGKAYIDYV GSWGPMILGH NHPKIRE-AV LA-------- 
+GSA_PSEAE         37   KHAEGAYVLD EDDKRYVDYV GSWGPMILGH SHPDVLD-AV RR-------- 
+GSA_XANAC         39   ARADGPYLFD VDDNRYIDYV GSWGPMIAGH NHPAVRE-AV EQ-------- 
+GSA_XYLFA         39   ARADGPYLFD VDGHRYIDYV GSWGPMIVGH NHPAVRE-AV QV-------- 
+GSA_NEIMA         37   KKAEGAYVWD ENGTRYTDYV GSWGPAIVGH AHPEVIE-AV RE-------- 
+GSA_DEIRA         45   ASAQGAYLTD ADGARYLDYI GSWGPMILGH NHPAVRD-AV AQ-------- 
+GSA_MYCLE         51   TEARGCWLTD ADGRRYVDLV CSWGPMILGH AHPAVVD-AV AT-------- 
+GSAB_BACSU        39   EKASGAYFWD VDGNKYIDYL AAYGPIITGH AHPHITE-AI KK-------- 
+GSAB_LISIN        40   ERANGAYFYD VDGNKYIDYL AAFGPIITGH AHPHITE-AI TK-------- 
+GSA_METKA         40   ERAEGSRLYT VDGHVLIDYC LAFGPLILGH AHPEVVE-AV VE-------- 
+GSA_METJA         38   EKAKDCYLFD VDGNCYIDYC LAYGPMVLGH ANDAVIK-AV KE-------- 
+GSA_METAC         40   ASADGSKIRD LDGNEYIDYC LAYGPAVLGH NHPVIKA-AI KE-------- 
+GSA_AERPE         41   KRGEGAYLYT VDGARIVDLV LAYGPLILGH KHPRVLE-AV EE-------- 
+GSA_PYRAE         30   AKAASGAYLY TDRGKLVDYC MAFGAIILGH AHPRVKK-AV EE-------- 
+GSA_HALN1         37   QSGDGGHVID ADGNRYIDWV MGLGPLLLGH DLPQPVTaAI QR-------- 
+1ohv_A            40   EESRGNYLVD VDGNRMLDLY SQISSIPIGY SHPALVK-LV QQpqnvstfi 
+1b5o_A            19   VNAKALELR- ---RQGVDLV ALTAGEPDFD TPEHVKE-AA RR-------- 
+1b8g_A            37   ---------- AENQLCFDLL ESWl------ ---------- ---------- 
+1fg3_A            32   ---------- LNANEY---- ---------- ---------- ---------- 
+1lc5_A            41   KRAlidnl-- ---------- ---------- ---------- ---------- 
+1jg8_A             1   ---------- -----MIDLR S--------D TVTKPTE-EM RK-------- 
+1ax4_A           108   pv-------- ---------- ---------- ---LLKY-KQ KE-------- 
+1ajs_A           107   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A             1   ---------- --------LL PFTISDMDFA TAPCIIE-AL NQ-------- 
+                                                                 
+                       4445555555 5555555555 5555555566 4444433033 3300000000 
+ 
+2gsa_A            80   ---------- ---------- ---------- ---------- ---------- 
+GSA_AQUAE         77   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACHD         81   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACSU         81   ---------- ---------- ---------- ---------- ---------- 
+GSA_STAAM         80   ---------- ---------- ---------- ---------- ---------- 
+GSA1_LISIN        81   ---------- ---------- ---------- ---------- ---------- 
+GSA_SYNY3         86   ---------- ---------- ---------- ---------- ---------- 
+GSA_CHLRE        116   ---------- ---------- ---------- ---------- ---------- 
+GSA_SOYBN        119   ---------- ---------- ---------- ---------- ---------- 
+GSA_HORVU        122   ---------- ---------- ---------- ---------- ---------- 
+GSA1_ARATH       127   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOPE         78   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOAB         77   ---------- ---------- ---------- ---------- ---------- 
+GSA_CAMJE         77   ---------- ---------- ---------- ---------- ---------- 
+GSA_HELPJ         80   ---------- ---------- ---------- ---------- ---------- 
+GSA_ECO57         78   ---------- ---------- ---------- ---------- ---------- 
+GSA_PASMU         78   ---------- ---------- ---------- ---------- ---------- 
+GSA_VIBCH         78   ---------- ---------- ---------- ---------- ---------- 
+GSA_SHEON         78   ---------- ---------- ---------- ---------- ---------- 
+GSA_PSEAE         78   ---------- ---------- ---------- ---------- ---------- 
+GSA_XANAC         80   ---------- ---------- ---------- ---------- ---------- 
+GSA_XYLFA         80   ---------- ---------- ---------- ---------- ---------- 
+GSA_NEIMA         78   ---------- ---------- ---------- ---------- ---------- 
+GSA_DEIRA         86   ---------- ---------- ---------- ---------- ---------- 
+GSA_MYCLE         92   ---------- ---------- ---------- ---------- ---------- 
+GSAB_BACSU        80   ---------- ---------- ---------- ---------- ---------- 
+GSAB_LISIN        81   ---------- ---------- ---------- ---------- ---------- 
+GSA_METKA         81   ---------- ---------- ---------- ---------- ---------- 
+GSA_METJA         79   ---------- ---------- ---------- ---------- ---------- 
+GSA_METAC         81   ---------- ---------- ---------- ---------- ---------- 
+GSA_AERPE         82   ---------- ---------- ---------- ---------- ---------- 
+GSA_PYRAE         71   ---------- ---------- ---------- ---------- ---------- 
+GSA_HALN1         79   ---------- ---------- ---------- ---------- ---------- 
+1ohv_A            89   nrpalgilpp enfveklres llsvapkgms qlitmacgsc snenafktif 
+1b5o_A            56   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A            51   ---------- ---------- ---------- ---------- ---------- 
+1fg3_A            38   ---------- ---------- ---------- ---------- ---------- 
+1lc5_A            49   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A            19   ---------- ---------- ---------- ---------- ---------- 
+1ax4_A           118   ---------- ---------- ---------- ---------- ---------- 
+1ajs_A           107   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A            24   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+2gsa_A            80   ----AMEK-- -GTSFGAPCA LENVLAEMVN DAVPSIE-MV RFVNSGTEAC 
+GSA_AQUAE         77   ----EAEK-- -GLSFGLTNP HEVTLAKLVV EMVPSVE-KV RFVNSGTEAT 
+GSA_BACHD         81   ----TTEK-- -GTSFGAPSE LETKLAELVI ERVPSIE-VV RMVNSGTEAT 
+GSA_BACSU         81   ----VAEY-- -GTSFGAPTE VENELAKLVI DRVPSVE-IV RMVSSGTEAT 
+GSA_STAAM         80   ----AIDK-- -GTSFGASTL LENKLAQLVI DRVPSIE-KV RMVSSGTEAT 
+GSA1_LISIN        81   ----SAMK-- -GTSFGTPTE IETELAKLVI ERVPSIE-IV RMVSSGTEAT 
+GSA_SYNY3         86   ----ALDK-- -GTSFGAPCA QENVLAEMVI DAVPSIE-MV RFVNSGTEAC 
+GSA_CHLRE        116   ----QIDK-- -GTSFGAPCE LENVLAKMVI DRVPSVE-MV RFVSSGTEAC 
+GSA_SOYBN        119   ----TMKK-- -GTSFGAPCL LENTLAELVI DAVPSIE-MV RFVNSGTEAC 
+GSA_HORVU        122   ----TLKK-- -GTSFGAPCA LENVLAQMVI SAVPSIE-MV RFVNSGTEAC 
+GSA1_ARATH       127   ----TMKK-- -GTSFGAPCL LENVLAEMVI SAVPSIE-MV RFVNSGTEAC 
+GSA_CLOPE         78   ----TSEE-- -SIAFGASTK LELDLAKLLC ETLDNVD-MI RMVNSGTEAT 
+GSA_CLOAB         77   ----VLDE-- -GVGFGAPTS LELKLAKYIC TTVDNVE-MI RMVNSGTEAT 
+GSA_CAMJE         77   ----ALHK-- -GSSFGAPTL LETELAKLVL SDFPHLE-KI RFVSSGTEAT 
+GSA_HELPJ         80   ----VLKK-- -GTSFGAPTE LETTLAKEII SCYEGLD-KV RLVNSGTEAT 
+GSA_ECO57         78   ----AAER-- -GLSFGAPTE MEVKMAQLVT ELVPTMD-MV RMVNSGTEAT 
+GSA_PASMU         78   ----TAQN-- -GLSFGAPTA LEIELAELVC SLVPSID-MV RMVSSGTEAT 
+GSA_VIBCH         78   ----AAQR-- -GLSFGAPTE MEITMAELVS ELVPSME-QL RMVNSGTEAT 
+GSA_SHEON         78   ----AVHN-- -GLSFGAPTE LEVQMAEKVI AMVPSIE-QV RMVSSGTEAT 
+GSA_PSEAE         78   ----QLDH-- -GLSYGAPTA LEVEMADLVC SMVPSME-MV RMVSSGTEAT 
+GSA_XANAC         80   ----SIRN-- -GLSFGAPCA AEVAMAQTIT RLVPSCE-MV RMVNSGTEAT 
+GSA_XYLFA         80   ----AISN-- -GLSYGAPCA AEVTMAETIA RLVPSCD-MV RMVNSGTEAT 
+GSA_NEIMA         78   ----AALG-- -GLSFGAPTE GEIAIAEEIA KIMPSVE-RL RLVSSGTEAT 
+GSA_DEIRA         86   ----ALAS-- -GTSFGAPNE REVELA-ELI VELTGAE-RV RFVSSGTEAT 
+GSA_MYCLE         92   ----VAAS-- -GLSFGAPTP AETQLAAEII GRMAPVE-RI RLVNSGTEAT 
+GSAB_BACSU        80   ----AAEN-- -GVLYGTPTK HEVTFAKMLK EAIPAMD-KV RFVNSGTEAV 
+GSAB_LISIN        81   ----AAQN-- -GVLYGTPTK HEITFAKMLK EAIPSLE-KV RFTNSGTEAV 
+GSA_METKA         81   ----RVRE-- -GFHYGTPTL PELKLAEKVV ELVPNVE-KV RLVNTGTEAT 
+GSA_METJA         79   ----QLEL-- -GSAYGCPTE KEIILAKEVV KRVPCAE-MV RFVNSGTEAT 
+GSA_METAC         81   ----QLDK-- -GWLYGTPTE LEVTLAEKVA GYYPSID-ML RFVSTGTEAT 
+GSA_AERPE         82   ----ALAR-- -GWLYGAPGE AEVLLA-EKI LGYVKRggMI RFVNSGTEAT 
+GSA_PYRAE         71   ----QLEK-- -GWIYALLTE QEVEFAERIR RHMPSVE-KM RIVNTGTEAT 
+GSA_HALN1         79   ----RASD-- -GPLFGTPTE IEVEHAEFVA RHVPSVE-LL RFVNSGTEAT 
+1ohv_A           139   mwyrSKER-- -GQSAFSKEE LETCMINQAP GCpdy----- ---------- 
+1b5o_A            56   ----ALAQ-- -GKTKYAPPA GIPELR-EAL AEKFRRE--- ---------- 
+1b8g_A            51   ------AK-- -NPe------ ---------- ---------- ---------- 
+1fg3_A            38   ---------- -------PTA VEFQLTQQTL NRYPECQ-PK AVIENYAQ-- 
+1lc5_A            49   ---------- ---------- -------DCI ERYPDAD-YF HLHQALAR-- 
+1jg8_A            19   ----AMAQae vGDDVYGEDP TINELE-RLA AETFGKE-AA LFVPSGTMGN 
+1ax4_A           118   ----GKAK-- -NPVFISNFH FDTTAAHVEL NGCKAIN-IV TEKAFDSETy 
+1ajs_A           107   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A            24   ----RLMH-- -GVFGYSRWK ND-EFL-AAI AHWFSTQ--- ---------- 
+                                                                 
+                       0000333300 0433333333 3333333333 3333345057 7777777887 
+ 
+2gsa_A           122   MAVLRLMRAY TGRDKIIKFE GCYHGHADMF LVKAGSGVAT LGL------- 
+GSA_AQUAE        119   MSAVRLARGV TGRKYIVKFE GCYHGHYDSL LVSAGSGVAT FGI------- 
+GSA_BACHD        123   MSALRLARGY TGRNKILKFE GCYHGHGDSL LIKAGSGVAT LGL------- 
+GSA_BACSU        123   MSALRLARGY TGRNKILKFE GCYHGHGDSL LIKAGSGVAT LGL------- 
+GSA_STAAM        122   LDTLRLARGY TGRNKIVKFE GCYHGHSDSL LIKAGSGVAT LGL------- 
+GSA1_LISIN       123   MSAIRLARGY TKREKILKFE GSYHGHGDSL LIKAGSGVAT LGL------- 
+GSA_SYNY3        128   MSVLRLMRAF TGREKIIKFE GCYHGHADMF LVKAGSGVAT LGL------- 
+GSA_CHLRE        158   LSVLRLMRAY TGREKVLKFT GCYHGHADSF LVKAGSGVIT LGL------- 
+GSA_SOYBN        161   MGALRLARAY TGREKIIKFE GCYHGHADPF LVKAGSGVAT LGL------- 
+GSA_HORVU        164   MGALRLVRAF TGREKILKFE GCYHGHADSF LVKAGSGVAT LGL------- 
+GSA1_ARATH       169   MGVLRLARAF TNKEKFIKFE GCYHGHANAF LVKAGSGVAT LGL------- 
+GSA_CLOPE        120   MSAVKLARGY TKKDKIIKFA GCYHGHFDGF LIEAGSGVLT EGI------- 
+GSA_CLOAB        119   MSAVKLARGY TKRDKIIKFA GCYHGHFDGF LVEAGSGVLT QNI------- 
+GSA_CAMJE        119   MSAIRLARGF TKKDKILKFE GCYHGHSDSL LVSAGSGAAT FNS------- 
+GSA_HELPJ        122   MSAIRLARAY SQKDDLIKFE GCYHGHSDSL LVKAGSGCAT FGS------- 
+GSA_ECO57        120   MSAIRLARGF TGRDKIIKFE GCYHGHADCL LVKAGSGALT LGQ------- 
+GSA_PASMU        120   MSAIRLARGY TKRDKIIKFE GCYHGHADSL LVKAGSGALT LGQ------- 
+GSA_VIBCH        120   MSAIRLARGY TGRDKIIKFE GCYHGHADSL LVKAGSGALT LGQ------- 
+GSA_SHEON        120   MSAIRLARGF TNRDKILKFE GCYHGHADCL LVKAGSGALT LGQ------- 
+GSA_PSEAE        120   MSAIRLARGY TGRDSIIKFE GCYHGHSDSL LVKAGSGALT FGV------- 
+GSA_XANAC        122   LSAVRLARGA TGRNRIIKFE GCYHGHGDSF LVKAGSGMLT LGV------- 
+GSA_XYLFA        122   LSAIRLARGA TGRNHIVKFE GCYHGHGDSF LVKGGSGMLT LGM------- 
+GSA_NEIMA        120   MTAIRLARGF TGRDKIIKFE GCYHGHSDSL LVKAGSGLLT FGN------- 
+GSA_DEIRA        127   MSALRLARGY TGRKFIVKFR GNYHGHADGL LVEAGSGLLT NAEgdlgaAA 
+GSA_MYCLE        134   MSAVRLARGF TGRTKIIKFS GCYHGHVDAL LADAGSGVAT LSL------- 
+GSAB_BACSU       122   MTTIRVARAY TGRTKIIKFA GCYHGHSDLV LVAAGSGPST LGT------- 
+GSAB_LISIN       123   MTTIRVARAY TGRDKIIKFA GCYHGHFDLV LVEAGSGPST LGI------- 
+GSA_METKA        123   MSAIRLARAY TGREKIVKFE GCYHGAHDAV LVRAGSGASE LGA------- 
+GSA_METJA        121   MSAIRLARGV TGRKKIIKFD GAYHGAHDYV LVKSGSGALT HGH------- 
+GSA_METAC        123   MSALRLARGF TRKNKFIKIE GGFHGAHDAV LVKAGSGATT LGE------- 
+GSA_AERPE        124   MTAIRLARGY TGRDLILKFD GCYHGSHDAV LVAAGSAAAH YGV------- 
+GSA_PYRAE        113   MSAIRAARGY TKRDVIIKFE GNFHGSHDYV LVKAGSGAAT WGI------- 
+GSA_HALN1        121   VSAVRLARGY TGRNKIVVMQ GGYHGAQEST LVEGd---AD HRG------- 
+1ohv_A           171   ---------- ----SILSFM GAFHGRTMGC LATTHSKAIH KidipsfDWp 
+1b5o_A            85   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A            56   ---------- ---------- ---------- ---------- --------AA 
+1fg3_A            68   ---------- ---------- ---------- ---------- ---------- 
+1lc5_A            69   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A            63   QVSIMAhtq- -RGDEVILEA DSHIFWYEVG AMAVLSGVMP HPV------- 
+1ax4_A           160   d--------- ---------- ---------- ---------- -------DWk 
+1ajs_A           107   ---------- ---------- ---------- ---GGTGALR I--------- 
+1d2f_A            52   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       8778888888 8888888888 8888865756 6666666556 5550000000 
+ 
+2gsa_A           165   PSSPGVPKKT TANTLTTP-- -----YNDLE AVKALFAENP GEIAG----- 
+GSA_AQUAE        162   PGTPGIPEEI AKLTIVLP-- -----YNDVQ ALEEAFKEYG SEIAG----- 
+GSA_BACHD        166   PDSPGVPETV AQNTLTVP-- -----YNDLE SVRYAFEQFG DDLAG----- 
+GSA_BACSU        166   PDSPGVPEGI AKNTITVP-- -----YNDLE SVKLAFQQFG EDIAG----- 
+GSA_STAAM        165   PDSPGVPEGI AKNTITVP-- -----YNDLD ALKIAFEKFG DDIAG----- 
+GSA1_LISIN       166   PDSPGVTKGL AADTITVP-- -----YNDVE GAKLAFEKFG EEIAA----- 
+GSA_SYNY3        171   PDSPGVPSNT TKATLTAP-- -----YNDLE AVKALFVENP DSIAG----- 
+GSA_CHLRE        201   PDSPGVPKST AAATLTAT-- -----YNNLD SVRELFAANK GEIAG----- 
+GSA_SOYBN        204   PDSPGVPKAA TFETLTAP-- -----YNDTE AIEKLFEANK GEIAA----- 
+GSA_HORVU        207   PDSPGVPKGA TVGTLTAP-- -----YNDAD AVKKLFEDNK GEIAA----- 
+GSA1_ARATH       212   PDSPGVPKAA TSDTLTAP-- -----YNDLE AVEKLFAAHK GEISA----- 
+GSA_CLOPE        163   PGCLGVPEES IKNTLIGI-- -----YNDEK QVEELFEKYG NDIAG----- 
+GSA_CLOAB        162   PGSPGVPKGS IENTLIAE-- -----YNNVE SVEVLFNKYK DEIAA----- 
+GSA_CAMJE        162   PSSLGVLEDV AKHTLVAK-- -----YNDIN SVKELFEKN- KDIAC----- 
+GSA_HELPJ        165   PSSLGVPNDF SKHTLVAR-- -----YNDLN STEECFKK-- GDVGC----- 
+GSA_ECO57        163   PNSPGVPADF AKHTLTCT-- -----YNDLA SVRAAFEQYP QEIAC----- 
+GSA_PASMU        163   PSSPGVPADF AKHTLTCT-- -----YNDLD SVKHAFEQYP NEIAC----- 
+GSA_VIBCH        163   PSSPGVPADF AKHTLTAR-- -----FNDLD SVRELFAANQ GEIAC----- 
+GSA_SHEON        163   PSSPGIPEDF AKHTLTAV-- -----YNDLD SVRSLFEQYP TEISC----- 
+GSA_PSEAE        163   PNSPGVPAAF AKHTLTLP-- -----FNDIE AVRKTLGEVG KEVAC----- 
+GSA_XANAC        165   PTSPGVPAGL SELTATLS-- -----FNDFE GATALFDEIG AEVAA----- 
+GSA_XYLFA        165   PSSPGVPAEL SKLTITLT-- -----YNDFD AATALFEEMG HHIAA----- 
+GSA_NEIMA        163   PSSAGVPADF TKHTLVLE-- -----YNNIA QLEEAFAQSG NDIAC----- 
+GSA_DEIRA        177   PSSAGVPEEY AGLTLVLD-- -----YNDPE ALDALMAQRG DEIAA----- 
+GSA_MYCLE        177   PSSPGVTGAA AADTIVLP-- -----YNDIE AVRQTFARLG DQIAA----- 
+GSAB_BACSU       165   PDSAGVPKSI ANEVITVP-- -----FNDID SYKAALEKWG SEIAA----- 
+GSAB_LISIN       166   PDSAGVTRST AEEVITVP-- -----FNDLT SFKEALAVWG DQVAA----- 
+GSA_METKA        166   PDSPGIPESV AENTLVCP-- -----FNDVE AFVETVERFD EEIGA----- 
+GSA_METJA        164   PNSPGIPEET TKNTILIP-- -----FNDED AVKKAINENK DEIAC----- 
+GSA_METAC        166   PDSLGIPADF TKYTLQAP-- -----YNDIE TMTTLVEKNR DDLAA----- 
+GSA_AERPE        167   PTSAGVPEAV ARLTLVTP-- -----YNDVE ALERVFAEYG DRIAG----- 
+GSA_PYRAE        156   PTSAGIPQEV ARLTVVVP-- -----YNDID AFIKAVREVG DRLAA----- 
+GSA_HALN1        161   PSSAGIPPAF AQHTIPVP-- -----FNDAD AVTEVFETHG DDIAA----- 
+1ohv_A           207   iapfprlkyp leefvkenqq eearcLEEVE DLIVKYRKKK KTVAG----- 
+1b5o_A            85   ---------- ---------- ---------- ---------- -----NGLSV 
+1b8g_A            58   AFKKNGESIF AELALFQD-- -----YHGLP AFKKAMVDFM AEIRGNKVTF 
+1fg3_A            68   ---------- ---------- ---------- ---------- ------YAGV 
+1lc5_A            69   ---------- ---------- ---------- ---------- ------HHQV 
+1jg8_A           104   PGKNGAm--- ---------- ---------- ---------- ---------- 
+1ax4_A           164   ---------- ------GD-- -----FDIKK LKENIAQHGA DNIVA----- 
+1ajs_A           115   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A            52   ---------- ---------- ---------- ---------- -----HYTAI 
+                                                                 
+                       5555555444 4444444400 0000055544 4332233223 3444400000 
+ 
+2gsa_A           203   ---------- ---------- ---------- ---------- ---------- 
+GSA_AQUAE        200   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACHD        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACSU        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_STAAM        203   ---------- ---------- ---------- ---------- ---------- 
+GSA1_LISIN       204   ---------- ---------- ---------- ---------- ---------- 
+GSA_SYNY3        209   ---------- ---------- ---------- ---------- ---------- 
+GSA_CHLRE        239   ---------- ---------- ---------- ---------- ---------- 
+GSA_SOYBN        242   ---------- ---------- ---------- ---------- ---------- 
+GSA_HORVU        245   ---------- ---------- ---------- ---------- ---------- 
+GSA1_ARATH       250   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOPE        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOAB        200   ---------- ---------- ---------- ---------- ---------- 
+GSA_CAMJE        199   ---------- ---------- ---------- ---------- ---------- 
+GSA_HELPJ        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_ECO57        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_PASMU        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_VIBCH        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_SHEON        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_PSEAE        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_XANAC        203   ---------- ---------- ---------- ---------- ---------- 
+GSA_XYLFA        203   ---------- ---------- ---------- ---------- ---------- 
+GSA_NEIMA        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_DEIRA        215   ---------- ---------- ---------- ---------- ---------- 
+GSA_MYCLE        215   ---------- ---------- ---------- ---------- ---------- 
+GSAB_BACSU       203   ---------- ---------- ---------- ---------- ---------- 
+GSAB_LISIN       204   ---------- ---------- ---------- ---------- ---------- 
+GSA_METKA        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_METJA        202   ---------- ---------- ---------- ---------- ---------- 
+GSA_METAC        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_AERPE        205   ---------- ---------- ---------- ---------- ---------- 
+GSA_PYRAE        194   ---------- ---------- ---------- ---------- ---------- 
+GSA_HALN1        199   ---------- ---------- ---------- ---------- ---------- 
+1ohv_A           252   ---------- ---------- ---------- ---------- ---------- 
+1b5o_A            90   TPEETIVTVG GSQALFNL-- ---------- ---------- -------FQA 
+1b8g_A           101   DPNHLVLTAG ATSANETF-- ---------- ---------- -------IFC 
+1fg3_A            72   KPEQVLVSRG ADEGIELL-- ---------- ---------- -------IRA 
+1lc5_A            73   PASWILAGNG ETESIftvas glkprramiv tpgfaeygra laqsgceIRR 
+1jg8_A           111   ---------- ---------- ---------- ---------- ---------- 
+1ax4_A           186   ---------- ---------- ---------- ---------- ---------- 
+1ajs_A           115   ---------- GAEFLARW-- ---------- ---------- -------YNG 
+1d2f_A            57   DSQTVVYGPS VIYMVSEL-- ---------- ---------- -------IRQ 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+2gsa_A           203   ---------- ---------- ---------- ---------- ---------- 
+GSA_AQUAE        200   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACHD        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACSU        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_STAAM        203   ---------- ---------- ---------- ---------- ---------- 
+GSA1_LISIN       204   ---------- ---------- ---------- ---------- ---------- 
+GSA_SYNY3        209   ---------- ---------- ---------- ---------- ---------- 
+GSA_CHLRE        239   ---------- ---------- ---------- ---------- ---------- 
+GSA_SOYBN        242   ---------- ---------- ---------- ---------- ---------- 
+GSA_HORVU        245   ---------- ---------- ---------- ---------- ---------- 
+GSA1_ARATH       250   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOPE        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOAB        200   ---------- ---------- ---------- ---------- ---------- 
+GSA_CAMJE        199   ---------- ---------- ---------- ---------- ---------- 
+GSA_HELPJ        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_ECO57        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_PASMU        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_VIBCH        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_SHEON        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_PSEAE        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_XANAC        203   ---------- ---------- ---------- ---------- ---------- 
+GSA_XYLFA        203   ---------- ---------- ---------- ---------- ---------- 
+GSA_NEIMA        201   ---------- ---------- ---------- ---------- ---------- 
+GSA_DEIRA        215   ---------- ---------- ---------- ---------- ---------- 
+GSA_MYCLE        215   ---------- ---------- ---------- ---------- ---------- 
+GSAB_BACSU       203   ---------- ---------- ---------- ---------- ---------- 
+GSAB_LISIN       204   ---------- ---------- ---------- ---------- ---------- 
+GSA_METKA        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_METJA        202   ---------- ---------- ---------- ---------- ---------- 
+GSA_METAC        204   ---------- ---------- ---------- ---------- ---------- 
+GSA_AERPE        205   ---------- ---------- ---------- ---------- ---------- 
+GSA_PYRAE        194   ---------- ---------- ---------- ---------- ---------- 
+GSA_HALN1        199   ---------- ---------- ---------- ---------- ---------- 
+1ohv_A           252   ---------- ---------- ---------- ---------- ---------- 
+1b5o_A           111   ILDPGDEVIV LSPYWVSYPE MVRF-AGGVV VEVETL-PE- EGFvpDPERV 
+1b8g_A           122   LADPGEAVLI PTPYYPGFDR DLKwrTGVEI VPIHCT-SS- NGFQIT-ETA 
+1fg3_A            93   FCEPGKDAIL YCPptygxys vsaetig--- VECRTV-Ptl DNWQLD-LQG 
+1lc5_A           123   WSl------- ---------- ---------- ------REA- DGWQLT-DAI 
+1jg8_A           111   ---------- ---------- ---------- ---------- -----DPDDV 
+1ax4_A           186   ---------- ---------- ---------- ---------- ---------- 
+1ajs_A           126   TNNKDTPVYV SSPTWENHNG VFTT-AGfkd irsyr----- ---------- 
+1d2f_A            78   WSETGEGVVI HTPAYDAFYK AIEG-NQRTV MPValeKQA- DGWFCD-Mgk 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+2gsa_A           203   ---------- ------VILE PI-------- ------VGNS GFIVPDAGFL 
+GSA_AQUAE        200   ---------- ------VIVE PI-------- ------AGNM GVVPPKKEFL 
+GSA_BACHD        204   ---------- ------VIVE PV-------- ------AGNM GVVPPEPGFL 
+GSA_BACSU        204   ---------- ------VIVE PV-------- ------AGNM GVVPPQEGFL 
+GSA_STAAM        203   ---------- ------VIVE PV-------- ------AGNM GVVPPIEGFL 
+GSA1_LISIN       204   ---------- ------VIVE PV-------- ------AGNM GVVPPIDGFL 
+GSA_SYNY3        209   ---------- ------VILE PV-------- ------VGNA GFILPDAGFL 
+GSA_CHLRE        239   ---------- ------VILE PV-------- ------VGNS GFIVPTKEFL 
+GSA_SOYBN        242   ---------- ------VFLE PV-------- ------VGNA GFIVPKPDFH 
+GSA_HORVU        245   ---------- ------VFLE PV-------- ------VGNA GFIPPQPAFL 
+GSA1_ARATH       250   ---------- ------VILE PV-------- ------VGNS GFIPPTPEFI 
+GSA_CLOPE        201   ---------- ------IIIE PV-------- ------AGNM GVVKCDPKFM 
+GSA_CLOAB        200   ---------- ------VIIE PV-------- ------AGNM GVIPAKKEFL 
+GSA_CAMJE        199   ---------- ------VIIE PI-------- ------AGNM GLVPAKQDFL 
+GSA_HELPJ        201   ---------- ------VIIE PI-------- ------AGNM GLVPAQKEFL 
+GSA_ECO57        201   ---------- ------IIVE PV-------- ------AGNM NCVPPLPDFL 
+GSA_PASMU        201   ---------- ------LIVE PV-------- ------AGNM NCIPPQEGFL 
+GSA_VIBCH        201   ---------- ------IIVE PV-------- ------AGNM NCIPPVEGFH 
+GSA_SHEON        201   ---------- ------IIIE PV-------- ------AGNM NCIPPIPGFL 
+GSA_PSEAE        201   ---------- ------IIVE PV-------- ------AGNM NCVPPAPGFL 
+GSA_XANAC        203   ---------- ------VIIE PV-------- ------VGNA NCIPPQAGYL 
+GSA_XYLFA        203   ---------- ------VIVE PV-------- ------IGNA NCIPPRPGYL 
+GSA_NEIMA        201   ---------- ------VILE PF-------- ------VGNM NLVRPSEAFV 
+GSA_DEIRA        215   ---------- ------VIFE PV-------- ------VGNA GVLIPTSDFL 
+GSA_MYCLE        215   ---------- ------VITE AS-------- ------PGNM GVVPPAPGYN 
+GSAB_BACSU       203   ---------- ------VLVE PI-------- ------VGNF GIVEPKEGFL 
+GSAB_LISIN       204   ---------- ------VLVE PI-------- ------VGNF GMVAPAEGFL 
+GSA_METKA        204   ---------- ------VIVE PV-------- ------LGNA GCVPPDEEFL 
+GSA_METJA        202   ---------- ------IIVE PI-------- ------MGNV GCILPKEGYL 
+GSA_METAC        204   ---------- ------VIIE PV-------- ------LGNI GPILPLPGYL 
+GSA_AERPE        205   ---------- ------VIVE PV-------- ------IANA GVIPPRREFL 
+GSA_PYRAE        194   ---------- ------VIVE PV-------- ------AGNY GLIIPDVEFL 
+GSA_HALN1        199   ---------- ------VLVE PI-------- ------LANK GIVEPVAGYH 
+1ohv_A           252   ---------- ------IIVE PI-------- ------QSEG GDNHASDDFF 
+1b5o_A           158   RRAITPR--- ----TKALVV NS-------- ------PNNP TGAVYPKEVL 
+1b8g_A           169   LEeaYQEAEK RNLRVKGVLV TN-------- ------PSNP LGTTMTRNEL 
+1fg3_A           138   ISDKLDG--- ----VKVVYV CS-------- ------PNNP TGQLINPQDF 
+1lc5_A           138   LEALTPD--- ----LDCLFL CT-------- ------PNNP TGLLPERPLL 
+1jg8_A           116   RKAIRPRnih fprtslIAIE NT-------- ------HNRS GGRVVPLENI 
+1ax4_A           186   ---------- ------IVST VT-------- ------CNSA GGQPVSMSNL 
+1ajs_A           160   ----YWDTEK RGLDLQGFLs dlenapefsi fvlhacAHNP TGTDPTPEQW 
+1d2f_A           125   leavlakpec -----KIMLL CS-------- ------PQNP TGKVWTCDEL 
+                                                                 
+                       0000000000 0000004444 4400000000 0000004444 4444444444 
+ 
+2gsa_A           223   EGLREITLEH DALLVFDEV- ---------- ---------- ---------- 
+GSA_AQUAE        220   IRLRELTKEY GSLLMFDEV- ---------- ---------- ---------- 
+GSA_BACHD        224   EELRRLTEEN GTLLIFDEV- ---------- ---------- ---------- 
+GSA_BACSU        224   QGLRDITEQY GSLLIFDEV- ---------- ---------- ---------- 
+GSA_STAAM        223   QGLRDITTEY GALLIFDEV- ---------- ---------- ---------- 
+GSA1_LISIN       224   EGLRELTTEY GALLIFDEV- ---------- ---------- ---------- 
+GSA_SYNY3        229   EGLRELTKEY GALLVFDEV- ---------- ---------- ---------- 
+GSA_CHLRE        259   QGLREICTAE GAVLCFDEV- ---------- ---------- ---------- 
+GSA_SOYBN        262   SFLRKITKEN NTLLVFDEV- ---------- ---------- ---------- 
+GSA_HORVU        265   NALREVTKQD GALLVFDEV- ---------- ---------- ---------- 
+GSA1_ARATH       270   NGLRQLTKDN GVLLIFDEV- ---------- ---------- ---------- 
+GSA_CLOPE        221   RKLRELCDKY GALLIFDEV- ---------- ---------- ---------- 
+GSA_CLOAB        220   VKLRELCTEN QSILIFDEV- ---------- ---------- ---------- 
+GSA_CAMJE        219   EELAKICKNN QTLLIFDEV- ---------- ---------- ---------- 
+GSA_HELPJ        221   LGLKALCEKY QAVLILDEV- ---------- ---------- ---------- 
+GSA_ECO57        221   PGLRALCDEF GALLIIDEV- ---------- ---------- ---------- 
+GSA_PASMU        221   QGLRALCDQY GAVFIIDEV- ---------- ---------- ---------- 
+GSA_VIBCH        221   EGLREICDQE GALLIFDEV- ---------- ---------- ---------- 
+GSA_SHEON        221   EGLRSLCDEF GALLIIDEV- ---------- ---------- ---------- 
+GSA_PSEAE        221   EGLREACDEH GVVLIFDEV- ---------- ---------- ---------- 
+GSA_XANAC        223   QHLRTLCTRH GALLIFDEV- ---------- ---------- ---------- 
+GSA_XYLFA        223   QHLRTLCTQY AVLLIFDEV- ---------- ---------- ---------- 
+GSA_NEIMA        221   KALRELTEKH GAVLIYDEV- ---------- ---------- ---------- 
+GSA_DEIRA        235   AALHRV-RDF GAVLIADEV- ---------- ---------- ---------- 
+GSA_MYCLE        235   AALRAITAEH GALLIIDEV- ---------- ---------- ---------- 
+GSAB_BACSU       223   EQVNELTHNA GALVIYDEV- ---------- ---------- ---------- 
+GSAB_LISIN       224   EAVNELAHEN GSLVIYDEV- ---------- ---------- ---------- 
+GSA_METKA        224   KVLREYCDGT ERLLIFDEV- ---------- ---------- ---------- 
+GSA_METJA        222   EFLREITEEN DILLIFDEV- ---------- ---------- ---------- 
+GSA_METAC        224   KELRKLTKEN DVLLIFDEV- ---------- ---------- ---------- 
+GSA_AERPE        225   AALQRLSRES GALLILDEV- ---------- ---------- ---------- 
+GSA_PYRAE        214   KALREETQRA GALLIFDEV- ---------- ---------- ---------- 
+GSA_HALN1        219   ETLRDLTHDH GALLIWDEV- ---------- ---------- ---------- 
+1ohv_A           272   RKLRDISRKH GCAFLVDEV- ---------- ---------- ---------- 
+1b5o_A           187   EALARLAVEH DFYLVSDEIY EhllyegehF SPG-----RV AP-------E 
+1b8g_A           205   YLLLSFVEDK GIHLISDEIY SGTAfsspsf isvmevlkdr ncdensevwQ 
+1fg3_A           167   RTLLELTRGK AIVVADEA-Y IEFCPqa--- ---SLAGWLA EY-------P 
+1lc5_A           167   QAIADRCKSL NINLILDEAF IDFIPHETGF IPA-----LK DN-------P 
+1jg8_A           152   KEICTIAKEH GINVHIDGA- ---------- ---------- ---------- 
+1ax4_A           206   KEVYEIAKQH GIFVVMDSA- ---------- ---------- ---------- 
+1ajs_A           206   KQIASVMKRR FLFPFFDSAY QGFASGNlek dawAIRYFVS EG-------F 
+1d2f_A           156   EIMADLCERH GVRVISDEIH MDMVWGEQPH IPw------- ---------- 
+                                                                 
+                       4444443333 4466667770 0000000000 0000000000 0000000000 
+ 
+2gsa_A           242   ---------- ---MTGFRIA -YGGV---QE KFGVTPDLT- ---------- 
+GSA_AQUAE        239   ---------- ---ITGFRLS -KGGA---QE LFGIEPDIT- ---------- 
+GSA_BACHD        243   ---------- ---MTGFRVG -YHCA---QG AFGITPDLT- ---------- 
+GSA_BACSU        243   ---------- ---MTGFRVD -YNCA---QG YFGVTPDLT- ---------- 
+GSA_STAAM        242   ---------- ---MTGFRVG -YHCA---QG YFGVTPDLT- ---------- 
+GSA1_LISIN       243   ---------- ---MTGFRVD -YYSA---QG YYVVTPDIT- ---------- 
+GSA_SYNY3        248   ---------- ---MTGFRVS -YGGA---QA RFGITPDLT- ---------- 
+GSA_CHLRE        278   ---------- ---MTGFRIA -KGCA---QE HFGITPDLT- ---------- 
+GSA_SOYBN        281   ---------- ---MTGFRLS -YGGA---QE YFGITPDIT- ---------- 
+GSA_HORVU        284   ---------- ---MTGFRLA -YGGA---QE YFGITPDVT- ---------- 
+GSA1_ARATH       289   ---------- ---MTGFRLA -YGGA---QE YFGITPDLT- ---------- 
+GSA_CLOPE        240   ---------- ---MCGFRVA -YKGA---QT LFDVKPDLV- ---------- 
+GSA_CLOAB        239   ---------- ---MSGFRVA -YKGA---QS LYGVTPDLI- ---------- 
+GSA_CAMJE        238   ---------- ---MSGYRAS -YLGS---YG INHIQADII- ---------- 
+GSA_HELPJ        240   ---------- ---MSGFRAS -LSGS---QE FYGVVPDLV- ---------- 
+GSA_ECO57        240   ---------- ---MTGFRVA -LAGA---QD YYGVEPDLT- ---------- 
+GSA_PASMU        240   ---------- ---MTGFRVA -LGGA---QT YYGVTPDLT- ---------- 
+GSA_VIBCH        240   ---------- ---MTGFRVA -LGGA---QA HYNIKPDLT- ---------- 
+GSA_SHEON        240   ---------- ---MTGFRVS -KSGA---QG HYGVTPDLT- ---------- 
+GSA_PSEAE        240   ---------- ---MTGFRVA -LGGA---QA YYGVTPDLS- ---------- 
+GSA_XANAC        242   ---------- ---MTGFRVA -LGGA---QA HYGVTPDLT- ---------- 
+GSA_XYLFA        242   ---------- ---MTGFRVA -LGGA---QA LYGVTPDLT- ---------- 
+GSA_NEIMA        240   ---------- ---MTGFRVA -LGGA---QS LHGITPDLT- ---------- 
+GSA_DEIRA        253   ---------- ---MTGFRLS -LNGA---TG LLSLDPDLR- ---------- 
+GSA_MYCLE        254   ---------- ---MTGFRVS -RSGW---YG LDPVAADLF- ---------- 
+GSAB_BACSU       242   ---------- ---ITAFRFM -YGGA---QD LLQVKPDLT- ---------- 
+GSAB_LISIN       243   ---------- ---ITAFRFM -YGGA---QN YLGVIPDLT- ---------- 
+GSA_METKA        243   ---------- ---ITGFRLE -LGGA---QE YYGIDADLV- ---------- 
+GSA_METJA        241   ---------- ---ITGFRLA -KGGA---QE YFGVVPDIA- ---------- 
+GSA_METAC        243   ---------- ---ITGFRLA -MGGA---QE YFGVVPDMT- ---------- 
+GSA_AERPE        244   ---------- ---VTGFRLG -LEGA---QG YFNIEGDII- ---------- 
+GSA_PYRAE        233   ---------- ---ITGFRVG -LGGA---QG LFGIRPDLT- ---------- 
+GSA_HALN1        238   ---------- ---ITGFRVG gLGCA---QS EFDITPDVT- ---------- 
+1ohv_A           291   ---------- ---QTGggst gkfwahehWG LDDPADVMT- ---------- 
+1b5o_A           225   HTLTVNGAAK AFAMTGWRIG -YACG---P- ---------- ---------- 
+1b8g_A           255   RVHVVYSLSK DLGLPGFRVG -AIYS---N- ---------- ---------- 
+1fg3_A           203   HLAILRTLSK AFALAGLRCG -FTLA---N- ---------- ---------- 
+1lc5_A           205   HIWVLRSLTK FYAIPGLRLG -YLVN---S- ---------- ---------- 
+1jg8_A           171   ---------- ---------- ---------- --------R- ---------- 
+1ax4_A           225   ---------- ---------- ---------- --------Rf cenayfikar 
+1ajs_A           249   ELFCAQSFSK NFGLYNERVG n--------- ---------- ---------- 
+1d2f_A           189   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0007777766 0666700076 6777777770 0000000000 
+ 
+2gsa_A           264   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_AQUAE        261   ---------- ---------- ---------- ---------- ------CLGK 
+GSA_BACHD        265   ---------- ---------- ---------- ---------- ------CLGK 
+GSA_BACSU        265   ---------- ---------- ---------- ---------- ------CLGK 
+GSA_STAAM        264   ---------- ---------- ---------- ---------- ------CLGK 
+GSA1_LISIN       265   ---------- ---------- ---------- ---------- ------CLGK 
+GSA_SYNY3        270   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_CHLRE        300   ---------- ---------- ---------- ---------- ------TMGK 
+GSA_SOYBN        303   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_HORVU        306   ---------- ---------- ---------- ---------- ------TLGK 
+GSA1_ARATH       311   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_CLOPE        262   ---------- ---------- ---------- ---------- ------TYAK 
+GSA_CLOAB        261   ---------- ---------- ---------- ---------- ------TFAK 
+GSA_CAMJE        260   ---------- ---------- ---------- ---------- ------TFGK 
+GSA_HELPJ        262   ---------- ---------- ---------- ---------- ------TFGK 
+GSA_ECO57        262   ---------- ---------- ---------- ---------- ------CLGK 
+GSA_PASMU        262   ---------- ---------- ---------- ---------- ------CLGK 
+GSA_VIBCH        262   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_SHEON        262   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_PSEAE        262   ---------- ---------- ---------- ---------- ------TFGK 
+GSA_XANAC        264   ---------- ---------- ---------- ---------- ------TFGK 
+GSA_XYLFA        264   ---------- ---------- ---------- ---------- ------TFGK 
+GSA_NEIMA        262   ---------- ---------- ---------- ---------- ------TMGK 
+GSA_DEIRA        275   ---------- ---------- ---------- ---------- ------CWGK 
+GSA_MYCLE        276   ---------- ---------- ---------- ---------- ------IFGK 
+GSAB_BACSU       264   ---------- ---------- ---------- ---------- ------ALGK 
+GSAB_LISIN       265   ---------- ---------- ---------- ---------- ------AMGK 
+GSA_METKA        265   ---------- ---------- ---------- ---------- ------CLGK 
+GSA_METJA        263   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_METAC        265   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_AERPE        266   ---------- ---------- ---------- ---------- ------VLGK 
+GSA_PYRAE        255   ---------- ---------- ---------- ---------- ------TLGK 
+GSA_HALN1        261   ---------- ---------- ---------- ---------- ------TFGK 
+1ohv_A           317   ---------- ---------- ---------- ---------- ------FSKK 
+1b5o_A           250   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A           280   ---------- ---------- ---------- ---------- ---------- 
+1fg3_A           228   ---------- ---------- ---------- ---------- ---------- 
+1lc5_A           230   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A           172   ---------- ---------- ---------- ---------- ------IFNA 
+1ax4_A           237   dpkyknatik evifdmykya daltmsakxd pllnigglva irdneeIFTL 
+1ajs_A           270   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A           189   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000007777 
+ 
+2gsa_A           268   IIGGGLPVGA YGGKREIMQL VAPAGPMYQA G-----TLSG NPLAMT-AGI 
+GSA_AQUAE        265   ILGGGLPVGA YGGRREIMER VAPEGEVYQA G-----TLAG NPLAMV-SGS 
+GSA_BACHD        269   VIGGGLPVGA YGGKREIMEQ IAPSGPIYQA G-----TLSG NPLAMT-AGY 
+GSA_BACSU        269   VIGGGLPVGA YGGKAEIMEQ IAPSGPIYQA G-----TLSG NPLAMT-AGL 
+GSA_STAAM        268   VIGGGLPVGA FGGKKEIMDH IAPLGNIYQA G-----TLSG NPLAMT-SGY 
+GSA1_LISIN       269   VIGGGLPVGA YGGKKEIMEQ IAPAGSIYQA G-----TLSG NPLAMN-AGF 
+GSA_SYNY3        274   VIGGGLPVGA YGGREEIMAM VAPAGPMYQA G-----TLSG NPLAMT-AGI 
+GSA_CHLRE        304   VIGGGMPVGA YGGKKEIMKM VAPAGPMYQA G-----TLSG NPMAMT-AGI 
+GSA_SOYBN        307   IIGGGLPVGA YGGRRDIMEK VAPAGPMYQA G-----TLSG NPLAMT-AGI 
+GSA_HORVU        310   IIGGGLPVGA YGGRKDIMEM VAPAGPMYQA G-----TLSG NPLAMT-AGI 
+GSA1_ARATH       315   IIGGGLPVGA YGGRRDIMEM VAPAGPMYQA G-----TLSG NPLAMT-AGI 
+GSA_CLOPE        266   IMGGGLPCGA YGGRREIMEN LSPLGGVYQA G-----TMSG NPIVMS-AGL 
+GSA_CLOAB        265   IMGGGFPCGA YGGKKEIMKQ LSPLGPVYQA G-----TMSG NPVVMA-AGY 
+GSA_CAMJE        264   VIGGGLPAAA FASRAEIMDI LSPLGGVYQA G-----TLSG NPLAMA-AGI 
+GSA_HELPJ        266   VIGAGLPLAC FGGRAEIMDL LSPIGGVYQA G-----TLSG NPLAVC-AGL 
+GSA_ECO57        266   IIGGGMPVGA FGGRRDVMDA LAPTGPVYQA G-----TLSG NPIAMA-AGF 
+GSA_PASMU        266   VIGGGMPVGA FGGKKAIMQH IAPLGPVYQA G-----TLSG NPIAMA-AGL 
+GSA_VIBCH        266   VIGGGMPVGA FGGRREVMQY IAPTGPVYQA G-----TLSG NPIAMA-AGY 
+GSA_SHEON        266   VIGGGMPVGA FGGRKDVMQF IAPTGPVYQA G-----TLSG NPIAMS-AGL 
+GSA_PSEAE        266   IIGGGMPVGA FGGKREIMQQ ISPLGPVYQA G-----TLSG NPLAMA-AGL 
+GSA_XANAC        268   IIGGGMPVGA YGGRRDLMEQ VAPAGPIYQA G-----TLSG NPVAMA-AGL 
+GSA_XYLFA        268   IIGGGMPVGA YGGCRDLMQH IAPAGPIYQA G-----TLSG NPVAMA-AGL 
+GSA_NEIMA        266   VIGGGMPLAA FGGRKDIMEC ISPLGGVYQA G-----TLSG NPIAVA-AGL 
+GSA_DEIRA        279   IVGGGLPVGA YGGRADIMDF VSPQGPVYQA G-----TLSG NPLAMA-AGI 
+GSA_MYCLE        280   VMSGGMPAAA FGGRAEVMER LAPLGPVYQA G-----TLSG NPVAMA-AGL 
+GSAB_BACSU       268   IIGGGLPIGA YGGKQEIMEQ VAPLGPAYQA G-----TMAG NPASIL-SGI 
+GSAB_LISIN       269   IIGGGLPIGA YGGRVDIMEK VAPLGPAYQA G-----THAG NPASIL-SGI 
+GSA_METKA        269   ILGGGLPIGA FGGPEEYMSR VAPEGKVYQA G-----TFNG NPVSAT-AGL 
+GSA_METJA        267   ILGGGFPIGA IVGRRELMEQ FSPLGAIYQA G-----TFNG NPISIT-AGI 
+GSA_METAC        269   IVGGGLPIGV FGGRREIMEM IAPSGAVYQA G-----TFSG SPCSVA-AGI 
+GSA_AERPE        270   IIGGGFPVGA VAGSREVMSL LTPQGKVFNA G-----TFNA HPITMA-AGL 
+GSA_PYRAE        259   VVGGGFPIGI FGGRGEVMDL VAPSGPVYNA G-----TYNA HPVSIA-AGL 
+GSA_HALN1        265   IIGGGFPVGA IGGRTDVMEE FTPTGDVFQA G-----TFSG HPVTMA-AGL 
+1ohv_A           321   MMTGGFfhk- --------EE FRPNAPYRIF N-----TWLG DPSKNL-LLA 
+1b5o_A           250   ---------- --------KE VIKAMASVSS Qsttspdtia qWATLeaLTN 
+1b8g_A           280   ---------- --------DD MVVAAATKMS SFGLVSSQTQ HLLSAM-LSD 
+1fg3_A           228   ---------- --------EE VINLLxkvia ---------- ---------- 
+1lc5_A           230   ---------- --------DD AAMARMRRQQ M-----PWSV NALAAL-AGE 
+1jg8_A           176   SIASGVPVKE YAGYADSVMF CLSXGLCAPV G-----SV-- ---------- 
+1ax4_A           287   ARQRCVPMEG FVTYGglagr d--------- ---------- ---------M 
+1ajs_A           270   ---------- ---------- -LTVVAKEPD SILRVLSQMQ KIVRVT-WSN 
+1d2f_A           189   ---------- ---------- ---------S N-----VARG DWALLT-SGS 
+                                                                 
+                       7778878777 7777777777 7777777777 7000007777 7766660665 
+ 
+2gsa_A           312   KTLELLRQP- ---------- ---G-TYEYL DQIT-KRLSD GLLAI----- 
+GSA_AQUAE        309   ETLKDLRDK- ---------- ---E-PYKEL EEKM-EKLAR GVKDI----- 
+GSA_BACHD        313   ETLVQLTEA- ---------- -----NYEYF DRLG-DRLAE GLSAV----- 
+GSA_BACSU        313   ETLKQLTPE- ---------- -----SYKNF IKKG-DRLEE GISKT----- 
+GSA_STAAM        312   ETLSQLTPE- ---------- -----TYEYF NMLG-DILED GLKRV----- 
+GSA1_LISIN       313   ETVRQLTPQ- ---------- -----HYDVF RSLI-KRMEE GLTEI----- 
+GSA_SYNY3        318   KTLEILQKP- ---------- ---G-SYEYL DKIT-KRLVD GLLAA----- 
+GSA_CHLRE        348   KTLEILGRP- ---------- ---G-AYEHL EKVT-KRLID GIMAA----- 
+GSA_SOYBN        351   ETLQRIKEP- ---------- ---G-TYEYL DKIT-GELVE GIIEA----- 
+GSA_HORVU        354   HTLKRLMEP- ---------- ---G-TYEYL DKVT-GELVR GILDV----- 
+GSA1_ARATH       359   HTLKRLKQA- ---------- ---G-TYEYL DKIT-KELTN GILEA----- 
+GSA_CLOPE        310   ATVKKLYEN- ---------- ---P-SYYNH IEKIGSKLEK GVLEI----- 
+GSA_CLOAB        309   ASLRQLHEN- ---------- ---P-EYYTY MDKLGSKLEA GILEI----- 
+GSA_CAMJE        308   ASLTKAKKK- ---------- ---TKLYDKL GKLA-KKLTQ GMKKL----- 
+GSA_HELPJ        310   SALYKIKRD- ---------- ---KTLYTRL NALA-VRLTQ GLQKS----- 
+GSA_ECO57        310   ACLNEVAQP- ---------- ---G-VHETL DELT-TRLAE GLLEA----- 
+GSA_PASMU        310   ACLTELKKA- ---------- ---G-NAQRL AQQT-EKLAL GLKAL----- 
+GSA_VIBCH        310   ACLNLLREE- ---------- ---G-NEKRL AAKT-KQLAD GFKSL----- 
+GSA_SHEON        310   AQMEALCEE- ---------- ---G-LYEAL SAKT-KRIAE GFKAA----- 
+GSA_PSEAE        310   TTLRLISRP- ---------- ---G-FHDEL TAYT-TRMLD GLQQR----- 
+GSA_XANAC        312   AMLELVQEP- ---------- ---G-FHTRL SEAT-SMLCE GLEDA----- 
+GSA_XYLFA        312   AMLELIQAP- ---------- ---D-FYTHL SNAA-AALCT GLQQA----- 
+GSA_NEIMA        310   KTLEIIRRE- ---------- ---G-FYENL TART-EQLVQ GFRTA----- 
+GSA_DEIRA        323   ATLRELKAN- ---------- ---PGLYRQL DEYA-ARLAA GLRGA----- 
+GSA_MYCLE        324   ATLRAAADA- ---------- -----VYATL DRNA-DRLVA MLSEA----- 
+GSAB_BACSU       312   ACLEVLKEK- ---------- ---G-VYEKL DHLG-AMLEE GIMKH----- 
+GSAB_LISIN       313   ACLEVLQEE- ---------- ---G-LYDRF EKYG-SMLKE GIEKA----- 
+GSA_METKA        313   VTLEVLERE- ---------- ---R-PYDEL SSKA-ERLAS ALEDG----- 
+GSA_METJA        311   ATLKQLDD-- ---------- ---R-FYKET ARTA-KILAD TLREL----- 
+GSA_METAC        313   AVLDYLKKE- ---------- ---D-IHAKL NSTG-DYMRA VVSEI----- 
+GSA_AERPE        314   ATLKALEEE- ---------- ---P-VYSVS REAA-KALEE AASEV----- 
+GSA_PYRAE        303   AVLKELETG- ---------- ---E-PYRIA NEAA-ERLAK GVEDV----- 
+GSA_HALN1        309   ETLQYAAEN- ---------- ---D-VYEHV NRLG-GRLRE GLAAV----- 
+1ohv_A           356   EVINIIKRE- ---------- ---D-LLSNA AHAG-KVLLT GLLDL----- 
+1b5o_A           282   QEASRAFVE- ---------- ---M-AREAY RRRR-DLLLE GLTALGLKAV 
+1b8g_A           311   KKLTKNYIA- ---------- ---E-NHKRL KQRQ-KKLVS GLQKSGISCL 
+1fg3_A           240   ---------- ---------- -----PYPLS TPVA-DIAAQ ALSPQGIVAX 
+1lc5_A           256   VALQDSAWQ- ---------- ---QATWHWL REEG-ARFYQ ALCQLpllt- 
+1jg8_A           209   ----VVGDR- ---------- ---D-FIERA RKAR-KMLGG GMRQAGVLAA 
+1ax4_A           309   AAMVQGLEE- ---------- ---G-TEEEY LHYR-IGQVK YLGDR----- 
+1ajs_A           298   ppaqgariva rtlsdpelfh ewtG-NVKTM ADRI-LSMRS ELRAR----- 
+1d2f_A           204   KSFNIPALT- ---------- ---G-AYGII ENSS-SRDAy ------LSAL 
+                                                                 
+                       4442221110 0000000000 0001011111 1111011111 1111100000 
+ 
+2gsa_A           341   ---------- ---------- ---------- ---------- ---------- 
+GSA_AQUAE        338   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACHD        341   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACSU        341   ---------- ---------- ---------- ---------- ---------- 
+GSA_STAAM        340   ---------- ---------- ---------- ---------- ---------- 
+GSA1_LISIN       341   ---------- ---------- ---------- ---------- ---------- 
+GSA_SYNY3        347   ---------- ---------- ---------- ---------- ---------- 
+GSA_CHLRE        377   ---------- ---------- ---------- ---------- ---------- 
+GSA_SOYBN        380   ---------- ---------- ---------- ---------- ---------- 
+GSA_HORVU        383   ---------- ---------- ---------- ---------- ---------- 
+GSA1_ARATH       388   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOPE        340   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOAB        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_CAMJE        338   ---------- ---------- ---------- ---------- ---------- 
+GSA_HELPJ        340   ---------- ---------- ---------- ---------- ---------- 
+GSA_ECO57        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_PASMU        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_VIBCH        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_SHEON        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_PSEAE        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_XANAC        341   ---------- ---------- ---------- ---------- ---------- 
+GSA_XYLFA        341   ---------- ---------- ---------- ---------- ---------- 
+GSA_NEIMA        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_DEIRA        353   ---------- ---------- ---------- ---------- ---------- 
+GSA_MYCLE        352   ---------- ---------- ---------- ---------- ---------- 
+GSAB_BACSU       341   ---------- ---------- ---------- ---------- ---------- 
+GSAB_LISIN       342   ---------- ---------- ---------- ---------- ---------- 
+GSA_METKA        342   ---------- ---------- ---------- ---------- ---------- 
+GSA_METJA        339   ---------- ---------- ---------- ---------- ---------- 
+GSA_METAC        342   ---------- ---------- ---------- ---------- ---------- 
+GSA_AERPE        343   ---------- ---------- ---------- ---------- ---------- 
+GSA_PYRAE        332   ---------- ---------- ---------- ---------- ---------- 
+GSA_HALN1        338   ---------- ---------- ---------- ---------- ---------- 
+1ohv_A           385   ---------- ---------- ---------- ---------- ---------- 
+1b5o_A           316   R--------- ---------- ---------- ---------- ---------- 
+1b8g_A           345   NGNAGLFC-- ---------- ------WVDm rhllrsntfe aemelwkkiv 
+1fg3_A           264   R--------- ---------- ---------- ---------- ---------- 
+1lc5_A           290   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A           239   AGIIALTK-- ---------- ------MVDr lkedhenarf lalklkeigy 
+1ax4_A           338   ---------- ---------- ---------- ---------- ---------- 
+1ajs_A           341   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A           232   KGRDGLssps vlaltahiaa yqqgapWLD- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+2gsa_A           341   ---------- ---------- AQETG----- ---------- ---------- 
+GSA_AQUAE        338   ---------- ---------- LTEKG----- ---------- ---------- 
+GSA_BACHD        341   ---------- ---------- AKEYD----- ---------- ---------- 
+GSA_BACSU        341   ---------- ---------- AGAHG----- ---------- ---------- 
+GSA_STAAM        340   ---------- ---------- FAKHN----- ---------- ---------- 
+GSA1_LISIN       341   ---------- ---------- SNRHE----- ---------- ---------- 
+GSA_SYNY3        347   ---------- ---------- AQDAG----- ---------- ---------- 
+GSA_CHLRE        377   ---------- ---------- AKEHS----- ---------- ---------- 
+GSA_SOYBN        380   ---------- ---------- GKRAG----- ---------- ---------- 
+GSA_HORVU        383   ---------- ---------- GAKTG----- ---------- ---------- 
+GSA1_ARATH       388   ---------- ---------- GKKTG----- ---------- ---------- 
+GSA_CLOPE        340   ---------- ---------- AKKKG----- ---------- ---------- 
+GSA_CLOAB        339   ---------- ---------- SKEKG----- ---------- ---------- 
+GSA_CAMJE        338   ---------- ---------- ADEKG----- ---------- ---------- 
+GSA_HELPJ        340   ---------- ---------- AQNYN----- ---------- ---------- 
+GSA_ECO57        339   ---------- ---------- AEEAG----- ---------- ---------- 
+GSA_PASMU        339   ---------- ---------- ADKHH----- ---------- ---------- 
+GSA_VIBCH        339   ---------- ---------- ADQHG----- ---------- ---------- 
+GSA_SHEON        339   ---------- ---------- ADKHG----- ---------- ---------- 
+GSA_PSEAE        339   ---------- ---------- ADAAG----- ---------- ---------- 
+GSA_XANAC        341   ---------- ---------- ARAAG----- ---------- ---------- 
+GSA_XYLFA        341   ---------- ---------- ASQAG----- ---------- ---------- 
+GSA_NEIMA        339   ---------- ---------- ADAAG----- ---------- ---------- 
+GSA_DEIRA        353   ---------- ---------- AERAG----- ---------- ---------- 
+GSA_MYCLE        352   ---------- ---------- LTDAG----- ---------- ---------- 
+GSAB_BACSU       341   ---------- ---------- AETHG----- ---------- ---------- 
+GSAB_LISIN       342   ---------- ---------- AIKHG----- ---------- ---------- 
+GSA_METKA        342   ---------- ---------- LEDRG----- ---------- ---------- 
+GSA_METJA        339   ---------- ---------- ADKHN----- ---------- ---------- 
+GSA_METAC        342   ---------- ---------- VEDEG----- ---------- ---------- 
+GSA_AERPE        343   ---------- ---------- LDRTG----- ---------- ---------- 
+GSA_PYRAE        332   ---------- ---------- AGRLG----- ---------- ---------- 
+GSA_HALN1        338   ---------- ---------- VAEHA----- ---------- ---------- 
+1ohv_A           385   ---------- ---------- QARYpqfisr vrgrgtfcsf dtpdesirnk 
+1b5o_A           317   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A           377   yevhl----- ---------- ---------- ---------- ---------- 
+1fg3_A           265   ---------- ---------- ---------- ---------- ---------- 
+1lc5_A           290   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A           271   svnpedvktn mvilrtdnlk VNAHG----- ---------- ---------- 
+1ax4_A           338   ---------- ---------- LREAG----- ---------- ---------- 
+1ajs_A           341   ---------- ---------- LEALK----- ---------- ---------- 
+1d2f_A           261   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 1111100000 0000000000 0000000000 
+ 
+2gsa_A           346   HAACGGQVSG MFGFFFT--- ---------- ---------- ---------- 
+GSA_AQUAE        343   IQHTINKVGS MMTVFFT--- ---------- ---------- ---------- 
+GSA_BACHD        346   IPHYTSRAGS MVGFFFT--- ---------- ---------- ---------- 
+GSA_BACSU        346   IPHTFNRAGS MIGFFFT--- ---------- ---------- ---------- 
+GSA_STAAM        345   VPITVNRAGS MIGYFLN--- ---------- ---------- ---------- 
+GSA1_LISIN       346   VPLSINKAGS MFGFFFT--- ---------- ---------- ---------- 
+GSA_SYNY3        352   HEVCGGSISA MFGIFFA--- ---------- ---------- ---------- 
+GSA_CHLRE        382   HEITGGNISG MFGFFFC--- ---------- ---------- ---------- 
+GSA_SOYBN        385   HAICGGHIRG MFGFFFT--- ---------- ---------- ---------- 
+GSA_HORVU        388   HEMCGGHIRG MFGFFFA--- ---------- ---------- ---------- 
+GSA1_ARATH       393   HPMCGGYISG MFGFFFA--- ---------- ---------- ---------- 
+GSA_CLOPE        345   LGLVVNRQGG MITLFFTD-- ---------- ---------- ---------- 
+GSA_CLOAB        344   IPLVVNRCVN MMTIFFNK-- ---------- ---------- ---------- 
+GSA_CAMJE        343   LPLQACHVGS MFGYFFT--- ---------- ---------- ---------- 
+GSA_HELPJ        345   IALETLNMGS MFGFFFN--- ---------- ---------- ---------- 
+GSA_ECO57        344   IPLVVNHVGG MFGIFFTD-- ---------- ---------- ---------- 
+GSA_PASMU        344   VPFVVNYVGG MFGIFFTE-- ---------- ---------- ---------- 
+GSA_VIBCH        344   IPLLVHQVGG MFGFFFTE-- ---------- ---------- ---------- 
+GSA_SHEON        344   IPMAINYVGG MFGFFFTE-- ---------- ---------- ---------- 
+GSA_PSEAE        344   IPFVTTQAGG MFGLYFSG-- ---------- ---------- ---------- 
+GSA_XANAC        346   IAVTTNQVGG MFGLFFTD-- ---------- ---------- ---------- 
+GSA_XYLFA        346   IAMTTQQIGG MFGLFFTD-- ---------- ---------- ---------- 
+GSA_NEIMA        344   IEFTADSVGG MFGLYFA--- ---------- ---------- ---------- 
+GSA_DEIRA        358   VAVSINHIGS MLTVFFQD-- ---------- ---------- ---------- 
+GSA_MYCLE        357   VPHQIPRAGN MFSVFFS--- ---------- ---------- ---------- 
+GSAB_BACSU       346   ITITVNRLKG ALTVYFS--- ---------- ---------- ---------- 
+GSAB_LISIN       347   IAVTVNQIVG ALTVYFT--- ---------- ---------- ---------- 
+GSA_METKA        347   IEGVVNRVES MFQVYFG--- ---------- ---------- ---------- 
+GSA_METJA        344   IKAKVYNIAS MFQIYFN--- ---------- ---------- ---------- 
+GSA_METAC        347   LDYTVCGIAS MFKIFFG--- ---------- ---------- ---------- 
+GSA_AERPE        348   LPYTINRVES MMQLFIG--- ---------- ---------- ---------- 
+GSA_PYRAE        337   FDVVVKRMAS MFQFYFK--- ---------- ---------- ---------- 
+GSA_HALN1        343   PAYTVVGRDS MFKVVFTR-- ---------- ---------- ---------- 
+1ohv_A           415   LISIARNKGV MLGGCGDK-- ---------- ---------- ---------- 
+1b5o_A           317   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A           382   ---------- ---------- ---------- ---------- ---------- 
+1fg3_A           265   ---------- ---------- ---------- ---------- ---------- 
+1lc5_A           290   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A           296   FIEALRNSGV LANAVSDT-- ---------- ---------- ---------- 
+1ax4_A           343   IPIQYPTGGH AVFVdckklv pqipgdqfpa qavinalyle sgvraveigs 
+1ajs_A           346   TPGTWNHITD QIGMFSF--- ---------- ---------- ---------- 
+1d2f_A           261   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111111111 2222221000 0000000000 0000000000 0000000000 
+ 
+2gsa_A           363   ---------- ---------- ---------- ---------- ---------- 
+GSA_AQUAE        360   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACHD        363   ---------- ---------- ---------- ---------- ---------- 
+GSA_BACSU        363   ---------- ---------- ---------- ---------- ---------- 
+GSA_STAAM        362   ---------- ---------- ---------- ---------- ---------- 
+GSA1_LISIN       363   ---------- ---------- ---------- ---------- ---------- 
+GSA_SYNY3        369   ---------- ---------- ---------- ---------- ---------- 
+GSA_CHLRE        399   ---------- ---------- ---------- ---------- ---------- 
+GSA_SOYBN        402   ---------- ---------- ---------- ---------- ---------- 
+GSA_HORVU        405   ---------- ---------- ---------- ---------- ---------- 
+GSA1_ARATH       410   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOPE        363   ---------- ---------- ---------- ---------- ---------- 
+GSA_CLOAB        362   ---------- ---------- ---------- ---------- ---------- 
+GSA_CAMJE        360   ---------- ---------- ---------- ---------- ---------- 
+GSA_HELPJ        362   ---------- ---------- ---------- ---------- ---------- 
+GSA_ECO57        362   ---------- ---------- ---------- ---------- ---------- 
+GSA_PASMU        362   ---------- ---------- ---------- ---------- ---------- 
+GSA_VIBCH        362   ---------- ---------- ---------- ---------- ---------- 
+GSA_SHEON        362   ---------- ---------- ---------- ---------- ---------- 
+GSA_PSEAE        362   ---------- ---------- ---------- ---------- ---------- 
+GSA_XANAC        364   ---------- ---------- ---------- ---------- ---------- 
+GSA_XYLFA        364   ---------- ---------- ---------- ---------- ---------- 
+GSA_NEIMA        361   ---------- ---------- ---------- ---------- ---------- 
+GSA_DEIRA        376   ---------- ---------- ---------- ---------- ---------- 
+GSA_MYCLE        374   ---------- ---------- ---------- ---------- ---------- 
+GSAB_BACSU       363   ---------- ---------- ---------- ---------- ---------- 
+GSAB_LISIN       364   ---------- ---------- ---------- ---------- ---------- 
+GSA_METKA        364   ---------- ---------- ---------- ---------- ---------- 
+GSA_METJA        361   ---------- ---------- ---------- ---------- ---------- 
+GSA_METAC        364   ---------- ---------- ---------- ---------- ---------- 
+GSA_AERPE        365   ---------- ---------- ---------- ---------- ---------- 
+GSA_PYRAE        354   ---------- ---------- ---------- ---------- ---------- 
+GSA_HALN1        361   ---------- ---------- ---------- ---------- ---------- 
+1ohv_A           433   ---------- ---------- ---------- ---------- ---------- 
+1b5o_A           317   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A           382   ---------- ---------- ---------- ---------- ---------- 
+1fg3_A           265   ---------- ---------- ---------- ---------- ---------- 
+1lc5_A           290   ---------- ---------- ---------- ---------- ---------- 
+1jg8_A           314   ---------- ---------- ---------- ---------- ---------- 
+1ax4_A           393   fllgrdpatg eqkhadmefm rltiARRVYT NDHMDYIAD- ---------- 
+1ajs_A           363   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A           261   ---------- ---------- ----ALRIYL KDNLTYIADk mnaafpelnw 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+2gsa_A           363   ---------- ---------- EGPVHNYEDA KKSDLQKF-- ---------- 
+GSA_AQUAE        360   ---------- ---------- DKKVVDFQTA KTSDTELF-- ---------- 
+GSA_BACHD        363   ---------- ---------- DKKVKNFADA SSSDLEFF-- ---------- 
+GSA_BACSU        363   ---------- ---------- NEPVINYETA KSSDLKLF-- ---------- 
+GSA_STAAM        362   ---------- ---------- EGPVTNFEQA NKSDLKLF-- ---------- 
+GSA1_LISIN       363   ---------- ---------- DQKVTNFDTA KTSDLEFF-- ---------- 
+GSA_SYNY3        369   ---------- ---------- PGPVRNYEDA KLADTNKF-- ---------- 
+GSA_CHLRE        399   ---------- ---------- KGPVTCFEDA LAADTAKF-- ---------- 
+GSA_SOYBN        402   ---------- ---------- EGPVYNFADA KKSDTAKF-- ---------- 
+GSA_HORVU        405   ---------- ---------- GGPVHNFDDA KKSDTAKF-- ---------- 
+GSA1_ARATH       410   ---------- ---------- EGPVYNFADS KKSDTEKF-- ---------- 
+GSA_CLOPE        363   ---------- --------L- -KEVKCYDDV KTCDGERF-- ---------- 
+GSA_CLOAB        362   ---------- --------A- -KEVKSYSDA KASDTKMF-- ---------- 
+GSA_CAMJE        360   ---------- ---------- KDPVSNYQDA LKSDLALF-- ---------- 
+GSA_HELPJ        362   ---------- ---------- ENAVRDFDDA LKSDTEMF-- ---------- 
+GSA_ECO57        362   ---------- --------A- -ESVTCYQDV MACDVERF-- ---------- 
+GSA_PASMU        362   ---------- --------Q- -KTVSSYQAV MACDTEKF-- ---------- 
+GSA_VIBCH        362   ---------- --------Q- -ETVTCYEDV ARCDVERF-- ---------- 
+GSA_SHEON        362   ---------- --------Q- -EHITRFDQV TKCNIEHF-- ---------- 
+GSA_PSEAE        362   ---------- --------A- -DAIVTFEDV MASDVERF-- ---------- 
+GSA_XANAC        364   ---------- ---------- -DIVESYAQA TACDITTF-- ---------- 
+GSA_XYLFA        364   ---------- ---------- -QQVETYAQA TACNTDRF-- ---------- 
+GSA_NEIMA        361   ---------- ---------- AHAPRNYADM ARSNIEGF-- ---------- 
+GSA_DEIRA        376   ---------- --------Ap DGSVRDYAAA ARSDTAAF-- ---------- 
+GSA_MYCLE        374   ---------- ---------- EAPVTDFASA CNSQVWRY-- ---------- 
+GSAB_BACSU       363   ---------- ---------- DEKVENYEQA ERSDGETF-- ---------- 
+GSAB_LISIN       364   ---------- ---------- DEPVTNYAEA GATNGDLF-- ---------- 
+GSA_METKA        364   ---------- ---------- IEEVRDYADV NSADHDAF-- ---------- 
+GSA_METJA        361   ---------- ---------- DKEVVNYEIA KQSDTEKF-- ---------- 
+GSA_METAC        364   ---------- ---------- AEP-HNYQEA LKCDKEGY-- ---------- 
+GSA_AERPE        365   ---------- ---------- VEEVSNAAQA RKADKKFY-- ---------- 
+GSA_PYRAE        354   ---------- ---------- KGDVKTPQDV RESNEKMY-- ---------- 
+GSA_HALN1        361   ---------- --------D- -GDAQSgact dgcrqdpdce rhaacpktga 
+1ohv_A           433   ---------- --------S- -IRFRPTLVF RDHHAHLF-- ---------- 
+1b5o_A           317   --PSGAFYVL MDTSPIAPDE ---------- ---------- ---------- 
+1b8g_A           382   ---------- ---------- --NISPGSSC HCTEPGWF-- ---------- 
+1fg3_A           265   --ERVAQIIA EREYLIAaL- -KEIPCVEQV FDSET----- ---------- 
+1lc5_A           290   ---------- ---------- ---------V YPGRA----- ---------- 
+1jg8_A           314   ---------- --------E- -IRLVTHKDV SRNDIEEA-- ---------- 
+1ax4_A           432   ---------- ---------- ---------- ---------- ---------- 
+1ajs_A           363   ---------- ---------- TGlnp----- ---------- ---------- 
+1d2f_A           287   qiPQSTYLAW LDLRPLNIDD ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 1111111112 2222222300 0000000000 
+ 
+2gsa_A           381   ---------- -SRFHRGMLE QG-IYLAPSQ FEAGF--TSL AHTEEDIDAT 
+GSA_AQUAE        378   ---------- -AKFFRALLN KG-VLIPPSQ FEAWF--LTT AHEEEVIDEA 
+GSA_BACHD        381   ---------- -AKYFKEMLH LG-VSLPPSQ FEGMF--LST KHTEADIDFT 
+GSA_BACSU        381   ---------- -ASYYKGMAN EG-VFLPPSQ FEGLF--LST AHTDEDIENT 
+GSA_STAAM        380   ---------- -AEMYREMAK EG-VFLPPSQ FEGTF--LST AHTKEDIEKT 
+GSA1_LISIN       381   ---------- -RNYYREMLA QG-IFLPPSQ FEGVF--IST MHTEKEIDAT 
+GSA_SYNY3        387   ---------- -ARFHRGMLE RG-IYLAPSQ YEAGF--PSL AHTQEQIDQT 
+GSA_CHLRE        417   ---------- -ARFHRGMLE EG-VYLAPSQ FEAGF--TSL AHSEADVDAT 
+GSA_SOYBN        420   ---------- -ARFFWGMLA EG-VYLAPSQ FEAGF--TSL AHTSDDIKKT 
+GSA_HORVU        423   ---------- -GRFHRGMLG EG-VYLAPSQ FEAGF--TSL AHTTQDIEKT 
+GSA1_ARATH       428   ---------- -GRFFRGMLE EG-VYFAPSQ FEAGF--TSL AHTPEDIQLT 
+GSA_CLOPE        381   ---------- -KRYFLHMLN KG-FNIPPSQ FEAMF--LSV KHTEEHIDKF 
+GSA_CLOAB        380   ---------- -ARFAEHMIT SG-IYVPPSQ FEAMF--LGV KHTEEDIERF 
+GSA_CAMJE        378   ---------- -SKFHKNMLE NG-IYLAPSQ FETGF--ICS KMDDKIIDTT 
+GSA_HELPJ        380   ---------- -AKFHQKMLF KG-VYLACSS FETGF--ICE PMTEEMIDLA 
+GSA_ECO57        380   ---------- -KRFFHMMLD EG-VYLAPSA FEAGF--MSV AHSMEDINNT 
+GSA_PASMU        380   ---------- -NRFFHAMLA QG-IYLAPSA FEAGF--MSL AHSDQDIERT 
+GSA_VIBCH        380   ---------- -KRFFHLMLQ HG-VYLAPSA FEASF--TSL AHGSKEIEAT 
+GSA_SHEON        380   ---------- -RTFYHGMLD EG-VYLAPSA YEAGF--LSM AHGEEELRLT 
+GSA_PSEAE        380   ---------- -KRFFHLMLD GG-VYLAPSA FEAGF--TSI AHGDKELEIT 
+GSA_XANAC        381   ---------- -NRFFHAMLQ QG-VYLAPSA YEAGF--MSS AHDEAVIDAT 
+GSA_XYLFA        381   ---------- -NRFFHAMLQ RG-VFFAPSA YEAGF--ISS AHSPDIIEAT 
+GSA_NEIMA        379   ---------- -KQFFHGMLD RG-IAFGPSA YEAGF--VSA AHTPELIDET 
+GSA_DEIRA        396   ---------- -AAWFQGLLA RG-IYWAPSQ FESIF--ISA AHGEPELAAT 
+GSA_MYCLE        392   ---------- -PAFFHALLD AG-VYPPCST FEAWF--VSA ALDDAAFGRI 
+GSAB_BACSU       381   ---------- -STFFKLMLE RG-INLAPSK YEAWF--ITT AHTEQDIKDT 
+GSAB_LISIN       382   ---------- -GRFFKGMLE EG-INLAPSK YEAWF--ITS AHSEADILET 
+GSA_METKA        382   ---------- -KRFHRELLE HG-VWIAASN YEAWF--LSI AHTETDLERT 
+GSA_METJA        379   ---------- -MKYFWRLLE KG-VFVPPSQ FECCF--TSI KHDDEVVDKT 
+GSA_METAC        381   ---------- -LSFFHRMLA NG-VFLPPSQ FETNF--ISA AHSEEDIEKT 
+GSA_AERPE        383   ---------- -VKLHEEMLR RG-VFIAPSN LEAVF--TGL PHQGEALEIA 
+GSA_PYRAE        372   ---------- -LKLHEIALK HG-VYLTPSQ YEVNF--TSA AHGREVVEET 
+GSA_HALN1        391   dvgdaavqrw nRVFRPQLLD AG-VLLSQNQ FESQF--VSY GHTEADVDET 
+1ohv_A           451   ---------- -LNIFSDILA Df-------- ---------- ---------- 
+1b5o_A           335   ---------- -VRAAERLLE AG-VAVVPGT DFAAF--GHV RLSYATSEEN 
+1b8g_A           398   ---------- -RVCFANLPE RT-LDLAMQR LKAFvg---- ---------- 
+1fg3_A           296   ---------- ---------- ---------- ---------- ----NYILAR 
+1lc5_A           296   ---------- ---------- ---------- ---------- ----NYLLLR 
+1jg8_A           332   ---------- -LNIFEKLFR Kfs------- ---------- ---------- 
+1ax4_A           432   ---------- ---------- ---------- ---------- ---------A 
+1ajs_A           368   ---------- -KQVEYLINQ KH-IYLLPSG RINMC--GLT TKNLDYVATS 
+1d2f_A           307   ---------- -NALQKALIE qekVAIMPGy tygeegrGFV RLNAGCPRSK 
+                                                                 
+                       0000000000 0333333343 4404444444 4444400433 3333333332 
+ 
+2gsa_A           417   LAAARTVM-S AL-------- ---------- ---------- ---------- 
+GSA_AQUAE        414   LERIRDAV-K EL-------- ---------- ---------- ---------- 
+GSA_BACHD        417   VDAARQAF-K RLKK------ ---------- ---------- ---------- 
+GSA_BACSU        417   IQAAEKVF-A EISRr----- ---------- ---------- ---------- 
+GSA_STAAM        416   IQAFDTAL-S RIVK------ ---------- ---------- ---------- 
+GSA1_LISIN       417   LEAFDVTC-K MLRG------ ---------- ---------- ---------- 
+GSA_SYNY3        423   IAVAKEVF-A TL-------- ---------- ---------- ---------- 
+GSA_CHLRE        453   IAAARRVF-A RI-------- ---------- ---------- ---------- 
+GSA_SOYBN        456   IAAAEKVF-R EI-------- ---------- ---------- ---------- 
+GSA_HORVU        459   VEAAEKVL-R WI-------- ---------- ---------- ---------- 
+GSA1_ARATH       464   IAAAERVL-S RI-------- ---------- ---------- ---------- 
+GSA_CLOPE        417   LEAFETfeg- ---------- ---------- ---------- ---------- 
+GSA_CLOAB        416   LDVMKKL--- ---------- ---------- ---------- ---------- 
+GSA_CAMJE        414   LEAVRESF-K RI-------- ---------- ---------- ---------- 
+GSA_HELPJ        416   ISKADESF-D EIINGv---- ---------- ---------- ---------- 
+GSA_ECO57        416   IDAARRVF-A KL-------- ---------- ---------- ---------- 
+GSA_PASMU        416   LQAADQVF-S QLA------- ---------- ---------- ---------- 
+GSA_VIBCH        416   LEAADRSF-A ILAAEAka-- ---------- ---------- ---------- 
+GSA_SHEON        416   LEAADRVL-A RMKaan---- ---------- ---------- ---------- 
+GSA_PSEAE        416   LNAAEKAF-A ALK------- ---------- ---------- ---------- 
+GSA_XANAC        417   LAAAREAF-A EVAR------ ---------- ---------- ---------- 
+GSA_XYLFA        417   LEAARAAF-Q TIANEAAILS ESEaplkmp- ---------- ---------- 
+GSA_NEIMA        415   VAVAVEVF-K AMAA------ ---------- ---------- ---------- 
+GSA_DEIRA        432   LEAAAQAF-E GVKp------ ---------- ---------- ---------- 
+GSA_MYCLE        428   VDALPGAA-A AAVaarhres ---------- ---------- ---------- 
+GSAB_BACSU       417   LTAVEDAF-K HLKN------ ---------- ---------- ---------- 
+GSAB_LISIN       418   IQAVDTVF-G KLVQGk---- ---------- ---------- ---------- 
+GSA_METKA        418   EEAFEEAL-D RLtg------ ---------- ---------- ---------- 
+GSA_METJA        415   IKAMEDVF-E GLE------- ---------- ---------- ---------- 
+GSA_METAC        417   LEAYVENL-- ---------- ---------- ---------- ---------- 
+GSA_AERPE        419   VEGLRSSL-K TVLGS----- ---------- ---------- ---------- 
+GSA_PYRAE        408   LAALEKSF-Q ELQReig--- ---------- ---------- ---------- 
+GSA_HALN1        438   IEAYRSAL-- ---------- ---------- ---------- ---------- 
+1ohv_A           462   ---------- ---------- ---------- ---------- ---------- 
+1b5o_A           371   LRKALERF-A RVL------- ---------- ---------- ---------- 
+1b8g_A           422   ---------- ---------- ---------- ---------- ---------- 
+1fg3_A           302   FKASSAVF-K SLWDQGIILR DQNKQPSLSG cl-RITVGTR EESQRVIDAL 
+1lc5_A           302   ceredidlqR RLLTQRILIR SCANYPGLDS ryyRVAIRSA AQNERLLAAL 
+1jg8_A           344   ---------- ---------- ---------- ---------- ---------- 
+1ax4_A           433   LIGLKEKF-A TLKGlefeye ppvlrhftar lkpi------ ---------- 
+1ajs_A           404   IHEAVTKI-Q ---------- ---------- ---------- ---------- 
+1d2f_A           346   LEKGVAGL-I NAIravr--- ---------- ---------- ---------- 
+                                                                 
+                       2221111100 0000000000 0000000000 0000000000 0000000000 
+ 
+2gsa_A           428   ----- 
+GSA_AQUAE        425   ----- 
+GSA_BACHD        430   ----- 
+GSA_BACSU        431   ----- 
+GSA_STAAM        429   ----- 
+GSA1_LISIN       430   ----- 
+GSA_SYNY3        434   ----- 
+GSA_CHLRE        464   ----- 
+GSA_SOYBN        467   ----- 
+GSA_HORVU        470   ----- 
+GSA1_ARATH       475   ----- 
+GSA_CLOPE        426   ----- 
+GSA_CLOAB        423   ----- 
+GSA_CAMJE        425   ----- 
+GSA_HELPJ        431   ----- 
+GSA_ECO57        427   ----- 
+GSA_PASMU        428   ----- 
+GSA_VIBCH        433   ----- 
+GSA_SHEON        431   ----- 
+GSA_PSEAE        428   ----- 
+GSA_XANAC        430   ----- 
+GSA_XYLFA        445   ----- 
+GSA_NEIMA        428   ----- 
+GSA_DEIRA        445   ----- 
+GSA_MYCLE        447   ----- 
+GSAB_BACSU       430   ----- 
+GSAB_LISIN       433   ----- 
+GSA_METKA        431   ----- 
+GSA_METJA        427   ----- 
+GSA_METAC        425   ----- 
+GSA_AERPE        433   ----- 
+GSA_PYRAE        424   ----- 
+GSA_HALN1        446   ----- 
+1ohv_A           462   ----- 
+1b5o_A           383   ----- 
+1b8g_A           422   ----- 
+1fg3_A           350   Raeqv 
+1lc5_A           352   Rnvl- 
+1jg8_A           344   ----- 
+1ax4_A           466   ----- 
+1ajs_A           413   ----- 
+1d2f_A           362   ----- 
+                
+                       00000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((((((((((((2gsa_A      :0.001946GSA_SYNY3   :0.001946):0.000312GSA_CHLRE   :0.002258):0.000081((GSA_SOYBN   :0.001895GSA_HORVU   :0.001895):0.000008GSA1_ARATH  :0.001904):0.000435):0.001067(GSA_AQUAE   :0.003307(((GSA_BACHD   :0.002167GSA_BACSU   :0.002167):0.000140GSA_STAAM   :0.002307):0.000130GSA1_LISIN  :0.002437):0.000871):0.000098):0.000222(((((GSA_ECO57   :0.002240GSA_PASMU   :0.002240):0.000056(GSA_VIBCH   :0.002232GSA_SHEON   :0.002232):0.000064):0.000282GSA_PSEAE   :0.002577):0.000341(GSA_XANAC   :0.001968GSA_XYLFA   :0.001968):0.000950):0.000303GSA_NEIMA   :0.003221):0.000406):0.000669(GSA_CLOPE   :0.002616GSA_CLOAB   :0.002616):0.001680):0.000034(GSA_CAMJE   :0.003141GSA_HELPJ   :0.003141):0.001189):0.000203(GSA_METKA   :0.004154(GSA_METJA   :0.003694GSA_METAC   :0.003694):0.000460):0.000379):0.000096(GSAB_BACSU  :0.002187GSAB_LISIN  :0.002187):0.002443):0.000124(GSA_DEIRA   :0.004439GSA_MYCLE   :0.004439):0.000315):0.000613(GSA_AERPE   :0.004128GSA_PYRAE   :0.004128):0.001239):0.000604GSA_HALN1   :0.005971):0.0475271ohv_A      :0.053498):0.396455(((((1b5o_A      :0.0428351b8g_A      :0.042835):0.0112861d2f_A      :0.054120):0.010556(1fg3_A      :0.0385281lc5_A      :0.038528):0.026149):0.2219521ajs_A      :0.286628):0.031430(1jg8_A      :0.0557551ax4_A      :0.055755):0.262304):0.131894);
+ 
+ 

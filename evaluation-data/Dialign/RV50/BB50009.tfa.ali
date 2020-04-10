@@ -1,0 +1,662 @@
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A             1   M--------- ---------- ---------- ---------- -----LEEAL 
+SYFA_DEIRA         1   M--------- ---------- ---------- ---------- -----QDTAI 
+SYFA_MYCBO         1   mLS--PEA-- -------LTT ---------- ---------- ----AVDAAQ 
+SYFA_COREF         1   -MT--EAS-- -------LNE ---------- ---------- ----AATAAI 
+SYFA_BIFLO         1   maeqmVF--D ADQVTAEVAE ---------- ---------- --------GI 
+SYFA_THETN         1   ----MEEL-- -------LKE ---------- ---------- ----LSKRAE 
+SYFA_SYNY3         1   mtisLEAD-- -------LKS ---------- ---------- ----LQQSAQ 
+SYFA_SYNEL         1   mtsp-IL--D RDRLSQQLQD ---------- ---------- ----LQAKAL 
+SYFA_ARATH         1   ma-------- ---------- ---------- ---------- ----EEAILG 
+SYFA_HALN1         1   ---------- -----MQLPT ---------- ---------- ----QQVAVL 
+SYFA_PYRAB         1   ---------- -----MTLGY ---------- ---------- ----NEKLVL 
+SYFA_PYRAE         1   mlvLPLP--- ----LYEIir hap------- ---------- ---------- 
+SYFA_THEVO         1   ---------- ----MSEISK ---------- ---------- ----NEALIL 
+SYFA_THEAC         1   mh-IPIP--- ----MVQISE ---------- ---------- ----AEYRVL 
+SYFA_AERPE         1   ---------- ---MEVTLSQ ---------- ---------- ----GEYRLL 
+SYFA_METJA         1   m--------- ------ELHI ---------- ---------- ----DEKRLL 
+SYFA_METAC         1   msa------- ----QDNLTI ---------- ---------- ----NEKKVL 
+SYFA_SULTO         1   ---------- ------MLSE ---------- ---------- ----NEIKIL 
+SYFA_SULSO         1   ---------- ---MISMLSE ---------- ---------- ----NEAKIL 
+SYFA_METKA         1   ------M--D PRELAERLTE ---------- ---------- ----RDLRIL 
+SYFA_ARCFU         1   ---------- ------MLSK ---------- ---------- ----IELMLL 
+SYFA_METTH         1   -----MM--D LDRIIDQLHI ---------- ---------- ----YEKKVL 
+SYFA_TREPA         1   mmprmtgKAD LNTLVHKLHP ---------- ---------- ----LEIKVL 
+SYFA_BORBU         1   mkvifm-KAD LN-LIKTLHP ---------- ---------- ----LEIKVI 
+1asz_B             1   edt------- ---------- ---------- ---------- ---------- 
+1adj_A             1   m--------- ---------- ---------- ---------- ---------- 
+1lyl_A             1   seqetrgane aidfndelrn rreklaalrq qgvafpndfr rdhtSDQLHE 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A             7   A--------- ---AIQNARD LEELKALKAR YLGKKGLLTQ EMKGLSALPL 
+SYFA_DEIRA         7   Q--------- ---EIQGAET LEALQAVKTK YVGKSGLVTK ELGSLGKLPP 
+SYFA_MYCBO        16   Q--------- ---AIALADT LDVLARVKTE HLGDRSPLAL ARQALAVLPK 
+SYFA_COREF        15   T--------- ---AFDGADN LEELAALRRD HLGDNAPIPQ ARRSLGTIPK 
+SYFA_BIFLO        21   E--------- ---KIQNASN LEELKAIKTT YAGADSAMTK ASKAIGSLPA 
+SYFA_THETN        14   E--------- ---EILKAKS LQEIESLRVK YLGKKGELTQ ILRGMGSLSP 
+SYFA_SYNY3        18   A--------- ---AISGCDD LDGLDKLRVQ YLGKKGELSL ILKGMGKLSA 
+SYFA_SYNEL        24   Q--------- ---AIATAST LDALEQLRVA YLGKKGELSQ ILALMGKLPA 
+SYFA_ARATH         9   F--------- ---LQNN--- ---------- ----E--QIT DSGQFSAEFN 
+SYFA_HALN1        12   D--------- ---AAST--- ---------- ----D--DPQ RIEALAADTD 
+SYFA_PYRAB        12   L--------- ---TIAK--- ---------- ----L--EKA SVEEIVKETR 
+SYFA_PYRAE        17   ---------- ---------- ---------- -------EWK PLEEVARELG 
+SYFA_THEVO        13   K--------- ---YLAS--- ---------- ----K--NQE IEESNIEIKG 
+SYFA_THEAC        19   R--------- ---AIQS--- ---------- ----R--GAT AIESELSVEG 
+SYFA_AERPE        14   K--------- ---LMAE--- ---------- ----RGFREG TLEEASKILG 
+SYFA_METJA        12   K--------- ---IFQDNN- ---------- -------Rde fnln-ELEKF 
+SYFA_METAC        16   L--------- ---ALEE--- ---------- ----L--GSA APDKLEEKSG 
+SYFA_SULTO        11   E--------- ---YLSK--- ---------- ----K--REA SAEDISKQLN 
+SYFA_SULSO        14   F--------- ---FLKD--- ---------- ----L--KKT NSVELAIKMG 
+SYFA_METKA        19   I--------- ---HLAE--- ---------- ----S--GEA TPEELAESLD 
+SYFA_ARCFU        11   R--------- ---SLET--- ---------- ----G--KTY TPEEAAELSG 
+SYFA_METTH        20   K--------- ---AFEGSD- ---------- -------KPL KPEEIAESQK 
+SYFA_TREPA        27   KNCAMDEILS TSLLISR--- ---------- ----LGFKEG HANQAf---- 
+SYFA_BORBU        25   VNNEEEDDIS ASIIIEK--- ---------- ----LGFNEG QANKtie--- 
+1asz_B             4   ---------- ---------- ---------- ---------- AKDNYGKLPL 
+1adj_A             2   ---------- ---------- ---------- ---------- ---------- 
+1lyl_A            51   E--------- ---FDAK--- ---------- ----D--NQE LESLNIEVSV 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A            45   EERRKRGQEL NA-----I-K AALEAALEAR EKALEE---- ---------- 
+SYFA_DEIRA        45   EERKACGAEI NV-----V-R AAIQAALDEK ESALKR---- ---------- 
+SYFA_MYCBO        54   EQRAEAGKRV NA-----A-R NAAQRSYDER LATLRA---- ---------- 
+SYFA_COREF        53   DQRKDAGRFV NM-----A-L GRVEKHFAQV KAQLEE---- ---------- 
+SYFA_BIFLO        59   DQKKEAGKLm gklradfG-R AYGp-----K EVELKE---- ---------- 
+SYFA_THETN        52   EERPVIGQLA ND-----V-R EKIENMILER REKIAK---- ---------- 
+SYFA_SYNY3        56   EERPKFGAIA NE-----V-K EALQHDLESR KANLQN---- ---------- 
+SYFA_SYNEL        62   GDRPTIGTLA NT-----L-K EKLLQELEAR RATLQA---- ---------- 
+SYFA_ARATH        28   IDHNELVNVI KS-----L-H GFRYIDVQDI KKETWILTDE GK-------- 
+SYFA_HALN1        31   YPPETIAGAA LA-----L-E AEGLVAVTET TTTTVSLTDE GH-------- 
+SYFA_PYRAB        31   LDQVAVMRAI LT-----L-E KEGLIKLHER KEKIIVLTDI GK-------- 
+SYFA_PYRAE        30   SSVDSLMRYV EE-----G-R AKGVLRVERK VIEFYELTEE GR-------- 
+SYFA_THEVO        32   LSRQDIASAT SW-----L-Q VKGLIDVKTR EEVAYVLTDE GK-------- 
+SYFA_THEAC        38   LSDREIASAI SW-----L-E VKGLLDVERR EIKTYALSSE GK-------- 
+SYFA_AERPE        35   VDKSSLASLS NL-----L-A EKGVVEVEER VEEHYVLTER GR-------- 
+SYFA_METJA        31   MPKEKILRVS LW-----L-K GKNLVETEEK VKKIIKLIKE EE-------- 
+SYFA_METAC        35   LQVDAAMQAA FM-----L-Q EKGLASVSEK VLERYSLTKE GE-------- 
+SYFA_SULTO        30   IPIESVFSIS QL-----L-K EKGYIEVEEK KVIKYELTDE GK-------- 
+SYFA_SULSO        33   IPESSVLSLI EL-----L-R EKGYVKTEVK SEKHYVLTEE GR-------- 
+SYFA_METKA        38   VDLGPVMRSL YW-----L-E ERGLIESEEE THEVYELGDE GK-------- 
+SYFA_ARCFU        30   LSKDAVLKAA YM-----L-Q ERGYVRVIEN VRTHYSLTEE GE-------- 
+SYFA_METTH        40   IDIKSVMSAS GA-----L-E SRGFVRVMKD ADEVVSLTED GE-------- 
+SYFA_TREPA        56   ---------- SW-----LRA KRIIEEHQRE QMRSFELTPC GY-------- 
+SYFA_BORBU        55   ---------- -W-----LNS KGIIEEIYRK LNVFYKATER GL-------- 
+1asz_B            14   IQSRDSDRtg q--------- ---------- ---------- ---------- 
+1adj_A             2   ---------- ---------- ---------- ---------- ---------- 
+1lyl_A            70   AGRmmtrrim g--------- ---------- KASFVTLQDV Ggriqlyvar 
+                                                                 
+                       0000000000 0000000101 1111111111 1111111111 1100000000 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A            75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_DEIRA        75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_MYCBO        84   ---------- ---------- ---------- ---------- ---------- 
+SYFA_COREF        83   ---------- ---------- ---------- ---------- ---------- 
+SYFA_BIFLO        89   ---------- ---------- ---------- ---------- ---------- 
+SYFA_THETN        82   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNY3        86   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNEL        92   ---------- ---------- ---------- ---------- ---------- 
+SYFA_ARATH        64   -----KYAAE GSPEVQLFLA VPEEGSIS-- ---------- --------KD 
+SYFA_HALN1        67   -----AYATD GLPEVRLYRA ALDAGAddap v--------- --------EM 
+SYFA_PYRAB        67   -----EYSKI GLPEIRALRV LREKKKAY-- ---------- --------LD 
+SYFA_PYRAE        66   -----QRAAE GLPEYKLLKS AVcregrcta hlsqh----- ---------- 
+SYFA_THEVO        68   -----RYAEN GLPELRAYSI LKRKGKLS-- ---------- --------LR 
+SYFA_THEAC        74   -----RYLRE GLPELVLYRK LKERGEMT-- ---------- --------MD 
+SYFA_AERPE        71   -----DALER GLPEEKLVLF LAGRGGEA-- ---------- --------SV 
+SYFA_METJA        67   -----FPERK ianylkqhni keie--IKNL ---------- ---------- 
+SYFA_METAC        71   -----EYTKT GLPERQIIDA LKAPAPLEEL ---------- ---------- 
+SYFA_SULTO        66   -----RRLKE GFPEEKLVKL LDGKEK---- ---------- ---------- 
+SYFA_SULSO        69   -----KRKES GLPEDILINT LNGQEK---- ---------- ---------- 
+SYFA_METKA        74   -----EYAEE GLPELRIVEV LRKIGGEG-- ---------- --------RL 
+SYFA_ARCFU        66   -----RYLKE GLPEEKLYSL VKSgvns--- ---------- ---------- 
+SYFA_METTH        76   -----SCARE GLPERRLIEA LKGEEELE-- ---------- --------MS 
+SYFA_TREPA        83   -----AAASD GTAEERMLTF LSSPPSLTAI adaaehlhpr pplcnglsLP 
+SYFA_BORBU        81   -----GALRD GFVEEKIINL VSQKAVLA-- ---------- ---------S 
+1asz_B            25   ---------- ---------- -KRVKFVD-- ---------- --------LD 
+1adj_A             2   ---------- ---------- ---------- ---------- ---------- 
+1lyl_A           101   dslpeGVYND QFKKWDLGDI IGARGTLF-- ---------- ---------K 
+                                                                 
+                       0000011111 1111110000 0000000000 0000000000 0000000000 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A            75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_DEIRA        75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_MYCBO        84   ---------- ---------- ---------- ---------- ---------- 
+SYFA_COREF        83   ---------- ---------- ---------- ---------- ---------- 
+SYFA_BIFLO        89   ---------- ---------- ---------- ---------- ---------- 
+SYFA_THETN        82   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNY3        86   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNEL        92   ---------- ---------- ---------- ---------- ---------- 
+SYFA_ARATH        89   ELQK-KLaPA ---VFKIGCS QAGKnkwvem gkqvSRKVK- ---------- 
+SYFA_HALN1        95   GSVIGAA-GL DGPQVDIALS NYARKGYGTI DS--GALAA- ---------- 
+SYFA_PYRAB        92   ELKD-VL-RE DELKAIVGI- -LRREGLANV RKDEKGLVL- ---------- 
+SYFA_PYRAE        96   ---------- --PEAQIALA NLAKLGVKP- RG--NVVELD Eetykk---- 
+SYFA_THEVO        93   DLQE-AM-PD ---EYKIVLA QLAKFGITP- KN--GVLEYS Dgh------- 
+SYFA_THEAC        99   EIRD-LM-PD ---TYRIALA QLAKFGITP- KE--GKLIY- ---------- 
+SYFA_AERPE        96   EEVR-RA--- LGEEAGIALG QAARKGLVVI AG--GVVRL- ---------- 
+SYFA_METJA        90   -----KD-IL PKEEINAALG AIKRKGIARI EK--GKIIF- ---------- 
+SYFA_METAC        96   -----RS-RF SPKTVGIATG WLIKKGWAKV EN--GVMVP- ---------- 
+SYFA_SULTO        87   KIHE-LK-DK LGRDFEISIG WAKRKGLVKI DG--DTVIP- ---------- 
+SYFA_SULSO        90   DLNE-IK-NI LNKDFNIAIS WAKRKGLIDI KE--GKVIP- ---------- 
+SYFA_METKA        99   EEVLDRA-GV PRKLAGPVLG WLRRKGLAEI KREDGETSL- ---------- 
+SYFA_ARCFU        88   -MDE-LR-KR MGREFQIALG WLRRKGAVEV EG--DKVVP- ---------- 
+SYFA_METTH       101   ELSR-RA-GL DKKEAGIGIG WLMRKGWGRI SQ--GMVSA- ---------- 
+SYFA_TREPA       128   ELAH-AL-TL APKDVGSAFG ILAQEGILRM DG--EKRIHI vsphvsdrms 
+SYFA_BORBU       105   NLAL-EL-DI DVKEVRKAFG NLLKEGILSL DL--DKQIII ncldgtetny 
+1asz_B            34   EAKD-SD-KE VLFRARVHN- -TRQQGatla fltlrq---- ---------- 
+1adj_A             2   ---------- ---------- ---------- ---------- ---------- 
+1lyl_A           130   TQTG-EL-SI HCTELRlltk a--------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A            75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_DEIRA        75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_MYCBO        84   ---------- ---------- ---------- ---------- ---------- 
+SYFA_COREF        83   ---------- ---------- ---------- ---------- ---------- 
+SYFA_BIFLO        89   ---------- ---------- ---------- ---------- ---------- 
+SYFA_THETN        82   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNY3        86   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNEL        92   ---------- ---------- ---------- ---------- ---------- 
+SYFA_ARATH       124   ---------- ---------- ---------D VEDK--VKG- --------Q- 
+SYFA_HALN1       131   ---------- ---------- ---------D PDAD--PEND PEADAlatlt 
+SYFA_PYRAB       127   ---------- ---------- ---------E ITEKgeklge rpidia---- 
+SYFA_PYRAE       127   ---------- ---------- ---------- ---IVAMLE- --------EK 
+SYFA_THEVO       128   ---------- ---------- ---------- ---IEAEIS- --------RR 
+SYFA_THEAC       130   ---------- ---------- ---------R NsgIEAAIE- --------ER 
+SYFA_AERPE       129   ---------- ---------- ---------A VDQA--EAlk titpLKKLLE 
+SYFA_METJA       121   ---------- ---------- ---------D NLDY--Kdve eql-LQKIKE 
+SYFA_METAC       127   ---------- ---------- ---------S GNAP--AGRD EEVLAafagk 
+SYFA_SULTO       122   ---------- ---------- ---------L VKDY--EAK- --------EE 
+SYFA_SULSO       125   ---------- ---------- ---------K VKTY--MSS- --------E- 
+SYFA_METKA       137   ---------- ---------- ---------V LLEE--EPE- --------DV 
+SYFA_ARCFU       122   ---------- ---------- ---------K REPSFDERA- --------A- 
+SYFA_METTH       136   ---------- ---------- ---------V SDET--PER- --------GA 
+SYFA_TREPA       174   lt-RTLLQRA aarvaspsea sdtppGTLFE SELSDDERR- --------V- 
+SYFA_BORBU       151   qkvRVLLERA kn-------- -----SDLLR ESLTTEELL- --------L- 
+1asz_B            66   ---------- ---------- ---------- ---------- ---------- 
+1adj_A             2   ---------- ---------- ---------- ---------- ---------- 
+1lyl_A           149   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A            75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_DEIRA        75   ---------- ---------- ---------- ---------- ---------- 
+SYFA_MYCBO        84   ---------- ---------- ---------- ---------- ---------- 
+SYFA_COREF        83   ---------- ---------- ---------- ---------- ---------- 
+SYFA_BIFLO        89   ---------- ---------- ---------- ---------- ---------- 
+SYFA_THETN        82   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNY3        86   ---------- ---------- ---------- ---------- ---------- 
+SYFA_SYNEL        92   ---------- ---------- ---------- ---------- ---------- 
+SYFA_ARATH       133   LLQIQ----- ---------- -----QGKEF DKESINSLKA RKLIVPQIWK 
+SYFA_HALN1       150   ----D----- ---------- -----GDSVD DDAVVDQLAS RDLVTVSERT 
+SYFA_PYRAB       144   ----LKLLSE KGEVSVDEIS RIID------ ----VKDLKR RKIAREDERV 
+SYFA_PYRAE       135   QKALA----- ---------- -----APHSA PPEVLKEFIK RKLVRKIEKT 
+SYFA_THEVO       136   QRFLS----- ---------- -----DLNTD DQEMIEHFKR RKNVIEEKKR 
+SYFA_THEAC       142   QRFLQ----- ---------- -----SMDPK NTAMIDHFRH RSGVIDEKIR 
+SYFA_AERPE       148   NVASG----- ---------- -----SKPTV GDELLREALS RGLIRREARR 
+SYFA_METJA       139   NKYLD----- ---------- -----DFSEE EKKIIDILKK RGYVDFDEEK 
+SYFA_METAC       146   akt------- ---------- ----LEELAA DEGTVKELLK RKLVIKHEEK 
+SYFA_SULTO       132   KEALI----- ---------- -----NPEKA NKDILQQLLN RKLLIKKEEK 
+SYFA_SULSO       134   YLALS----- ---------- -----NLERA DSNTINLLKK RGLIEEKERK 
+SYFA_METKA       147   DQSVLEALAA EGSASVEELA RKLEMDEEEV EKALKRLSER GDVLRAREET 
+SYFA_ARCFU       133   LQAIK----- ---------- -----EGRGV DEGTLKTLMK RKLVTKSETK 
+SYFA_METTH       146   DERLLELLLE RGSVRIRELP -------DEL RGALKDLKGR KGIVDIRKIK 
+SYFA_TREPA       213   MERIA----- ---------- -----KKRGA SDSLFKVSVR ERVTFTFTPT 
+SYFA_BORBU       178   ISNFA----- ---------- -----KKKGA DSVFFKIIEK LDLKFRLSSf 
+1asz_B            66   ---------- ---------- ---------- -----QASLI QGLVKANKEG 
+1adj_A             2   ---------- ---------- ---------- ---------- ---------T 
+1lyl_A           149   ---------- -----LRPLP -------DKF HGlqdqevr- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- ---------- 
+1pys_A            75   ---------- ---------- ---------- --------AA LKEALERE-- 
+SYFA_DEIRA        75   ---------- ---------- ---------- --------AA LDAKLASE-- 
+SYFA_MYCBO        84   ---------- ---------- ---------- --------ER DAAVLVAE-- 
+SYFA_COREF        83   ---------- ---------- ---------- --------KR NREVLEQE-- 
+SYFA_BIFLO        89   ---------- ---------- ---------- --------AA EKAALAAE-- 
+SYFA_THETN        82   ---------- ---------- ---------- --------EE KERKIKEE-- 
+SYFA_SYNY3        86   ---------- ---------- ---------- --------AA IEAQLAAE-- 
+SYFA_SYNEL        92   ---------- ---------- ---------- --------EK IAAQLAAE-- 
+SYFA_ARATH       163   GYSVKkgpny ap-------- ERKK---VAT DLTRENLQ-- NWKELEFK-- 
+SYFA_HALN1       176   VRSVTLTEAG VTELMA-G-V EATD---EVG ELTPELLASG EWADVEFA-- 
+SYFA_PYRAB       180   ERTVEITEKG KKLVSK-G-I ELKR---EVT RLTPELIASG KWREVELK-- 
+SYFA_PYRAE       165   QVYV------ -KAAVplelV KPAE---VKT VITSEDIATG RWRNYTLK-- 
+SYFA_THEVO       166   SVRIVSINSK GLEQLN-N-F DQFE---AIG EIDSGIITSQ AWKTAPFR-- 
+SYFA_THEAC       172   TERIVRLNDS AYEAIA-E-F GGEG---LIG SLDPSIIASG EWKTKNFR-- 
+SYFA_AERPE       178   SIVL------ -RLKVN-PAE ALararvEAA VLTRDMLKSG EWRRLRFK-- 
+SYFA_METJA       169   EIKIKLTEKG KEFIKN-P-I EIEE---EIT QLTRDIIISG KWKKAYIR-- 
+SYFA_METAC       175   SRTVSVTGAG SALAAE-G-I VLEE---EIA QLTPELLKSG AWKGKKFR-- 
+SYFA_SULTO       162   ILNI------ -RLIRE-P-L EIKP---ALI FLTPELLASG EWKKYALR-- 
+SYFA_SULSO       164   IVSV------ -ELIKE-P-K ESEI---GIS NLNRELIISG EWKKYKLK-- 
+SYFA_METKA       197   VKKVRLTERG EEVAEhaPEV LERD---WIT ELKPEHLREG TWKEKEFK-- 
+SYFA_ARCFU       163   QVYI------ -EVMKK-PEI ELED---IIT DLTPEMLLEG TWRGKQFL-- 
+SYFA_METTH       189   RHTIELTTEG RKLLER-G-I EIVE---EAT QVTHEHLKSG AWRKLHYR-- 
+SYFA_TREPA       243   ARAV------ -QEALhtag- LTGN---EIG ALTVECLKSG AWKTQHLR-- 
+SYFA_BORBU       208   glev------ KNFLMK-S-K LTGD---ELT KLTPEILKNK TYENKKFR-- 
+1asz_B            81   TISKNMVKWA GSLNLE-S-I VLVR---GIV KKVDEPIKSA TVQNLEIHit 
+1adj_A             3   ARAV------ -Rg------- ---------- ---------- ---------- 
+1lyl_A           166   ---------- ---------- ---------- ---------- ------YR-- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000001111 1111111200 
+ 
+1b70_A             1   ---------- ---------- ---------- ---------- -VDVSLPGAS 
+1pys_A            85   ---------- ---------- ---------- ---------- RVDVSLPGAS 
+SYFA_DEIRA        85   ---------- ---------- ---------- ---------- AIDVTLPGLP 
+SYFA_MYCBO        94   ---------- ---------- ---------- ---------- GIDVTLPSTR 
+SYFA_COREF        93   ---------- ---------- ---------- ---------- RVDVTVPTTR 
+SYFA_BIFLO        99   ---------- ---------- ---------- ---------- TVDMTLPVSR 
+SYFA_THETN        92   ---------- ---------- ---------- ---------- YIDITMPGKP 
+SYFA_SYNY3        96   ---------- ---------- ---------- ---------- TLDVTMAGSY 
+SYFA_SYNEL       102   ---------- ---------- ---------- ---------- SLDVTMPGVY 
+SYFA_ARATH       198   ---------- ---------- ---------- ---------- EYNFKAKGAP 
+SYFA_HALN1       219   ---------- ---------- ---------- ---------- DYNVAADAAD 
+SYFA_PYRAB       223   ---------- ---------- ---------- ---------- PFNIKAPVKR 
+SYFA_PYRAE       203   ---------- ---------- ---------- ---------- PFDLNIEPPE 
+SYFA_THEVO       209   ---------- ---------- ---------- ---------- KYDLDAPVSP 
+SYFA_THEAC       215   ---------- ---------- ---------- ---------- KYDLNSPSSV 
+SYFA_AERPE       218   ---------- ---------- ---------- ---------- PYNVKAEPPR 
+SYFA_METJA       212   ---------- ---------- ---------- ---------- PYDVKVPTKP 
+SYFA_METAC       218   ---------- ---------- ---------- ---------- PYRLDIAPNP 
+SYFA_SULTO       198   ---------- ---------- ---------- ---------- EYNVEAYPPF 
+SYFA_SULSO       200   ---------- ---------- ---------- ---------- KYNVEAFPPY 
+SYFA_METKA       242   ---------- ---------- ---------- ---------- PYDVKAPTSP 
+SYFA_ARCFU       200   ---------- ---------- ---------- ---------- KYDITIPAKE 
+SYFA_METTH       232   ---------- ---------- ---------- ---------- GYNIDAEYPL 
+SYFA_TREPA       280   ---------- ---------- ---------- ---------- RYNVHIPPAR 
+SYFA_BORBU       245   ---------- ---------- ---------- ---------- AYNIHIPSAK 
+1asz_B           126   kiytisetpe alpilledas rseaeaeaag lpvvnldtrl DYRVIDLRTV 
+1adj_A             9   ---------- ---------- ---------- ---------- -------TKD 
+1lyl_A           168   ---------- ---------- ---------- ---------- QRYLDLIAND 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 2222222222 
+ 
+1b70_A            10   LFSGGLHPIT LMERELVEIF RALGYQAVE- GPEVESEFFN FDALNIPEHH 
+1pys_A            95   LFSGGLHPIT LMERELVEIF RALGYQAVE- GPEVESEFFN FDALNIPEHH 
+SYFA_DEIRA        95   LPAGGLHPIS RVLDDLIGIY RQMGYAVIE- GPEVEEEHYN FEALNVPWYH 
+SYFA_MYCBO       104   VPAGARHPII MLAEHVADTF IAMGWELAE- GPEVETEQFN FDALNFPADH 
+SYFA_COREF       103   TQVGALHPIT ILNEQIADIF VGMGWEVAE- GPEVEAEYFN FDALNFLPDH 
+SYFA_BIFLO       109   KPLGARHPLP KLMEDVEDFF ISMGWQISS- GPEIEAEWYN FDSLNFGPDH 
+SYFA_THETN       102   YKYGHKHPIT LVMDEIKRIF LGLGFSIAE- GPEVELAYYN FEALNTPEDH 
+SYFA_SYNY3       106   RPQGRRHPLN STVDRVLDIF VGLGYTVAT- GPQVETDYYN FEALNIPADH 
+SYFA_SYNEL       112   RPQGHIHPLH STIDRILDIF VGLGYTVAN- GPEMETEYYN FEALNTPADH 
+SYFA_ARATH       208   VDAGHLHALL KVRKQFKDIF VQMGFEEMPT NNYVESSFWN FDALFQPQQH 
+SYFA_HALN1       229   HTPGKTHVLR QAAERVTDVL VGMGFQEMA- GPHVDADFYI NDCLFMPQDH 
+SYFA_PYRAB       233   IYPGKKQPYR VFLDKIRRRL IEMGFIEMTV DSLIETQFWN FDALFQPQNH 
+SYFA_PYRAE       213   YPAPVPHFFN EFLDYVREVM IGLGFEEVR- GPVLEVEFWN FDALFQAQDH 
+SYFA_THEVO       219   TKSYAKHPLV YFINEIRRIF LDMGFTEMS- GHYIESALWD MDALFIPQDH 
+SYFA_THEAC       225   IRSSLKHPMT YLIEEIREIF LNMGFTEMG- GHYIESTLWD MDSLFIPQDH 
+SYFA_AERPE       228   VLPARRHFLA EFIERLRDIL RELGFREVR- GPLVELELFN FDVLFQAQDH 
+SYFA_METJA       222   IYPAKVHPLT RIIREVKEIL LAMGFKEVK- SPIVETEFWN FDMLFEPQDH 
+SYFA_METAC       228   LYGVKIHPYR RLIEQMRQIF LEMGFTEIK- GGIIQSSFWN FDALFQPQDH 
+SYFA_SULTO       208   YPIGKKHFFK EFLERLRDLM RDLGFKEVY- SDYVEIEFYN FDLLFQAQDH 
+SYFA_SULSO       210   YTISKKHYFR EFLEKVKDIM ISLGFKEIN- TGYIEMEFYN FDLLFQPQDH 
+SYFA_METKA       252   TFPGKRHPLK EVINEIRRIF LEMGFVEVS- GPLVESSFWN FDALFQPQDH 
+SYFA_ARCFU       210   IYGGKIHPYE RIIEECRKVF LEMGFTEIK- GHYVQPAFWN FDALFQPQDH 
+SYFA_METTH       242   VYPGKMHPLR RIIDEIRSIF LKLGFTESR- GPIVESAFWN FDCLFQPQDH 
+SYFA_TREPA       290   IIPGRSNAYA DFLEHIKDRL VALGFQEFD- GPLVETDFWN ADALFMPQFH 
+SYFA_BORBU       255   TFIGRANSYL DYISKIKDKL VGLGFQEFD- GPLVETEFFN NDALFMPQFH 
+1asz_B           176   TNQAIFRIQA GVCELFREYL ATKKFTEVH- TPKLLGAPSE GGSSVFevty 
+1adj_A            12   LFGKELRMHQ RIVATARKVL EAAGALELV- TPIFEETQVF EKGVGAatdi 
+1lyl_A           178   KSRQTFVVRS KILAAIRQFM VARGFMEVE- TPMMQVIPGG ASARPFITHH 
+                                                                 
+                       2222223332 2223333334 4467766660 7678888888 8888888889 
+ 
+1b70_A            59   PARDMWDTFW LTGE---GFR -LE--G-P-- ---------- ---------- 
+1pys_A           144   PARDMWDTFW LTGE---GFR -LE--G-P-- ---------- ---------- 
+SYFA_DEIRA       144   PARDLQDTFW LEDG---R-- ---------- ---------- ---------- 
+SYFA_MYCBO       153   PARGEQDTFY IAPEdsrQ-- ---------- ---------- ---------- 
+SYFA_COREF       152   PARTLQDTFH IGPE---GSR ---------- ---------- ---------- 
+SYFA_BIFLO       158   PARQMQDTFY VKGN---QAK -DAAGF---- ---------- ---------- 
+SYFA_THETN       151   PARDLQDTFY ITSD---I-- ---------- ---------- ---------- 
+SYFA_SYNY3       155   PARDMQDTFF LKDG---R-- ---------- ---------- ---------- 
+SYFA_SYNEL       161   PARDMQDTFY LPDG---N-- ---------- ---------- ---------- 
+SYFA_ARATH       258   PARDSHDTFF LKVP---STT RTL--P-E-- ------DYVE RVKRVH-ESG 
+SYFA_HALN1       278   PARNHWDRFA LSNP---ARI DEL--P-D-- ------ALVE RVERAHrEGA 
+SYFA_PYRAB       283   PAREWTDTYQ LKYP---EKG -YL--PDE-- ------SLVS RVKEAH-ERG 
+SYFA_PYRAE       262   PAREVHDTFY VQWS---GPL ETP--P-E-- ------HLME SVGRVH-EE- 
+SYFA_THEVO       268   PARDMQDTFY VKDS---NFT -IE--H-P-- ------EIEK RIKRIH-ERG 
+SYFA_THEAC       274   PARDMQDTFY VEAD---SFD -ID--H-P-- ------EISK KIRKIH-EKG 
+SYFA_AERPE       277   PAREIHDSLW IKSP---RRG -DLSGY-S-- ------DLVE RVASVH-ER- 
+SYFA_METJA       271   PAREMQDTFF LKYP---NEG -DI--P-E-- ------DLLS KVKEVH-ER- 
+SYFA_METAC       277   PARDMQDTFH LGSicq---- --L--P-A-E YSDKVAAMHE SGGDID-SC- 
+SYFA_SULTO       257   PAREIHDSFA ISGK---GKL T-----DE-- ------KLIQ RVKQIH-ER- 
+SYFA_SULSO       259   PAREIHDSFS VEGS---GKI E-----DK-- ------DLLN NVKEIH-EK- 
+SYFA_METKA       301   AAREMQDTFY LKEP---AEA -EL--P-DEE VVEKVRAVHE DGGDTG-SR- 
+SYFA_ARCFU       259   PARDMQDTFY LDryid---- --L--E-G-E IVERVKATHE NGWITG-ST- 
+SYFA_METTH       291   AAREMQDTFY VKNP---AVT -DL--P-CED LVRAVQDAHE TGGSTG-SE- 
+SYFA_TREPA       339   PARDIHDVYY LKHP---THA PTI--P-E-P FLSRVAATHE RGADSG-SL- 
+SYFA_BORBU       304   PSRDIKDVYY ISDP---SMQ ESL--P-E-P YFSNVKLAHE TGYATG-SR- 
+1asz_B           225   fkgka--YLA QSPQFNKQQL ---------- ---------- ---------- 
+1adj_A            61   v--------- ---------- ---------- ---------- --------R- 
+1lyl_A           227   NALDLDMYLR IAPELYLKRL ---------- ---------- ---------- 
+                                                                 
+                       9998888887 6321000100 0000000000 0000000000 1111110010 
+ 
+1b70_A            80   ---------- LGEEVEGRLL LRTHTSPMQV RY-----M-- ---VAH-TPP 
+1pys_A           165   ---------- LGEEVEGRLL LRTHTSPMQV RY-----M-- ---VAH-TPP 
+SYFA_DEIRA       159   ---------- ---------L LRTHTSPMQI RY-----M-- ---VDH-EPP 
+SYFA_MYCBO       171   ---------- ---------L LRTHTSPVQI RT-----L-- ---LAR-ELP 
+SYFA_COREF       169   ---------- --------QV LRTHTSPVQI RS-----M-- ---LDR-EVP 
+SYFA_BIFLO       180   ---------- ----VGSNMV VRTQTSSDQV RA-----L-- ---LTR-GVP 
+SYFA_THETN       166   ---------- ---------L LRTQTSPVQV RT-----M-- ---EKT-KPP 
+SYFA_SYNY3       170   ---------- ---------L LRTHTSPVQI RY-----M-- ---EKH-DPP 
+SYFA_SYNEL       176   ---------- ---------L LRTHTSSVQI RY-----M-- ---ELY-EPP 
+SYFA_ARATH       293   GYGSRGYNYD WKREEANKNL LRTHTTAVSS RMLYA--LA- ----QKPFVP 
+SYFA_HALN1       314   GDDGDGYHSP WDEDFARALA LRGHTTSLTA RHLAG--LAd adV----EAP 
+SYFA_PYRAB       318   LAGSRGWGYV WSPERAMLLM PRAHATALSA RQLAkg---- --I----EIP 
+SYFA_PYRAE       296   -----KWRYK WDRKKALNPV LRTQTTATTI RA-----LA- ---ERG-DGE 
+SYFA_THEVO       302   FDGYSGWGYR WSSDDGKKLI LRTHTTVTTA RY-----LY- ---EHN-TYP 
+SYFA_THEAC       308   FDGYSGWGYR WSDAEARKLV LRTHTTVSTA RY-----LY- ---ENN-EPP 
+SYFA_AERPE       312   -----GWKYR WSPEVASRYI LRSQTTAVSA RI-----LA- ----TRPNPP 
+SYFA_METJA       304   -----CWKYK FDENVSRRLI LRTHTTASSI RY-----LAs lsdEEK-NKP 
+SYFA_METAC       315   -----GWGGI WDRELARRNV LRTHTTSVTI KY-----LA- ----DNPEPP 
+SYFA_SULTO       289   -----GWKYN WDVNISMRLM LRSQTTATTA RV-----LA- ----SRPKPP 
+SYFA_SULSO       291   -----FWKYE WKQDITLRLM LRSQTTATTA RV-----LA- ----SRPKAP 
+SYFA_METKA       342   -----GWGYE WDEGVARKTV LRTHTTAVSV RK-----LY- ----EVEGPP 
+SYFA_ARCFU       297   -----GWGGE WSLEKARQLV LRTHTTAITI HY-----LA- ----ENPEPP 
+SYFA_METTH       332   -----GWQYE WDRDVARQSV LRTHTTCVSA RF-----LS- ----EN-EPP 
+SYFA_TREPA       380   -----GWRYS FDRDFTRRLL LRSQGTALSA RH-----LP- ----Tah-IP 
+SYFA_BORBU       345   -----GWRYS FSEDLSKRLV LRTHGTVLSA KQ-----L-- ---INA-KNP 
+1asz_B           243   ---------- ---------- ---------- ---------- -----IVADF 
+1adj_A            63   -----KEMFT FQDRGGRSLT LRPEGTAAMV RAylehgM-- ---KVW-PQP 
+1lyl_A           247   ---------- ---------- ---------- ---------- -----VVGGF 
+                                                                 
+                       0000011111 2222222223 3333333333 3200000200 0001110223 
+ 
+1b70_A           109   FRIVVPGRVF RFEQT-DATH EAVFHQLEGL VVGEGIAMAH LK--GAIYEL 
+1pys_A           194   FRIVVPGRVF RFEQT-DATH EAVFHQLEGL VVGEGIAMAH LK--GAIYEL 
+SYFA_DEIRA       179   FKIVVRGKVY RYEAT-DATH EAMFHQLEGL VVGDGISMSD LK--GTIAEM 
+SYFA_MYCBO       191   VYIISIGRTF RTDEL-DATH TPIFHQVEGL AVDRGLSMAH LR--GTLDAF 
+SYFA_COREF       190   IYIACPGRVF RTDEL-DATH TPVFHQIEGL AVDKGLTMAH LR--GTLDHL 
+SYFA_BIFLO       205   LYIASPGRVF RTDEL-DATH TPVFHQCEAL AVDKHLTMAD LK--GVLDKL 
+SYFA_THETN       186   IRVISPGRVY RSDDI-DATH SPVFHQMEGL VVDEGITMGD LK--GVLNVF 
+SYFA_SYNY3       190   IRIVAPGRVY RRDTV-DATH SAVFHQVELL AIDKGLAFTH LK--GTIQAF 
+SYFA_SYNEL       196   IRIVAPGRCY RRDTE-DATH AAVFHQIEIL AVDEGLTFTD LK--GTVTTF 
+SYFA_ARATH       336   KKYFSIDRVF RNEAV-DRTH LAEFHQIEGL ICDRGLTLGD LI--GVLEDF 
+SYFA_HALN1       358   ARYFSVEKAY RNDTL-DATH LLEFFQIEGW VLADDLSVRD LM--GTFREF 
+SYFA_PYRAB       358   GKYFTIQRVF RPDVL-DRTH LIEFNQIDGF VAGEDLTFRH LL--GILKRF 
+SYFA_PYRAE       331   YKVFTIGRVF RPEKL-DPKH SMEFHQLDGI VVGPGLTFKH LL--GQLEEI 
+SYFA_THEVO       342   QAIFSVEKVF RHESV-DWKH LAEFYQIEGA VYDKNVSVAT LK--WILRTF 
+SYFA_THEAC       348   QAIFSVEKVF RHESV-DWKH LAEFYQIEGA VYSKDVSVST LK--WILRDF 
+SYFA_AERPE       347   ARFFTVGKVF RSDAV-GPTR LPEFHQLDGI EGDEGYTFRD LL--GRLDEI 
+SYFA_METJA       343   HKVFCIDRVF RNEAI-DYKH LPEFYQCEGI IMDDNVNFNN LI--GVLKEF 
+SYFA_METAC       350   VKAFCIDRAY RRETI-DPTH TPEFEQLEGV VMDKDMSFAD LL--GLLAEF 
+SYFA_SULTO       324   IRVFTIGKVF RPDSI-DATH LIEFHQLDGL VIEDNFTFRD LL--GTLKEI 
+SYFA_SULSO       326   QKVFTLGKVF RPDAI-DATH LIEFHQLDGV IIDNNFTFKE LL--GVLKEI 
+SYFA_METKA       377   LKAFSIGRVY RRETV-DYKH LPEFHQCEGI VLAKDVSFRD LL--GILEEF 
+SYFA_ARCFU       332   QKAFCIDRVY RRETI-DATH LPEFDQLEGV VLDRDVGFKH LL--GLLKEF 
+SYFA_METTH       366   LKMFSVGRVF RRETI-TYKH LPEFHQVEGI VAGDEVNFRN LL--GILREF 
+SYFA_TREPA       414   GKYFGIARCF RHDQV-DATH LADFYQTEGI VLGTDVNVCT LL--GMLKIL 
+SYFA_BORBU       379   SRYFGVIRCF RYDQV-DATH GVDFYQTEGI VIEDGVSIKT LL--GLLEIF 
+1asz_B           248   ERVYEIGPVF RAENSnTHRH MTEFTGLDME MAFEEHYh-E VL--DTLSEL 
+1adj_A           102   VRLWMAGPMF RAERP-QKGR YRQFHQVNYE ALGSENPILD AE--AVVlly 
+1lyl_A           252   ERVFEINRNF RNEGI-SVRH NPEFTMMELY MAYADYHdli elteSLFRTL 
+                                                                 
+                       3444445777 7777707777 7777777777 7666666555 5500555443 
+ 
+1b70_A           156   A--------- ---------- ---------- --------QA LFGPDSKVRF 
+1pys_A           241   A--------- ---------- ---------- --------QA LFGPDSKVRF 
+SYFA_DEIRA       226   A--------- ---------- ---------- --------RG LYGASAKARF 
+SYFA_MYCBO       238   A--------- ---------- ---------- --------RA EFGPSARTRI 
+SYFA_COREF       237   A--------- ---------- ---------- --------RE LFGPETKTRM 
+SYFA_BIFLO       252   A--------- ---------- ---------- --------VA MFGPEAKTRL 
+SYFA_THETN       233   A--------- ---------- ---------- --------KK FFGEQTKTKF 
+SYFA_SYNY3       237   I--------- ---------- ---------- --------KQ MFGEALPIRF 
+SYFA_SYNEL       243   L--------- ---------- ---------- --------AE LFGD-VPIRF 
+SYFA_ARATH       383   F--------- ---------- ---------- --------SR -LGM-SKLRF 
+SYFA_HALN1       405   Y--------- ---------- ---------- --------SQ -FGI-HDLQF 
+SYFA_PYRAB       405   A--------- ---------- ---------- --------IE IAGA-KKVKF 
+SYFA_PYRAE       378   A--------- ---------- ---------- --------KA -LGM-TKVKF 
+SYFA_THEVO       389   Y--------- ---------- ---------- --------GK -LGF-EKIRL 
+SYFA_THEAC       395   Y--------- ---------- ---------- --------AK -LGF-NDIKL 
+SYFA_AERPE       394   A--------- ---------- ---------- --------SM -LG--LKLKF 
+SYFA_METJA       390   L--------- ---------- ---------- --------NR -LGF-EKVRF 
+SYFA_METAC       397   Y--------- ---------- ---------- --------HR -MGF-EEVRF 
+SYFA_SULTO       371   F--------- ---------- ---------- --------NG -IGI-KEIRF 
+SYFA_SULSO       373   F--------- ---------- ---------- --------YR -LGI-KEVKF 
+SYFA_METKA       424   Y--------- ---------- ---------- --------RR -MGF-EEVRF 
+SYFA_ARCFU       379   F--------- ---------- ---------- --------TK -MGF-EDVRF 
+SYFA_METTH       413   Y--------- ---------- ---------- --------RK -LGF--EVRF 
+SYFA_TREPA       461   A--------- ---------- ---------- --------TE IAGA-QEVRY 
+SYFA_BORBU       426   A--------- ---------- ---------- --------KE LAGA-TEIKY 
+1asz_B           295   Fvfifselpk rf-------- ---------- ---------- ---A-HEIEL 
+1adj_A           149   eclkelglrr lkvklssvgd pedrarynay lrevlsphRE ALSEDSKERL 
+1lyl_A           301   A--------- ---------- ---------- --------QE VLGT-TKVTY 
+                                                                 
+                       3000000000 0000000000 0000000000 0000000033 1333034555 
+ 
+1b70_A           169   QPVYFPFVEP GAQFAVWWP- ---------- ---------- ---------- 
+1pys_A           254   QPVYFPFVEP GAQFAVWWP- ---------- ---------- ---------- 
+SYFA_DEIRA       239   QPSYYPFVEP GADFAVYWE- ---------- ---------- ---------- 
+SYFA_MYCBO       251   RPHFFPFTEP SAEVDVWFA- ---------- ---------- ---------- 
+SYFA_COREF       250   RSNYFPFTEP SAEVDVWFP- ---------- ---------- ---------- 
+SYFA_BIFLO       265   RPSYFPFTEP SAELDLWFP- ---------- ---------- ---------- 
+SYFA_THETN       246   RPHFFPFTEP SAEMDVSCfa cggkgcrvc- ---------- ---------- 
+SYFA_SYNY3       250   RASYFPFTEP SAEVDVQWQ- ---------- ---------- ---------- 
+SYFA_SYNEL       255   RASYFPFTEP SAEVDVQWQ- ---------- ---------- ---------- 
+SYFA_ARATH       394   KPAYNPYTEP SMEIFSYHE- ---------- ---------- ---------- 
+SYFA_HALN1       416   KPTYNPYTEP SFELFGRHP- ---------- ---------- ---------- 
+SYFA_PYRAB       417   FPDYYPFTEP SVQLSAYHP- ---------- ---------- ---------- 
+SYFA_PYRAE       389   RPAYFPFTSP SVEVYAQHP- ---------- ---------- ---------- 
+SYFA_THEVO       400   VPSYYPYTEP SLDVVVEVD- ---------- ---------- ---------- 
+SYFA_THEAC       406   IPSYYPYTEP SLDVVVRVN- ---------- ---------- ---------- 
+SYFA_AERPE       404   KPAYFPFTEP SVEGYVKLP- ---------- ---------- ---------- 
+SYFA_METJA       401   RPAYFPFTEP SLEAEVYLE- ---------- ---------- ---------- 
+SYFA_METAC       408   RPGYFPYTEP SVEPEVYVD- ---------- ---------- ---------- 
+SYFA_SULTO       382   KPAYFPFTEP SVEVYGKIE- ---------- ---------- ---------- 
+SYFA_SULSO       384   KPAYFPFTEP SVEAYGYLE- ---------- ---------- ---------- 
+SYFA_METKA       435   RPAYFPYTVL SVEPEVYFE- ---------- ---------- ---------- 
+SYFA_ARCFU       390   RPGYFPYTEP SVEPEVYVE- ---------- ---------- ---------- 
+SYFA_METTH       423   RPAYFPYTYL STECEIYLP- ---------- ---------- ---------- 
+SYFA_TREPA       473   VGGYFPFTEP SIELHALHP- ---------- ---------- ---------- 
+SYFA_BORBU       438   VPAYFPFTEP SIEIHVKHP- ---------- ---------- ---------- 
+1asz_B           313   VRKQYPVEEF KLPKDGKMV- ---------- ---------- ---------- 
+1adj_A           199   EENPMRILDS KSERDqallk elgvrpmldf lgeearahlk everhlerls 
+1lyl_A           313   GEHVFDFGKP FEKLTMREA- ---------- ---------- ---------- 
+                                                                 
+                       5556666666 6665444330 0000000000 0000000000 0000000000 
+ 
+1b70_A           188   ---------- ---------- --------E- --GGKWLE-- ---------- 
+1pys_A           273   ---------- ---------- --------E- --GGKWLE-- ---------- 
+SYFA_DEIRA       258   ---------- ---------- --------NP RGESKWLE-- ---------- 
+SYFA_MYCBO       270   ---------- ---------- --------NK IGGADWVE-- ---------- 
+SYFA_COREF       269   ---------- ---------- --------NK KGGAGWIE-- ---------- 
+SYFA_BIFLO       284   ---------- ---------- --------DK KGGPGWLE-- ---------- 
+SYFA_THETN       275   ---------- ---------- ---------- -GYTGWIE-- ---------- 
+SYFA_SYNY3       269   ---------- ---------- --------G- --K--WLE-- ---------- 
+SYFA_SYNEL       274   ---------- ---------- --------G- --R--WLE-- ---------- 
+SYFA_ARATH       413   ---------- ---------- --------G- --LGKWVE-- ---------- 
+SYFA_HALN1       435   ---------- ---------- --------E- --TGELIE-- ---------- 
+SYFA_PYRAB       436   ---------- ---------- --------E- --LG-WVE-- ---------- 
+SYFA_PYRAE       408   ---------- ---------- --------K- --LG-WVE-- ---------- 
+SYFA_THEVO       419   ---------- ---------- --------G- --K--EME-- ---------- 
+SYFA_THEAC       425   ---------- ---------- --------G- --K--EVE-- ---------- 
+SYFA_AERPE       423   ---------- ---------- --------N- --GR-WLE-- ---------- 
+SYFA_METJA       420   ---------- ---------- --------G- --KG-WLE-- ---------- 
+SYFA_METAC       427   ---------- ---------- --------G- --LG-WVE-- ---------- 
+SYFA_SULTO       401   ---------- ---------- --------G- --LG-WVE-- ---------- 
+SYFA_SULSO       403   ---------- ---------- --------K- --LG-WVE-- ---------- 
+SYFA_METKA       454   ---------- ---------- --------E- --KGDWVE-- ---------- 
+SYFA_ARCFU       409   ---------- ---------- --------G- --LG-WVE-- ---------- 
+SYFA_METTH       442   ---------- ---------- --------E- --KKSWIE-- ---------- 
+SYFA_TREPA       492   ---------- ---------- --------A- --LG-WFE-- ---------- 
+SYFA_BORBU       457   ---------- ---------- --------V- --LG-WFE-- ---------- 
+1asz_B           332   ---------- ---------- --------R- --LT-YKEgi emlraAGKEI 
+1adj_A           249   vpyelepalv rgldyyvrta fevhheeiG- --A--QSA-- ---------- 
+1lyl_A           332   ---------- ---------- --------IK KYRPetdmad ldnfdAAKAL 
+                                                                 
+                       0000000000 0000000000 0000000030 0032145500 0000000000 
+ 
+1b70_A           195   ---------- -LGGAGM--- ---------- ---------- ---------- 
+1pys_A           280   ---------- -LGGAGM--- ---------- ---------- ---------- 
+SYFA_DEIRA       268   ---------- -LGGCGM--- ---------- ---------- ---------- 
+SYFA_MYCBO       280   ---------- -WGGCGM--- ---------- ---------- ---------- 
+SYFA_COREF       279   ---------- -WGGCGM--- ---------- ---------- ---------- 
+SYFA_BIFLO       294   ---------- -WGGCGM--- ---------- ---------- ---------- 
+SYFA_THETN       282   ---------- -ILGAGM--- ---------- ---------- ---------- 
+SYFA_SYNY3       274   ---------- -VMGCGM--- ---------- ---------- ---------- 
+SYFA_SYNEL       279   ---------- -VMGCGM--- ---------- ---------- ---------- 
+SYFA_ARATH       420   ---------- -IGNSGM--- ---------- ---------- ---------- 
+SYFA_HALN1       442   ---------- -IGNSGI--- ---------- ---------- ---------- 
+SYFA_PYRAB       442   ---------- -FGGAGV--- ---------- ---------- ---------- 
+SYFA_PYRAE       414   ---------- -FGGAGI--- ---------- ---------- ---------- 
+SYFA_THEVO       424   ---------- -LGGSGI--- ---------- ---------- ---------- 
+SYFA_THEAC       430   ---------- -LGGSGL--- ---------- ---------- ---------- 
+SYFA_AERPE       429   ---------- -LFGAGM--- ---------- ---------- ---------- 
+SYFA_METJA       426   ---------- -ILGAGI--- ---------- ---------- ---------- 
+SYFA_METAC       433   ---------- -LGGAGV--- ---------- ---------- ---------- 
+SYFA_SULTO       407   ---------- -MAGAGL--- ---------- ---------- ---------- 
+SYFA_SULSO       409   ---------- -MCGAGL--- ---------- ---------- ---------- 
+SYFA_METKA       461   ---------- -LGGAGI--- ---------- ---------- ---------- 
+SYFA_ARCFU       415   ---------- -LGGAGV--- ---------- ---------- ---------- 
+SYFA_METTH       449   ---------- -LGGAGM--- ---------- ---------- ---------- 
+SYFA_TREPA       498   ---------- -LGGAGL--- ---------- ---------- ---------- 
+SYFA_BORBU       463   ---------- -LGGSGI--- ---------- ---------- ---------- 
+1asz_B           350   GDFEDLSTEN EKFLGKLVRD KYDtdfyi-- -----LDKFP LEIRPfytmp 
+1adj_A           282   ---------- -LGGGGR--- ---------- ---------- ---------- 
+1lyl_A           354   AESIGITVEK SWGLGRIVTE IFDevaeahl iqptfITEYP AEVSPlarr- 
+                                                                 
+                       0000000000 0555555000 0000000000 0000000000 0000000000 
+ 
+1b70_A           201   --VHPKVFQA VDAYRERLGL PPAY------ ---------- ---------- 
+1pys_A           286   --VHPKVFQA VDAYRERLGL PPAY------ ---------- ---------- 
+SYFA_DEIRA       274   --VHPNVFKA VDDLREAAGK DRVY------ ---------- ---------- 
+SYFA_MYCBO       286   --VHPNVLRA TGIDP----- ---------- ---------- ---------- 
+SYFA_COREF       285   --VNPNVLRA VGIDP----- ---------- ---------- ---------- 
+SYFA_BIFLO       300   --VNPNVLKS AGIDP----- ---------- ---------- ---------- 
+SYFA_THETN       288   --VHPNVLRM SGIDP----- ---------- ---------- ---------- 
+SYFA_SYNY3       280   --VDPNVMEA VGYDP----- ---------- ---------- ---------- 
+SYFA_SYNEL       285   --VDPAVLKN VGYDP----- ---------- ---------- ---------- 
+SYFA_ARATH       426   --FRPEMLLP MGL-P----- ---------- ---------- ---------- 
+SYFA_HALN1       448   --FRPEMLDP LDVDG----- ---------- ---------- ---------- 
+SYFA_PYRAB       448   --FREEMTEA LGIKV----- ---------- ---------- ---------- 
+SYFA_PYRAE       420   --FRPEVTEP LGVKK----- ---------- ---------- ---------- 
+SYFA_THEVO       430   --FRPEVGKI LGLKA----- ---------- ---------- ---------- 
+SYFA_THEAC       436   --FRPEVLKI LGLKA----- ---------- ---------- ---------- 
+SYFA_AERPE       435   --FRPEVLEA VGVDY----- ---------- ---------- ---------- 
+SYFA_METJA       432   --FRPEVLEP IGIEK----- ---------- ---------- ---------- 
+SYFA_METAC       439   --FRKEVTEP FGIKE----- ---------- ---------- ---------- 
+SYFA_SULTO       413   --LRPEILEA VEISS----- ---------- ---------- ---------- 
+SYFA_SULSO       415   --LRPEILSS VGIDS----- ---------- ---------- ---------- 
+SYFA_METKA       467   --FRPEVLQP LGFDP----- ---------- ---------- ---------- 
+SYFA_ARCFU       421   --FRKEVTEP LGIRG----- ---------- ---------- ---------- 
+SYFA_METTH       455   --FRPEVLEP LGVET----- ---------- ---------- ---------- 
+SYFA_TREPA       504   --LRPEVTDP LGVHV----- ---------- ---------- ---------- 
+SYFA_BORBU       469   --FRPEVTKP LGIDL----- ---------- ---------- ---------- 
+1asz_B           393   DPANPKYSNS YDFFMRGEEI LSGAQRIHDH ALLQERMKah glspedpglk 
+1adj_A           288   --YDGLSELL GGPRV----- ---------- ---------- ---------- 
+1lyl_A           403   NDVNPEITDR FEFFIGGREI GNGFSELNDA EDQAERFQeq vnakaagdde 
+                                                                 
+                       0055555444 4443200000 0000000000 0000000000 0000000000 
+ 
+1b70_A           223   ---------- -------RGV TG--FAFGLG VERLAMLRYG I--------- 
+1pys_A           308   ---------- -------RGV TG--FAFGLG VERLAMLRYG I--------- 
+SYFA_DEIRA       296   ---------- -------EGK TG--FAFGLG LERIAMLKYG I--------- 
+SYFA_MYCBO       299   ---------- -------DLY SG--FAFGMG LERTLQFRNG I--------- 
+SYFA_COREF       298   ---------- -------EEY SG--FAFGMG IERTLQFRNG L--------- 
+SYFA_BIFLO       313   ---------- -------DVY TG--FAFGVG MERTLLLRSD I--------- 
+SYFA_THETN       301   ---------- -------EKY TG--FAFGLG IDRIAMLKYG I--------- 
+SYFA_SYNY3       293   ---------- -------EVY TG--FAAGFG VERFAMVLHQ I--------- 
+SYFA_SYNEL       298   ---------- -------EVY TG--FAAGFG VERFAMVLHQ I--------- 
+SYFA_ARATH       438   ---------- -------EDV RV--IAWGLS LERPTMILYG I--------- 
+SYFA_HALN1       461   ---------- -------D-- -V--MAWGLA LERLLMLMTG F--------- 
+SYFA_PYRAB       461   ---------- -------P-- -V--IAWGIG IDRLAMFKLG I--------- 
+SYFA_PYRAE       433   ---------- -------S-- RV--LAWGWG LDRIAMILLG I--------- 
+SYFA_THEVO       443   ---------- -------P-- -V--MAWGMG LERLAMLYYG L--------- 
+SYFA_THEAC       449   ---------- -------P-- -V--MAWGMG LERLAMMYYG L--------- 
+SYFA_AERPE       448   ---------- -------P-- -V--GAWGFG IERLAMAFYG V--------- 
+SYFA_METJA       445   ---------- -------P-- -V--LAWGIG FSRLAMLRYG L--------- 
+SYFA_METAC       452   ---------- -------P-- -V--LAWGLG VSRLAMLKLG L--------- 
+SYFA_SULTO       426   ---------- -------S-- -A--GAWGLG IDRLAMLLLG L--------- 
+SYFA_SULSO       428   ---------- -------T-- -A--GAWGIG IERLAMSFLN I--------- 
+SYFA_METKA       480   ---------- -------D-- -VvcLAWGLG VERLAMLKLG I--------- 
+SYFA_ARCFU       434   ---------- -------K-- -V--LAWGLG IGRLAMLKIG L--------- 
+SYFA_METTH       468   ---------- -------P-- -V--AAFGLG IERLAMIRFD I--------- 
+SYFA_TREPA       517   ---------- -------P-- -V--MAWGLG VDRMALLALG I--------- 
+SYFA_BORBU       482   ---------- -------P-- -V--IAWGIG IDRMALMHLG L--------- 
+1asz_B           443   ------DYCD GFSYGCPP-- -H--AGGGIG LERVVMFYLD L--------- 
+1adj_A           301   ---------- -------P-- -G--VGFAFG VERVALALea egfglpeekg 
+1lyl_A           453   amfydeDYVT ALEYGLPP-- -T--AGLGIG IDRMIMLFTN S--------- 
+                                                                 
+                       0000000000 0000000300 1400466666 6666666555 5000000000 
+ 
+1b70_A           245   ---------- ---------- ----PDIRYF FGG--RLKFL EQFKGVL--- 
+1pys_A           330   ---------- ---------- ----PDIRYF FGG--RLKFL EQFKGVL--- 
+SYFA_DEIRA       318   ---------- ---------- ----PDIRYF YAN--DPRVI GQFRGELg-- 
+SYFA_MYCBO       321   ---------- ---------- ----PDMRDM VEG--DVRFS LPFGVga--- 
+SYFA_COREF       320   ---------- ---------- ----SDMRDM VEG--DVRFT LPFGIqa--- 
+SYFA_BIFLO       335   ---------- ---------- ----NDMHDL VEG--DVRFA EQFvmge--- 
+SYFA_THETN       323   ---------- ---------- ----EDLRLL FEN--DMRFI EQF------- 
+SYFA_SYNY3       315   ---------- ---------- ----DDIRRL YNS--DLRFL RQF------- 
+SYFA_SYNEL       320   ---------- ---------- ----DDIRRF YTS--DLRFL RQF------- 
+SYFA_ARATH       460   ---------- ---------- ----DNIRDL FGH--KVDLD LIKRNPICRI 
+SYFA_HALN1       480   ---------- ---------- ----EDIRDV HGTlcDVGFL RNAEVVY--- 
+SYFA_PYRAB       480   ---------- ---------- ----DDIRYL FSY--DLRWL REAKLIW--- 
+SYFA_PYRAE       453   ---------- ---------- ----DDIREL FTK--DLEKL KEYYARWary 
+SYFA_THEVO       462   ---------- ---------- ----TDVRDL YNT--DFSFL EGYKIKy--- 
+SYFA_THEAC       468   ---------- ---------- ----TDVRDL YNT--DFEFL SSFRFNISRN 
+SYFA_AERPE       467   ---------- ---------- ----SDIRKL YTR--NVDEV REMRVRWl-- 
+SYFA_METJA       464   ---------- ---------- ----TDIRDL HKN--DLDWL KRv------- 
+SYFA_METAC       471   ---------- ---------- ----KDLRLL YQS--DIDWL RKSEV--CRI 
+SYFA_SULTO       445   ---------- ---------- ----KDIRLL YAT--DIEYL RNRKVEInad 
+SYFA_SULSO       447   ---------- ---------- ----SDIRLL YSN--NIEYI RDTKVKIE-- 
+SYFA_METKA       501   ---------- ---------- ----DDIRDL YMS--DLKTL LELPT--ARa 
+SYFA_ARCFU       453   ---------- ---------- ----KDLRRL YLP--DLGWL RSMPV--ARk 
+SYFA_METTH       487   ---------- ---------- ----KDIRML YQS--DLGWL RGLPVtgdle 
+SYFA_TREPA       536   ---------- ---------- ----SDVREL FSP--DIESV RLRv------ 
+SYFA_BORBU       501   ---------- ---------- ----NDLRDL FTY--DIGDV ILRRGKIDAK 
+1asz_B           473   ---------- ---------- ----KNIRRA SLF--PRDPK RLRp------ 
+1adj_A           329   pdlyliplte eavaeafyla ealrPRLRAE YAL--APRkp akgleealkr 
+1lyl_A           489   ---------- ---------- ----HTIRDV ILF--Pamrp qk-------- 
+                                                                 
+                       0000000000 0000000000 0000555555 4440044333 2210000000 
+ 
+1b70_A           266   ---------- ---------- ---------- ---------- ----- 
+1pys_A           351   ---------- ---------- ---------- ---------- ----- 
+SYFA_DEIRA       340   ---------- ---------- ---------- ---------- ----- 
+SYFA_MYCBO       342   ---------- ---------- ---------- ---------- ----- 
+SYFA_COREF       341   ---------- ---------- ---------- ---------- ----- 
+SYFA_BIFLO       356   ---------- ---------- ---------- ---------- ----- 
+SYFA_THETN       340   ---------- ---------- ---------- ---------- ----- 
+SYFA_SYNY3       332   ---------- ---------- ---------- ---------- ----- 
+SYFA_SYNEL       337   ---------- ---------- ---------- ---------- ----- 
+SYFA_ARATH       484   gi-------- ---------- ---------- ---------- ----- 
+SYFA_HALN1       503   ---------- ---------- ---------- ---------- ----- 
+SYFA_PYRAB       501   ---------- ---------- ---------- ---------- ----- 
+SYFA_PYRAE       477   kasvgavgtl ftl------- ---------- ---------- ----- 
+SYFA_THEVO       483   ---------- ---------- ---------- ---------- ----- 
+SYFA_THEAC       492   GRNnygka-- ---------- ---------- ---------- ----- 
+SYFA_AERPE       489   ---------- ---------- ---------- ---------- ----- 
+SYFA_METJA       481   ---------- ---------- ---------- ---------- ----- 
+SYFA_METAC       493   ---------- ---------- ---------- ---------- ----- 
+SYFA_SULTO       469   n--------- ---------- ---------- ---------- ----- 
+SYFA_SULSO       469   ---------- ---------- ---------- ---------- ----- 
+SYFA_METKA       523   rr-------- ---------- ---------- ---------- ----- 
+SYFA_ARCFU       475   ---------- ---------- ---------- ---------- ----- 
+SYFA_METTH       511   l--------- ---------- ---------- ---------- ----- 
+SYFA_TREPA       554   ---------- ---------- ---------- ---------- ----- 
+SYFA_BORBU       525   VRNl------ ---------- ---------- ---------- ----- 
+1asz_B           491   ---------- ---------- ---------- ---------- ----- 
+1adj_A           377   gaafagflge delragevtl krlatgeqvr lsreevpgyl lqalg 
+1lyl_A           505   ---------- ---------- ---------- ---------- ----- 
+                                                            
+                       0000000000 0000000000 0000000000 0000000000 00000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((1b70_A      :0.0022791pys_A      :0.002279):0.001840SYFA_DEIRA  :0.004119):0.002285(SYFA_THETN  :0.004902(SYFA_SYNY3  :0.002891SYFA_SYNEL  :0.002891):0.002011):0.001502):0.000424((SYFA_MYCBO  :0.003371SYFA_COREF  :0.003371):0.000760SYFA_BIFLO  :0.004131):0.002696):0.008136((((SYFA_ARATH  :0.007410(SYFA_THEVO  :0.002312SYFA_THEAC  :0.002312):0.005098):0.000232((SYFA_PYRAB  :0.006358(SYFA_METJA  :0.004887((SYFA_METAC  :0.002959SYFA_ARCFU  :0.002959):0.001302(SYFA_METKA  :0.003613SYFA_METTH  :0.003613):0.000648):0.000626):0.001471):0.000323(SYFA_PYRAE  :0.005439(SYFA_AERPE  :0.004558(SYFA_SULTO  :0.002789SYFA_SULSO  :0.002789):0.001769):0.000881):0.001241):0.000962):0.000839(SYFA_TREPA  :0.003480SYFA_BORBU  :0.003480):0.005001):0.000520SYFA_HALN1  :0.009000):0.005964):0.126900(1asz_B      :0.0221841lyl_A      :0.022184):0.119680):0.0424341adj_A      :0.184298);
+ 
+ 

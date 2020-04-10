@@ -1,0 +1,91 @@
+1hav_A             1   stleIAGlvr k--NLVQFGV GEKNGsvrwv mnalgvkddw llvpshaykf 
+1agj_A             1   ---------- ---------- ---------- ---------- ---------- 
+5ptp_              1   ----IVGGyt cgaNTVPYQV SLNSGY---- ---------- ---------- 
+2sga_              1   ----IAGGe- ---------- AITTGG---- ---------- ---------- 
+1svp_A             1   a--------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1hav_A            49   EKDYEMMEFY FNRGGTYYSI SAGNVviqsl dvgfqdvvlm kvpt------ 
+1agj_A             1   EVSAEEIKKH EEKWNKYYGV NAFNLpkelf skvdekdrqk ypyntignvf 
+5ptp_             23   ---------- ---------- ---------- ---------- ---------- 
+2sga_             12   ---------- ---------- ---------- ---------- ---------- 
+1svp_A             2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1hav_A            93   ---------- -IPKFRDITQ HFIKKgdvpr alnrlatlvt tVNGTPMLIS 
+1agj_A            51   vkgqtsatgv lIGKNTVLTN RHIAKf---- ---------- -ANGDPSKVS 
+5ptp_             23   ---------- ---------- HF-------- ---------- ---------- 
+2sga_             12   ---------- ---------- SR-------- ---------- ---------- 
+1svp_A             2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1hav_A           132   EGP------- ---------- ---------- --------LK MEEKATYVHK 
+1agj_A            86   FRPsintddn gntetpygey evkeilqepf gagvdlalIR LKPDQngvsl 
+5ptp_             25   ---------- ---------- ---------- ---------- ---------- 
+2sga_             14   ---------- ---------- ---------- ---------- ---------- 
+1svp_A             2   ---------- ---------- ---------- --------LK LEADRLFDVK 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000011 1111111111 
+ 
+1hav_A           147   K--------- -----NDGTT VDL------- ---------- ---------- 
+1agj_A           136   gdkispakig tsndlKDGDK LELigypf-- ---------- -DH------K 
+5ptp_             25   ---------- ---------- ---------- ---------- ---------- 
+2sga_             14   ---------- ---------- ---------- ---------- ---------- 
+1svp_A            14   N--------- -----EDGDV Ighalamegk vmkplhvkgt iDHpvlsklK 
+                                                                 
+                       1000000000 0000011111 1000000000 0000000000 0000000002 
+ 
+1hav_A           156   ---------- --TVDQAWRG KGEGLPGMCG GALVSSNQSI qnaiL---GI 
+1agj_A           167   VNQMHRSEIE LTTLSRGLRY YGFTVPGNSG SGIFNSNGEL ----V---GI 
+5ptp_             25   ---------- ---------- --------CG GSLINSQWVV SAAHCYKSGI 
+2sga_             14   ---------- ---------- --------CS LGFNVVAHAL TAGHCTNISA 
+1svp_A            50   FTKSSAYDME FAQLPVNMRS EAFTYTSEHP EGFYNw---- ---------- 
+                                                                 
+                       2222222222 2255555555 5555555599 9999963333 0000000000 
+ 
+1hav_A           191   HVAGGNSILV AKl------- ---------- ---------- ---------- 
+1agj_A           210   HSS------- ---------- ---------- ---------- ---------- 
+5ptp_             47   QVLGEDNINV VEgneqfisa sksivhpsyN SNTLNNDIML IKLKSAASLN 
+2sga_             36   WSIGtr---- ---------- ---------T GTSFNNDYGI IRHSNPAAAD 
+1svp_A            86   HHG------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000003 3333333333 3333333333 
+ 
+1hav_A           204   ---------- ---------- ---------- ---------- ---------- 
+1agj_A           213   ---------- ---------K VSHLDREH-- ---------- QINYGVGIGN 
+5ptp_             97   SRVASISLPT SCASA----- ---------- --GTQCLISG WGNTKSSGTS 
+2sga_             63   GRVYLYQDIT TAGNAfvgqA VQRSGsttgl rsGSVTGLNA TVNYGSSGIV 
+1svp_A            89   ---------- ---------A VQYSGGRF-- ---------- TIPRGVGGRG 
+                                                                 
+                       3333333333 3333300000 0000000000 0000000000 0000000000 
+ 
+1hav_A           204   ---------- ---------- -----VTQEM Fqnidkki-- ---------- 
+1agj_A           232   YVKR------ IINEKNe--- ---------- ---------- ---------- 
+5ptp_            130   Ypdvlkclka PILSDSscks aypgqITSNM FcaGLEGGDS CQGDXGGPVV 
+2sga_            113   Y--------- ---------- ---------- ---GMIQTNV CAGDSGGSLF 
+1svp_A           108   DAGR------ PIMDNS---- ---------- ---GRVVAIV LGGADEGTRT 
+                                                                 
+                       0000000000 0000000000 0000000000 0007777777 7777777777 
+ 
+1hav_A           217   ---------- ---------- ---------- ---------- 
+1agj_A           243   ---------- ---------- ---------- ---------- 
+5ptp_            180   CSGKLQGIVS WGSGcaknkp gvytkvcnyv swikqtiasn 
+2sga_            131   AGSTALGLTS GGSGNCRTGG Ttfyqpvtea laygatvl-- 
+1svp_A           135   ALSVVTWNSK GKTIKTTPEG Teewsa---- ---------- 
+                                                      
+                       7777777777 7777000000 0000000000 0000000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1hav_A      :0.2061831agj_A      :0.206183):0.1219341svp_A      :0.328117):0.244116(5ptp_       :0.0840372sga_       :0.084037):0.488195);
+ 
+ 

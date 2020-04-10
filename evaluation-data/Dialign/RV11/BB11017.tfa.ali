@@ -1,0 +1,60 @@
+1qi7_A             1   vtSITLDLVN PTAGQYSSFV DKIRNNVKDP NLKY--GGTD IAVIgpPSKE 
+1dm0_A             1   k---EFTLDF STAKTYVDSL NVIRSAIGTP lqtissGGTS LLMIddnlfa 
+1lln_A             1   --NIVFDVEN ATPETYSNFL TSLREAVXDX KLTC--HGMI MATTL-TEQP 
+1mrj_              1   --DVSFRLSG ATSSSYGVFI SNLRKALPNE RKLYdip--L LRSSL-PGSQ 
+                                                                 
+                       0022233333 3333333333 3333333111 1111001111 1110000000 
+ 
+1qi7_A            49   KFLRINFQSs r--GTVSLGL KRDNLYVVAY LAMDNTNVNR AYYFKSEITS 
+1dm0_A            48   vdvrgidpee grfNNLRLIV ERNNLYVTGF VNRTNNVFYR FADFSH---- 
+1lln_A            46   XYVLVDLx-F GS-GTFTLAI RRGNLYLEGY SDIYNGKCRY RIFXDSESDA 
+1mrj_             46   RYALIHLTNY AD-ETISVAI DVTNVYIMGY RAGDTSYFFN EASATE---- 
+                                                                 
+                       0000000000 0002333444 4444444444 2222222222 2222211111 
+ 
+1qi7_A            97   AELTALFPEA TTANQ-KALE YTEDYQSIEK NAqitqgdKS RKELGLGIDL 
+1dm0_A            94   ---VTf---- -PGTtaVTLS GDSSYTTLQR VAG-----IS RTGMQINRHS 
+1lln_A            94   QETvcpgdKS KPGTQ-NNIP YEXSYKGMES KGG------A RTKLGLGxit 
+1mrj_             91   ---AAKYVFK DAMRK-VTLP YSGNYERLQT AAG-----KI RENIPLGLPA 
+                                                                 
+                       1110000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1qi7_A           146   Lltfmeavnk kar--VV--- KNEARFLLIA IQMTAEVARF RYIQNLVTKN 
+1dm0_A           131   LTTSYLDLMS HsgtsLT--- QSVARAMLRF VTVTAEALRF RQIQRGFRTT 
+1lln_A           137   lksrmgxiyg kdatdqkqyq KNEAEFLLIA VQMVTEASRF XYIENXVXAK 
+1mrj_            132   LDSAITTLFY Yna------- NSAASALMVL IQSTSEAARY KFIEQQIGKR 
+                                                                 
+                       0000000000 0000011000 5666666688 8888888888 8888833333 
+ 
+1qi7_A           191   FP--NKFDSD NKVIQFEVSW RKISTAIYGD AKNGvfnkdy dfgfgkvrqv 
+1dm0_A           178   LD--SYVMTA ed-VDLTLNW GRLSSVLpdy hgqdsvrvgr isfgsina-- 
+1lln_A           187   FDdaNGYQPD PXAISLEKNW DSVSXVIAKV GTSGdstvtl pgdlxd---- 
+1mrj_            175   VD--KTFLPS LAIISLENSW SALSKQIQIA STNNgqfesp vvlinaqnqr 
+                                                                 
+                       3300333333 2222222222 0000000000 0000000000 0000000000 
+ 
+1qi7_A           239   kdlqmgllmy lgkpk----- ---------- ---------- ---------- 
+1dm0_A           223   ---------- ILGSVALILN cfpsmcpadg rvrgitHNKI LWDSSTLGAI 
+1lln_A           233   ---------- ---------- ---------- ------ENNK PWTTATMNDL 
+1mrj_            223   vtitnvdagv VTSNIALLLN rnnma----- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1qi7_A           254   -- 
+1dm0_A           263   lm 
+1lln_A           247   k- 
+1mrj_            248   -- 
+             
+                       00 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1qi7_A      :0.0290951lln_A      :0.029095):0.0268941mrj_       :0.055989):0.0461281dm0_A      :0.102117);
+ 
+ 

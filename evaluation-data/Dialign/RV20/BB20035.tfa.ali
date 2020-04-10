@@ -1,0 +1,1151 @@
+1ndh_              1   p--------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         1   p--------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU         1   M-AASVEYNR QVSAHPwptn aqpkaaf--- ---------- ---------- 
+NIA3_MAIZE         1   mstcveqpth sasldptaaq rlpypdlpvd ilrr------ --SSVRG--- 
+NIA1_HORVU         1   M-AASVEPRQ pfgrldapat aptarapgs- ---NGIR-RR ADSPVRG--- 
+NIA_SPIOL          1   M-AASVDRQY HPAPM----- ---SGVVRT- ---PFSNHHR SDSPVRNg-- 
+NIA1_PHAVU         1   M-AASVEHRP FTSHQHGVVR SFKS------ ---------Y PDVPR----- 
+NIA1_SOYBN         1   M-AASVDNRQ YGTHINAVVR ACGP------ ---------D FNTPL----- 
+NIA_LOTJA          1   M-AASVDNRQ YST----LNG VVRS------ -FTPnntylh dpkpsf---- 
+NIA_BETVE          1   M-AASVENRR FTHHEPAVNG LVRT------ -FKPVPNSHR SDSPDLG--- 
+NIA_CUCMA          1   M-AASVDNRQ YGPLQPPLSG VVRS------ -FKNGPN-HR ADSPVRG--- 
+NIA_CICIN          1   M-AASVENRQ FRH----EPG LSAAGVVRS- ---FSPNHRR SDSPIRN--- 
+NIA1_TOBAC         1   M-AASVENRQ FSHIEAGLSR SFKP------ ---------R SDSPVRG--- 
+NIA1_ARATH         1   M-ATSVDNRH YPT----MNG VAHA------ -FKPPLV-PS PRSFDR---- 
+NIA2_ARATH         1   M-AASVDNRQ YARLEPGLNG VVRS------ -YKPPVP-GR SDSPKA---- 
+NIA_VOLCA          1   mtipel---- ------PLGG IVsqavelga pYEPPLT-PD HPEWKV---- 
+NIA_PHYIN          1   m---TRLRSA AS-------- ---------- ---------- ---------- 
+NIA_LEPMC          1   msvtt--QQP AVVPL----- ---PSSPRL- ---PIESHag prst------ 
+NIA_ASPNG          1   matvtevlte ---------- ---------- ---------- ---------- 
+NIA_EMENI          1   m--------- ---------- ---------- ---------- ---------- 
+NIA_FUSOX          1   m--------- ---------- ---------- ---------- ---------- 
+NIA_BEABA          1   mavkSQLGVT YT-------- ---------- ---------- ---------- 
+NIA_NEUCR          1   meAPALEQRQ SLH----DSS ERQQRFTSL- ---ILPNgvg cssreepqgs 
+NIA_PICAN          1   mdsivtevty glei------ ---------- ---------- ---------- 
+NIA_USTMA          1   m--------- ---------- ---------- ---------- ---------- 
+YMM5_YEAST         1   mSK------- ---------- ---------- --EDIEGTNI LDEPVHG--- 
+YMI7_YEAST         1   msivetcisf vS-------- ---------- ---------- -----TN--- 
+NC5R_YEAST         1   mykysyy--- ---------- ---------- ---------- ---------- 
+MCR1_YEAST         1   mfsrlsr--- -S-------- ---------- ---------- -----HS--- 
+1fnc_              1   hSK------- ---------- ---------- --KMEEGITV nkf------- 
+2pia_              1   tt-------- ---------- ---------- ---------- ---------- 
+1fdr_              1   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             1   snhqva---- ---------- ---------- ---------- ---------- 
+1qfj_A             1   ttlsc----- ---------- ---------- ---------- ---------- 
+1ep1_B             1   sq-------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU        27   ---------- ---------- ---------- ---------- -DLFSS---S 
+NIA3_MAIZE        40   ---------- ---------- ---------- -------SGF vaaalvssa- 
+NIA1_HORVU        42   ---------- ---------- ---------- -------CGF PSLISP---P 
+NIA_SPIOL         36   ---------- ---------- ---------- -----YTFSN PPS------- 
+NIA1_PHAVU        30   ---------- ---------- ---------- ---------- ---------P 
+NIA1_SOYBN        30   ---------- ---------- ---------- ---------- ---------P 
+NIA_LOTJA         35   ---------- ---------- ---------- ---------- ---------- 
+NIA_BETVE         40   ---------- ---------- ---------- -------RQI PSS------- 
+NIA_CUCMA         39   ---------- ---------- ---------- -------CNF PNSnvdy--- 
+NIA_CICIN         39   ---------- ---------- ---------- -------CNY PAAarefmtP 
+NIA1_TOBAC        32   ---------- ---------- ---------- -------CNF Ppp------- 
+NIA1_ARATH        34   -------HRH QNQTLDVILT ETKIVKETEV ITTVVDSYD- ---------- 
+NIA2_ARATH        38   -------HQN QTTNQTVFLK PAKVHDDD-- --------E- ---------- 
+NIA_VOLCA         36   -------H-- ---------- ---------- ---------- ---------- 
+NIA_PHYIN         10   ---------- ---------- ---------- ------TITN RST------- 
+NIA_LEPMC         31   ---------- ---------- ---------- --------QL PPS------- 
+NIA_ASPNG         11   ---------- ---------- ---------- ---------- ---------- 
+NIA_EMENI          2   ---------- --STTVTQVR TGSIPK---- ---------- ---------- 
+NIA_FUSOX          2   ---------- ETSTTTTLLQ QERIPENSEP ISTHIHTHSL PPT------- 
+NIA_BEABA         13   ---------- ---------- ---------- ------TKTF PPS------- 
+NIA_NEUCR         43   ggllvphNDN DIDNDLASTR TASPTTTD-- --------F- ---------- 
+NIA_PICAN         15   ---------- ---------- ---------- ---------- ---------- 
+NIA_USTMA          2   ---------- ---------- ---------- --------SY PPS------- 
+YMM5_YEAST        19   ---------- ---------- ---------- -------IYI PAALFVV--- 
+YMI7_YEAST        15   ---------- ---------- ---------- -------PFY PFCTGLL--- 
+NC5R_YEAST         8   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        11   ---------- ---------- ---------- -------KAL PIALGTV--- 
+1fnc_             15   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              1   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             7   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU        33   GGGRR----- ---------- ---------- ---------- ----RSGADS 
+NIA3_MAIZE        52   ---------- ---------- ---------- ---------- ----RKADDD 
+NIA1_HORVU        52   RKGPV----- ---------- ---------- ---------- ----AEEEED 
+NIA_SPIOL         44   ---SNGVVKP gekiklvdNN SNSNNGSNNN NNRY------ ----D--SDS 
+NIA1_PHAVU        31   KKLPL----- ---------- ---------- ---------- ----PQPLSD 
+NIA1_SOYBN        31   SDFDL----- ---------- ---------- ---------- ----D--SSS 
+NIA_LOTJA         35   ---------- ---------- ------PAVN LDLD------ ----A--SSS 
+NIA_BETVE         46   ---PKKQVAT G--------- ---------- ---------- ---------E 
+NIA_CUCMA         49   ---------- ---------- ---------N NNRplkssvk iqeaAAEEME 
+NIA_CICIN         52   KKLPPETY-- ---------- ---------- ---------- ---------- 
+NIA1_TOBAC        38   ---------- --------NS TNFQKKPNST IFLD------ ----Y--SSS 
+NIA1_ARATH        66   ---DS----- ---------- ---------- ---------- ----S--SDD 
+NIA2_ARATH        60   ---DV----- ---------- ---------- ---------- ----S--SED 
+NIA_VOLCA         37   ---------- ---------- ---------- ---------- ---------- 
+NIA_PHYIN         17   ---PALALTA S--------- ---------- ---------- ---------H 
+NIA_LEPMC         36   ---PPETV-- ---------- ---------- ---------- ---------- 
+NIA_ASPNG         11   ---------- ---------- ---------- ---------- ---------- 
+NIA_EMENI         16   ---------- ---------- ---------- ---------- ---------- 
+NIA_FUSOX         35   ---PPGTAKP S--------- ---------- ---------- ---------R 
+NIA_BEABA         20   ---PPRTVGN S--------- ---------- ---------- ---------H 
+NIA_NEUCR         72   ---SS----- ---------- ---------- ---------- ----S--SSD 
+NIA_PICAN         15   ---------- ---------- ---------- ---------- ---------- 
+NIA_USTMA          7   ---QPRKA-- ---------- ---------- ---------- ---------- 
+YMM5_YEAST        29   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        25   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST         8   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        21   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             15   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              1   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             7   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU        44   DSD------- ---------- ------DEDS VPPDWR---- ---------- 
+NIA3_MAIZE        58   ARH------- ---------- ------DDDD PSGDRH---- ---------- 
+NIA1_HORVU        63   DDD------- ---------- ------EDDE GHEDWR---- ---------- 
+NIA_SPIOL         79   EED------- ---------- ------DDEN EMNVWN---- ---------- 
+NIA1_PHAVU        42   STN------- ---------- ------DNDE EAAVWK---- ---------- 
+NIA1_SOYBN        40   DDE------- ---------- ------DQND DASFLK---- ---------- 
+NIA_LOTJA         47   DDD------- ---------- ------DEKD DASILK---- ---------- 
+NIA_BETVE         55   DSS------- ---------- ------SEDE NENDYK---- ---------- 
+NIA_CUCMA         70   DSC------- ---------- ------SEDE NENEFR---- ---------- 
+NIA_CICIN         60   DTS------- ---------- ------DDEE DEADYR---- ---------- 
+NIA1_TOBAC        58   EDD------- ---------- ------DDDD EKNEYL---- ---------- 
+NIA1_ARATH        72   EDE------- ---------- ------SHNR NVPYYK---- ---------- 
+NIA2_ARATH        66   ENE------- ---------- ------THNS NAVYYK---- ---------- 
+NIA_VOLCA         37   ---------- ---------- ---------- ---------- ---------- 
+NIA_PHYIN         26   AGShpavivP IQPLLLTLER RPSCPHRVSY PEIEayrgi- ---------- 
+NIA_LEPMC         41   NGD------- ---------- ------D--- ---------- --------PK 
+NIA_ASPNG         11   ---------P FTAQGVTLKS GPIKVHQEEL PAVELS---- ---------- 
+NIA_EMENI         16   ---------- ------TLKT SQIRVEEQEI TELDTA---- ---------- 
+NIA_FUSOX         44   IGS------- ---------- ------FHDL QELSSVESpr ldh-----IK 
+NIA_BEABA         29   AGS------- ---------- ------DDER DEVDATPTtp pveklgqlLK 
+NIA_NEUCR         78   DNS------- ---------- ------TTLE TSVNYshssn tntntscpPS 
+NIA_PICAN         15   ---------- ---------- ---------K KIKDIT---- ---------- 
+NIA_USTMA         12   ---------- ---------- ---------- ---------- ---------- 
+YMM5_YEAST        29   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        25   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST         8   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        21   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             15   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              1   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             7   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000010000 0000000000 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU        57   ---------S LYSPRL--DV EPSVKDPRDE ATSDAWVKRH PALVRLTGKH 
+NIA3_MAIZE        71   ---------E TYGSHylanl gV-EQSVRDE GTVDAWVESS QSLIRLTGKH 
+NIA1_HORVU        76   ---------E AYGSHLqlEV EPSTRDPRDE GTADAWIERN PSLIRLTGKH 
+NIA_SPIOL         92   ---------E MIKKGNS-EL EPSSVDSRDE GTADQWIERN PSMIRLTGKH 
+NIA1_PHAVU        55   ---------E LVLKSSA-GV EPSIFDPRDD GTSDQWIKRN ASMIRLTGKH 
+NIA1_SOYBN        53   ---------E LIQKANA-ET EASLLDPRDE GTADQWIPRN ASMVRFTGKH 
+NIA_LOTJA         60   ---------D LIRKGNA-EI ESSVLDPRDQ GTADNWISRN SSMVRLTGKH 
+NIA_BETVE         68   ---------E LIQKGNG-EL EPSILDPRDE ATADNWVERN ATMVRLTGKH 
+NIA_CUCMA         83   ---------D LIVKGNR-EL EPSILDHRDE GTADNWIERN ASMVRLTGKH 
+NIA_CICIN         73   ---------D AIKKSNS-EL ESSVFDPRDQ GTADQWIERN PSMVRLTGKH 
+NIA1_TOBAC        71   ---------Q MIKKGNS-EL EPSVHDSRDE GTADNWIERN FSLIRLTGKH 
+NIA1_ARATH        85   ---------E LVKKSNS-DL EPSILDPRDE STADSWIQRN SSMLRLTGKH 
+NIA2_ARATH        79   ---------E MIRKSNA-EL EPSVLDPRDE YTADSWIERN PSMVRLTGKH 
+NIA_VOLCA         37   ---------- ---------V PAAAVDKKDQ DTPDNWVRRD PRILRLTGRH 
+NIA_PHYIN         65   ---SSSLRSH NAIVRA--SD IMAQIDPRDV GTPDEWVPRH PELIRLTGRH 
+NIA_LEPMC         47   SITSTPAEPD FPLPPP--AN PKPQVLDIDK PTPDAHVPRD PRLIRLTGVH 
+NIA_ASPNG         38   ---------D IPLPPP--SK EPTEVLSIDK PTPDYHVPRD PRLIRLTGVH 
+NIA_EMENI         36   ---------D IPLPPP--SK EPTEVLSLDK TTPDSHVPRD PRLIRLTGVH 
+NIA_FUSOX         66   PYPL------ ----PP--KF SPKSVLKEDL KTPDNFVERD PRLIRLTGVH 
+NIA_BEABA         56   PYSL------ ----PP--TN TPTHVLPEDL KTPDHRVNRD PRLIRLTGVH 
+NIA_NEUCR        105   PITSSSLKPA YPLPPP--ST RLTTILPTDL KTPDHLI-RD PRLIRLTGSH 
+NIA_PICAN         22   ---------E LPFPVRQ-DS PLTEVLPTDL KTKDNFVARD PDLLRLTGSH 
+NIA_USTMA         12   ---------- ---------- -V-QPLTSDA NTPDHWIARD ERMIRLTGKH 
+YMM5_YEAST        29   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        25   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST         8   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        21   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             15   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              1   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             7   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000001 1111111011 2222222233 3444444444 4477777777 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU        96   PFNSEPPLPR LMSHGFITPV PLHYVRNHGA VPKA------ -----DWST- 
+NIA3_MAIZE       111   SLNGE--LPR LMRHGFITPV PRHYVRNHGP VPRG------ -----DWAT- 
+NIA1_HORVU       117   PLNCEPPLAR LMHHGFITPA PLHYVRNHGA VPRG------ -----DWAT- 
+NIA_SPIOL        132   PFNSEPPLTR LMHHGFLTPV PLHYVRNHGP VPNA------ -----KWED- 
+NIA1_PHAVU        95   PFNAEPPLPR LMQHGFITPS PIHYVRSHGP VPHA------ -----RWED- 
+NIA1_SOYBN        93   PFNGEGPLPR LMHHGFITPS PLRYVRNHGP VPKI------ -----KWDE- 
+NIA_LOTJA        100   PFNSEPPLPR LMHHGFITPV PLHYVRNHGP VPKA------ -----RWDD- 
+NIA_BETVE        108   PFNSEAPLTR LMHHGFITPA PLHYVRNHGP VPKA------ -----RWED- 
+NIA_CUCMA        123   PFNSEPPLNR LMHHGFITPV PLHYVRNHGV VPKA------ -----KWAD- 
+NIA_CICIN        113   PFNSEPPLNK LMQHGFITPD PLHYVRNHGP VPNA------ -----TWED- 
+NIA1_TOBAC       111   PFNSEPPLNR LMHHGFITPV PLHYVRNHGP VPKG------ -----TWDD- 
+NIA1_ARATH       125   PFNAEAPLPR LMHHGFITPV PLHYVRNHGA VPKA------ -----NWSD- 
+NIA2_ARATH       119   PFNSEAPLNR LMHHGFITPV PLHYVRNHGH VPKA------ -----QWAE- 
+NIA_VOLCA         68   PLNCEPPMDV LMEYGFITPP AVHFVRNHGA APRI------ -----PWAE- 
+NIA_PHYIN        110   PFNSEPPLk- -YASTFITPM ALHYVRNHGP VPRL------ -----EWDT- 
+NIA_LEPMC         95   PFNTEPPLTD LYNEGFLTSP ELFYVRNHGA VPEV------ -----QDEEC 
+NIA_ASPNG         77   PFNVEPPLTA LYDEGFLTSP ELFYVRNHGP VPLV------ -----KDEDI 
+NIA_EMENI         75   PFNVEPPLTA LFQQGFLTPP ELFYVRNHGP VPHV------ -----RDEDI 
+NIA_FUSOX        104   PFNVEAPLSD LYDEGFLTSE NLHYVRNHGH VPRC------ -----EDDDI 
+NIA_BEABA         94   PFNVEPPLTD LYDEGFLNSE NLHYVRNHGP VPHC------ -----PDDES 
+NIA_NEUCR        152   PFNVEPPLTA LFEHGFLTPQ NLHYVRNHGP IPssvatppa tinkeEDDSL 
+NIA_PICAN         62   PFNSEPPLTK LYDSGFLTPV SLHFVRNHGP VPYV------ -----PDENI 
+NIA_USTMA         40   PFNSEAPLSE LFSKGFLTPQ NLFYVRSQGD TPRV------ -----TREQA 
+YMM5_YEAST        29   -GVA------ ---------- ---------- ---------- ---------- 
+YMI7_YEAST        25   -LNC------ ---------- ---------- ---------- ---------- 
+NC5R_YEAST         8   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        21   -AIA------ ---------- ---------- ---------- ---------- 
+1fnc_             15   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              1   ---------- ---------- ---------- ---A------ -----DWVTg 
+1krh_A             7   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       7777777767 7777788877 7777777776 7744000000 0000044340 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       134   --WTVEVTGL VKRPVKFTME ELVTG--FQA --VEFP--VT LVCAGNRRKE 
+NIA3_MAIZE       147   --WTVEVTGL VRRPRALTMD ELARD--FPA --LELP--VT LVCAGNRRKE 
+NIA1_HORVU       155   --WTVEVTGL VRRPARLTMD ELANG--FPA --AEVP--AT LVCAGNRRKE 
+NIA_SPIOL        170   --WTVEVTGL VKRPIRFTMD QLVND--FQS --REFP--VT LVCAGNRRKE 
+NIA1_PHAVU       133   --WTVEVTGL VTRPTCFTME QLVND--FPS --HEFP--AT LVCAGNRRKE 
+NIA1_SOYBN       131   --WTVEVTGL VKRSTHFTME KLMRE--FPH --REFP--AT LVCAGNRRKE 
+NIA_LOTJA        138   --WTVEVTGL VKTPTRFSMD RLVRD--FPS --RELP--VT LVCAGNRRKE 
+NIA_BETVE        146   --WSVEVCGL VKRPARFTMD RLVTE--FRS --REFP--VT LVCAGNRRKE 
+NIA_CUCMA        161   --WTVEVCGL VKRPAKFTMD QLLNE--FRF --REFP--AT LVCAGNRRKE 
+NIA_CICIN        151   --WTVEICGL VKRPARFSMT QLVNE--FPS --REFP--VT LVCAGNRRKE 
+NIA1_TOBAC       149   --WTVEVTGL VKRPMKFTMD QLVNE--FPS --RELP--VT LVCAGNRRKE 
+NIA1_ARATH       163   --WSIEITGL VKRPAKFTME ELISE--FPS --REFP--VT LVCAGNRRKE 
+NIA2_ARATH       157   --WTVEVTGF VKRPMKFTMD QLVSE--FAY --REFA--AT LVCAGNRRKE 
+NIA_VOLCA        106   --HRIEINGL VDKPLFLTMD ELVAL---PS --ITFP--CT LVCAGNRRKE 
+NIA_PHYIN        146   --HTFSIDGL VKKPRTFGMN ELVTT--FEQ etVTFP--VL LVCAGNRRKE 
+NIA_LEPMC        134   LDWEFSIEGM VANPLKITLR QLLEE--YEN --VTYP--VT LVCAGNRRKE 
+NIA_ASPNG        116   PNWEISIEGL VEKPLVLNFR DILQQ--YDQ --ITAP--IT LVCAGNRRKE 
+NIA_EMENI        114   PNWELRIEGL VEKPITLSFK QILQN--YDQ --ITAP--IT LVCAGNRRKE 
+NIA_FUSOX        143   LDWEFEISGL VENPIKMNVR DLIND--YQQ --LTYP--VT FVCAGNRRKE 
+NIA_BEABA        133   LNWTFTVDGL VEKPFTIAVR DLIQK--YDQ --FTYP--VT LVCAGNRRKE 
+NIA_NEUCR        202   LNWEFTVEGL VEHPLKISVR ELMDAskWDN --VTYP--VT LVCAGNRRKE 
+NIA_PICAN        101   LDWEVSIEGM VETPYKIKLS DIMEQ--FDI --YSTP--VT MVCAGNRRKE 
+NIA_USTMA         79   ENWKLKVHGL VEQEVELSIK DLKEK---FS --YSHPqtIT LVCAGNRRKE 
+YMM5_YEAST        32   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        28   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST         8   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        24   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             15   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              7   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             7   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0044444444 4443333333 3333300332 0034570078 8888888888 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       176   QNMVRQSSGF NWGPGAISTT VWRGVRLRDV LRRCGVMga- ---------- 
+NIA3_MAIZE       189   QNMVRQTLGF NWGPGAVSTS VWRGARLSDV LRRCGSMSR- ---------- 
+NIA1_HORVU       197   QNMVQQTVGF NWGAAGVSTS VWRGARLRDV LLRCGVMSK- ---------- 
+NIA_SPIOL        212   QNMTKQSIGF NWGSAAVSTS VWRGVPLRDV LKRCGVMSS- ---------- 
+NIA1_PHAVU       175   QNMVKQSIGF NWGAGGVSTS VWRGVSLRSL LKRCGIYSR- ---------- 
+NIA1_SOYBN       173   HNMVKQSIGF NWGAAGGSTS VWRGVPLRHV LKRCGILAR- ---------- 
+NIA_LOTJA        180   QNMVRQSIGF NWGSAGVSTS VWRGVSLRHI LRRCRIQTR- ---------- 
+NIA_BETVE        188   QNMVKKTIGF NWGAAGVSTS VWRGVPLRDV LKRCGIFSR- ---------- 
+NIA_CUCMA        203   QNMVKQSIGF NWGAAGVSTS VWRRVPLCDL LKRCGILSR- ---------- 
+NIA_CICIN        193   QNLTKQTIGF NWGAAGISTS VWKGVPLVHI LKRCGIYSR- ---------- 
+NIA1_TOBAC       191   QNMVKQTIGF NWGAAAVSTT VWRGVPLRAL LKRYGVFSK- ---------- 
+NIA1_ARATH       205   QNMVKQTIGF NWGSAGVSTS LWKGIPLSEI LRRCGIYSR- ---------- 
+NIA2_ARATH       199   QNMVKKSKGF NWGSAGVSTS VWRGVPLCDV LRRCGIFSR- ---------- 
+NIA_VOLCA        147   ENMLKKSIGF NWGPCATSTT YWTGVRLRDL LLLAGIKSP- ---------- 
+NIA_PHYIN        190   QNMIKKTIGF SWGAAGCSTA EWTGVPLHVL LTACGVd--- ---------- 
+NIA_LEPMC        178   QNVVRKSKGF AWGAAGVSTA LFTGVVMKDV IERAK---P- ---------- 
+NIA_ASPNG        160   QNVVRKTKGF SWGSAGLSTA LWTGPMMADI LRSAK---P- ---------- 
+NIA_EMENI        158   QNTVRKSKGF SWGSAALSTA LFTGPMMADI IKSAK---P- ---------- 
+NIA_FUSOX        187   QNIVRKTKGF SWGPAGLSTA LWTGVAIGDL LSAAK---P- ---------- 
+NIA_BEABA        177   QNVVRKSKGF SWGAAGLSTA LWTGVPIGAL LRMAK---P- ---------- 
+NIA_NEUCR        248   QNVLRKSKGF SWGAGGLSTA LWTGVGLSEI LARAKPLTK- ---------- 
+NIA_PICAN        145   QNMVKKGAGF NWGAAGTSTS LWTGCMLGDV IGKAR---P- ---------- 
+NIA_USTMA        124   QNMVAKGLGF NWGAAGVSTG LFTGVYLADI LdycKPKNPl lssfpsydva 
+YMM5_YEAST        32   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        28   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST         8   ---------- ---------- ---------I RRKNE---R- ---------- 
+MCR1_YEAST        24   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             15   ---------- ---------- ---------- ----KPKTPy vgrcllnt-- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              7   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             7   ---------- ---------- ---------- ------LQF- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       8998888888 8888888888 8888644333 3333222220 0000000000 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       215   ---GAASNVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA3_MAIZE       228   -K-GGALFVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA1_HORVU       236   -K-GQALNVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA_SPIOL        251   -L-KGALNVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA1_PHAVU       214   -A-KGALHVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA1_SOYBN       212   -M-KGAMYVS FEGAE----- ---------- ---------- ----DLPGGG 
+NIA_LOTJA        219   -S-RGALHVC FEGDE----- ---------- ---------- ----DLPGGG 
+NIA_BETVE        227   -G-RGAFNVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA_CUCMA        242   -K-KGALNVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA_CICIN        232   -K-KGALNVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA1_TOBAC       230   -N-KGALNVC FEGAD----- ---------- ---------- ----VLPGGG 
+NIA1_ARATH       244   -R-GGALNVC FEGAE----- ---------- ---------- ----DLPGGG 
+NIA2_ARATH       238   -K-GGALNVC FEGSE----- ---------- ---------- ----DLPGGa 
+NIA_VOLCA        186   -E-QGANFVC FRGPKg---- ---------- ---------- ----ELPRGS 
+NIA_PHYIN        227   -R-EKAQWVW FEGIE----- ---------- ---------- ----DL---P 
+NIA_LEPMC        214   -L-RKAKYVC MEGAD----- ---------- ---------- ----KL---P 
+NIA_ASPNG        196   -L-RKAKYVC MEGAD----- ---------- ---------- ----KL---P 
+NIA_EMENI        194   -L-RRAKYVC MEGAD----- ---------- ---------- ----NL---P 
+NIA_FUSOX        223   -K-RGARYVC FEGAD----- ---------- ---------- ----KL---P 
+NIA_BEABA        213   -K-RAAKYVC FEGAD----- ---------- ---------- ----KL---P 
+NIA_NEUCR        287   -KGGGARYVC FEGAD----- ---------- ---------- ----QL---P 
+NIA_PICAN        181   -S-KRARFVW MEGAD----- ---------- ---------- ----NP---A 
+NIA_USTMA        174   vL-DRARHVV FEGAD----- ---------- ---------- ----EL---P 
+YMM5_YEAST        32   ---------- ---------- ---------- ---------- I--------- 
+YMI7_YEAST        28   ---------- ---------- ---------- ---------- V--------- 
+NC5R_YEAST        15   -E-KKVLKVC IQLALQQETQ SIKQSKMAID AQKLVVVIVI V--------- 
+MCR1_YEAST        24   ---------- ---------- ---------- ---------- A--------- 
+1fnc_             29   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              7   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            10   -EDGVTRFIC IAQGE----- ---------- ---------- ----TL---S 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B             3   ---------- ----LQEMMT VVSQREVAYN IFEMVLKGTL VdemDLPG-- 
+                                                                 
+                       0202333333 3333300000 0000000000 0000000000 0000343333 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       233   ---GCKYGTS LRRSVAMDPA RDVILAYMQN GEPLAPDHGF PVRVIVPGFI 
+NIA3_MAIZE       247   ---GTKYGTS ITREVALDPT MDVMLAYQQN GGPLLPDHGF PVRLIVPGCT 
+NIA1_HORVU       255   ---GSKYGTS VSREWAMDPS RDIILPYAQN GEPLLPDHGY PVRVLIPGCI 
+NIA_SPIOL        270   ---GSKYGTS VKREFAMDPA RDIILAYMQN GEKLSPDHGY PVRMIIPGFI 
+NIA1_PHAVU       233   ---GSNYGTS LMREVALDPS RDIILAYMQN GELLSPDHGF PVRMIIPGFI 
+NIA1_SOYBN       231   ---GSKYGTS VKREMAMDPS RDIILAFMQN GEPLAPDHGF PVRMIIPGFI 
+NIA_LOTJA        238   ---GSKYSTS IRREVAMDPS RDVILAYMQN GEVLAPDHGF PVRVIIPGFI 
+NIA_BETVE        246   ---GSKYGTS VKYEMAMDPA RDIILGYMQN GERLSPDHGF PVRMIIPGFI 
+NIA_CUCMA        261   ---GSKYGTS IKKELAMDPA RDIILAYMQN GEQLAPDHGF PVRMIIPGFI 
+NIA_CICIN        251   ---GSKYGTS IKIEMAMDPA RDIILAYMQN GEKLSPDHGF PVRMIIPGFI 
+NIA1_TOBAC       249   ---GSKYGTS IKKEFAMDPA RDIIIAYMQN GEKLAPDHGF PVRMIIPGFI 
+NIA1_ARATH       263   ---GSKYGTS IKKEMAMDPA RDIILAYMQN GELLTPDHGF PVRVIVPGFI 
+NIA2_ARATH       257   gtaGSKYGTS IKKEYAMDPS RDIILAYMQN GEYLTPDHGF PVRIIIPGFI 
+NIA_VOLCA        206   ---DGSYGTS LTYAKAMDPS SDVIIAYKQN HRWLTPDHGF PVRMIIPGFI 
+NIA_PHYIN        243   ---HDKYGTC IRASTELDPE CDVLVAWKAN GELLGPDHGF PVRLIVPGHI 
+NIA_LEPMC        230   ---NGYYGTS VKLNWVMDPN RGIMLAHKMN GENLSLDHGK PLRAVVPGQI 
+NIA_ASPNG        212   ---NGYYGTS IKLNWAMDPN RGIMLAHKMN GEDLRPDHGR PLRAVVPGQI 
+NIA_EMENI        210   ---NGNYGTS IKLNWAMDPN RGIMLAHKMN GEDLRPDHGR PLRAVVPGQI 
+NIA_FUSOX        239   ---NGYYGTS IKLNWCMDPN RGVMVAHKMN GNPLPPDHGK PVRIVIPGQI 
+NIA_BEABA        229   ---NGYYGTS VKLNWCMDEN RGIMVAHKMN GQSLHPDHGK PVRIIIPGQI 
+NIA_NEUCR        304   ---NGTYGTS VKLAWAMDPN KGIMVAHKMN GENLHPDHGR PVRVVVPGQI 
+NIA_PICAN        197   ---NGAYRTC IRLSWCMDPE RCIMIAYQQN GEWLHPDHGK PLRVVIPGVI 
+NIA_USTMA        191   ---KGKYGTS QRLNWALDRC KGMLIAWGLN GEDLSPDHGY PLRLVVPGQI 
+YMM5_YEAST        33   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        29   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST        54   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        25   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             29   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              7   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            27   ---DAAYRQQ INIPMDCREG ECgtcrafce sg-------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            37   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0004446666 6666666666 6677767777 7777777777 7776888878 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       280   GGRMVKWLKR IVVACNESES YYHYRDNRVL PSHVDAELAN A-----EA-W 
+NIA3_MAIZE       294   AGRMVKWLKR IVVAPAESDN YYHYRDNRFL PSHVDAKLAD A-----EG-W 
+NIA1_HORVU       302   GGRMVKWVRR IVVTTAESDN YYHFKDNRVL PSHVDAELAN A-----EA-W 
+NIA_SPIOL        317   GGRMVKWLKR IIVTTTESDN YYHYKDNRVL PSHVDAELAN S-----EA-W 
+NIA1_PHAVU       280   GGRMVKWLKR IVVSNQQSQS HYHYKDNKLF PSHVDAELAN E-----ED-W 
+NIA1_SOYBN       278   GGRMVKWLKR IVVTEHECDS HYHYKDNRVL PSHVDAELAN D-----EG-W 
+NIA_LOTJA        285   GGRMVKWLKR IVVTEEECDG HYHYKDNRVL PSHVDAELAN E-----EG-W 
+NIA_BETVE        293   GGRMVKWLKR IIVTTKESDN YYHYNDNRVL PSHVDADVAK A-----EA-W 
+NIA_CUCMA        308   GGRMVKWLKR IIVTTKESEN YYHFKDNRVL PSHVDADVAN A-----EA-W 
+NIA_CICIN        298   GGRMVKWLKR IIVTTPESES YYHFKDNRVL PSHVDAELAN S-----EG-W 
+NIA1_TOBAC       296   GGRMVKWIKR IIVTTQESDS YYHFKDNRVL PPHVDAELAN T-----EA-W 
+NIA1_ARATH       310   GGRMVKWLKR IIVTPQESDS YYHYKDNRVL PSLVDAELAN S-----EA-W 
+NIA2_ARATH       307   GGRMVKWLKR IIVTTKESDN FYHFKDNRVL PSLVDAELAD E-----EG-W 
+NIA_VOLCA        253   GGRMVKWLSE ITVTEVESQN FYHFMDNRVL PSHVDEALAK E-----EG-W 
+NIA_PHYIN        290   GGRMVKWLER IHVSDHESSN HHHIMDNRVL PSHVTAETAT A-----EG-W 
+NIA_LEPMC        277   GGRSVKWLKK LIVTAEPSDN WYHIYDNRVL PTMVDPDEAA K-----NPKW 
+NIA_ASPNG        259   GGRSVKWLKK LILTDAPSDN WYHIYDNRVL PTMVSPEMSS S-----DPNW 
+NIA_EMENI        257   GGRSVKWLKK LIITDAPSDN WYHIYDNRVL PTMVTPDMSS Q-----NPSW 
+NIA_FUSOX        286   GGRSIKWLKK ITITQEPSDN WYHIYDNRVL PTMISPEESA N-----LPEV 
+NIA_BEABA        276   GGRSVKWLKK ITITSEPSDN WYHIYDNRVL PTTISPDASA N-----LPDV 
+NIA_NEUCR        351   GGRSVKWLKR IVVTKGPSEN WYHVFDNRVL PTTVGPEESG EkteemER-V 
+NIA_PICAN        244   GGRSVKWLKK LVVSDRPSEN WYHYFDNRVL PTMVTPEMAK S-----DDRW 
+NIA_USTMA        238   SGRMVKWLER IEVSDRESQH HLHFHDNQVL PTEVTADQAR S-----EMHW 
+YMM5_YEAST        33   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        29   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST        54   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        25   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             29   ---------K ITGDDAPGET WHMVFSHEge ip-------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              7   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            56   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            37   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       8888888888 8887667777 7787788877 8767555544 4000004405 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       324   WYKPECMINE LNINSVITTP GHDEVLPI-N ALTTQ---KP YTMKGYAYSG 
+NIA3_MAIZE       338   WYKPEYVINE MNTNSVITTP AHNEFLPI-N AITTQ---RI YTMKGFAYSG 
+NIA1_HORVU       346   WYRPEYIINE LNTNCVITTP GHDEILPI-N AFTTQ---RA YTIKGYAYSG 
+NIA_SPIOL        361   WYKQEYIINE LNVNSVITSP CHEEILPI-N AWTTQ---RP YTMRGYAYSG 
+NIA1_PHAVU       324   WYKPEYIINE VNINSVITTP SHQEILPI-N SWTTQ---MP YSMRGYAYSG 
+NIA1_SOYBN       322   WYKPEYIINE LNINSVITTP CHEEILPI-N SWTTQ---MP YFIRGYAYSG 
+NIA_LOTJA        329   WYKPEYIINE LNINSVITTP CHDEILPI-N AWTTQ---RP YTLRGYSYSG 
+NIA_BETVE        337   WYKPEHIINE LNINSVITTP CHEEILPI-N SWTTQ---RP YTLRGYAYSG 
+NIA_CUCMA        352   WYKPEHIINE LNINSVITTP CHEEILPI-N AWTTQ---RP YTLRGYSYSG 
+NIA_CICIN        342   WYKPEYIINE LNINSVITTP CHEEILPI-N SWTTQ---RP YTLRGYAYSG 
+NIA1_TOBAC       340   WYKPEYIINE LNINSVITTP CHEEILPI-N AWTTQ---RP YTLRGYSYSG 
+NIA1_ARATH       354   WYKPEYIINE LNINSVITTP GHAEILPI-N AFTTQ---KP YTLKGYAYSG 
+NIA2_ARATH       351   WYKPEYIINE LNINSVITTP CHEEILPI-N AFTTQ---RP YTLKGYAYSG 
+NIA_VOLCA        297   WYKPEFIIND LNINSAVARP WHDEVVRL-D A---N---KP YTMRGYAYAG 
+NIA_PHYIN        334   WSKSPYAIME LNVNAVVILP NHDDLLAL-G EDTTfndIET YTIKGYAYSG 
+NIA_LEPMC        322   WMDERYAIYD LSPNSAIAFP AHEEKVVLAS A---E---NS YNVRGYAYSG 
+NIA_ASPNG        304   WRDDRYAIYD LNVNSSVVYP EHKEVLDLAS A---G---PS YNVKGYAYAG 
+NIA_EMENI        302   WRDERYAIYD LNVNSAAVYP QHKETLDLAA A---R---PF YTAKGYAYAG 
+NIA_FUSOX        331   WKDEKYAIYD LSTNSAICYP AHEEKVPFTD A---P---AS YKVRGYAYSG 
+NIA_BEABA        321   WKDEKYAIYD LNANSAICYP RHDERLVLAT A---P---DT YKVRGYAYGG 
+NIA_NEUCR        400   WRDERYAIYD LNVNSVICEP GHGEVVSLRG D---Egag-T YRLRGYAYAG 
+NIA_PICAN        289   WKDERYAIYD LNLQTIICKP ENQQVIKISe --------DE YEIAGFGYNG 
+NIA_USTMA        283   WYDPKYIIND LNVNSAICSP DHDQVVMLpn hlrp---VEM LPLEGYAYTG 
+YMM5_YEAST        33   ---------- ---------- ----TTymsg el-------- ---------- 
+YMI7_YEAST        29   ---------- ---------- ----VTPL-Y FWKTQ----- ---------- 
+NC5R_YEAST        54   ---------- ---------- ----VVPL-L Fkfii----- ---------- 
+MCR1_YEAST        25   ---------- ---------- ----ATAF-Y FANRN----- ---------- 
+1fnc_             52   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              7   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            56   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A             6   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            37   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       5555555555 5555555555 5555454403 3333300033 6677777777 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       370   GGRKVTRVEV TLDGGETWQV CDLEHPERPT KYGKY----- ---------- 
+NIA3_MAIZE       384   GGKKVTRVEV TLDGGENWLL CELDHPEKPT KYGRY----- ---------- 
+NIA1_HORVU       392   GGKKITRVEV TLDGGESWML CTLDIPEKPN KYGRY----- ---------- 
+NIA_SPIOL        407   GGRKVTRVEV TMDGGDTWDI CELDHQERGS KYGKF----- ---------- 
+NIA1_PHAVU       370   GGRKVTRVEV TLDGGETWQV CSVERLEKPN KYGKY----- ---------- 
+NIA1_SOYBN       368   GGRKVTRVEV TLDGGGTWQV CTLDCPEKPN KYGKY----- ---------- 
+NIA_LOTJA        375   GGRKVTRVEV TLDGGETWFV CALDQQEKPN KYGKY----- ---------- 
+NIA_BETVE        383   GGRKVTRVEI TMNGGEKWRV CALDHPEKPN KYGKY----- ---------- 
+NIA_CUCMA        398   GGKKVTRVEV TMDSGETWQV CTLDHPEKAN KYGKY----- ---------- 
+NIA_CICIN        388   GGKKVTRVEV TMDGGETWNV CTLDHKEKPT RYAKY----- ---------- 
+NIA1_TOBAC       386   GGKKVTRVEV TLDGGETWQV CTLDHPEKPT KYGKY----- ---------- 
+NIA1_ARATH       400   GGKKVTRVEV TLDGGDTWSV CELDHQEKPN KYGKF----- ---------- 
+NIA2_ARATH       397   GGKKVTRVEV TVDGGETWNV CALDHQEKPN KYGKF----- ---------- 
+NIA_VOLCA        340   GGRKIIRCEV SLDDGKTWRL GDIQRFEKPN EYGKY----- ---------- 
+NIA_PHYIN        383   GGRRVIRVEV TLDDGASWQL ARIIYHERPS KYGKM----- ---------- 
+NIA_LEPMC        366   GGRRITRCEV SLNKGKNWRL ANIDYAEDKY RDF--EGREL FGARLDMDWR 
+NIA_ASPNG        348   GGRRITRVEI SLDKGKSWRL ANISYAEDKY RDF--EGD-L FGGRVHMSWR 
+NIA_EMENI        346   GGRRITRVEI SLDKGKSWRL ARIEYAEDKY RDF--EGT-L YGGRVDMAWR 
+NIA_FUSOX        375   GGRRITRVEV TLDKGKSWRL ANIRYPEDDY RNAP-EGDTL YGGRVDMWWR 
+NIA_BEABA        365   GGKRITRLEV TLNKGKSWLL AGIHYPEDDY RRAP-DGDLL YGGSTDMWWR 
+NIA_NEUCR        446   GGRRVTRLEV TLDQGKSWRL AGIEYPEDRY REAQ-DGEEL FGGRLDVSWR 
+NIA_PICAN        331   GGVRIGRIEV SLDKGKSWKL ADIDYPEDRY REAgyfr--L FGGLVNVCDR 
+NIA_USTMA        330   GGRVSTRVEI SLDDGRSWKC ASIHYPEDLY RMYPiQGH-E YFGTLDLSAT 
+YMM5_YEAST        41   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        39   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST        64   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        35   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             52   ---------- ---------- ---------Y REGQs----- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_              7   ---KVTKVQN WTDAL----- ---------- ---------- ---------- 
+1krh_A            56   ---------- ---------- -NYDMPEDNY IEdaltpeea qqgyvlacq- 
+1qfj_A             6   ---KVTSVEA ITDTV----- ---------- ---------- ---------- 
+1ep1_B            37   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       7777777777 7777777766 6666557555 5444400000 0000000000 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       405   ---WCWCFWS VEVEVLEL-- -LGAKEMAVR AWDEALNTQP ERLIWNLMGM 
+NIA3_MAIZE       419   ---WCWCFWS IDVELIDL-- -LACKEIAVR AWDQSLNTQP EFLTWNLMGM 
+NIA1_HORVU       427   ---WCWCFWS VEIEVLDL-- -LGAKEVAVR TWDQTHNTQP EKLIWNLMGM 
+NIA_SPIOL        442   ---WCWCFWS LEVEVLDL-- -LGAKEIGVR AWDESLNTQP EKLIWNVMGM 
+NIA1_PHAVU       405   ---WCWCFWS LEVEVLDI-- -LGAKEIAVR AWDEAQNTQP EKLIWNTMGM 
+NIA1_SOYBN       403   ---WCWCFWS VEVEVLDL-- -LGAREIAVR AWDEALNTQP EKLIWNVMGM 
+NIA_LOTJA        410   ---WCWCFWS LEVEVLDL-- -LGTKEIAVR AWDEALNTQP ENLIWNVMGM 
+NIA_BETVE        418   ---WCWCFWS LEVEVLDL-- -LGAKEIAVR AWDEAHNTQP EKLIWNVMGM 
+NIA_CUCMA        433   ---WCWCFWS LEVEVLDL-- -LSAKEIAVR AWDETHNTQP EKLIWNLMGM 
+NIA_CICIN        423   ---WCWCFWS LEVEVLDL-- -LSAKEIAVR AWDETLNTQP DKLIWNLMGM 
+NIA1_TOBAC       421   ---WCWCFWS LEVEVLDL-- -LSAKEIAVR AWDETLNTQP EKLIWNVMGM 
+NIA1_ARATH       435   ---WCWCFWS LDVEVLDL-- -LSAKDVAVR AWDESFNTQP DKLIWNLMGM 
+NIA2_ARATH       432   ---WCWCFWS LEVEVLDL-- -LSAKEIAVR AWDETLNTQP EKMIWNLMGM 
+NIA_VOLCA        375   ---WCWVHWS LDVMTFDF-- -LNAKEVLLR AWDETMNTQP AIITWNVMGM 
+NIA_PHYIN        418   ---WCWVHYE LAAPMSSL-- -LCAREVCVR AWDSSMNLMP AFPTWNVMGM 
+NIA_LEPMC        414   ETSFCWCFWN LDIATAEL-- -RDANDILVR AMDEAMCIQP RDMYWSVLGM 
+NIA_ASPNG        395   ETCFCWCFWS LDIAIPEL-- -ENTDAILVR AMDEALALQP RDMYWSVLGM 
+NIA_EMENI        393   EACFCWSFWS LDIPVSEL-- -ASSDALLVR AMDEALSLQP KDMYWSVLGM 
+NIA_FUSOX        424   ETSFCWCFWD LDIPLDEL-- -KSADDIMMR AMDESMNVQP RDMYWSVLGM 
+NIA_BEABA        414   ETCFCWCFWE IDIPVADL-- -SAADDIMIR AMDEGMMVQP RDMYWSVLGM 
+NIA_NEUCR        495   ESCFCWCFWD LEIPLSEL-- -RKAKDVCIR AMDESLALQP KEMYWSVLGM 
+NIA_PICAN        379   MSCLCWCFWK LKVPLSEL-- -ARSKDILIR GMDERMMVQP RTMYWNVTSM 
+NIA_USTMA        379   EMSFSWCFWR LDVDVEadii aKDVKVISVR ALDEVLATQP RDMYWNATSM 
+YMM5_YEAST        41   ---------- ---------- ---------- ---------- -KILWSLpil 
+YMI7_YEAST        39   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST        64   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        35   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             58   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_             19   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            84   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A            18   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            37   ------QFLH LAVPNGAM-- -LLRRPISIS SWDKRak--- ---------- 
+                                                                 
+                       0005666665 5555556600 0666677777 7777667777 7777777777 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       449   MNNCWFRVKI NVC------R PHKGEI---- ---------- ---------- 
+NIA3_MAIZE       463   MTNCWFRVKV NVC------R PRHGEKA--- ---------- ---------- 
+NIA1_HORVU       471   MNNCWFKIKV NVC------R PHKGEI---- ---------- ---------- 
+NIA_SPIOL        486   MNNCWFRVKT NVC------K PHKGEI---- ---------- ---------- 
+NIA1_PHAVU       449   INNCWFRVKT NVC------K PKKGEI---- ---------- ---------- 
+NIA1_SOYBN       447   MNNCWFRVKT NVC------R PHKGEI---- ---------- ---------- 
+NIA_LOTJA        454   MNNCWFRVKT NVC------K PHKGEI---- ---------- ---------- 
+NIA_BETVE        462   MNNCWFRVKT NVC------K AHMGEI---- ---------- ---------- 
+NIA_CUCMA        477   MNNCWFRVKT NMC------K PHKGEI---- ---------- ---------- 
+NIA_CICIN        467   MNNCWFRVKT NMC------K PHKGEI---- ---------- ---------- 
+NIA1_TOBAC       465   MNNCWFRVKM NVC------K PHKGEI---- ---------- ---------- 
+NIA1_ARATH       479   MNNCWFRIRT NVC------K PHRGEI---- ---------- ---------- 
+NIA2_ARATH       476   MNNCWFRVKT NVC------K PHKGEI---- ---------- ---------- 
+NIA_VOLCA        419   MNNCYYRIKI HPQ------V DSDGVM---- ---------- ---------- 
+NIA_PHYIN        462   MNNPWYRVKI HH-------- ----EQD--- ---------- ---------- 
+NIA_LEPMC        461   MNNPWYRITI HH-------- ----EGD--- ---------- ---------- 
+NIA_ASPNG        442   MNNPWFRVTI TK-------- ----ENG--- ---------- ---------- 
+NIA_EMENI        440   MNNPWFRVKI TN-------- ----ENG--- ---------- ---------- 
+NIA_FUSOX        471   MNNPWFRIVI HK-------- ----EDH--- ---------- ---------- 
+NIA_BEABA        461   MNNPWFRVVI HK-------- ----EDG--- ---------- ---------- 
+NIA_NEUCR        542   MNNPWFRVVI HH-------- ----EGD--- ---------- ---------- 
+NIA_PICAN        426   LNNWWYRVAI IR-------- ----EGE--- ---------- ---------- 
+NIA_USTMA        429   MNSWWFRVCI AK-------- ----ART--- ---------- ---------- 
+YMM5_YEAST        50   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        39   ---------- ---------- -----NG--- ---------- ---------- 
+NC5R_YEAST        64   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        35   ---------- ---------- -----QH--- ---------- ---------- 
+1fnc_             58   -------VGV IPDgedkngK PHKl------ ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_             19   -----FSLTV H--------- ---------- ---------- ---------- 
+1krh_A            84   ---------- --C------R Ptsdavfqiq assevcktki hhfegtlarv 
+1qfj_A            18   -----YRVRI VPDaafs--- ---------- ---------- ---------- 
+1ep1_B            65   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       7777777755 5440000004 4344440000 0000000000 0000000000 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       469   ---------- ---------- ---------- ------G--L VFDHPTQPGN 
+NIA3_MAIZE       484   ---------- ---------- ---------- ------G--L AFEHPVRT-N 
+NIA1_HORVU       491   ---------- ---------- ---------- ------G--L VFEHPTQPGN 
+NIA_SPIOL        506   ---------- ---------- ---------- ------G--I VFEHPTQPGN 
+NIA1_PHAVU       469   ---------- ---------- ---------- ------G--I VFEHPTQPGN 
+NIA1_SOYBN       467   ---------- ---------- ---------- ------G--I VFEHPTQPGN 
+NIA_LOTJA        474   ---------- ---------- ---------- ------G--I VFEHPTQPGN 
+NIA_BETVE        482   ---------- ---------- ---------- ------G--I AFEHPTVPGN 
+NIA_CUCMA        497   ---------- ---------- ---------- ------G--I VFEHPTQPGN 
+NIA_CICIN        487   ---------- ---------- ---------- ------G--I VFEHPTQPGN 
+NIA1_TOBAC       485   ---------- ---------- ---------- ------G--I VFEHPTQPGN 
+NIA1_ARATH       499   ---------- ---------- ---------- ------G--I VFEHPTRPGN 
+NIA2_ARATH       496   ---------- ---------- ---------- ------G--I VFEHPTLPGN 
+NIA_VOLCA        439   ---------- ---------- ---------- ------G--L RFQHPAPVEL 
+NIA_PHYIN        477   ---------- ---------- ---------- ------TNSL RFEHPTQAGN 
+NIA_LEPMC        476   ---------- ---------- ---------- ------V--L RFEHPTQPAL 
+NIA_ASPNG        457   ---------- ---------- ---------- ------T--L RFEHPTDP-T 
+NIA_EMENI        455   ---------- ---------- ---------- ------R--L LFEHPTDI-T 
+NIA_FUSOX        486   ---------- ---------- ---------- ------A--L RFEHPTHATL 
+NIA_BEABA        476   ---------- ---------- ---------- ------A--L RFEHPTQPAL 
+NIA_NEUCR        557   ---------- ---------- ---------- ------T--L RFEHPTQPML 
+NIA_PICAN        441   ---------- ---------- ---------- ------S--L RFEHP-VVAN 
+NIA_USTMA        444   ---------- ---------- ---------- ------ATKI RFEHPTSP-Q 
+YMM5_YEAST        50   ---------- ---------- ---------- ---------- -------FMI 
+YMI7_YEAST        41   ---------- ---------- ---------- ------R--I VvvsllqFVV 
+NC5R_YEAST        64   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        37   ---------- ---------- ---------- ------S--F Vfnesn---- 
+1fnc_             75   ---------- ---------- ---------- ---------R LYSIASsalg 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_             25   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           116   enlsdstitf diqlddgqpd ihflagqyvn vtlpgtTETR SYSFSSQPGN 
+1qfj_A            30   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            65   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000004004 4554433333 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       481   QSGGWMARQK H--------- ---------- -----IETSE -T-TQGTLKR 
+NIA3_MAIZE       495   QPGGWMAQQK H--------- ---------- -----LETAE -R-Tsaats- 
+NIA1_HORVU       503   QTGGWMARQK H--------- ---------- -----LETAE -A-AAPGLKR 
+NIA_SPIOL        518   KSGGWMARER H--------- ---------- -----LEIS- -D-SGPTLKR 
+NIA1_PHAVU       481   QSGGWMAREK Q--------- ---------- -----LEKSS -E-SNPILKK 
+NIA1_SOYBN       479   QSGGWMAKEK H--------- ---------- -----LEKSS -E-SNPTLKK 
+NIA_LOTJA        486   QPGGWMAKEK H--------- ---------- -----LEISQ qD-SRPILKK 
+NIA_BETVE        494   ESGGWMAREK N--------- ---------- -----LETSS -D-ANQSLKK 
+NIA_CUCMA        509   QSGGWMDRER H--------- ---------- -----LEIST -E-SNQTLKK 
+NIA_CICIN        499   QSGGWMAREK H--------- ---------- -----LEISS -ElAHPTLKK 
+NIA1_TOBAC       497   QSGGWMAKER H--------- ---------- -----LEISA -E-APPTLKK 
+NIA1_ARATH       511   QSGGWMAKER Q--------- ---------- -----LEISS -E-SNNTLKK 
+NIA2_ARATH       508   ESGGWMAKER H--------- ---------- -----LEKSA -D-APPSLKK 
+NIA_VOLCA        451   GERGNMg--- ---------- WREEDNLV-A QALAAVKEGA -T-AAAAPAA 
+NIA_PHYIN        491   QKGGWMTKER IMTNDVds-- ------IK-M LQVEPLDTSS -A-ATPKPgl 
+NIA_LEPMC        488   IPGGWMERVK KAGGNLTNGQ WGEQIEGQ-E lentavEEVK EIKMTK---- 
+NIA_ASPNG        468   GPGGWMERVK KAGGDLVNGY WGERQAGE-E PTEP--EPEK EINMKK---- 
+NIA_EMENI        466   GSSGWMEQIK KAGGDLTNGN WGERQEGE-E PVEA--EPVV EVNMKK---- 
+NIA_FUSOX        498   KIKGWMERVK EAGGDLTNGY WGEKAPGEvQ E-VVVKEPEK QICMTN---- 
+NIA_BEABA        488   MPGGWMERVK RRGGNLTNGF WGEKTAAE-E E-QVLAEPEK EICMTN---- 
+NIA_NEUCR        569   TSDGWMDRVK KEGGNLANGF WGEKVPGA-E enVVKEEPVK EISMVD---- 
+NIA_PICAN        452   KPGGWMDRVK AEGGDILDNN WGEVDDTV-K QAER--RPHI DEDLE----- 
+NIA_USTMA        457   CPGGWMQRMN EAGLNp---- -RYPQFVE-A KAVESCKTDA -N-TLPRPRK 
+YMM5_YEAST        53   IFV------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        53   LYA------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST        64   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        45   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             86   df-------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_             25   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           166   RLTGFVVRNV ---------- ---------- ---------- ---------- 
+1qfj_A            30   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            65   --TCTILYRI ---------- ---------- ---------- ---------- 
+                                                                 
+                       3334443333 3000000000 0000000000 0000022221 0101111111 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       505   STSTPFM--S TAS-A---QF TMSEVRRHAS KD-SAWIVVH GHVYDCTAFL 
+NIA3_MAIZE       518   ---------- TTN-Q---QF TMSEVRKHAS QD-SAWIVVH GHVYDCTAFL 
+NIA1_HORVU       527   STSTPFM--N TAgdK---QF TMSEVRKHGS KE-SAWIVVH GHVYDCTAFL 
+NIA_SPIOL        541   TASTPFM--N TTS-K---MY SMSEVKKHNT AD-SAWIVVH GNVYNATRFL 
+NIA1_PHAVU       505   SVSSPFM--N TAT-K---SY SLSEVRRHNN RD-SAWIIVN GHVYDCTRFL 
+NIA1_SOYBN       503   SVSSPFM--N TTS-K---TY TMSEVRRHNN AD-SAWIIVH GHVYDWTRFL 
+NIA_LOTJA        511   SVSSPFM--N TFT-K---MY SLSEVKKHNS PD-SAWIIVH GHVYDCTRFL 
+NIA_BETVE        518   SVSSPFM--N TSS-K---MF SMSEVKKHNS AE-SAWIIVH GHIYDCTHFL 
+NIA_CUCMA        533   SVSTPFM--N TAS-N---TY TLSEVKKHNS PQ-SAWIIVH GHVYDCTRFL 
+NIA_CICIN        524   SVSSPFM--N TTS-L---TF TMSEVKKHNS AD-SAWIVVH GHIYDCTSFL 
+NIA1_TOBAC       521   SISTPFM--N TAS-K---MY SMSEVRKHSS AD-SAWIIVH GHIYDATRFL 
+NIA1_ARATH       535   SVSSPFM--N TAS-K---MY SISEVRKHNT AD-SAWIIVH GHIYDCTRFL 
+NIA2_ARATH       532   SVSTPFM--N TTA-K---MY SMSEVKKHNS AD-SCWIIVH GHIYDCTRFL 
+NIA_VOLCA        485   PppvvaaaaN GGP-R---QY TMEEVAAHNT EE-SCWFVHG GKVYDATPYL 
+NIA_PHYIN        530   tad------- --ELSELPLI FADEVAKHNS KK-SCWFICR DLVYDATPFL 
+NIA_LEPMC        533   ---------D GVN-R---IV ELDELKWHES AE-YPWFVVN DEVYDGTSFL 
+NIA_ASPNG        511   ---------E GVN-R---II DLQEFKKNSS DE-KPWFIVN GEVYDGTAFL 
+NIA_EMENI        509   ---------E GVT-R---II DLEEFKKNSS DE-RPWFVVN GEVYDGTAFL 
+NIA_FUSOX        543   ---------P QIN-R---KI TIEELKAHSG EE-EPWFVVK GEVYDGTPYL 
+NIA_BEABA        532   ---------P KVV-R---II SLEELKAHEG EM-EPWFVVN GHVYNGTPYL 
+NIA_NEUCR        614   ---------E KVT-R---LI TLEELRQHDG EE-EPWFVVN GQVYNGTPFL 
+NIA_PICAN        494   -------MMC NREKMDVVIK YSEFEAHKDS ET-EPWFAVK GQVFDGSSYL 
+NIA_USTMA        499   PsgspkaIMI DPSKADTIIT APILAAHGDG EgpEPWFVVH GHLYDGTGFL 
+YMM5_YEAST        56   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        56   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST        64   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        45   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             88   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_             25   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           176   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A            30   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            73   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111111002 2110200023 4455555555 5506666666 6666666666 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       548   KDHPGGADSI LINAGSD-CT EEFDAIHSAK ARGLLEMYRV GELIVTGNDY 
+NIA3_MAIZE       553   KDHPGGADSI LINAGTD-CT EEFDAIHSDK AKELLDTYRI GDLVTTGGAE 
+NIA1_HORVU       571   KDHPGGADSI LINAGSD-CT EEFDAIHSDK AKALLDTYRI GELITTGTGY 
+NIA_SPIOL        584   KDHPGGSDSI LINAGTD-CT EEFDAIHSDK AKRLLEDFRI GELISTGYTS 
+NIA1_PHAVU       548   KDHPGGEDSI LLNAGTD-CT EEFEAIHSDK AKKMLEDYRI GELMTTDYTS 
+NIA1_SOYBN       546   KDHPGGTDRI LINAGTD-CT EEFEAIHSDK AKQMLEDYRI GELTTTCYNS 
+NIA_LOTJA        554   KDHPGGADSI LINAGTD-CT EEFEAIHSDK AKKMLEDYRV GELITTGYTS 
+NIA_BETVE        561   KDHPGGADSI LINAGTD-CT EEFDAIHSDK AKKMLEDYRI GELITTGYVS 
+NIA_CUCMA        576   KDHPGGSDSI LINAGTD-CT EEFDAIHSDK AKKMLEDYRI GELITTGYAS 
+NIA_CICIN        567   KDHPGGSDSI LLNAGTD-CT EEFDAIHSDK AKKLLEEYRV GELITMGYSS 
+NIA1_TOBAC       564   KDHPGGSDSI LINAGTD-CT EEFDAIHSDK AKKLLEEFRI GELLTTGYTS 
+NIA1_ARATH       578   KDHPGGTDSI LINAGTD-CT EEFEAIHSDK AKKLLEDYRI GELITTGYDS 
+NIA2_ARATH       575   MDHPGGSDSI LINAGTD-CT EEFEAIHSDK AKKMLEDYRI GELITTGYSS 
+NIA_VOLCA        530   DEHPGGAESI LIVAGAD-AT DEFNSIHSSK AKAMLAQYYI GDLVASKPAA 
+NIA_PHYIN        570   DEHPGGATSI LLCGGTD-CT DEFESIHSTK AWQMLKKYCI GRCSSTEDDT 
+NIA_LEPMC        569   EGHPGGAQSI ISAAGLD-AS DEFMAIHSET AKAMMPAYHI GTLSPTASkq 
+NIA_ASPNG        547   EGHPGGAQSI ISSAGID-VS EEFLAIHTQT AKAMMPDYHI GTMDKASLEA 
+NIA_EMENI        545   EGHPGGAQSI ISAAGTD-AS EEFLEIHSET AKKMMPDYHI GTLDKASLEA 
+NIA_FUSOX        579   SGHPGGAASI FGAAGQD-AT EEFMAIHSEN AKAMLPTYHI GTLDEESRAI 
+NIA_BEABA        568   DNHPGGATSI INAAAQD-AT EEFMTIHSEN AKAMMPQYHI GTLNDAARKA 
+NIA_NEUCR        650   EGHPGGAASI TGAAGQD-VT DEFLAIHSEN AKAMMPTYHI GTLTPSAPAA 
+NIA_PICAN        536   EDHPGGAQSI LMVSGED-AT DDFIAIHSSF AKKLLPSMHL GRLEEVSSvt 
+NIA_USTMA        549   KDHPGGDQSI VLSPGEDdAT EDFMAIHSMD AKKMLRDFHL GRLEKQDAAP 
+YMM5_YEAST        56   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST        56   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST        64   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST        45   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             88   ----GDAKSV SLCvk----- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_             25   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           176   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A            30   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            73   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       6677776777 6556656066 6665555555 5555555555 5553333211 
+ 
+1ndh_              2   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       597   S--------- P-QSSNad-- ---------- ---------- LAAIVEAPAV 
+NIA3_MAIZE       602   Q--------- R-Splelaps ppirheGPAA ---------- ---------- 
+NIA1_HORVU       620   ---------- ---NSDNS-- VHGGSS-LS- H--------- LAPIREATKV 
+NIA_SPIOL        633   D--------- S-SSPGNS-- VHGGSV-YSg lag------- LAPITE-A-- 
+NIA1_PHAVU       597   D--------- S-SSSNNS-- VHGNSE-T-- ---------- ----TH-L-- 
+NIA1_SOYBN       595   D--------- S-SSSNPS-- VHGRSD-TI- P--------- LTPIKEVI-- 
+NIA_LOTJA        603   D--------- S-SSPNNS-- LHGNSE-FK- H--------- LAPIKEITTM 
+NIA_BETVE        610   D--------- S---PNST-- VHGASN-TS- H--------- LAPIKE-I-- 
+NIA_CUCMA        625   D--------- S-SSNSPNNS THGASN-FS- H--------- LAPIRE-A-- 
+NIA_CICIN        616   D--------- S-AASSPNNS VHGATN-Ylt lhlslatike IAPTRSVA-- 
+NIA1_TOBAC       613   D--------- S---PGNS-- VHGSSS-FSS F--------- LAPIKELV-- 
+NIA1_ARATH       627   S--------- P-NVS----- VHGASN-FGP L--------- LAPIKELT-- 
+NIA2_ARATH       624   D--------- S-SSPNNS-- VHGSSAvFS- L--------- LAPIGEATPV 
+NIA_VOLCA        579   AGATvpepqp VASTSS---- -------PAV ---------- ---------- 
+NIA_PHYIN        619   G--------- TSDTSS---- -------DHE ---------- ---------- 
+NIA_LEPMC        618   lsleepts-- ------KQA- ---------- ---------- -----S-S-- 
+NIA_ASPNG        596   L--------- KNDNA---P- ---------- ---------- -----Q-S-- 
+NIA_EMENI        594   L--------- RKGNADTTD- ---------- ---------- -----S-S-- 
+NIA_FUSOX        628   L--------- S-GDAtktnd ---------- ---------- ---------- 
+NIA_BEABA        617   L--------- E-GSAEESP- ---------- ---------- -----A-S-- 
+NIA_NEUCR        699   L--------- K-SSSTSDP- ---------- ---------- -----AlS-- 
+NIA_PICAN        585   kv-------- ------KSV- ---------- ---------- -----E-Q-- 
+NIA_USTMA        599   PAATe----- ---------- ---------- ---------- ----RE-V-- 
+YMM5_YEAST        56   ---------- ---------- -------R-- ---------- ----AY-S-- 
+YMI7_YEAST        56   ---------- ---------- -------T-- ---------- ----AF-I-- 
+NC5R_YEAST        64   ---------- ---------- ------GPKT ---------- ---------- 
+MCR1_YEAST        45   ---------- ---------- ---------- ---------- ---------- 
+1fnc_             99   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- ---------- ---------- ---------- ---------- 
+1fdr_             25   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           176   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A            30   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B            73   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ndh_              2   --------AI TLENPDIKYP LRLIDKEVVN HDTRRFRFAL PS-PEHILGL 
+NIA2_MAIZE         2   ---------- ---------- ---------- ---------- -----QKLGL 
+NIA7_HORVU       615   VVPRLPasAV ALANPREKVR CRLVDKKSMS HNVRLFRFAL PS-PDQKLGL 
+NIA3_MAIZE       622   ------PV-I ALSNPREKVP CQLVARTVLS RDVRLFRFAL PS-SGQVLGL 
+NIA1_HORVU       644   AGAP-----I ALSSPREKVP CRLVDKKELS HDVRLFRFAL PS-SDQVLGL 
+NIA_SPIOL        660   ----VPLR-N VALNPRVKIP CKLIEKVSLS HDVRRFRFGL PS-EDQVLGL 
+NIA1_PHAVU       615   ----APIR-E VALNPREKIP CKLLSKTSIS HDVRLLRFAL PA-EDQVMGL 
+NIA1_SOYBN       620   ----TPMR-S VALIPREKIP CKLISKTSIS HDVRLFRFGL PS-DGLLMGL 
+NIA_LOTJA        630   SLPPLPRR-K VALIPREKIP CKLISRTSIS HDVRVFRFAL PS-EDQQLGL 
+NIA_BETVE        632   ----APLR-N VALIPGAKIP TKLVYKKSLS HDVRLFRLAL PS-DDQVLGL 
+NIA_CUCMA        651   ----PVSR-R VALAPNEKIP CKLISKTSIS HDVRVFRFAL PggQDQALGL 
+NIA_CICIN        653   ----LIPK-E IAPTRREKIP CKLISKTSVS HDVRLFRFAL PS-PDQVLGL 
+NIA1_TOBAC       637   ----PAQR-S VALIPREKIP CKLIDKQSIS PDVRKFRFAL PS-EDQVLGL 
+NIA1_ARATH       650   ----PqKN-I ALVNPREKIP VRLIEKTSIS HDVRKFRFAL PS-EDQQLGL 
+NIA2_ARATH       652   ------RN-L ALVNPRAKVP VQLVEKTSIS HDVRKFRFAL PV-EDMVLGL 
+NIA_VOLCA        598   ------DP-L VVLNPRQKVK LPLIERIELN RNTRIFRFGL PS-PQHRIGL 
+NIA_PHYIN        629   ------ET-D VALKGRTKVP IVLISREVVS HDARIFKFAL PA-KDLRLGL 
+NIA_LEPMC        631   ----SSLR-P TFLDSRTWSK ALLSSKTKVS WDTRIFRFKL DH-ASQTLGL 
+NIA_ASPNG        605   ----DEPR-A TFLQSKSWTK ATLVKRTDVS WDTRIFTFQL QH-DKQTLGL 
+NIA_EMENI        606   ----SDPR-P TFLTPKAWTK ATLTKKTSVS SDTHIFTLSL EH-PSQALGL 
+NIA_FUSOX        638   ----DADR-E VFLQAKTWSK AILDKKTSIS PDTKIFSFKL NH-EAQKIGL 
+NIA_BEABA        628   ----DPTR-A VFLQPKYWSK AILETKTDVS SDSKIFSFRL DH-AAQSIGL 
+NIA_NEUCR        711   ----DPSR-P IFLQSKTWNS AILTFKESVS PDTKIFHFAL SH-PAQSIGL 
+NIA_PICAN        592   ----NVKR-E VLLDPRKWHK ITLAEKEVIS SDSRIFKFDL EH-SEQLSGL 
+NIA_USTMA        607   ----LDLS-K PFLDPKKWRA TRLGEQANHS PDARIFRFAL GS-EDQELGL 
+YMM5_YEAST        60   ----AYKR-R RSLYPDRWTS LELEDQTIIS KNTALYRFKL KT-RLESLDI 
+YMI7_YEAST        60   ----SIGT-D KSLYRNKWVA LPLSKKTRIS RNTSLYCFKL KY-PFERLHI 
+NC5R_YEAST        68   ------KP-V LDPKRNDFQS FPLVEKTILT HNTSMYKFGL PH-ADDVLGL 
+MCR1_YEAST        45   ---------K VFKGDDKWID LPISKIEEES HDTRRFTFKL PT-EDSEMGL 
+1fnc_             99   ---------- ---------- ---------- ---------- ---------- 
+2pia_              3   ---------- --PQEDGFLR LKIASKEKIA RDIWSFELTD PQ-GAPLPPF 
+1fdr_             25   ---------- ---------- ---------- ---------- ----APVLPF 
+1krh_A           176   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A            30   ---------- ---------- ---------- ---------- ---------F 
+1ep1_B            73   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 1111222333 3344444444 4555555555 5505555666 
+ 
+1ndh_             43   PVGQHIYL-- --S-AR-IDG -N-LVIRPYT PVS-SD--DD KGFVDLVIKV 
+NIA2_MAIZE         7   PVGRHVYV-- --C-AS-IGG -K-LCMRAYT PTS-PV--DE VGHFDLLIKI 
+NIA7_HORVU       664   PVGKHVYV-- --C-AS-TGG -K-LCMRAYT PTS-SV--EE VGHVELLIKI 
+NIA3_MAIZE       664   PVGKHIFV-- --C-AS-IDG -K-LCMRAYT PTS-SV--DE VGHFDLLVKV 
+NIA1_HORVU       688   PVGKHIFV-- --C-AT-IDG -K-LCMRAYT PTS-MV--DE IGQFELLVKV 
+NIA_SPIOL        704   PVGKHIFL-- --C-AN-VDD -K-LCMRAYT PSS-TI--DV VGYFDLVVKV 
+NIA1_PHAVU       659   PVGNHVFL-- --C-AT-VDE -K-LCMRAYT PTS-SV--DE VGFFDLVVKV 
+NIA1_SOYBN       664   AVGKHIFL-- --C-VT-VDE -K-LCMRAYT PTS-SV--HE VGYFDLVVKV 
+NIA_LOTJA        678   PVGKHIFL-- --C-AT-VDG -K-LCMRAYT PTS-GV--DE VGYFELVVKV 
+NIA_BETVE        676   PVGKHVFL-- --C-AT-IDD -K-LCMRAYT PTS-TI--DE VGYLDLVVKI 
+NIA_CUCMA        696   PVGKHIFI-- --C-AT-VDG -K-LCMRAYT PTS-SI--DE MGFFELVVKV 
+NIA_CICIN        697   PVGKHVFV-- --C-AT-IDD -K-LCMRAYT PTS-TI--DE VGYFELLVKI 
+NIA1_TOBAC       681   PVGKHIFL-- --C-AV-IDD -K-LCMRAYT PTS-TI--DE VGYFELVVKI 
+NIA1_ARATH       694   PVGKHVFV-- --C-AN-IND -K-LCLRAYT PTS-AI--DA VGHIDLVVKV 
+NIA2_ARATH       694   PVGKHIFL-- --C-AT-IND -K-LCLRAYT PSS-TV--DV VGYFELVVKI 
+NIA_VOLCA        640   PVGKHVFT-- --Y-AT-ING -E-NVMRAYT PIS-GD--EE LGRLDMLIKV 
+NIA_PHYIN        671   PIGNHVFL-- --Y-AK-ING -K-TAVRAYT PIS-SENDED RGFVSFLIKV 
+NIA_LEPMC        675   PTGQHLMI-- --RLRDPVTR -E-AIIRSYT PIS-QI--SE QGFCDVLIKI 
+NIA_ASPNG        649   PIGQHLMI-- --KVADPTSK -E-AIIRSYT PIS-DT--NQ EGTMDLLVKI 
+NIA_EMENI        650   PTGQHLML-- --KTPDPKSs ssgSIIRSYT PIS-PS--DQ LGMVDILIKI 
+NIA_FUSOX        682   PTGQHLMM-- --RLRDPATR -E-AIIRSYT PYS-DG--SD CGRLDILIKI 
+NIA_BEABA        672   PTGQHLLV-- --RLRDPATR -E-AVIRAYT PLS-ET--HA KGQLDILIKI 
+NIA_NEUCR        755   PVGQHLMM-- --RLPDPAkp tE-SIIRAYT PISdGT--LE RGTLRVLVKI 
+NIA_PICAN        636   PTGKHLFL-- --RLKD-SSG -K-YVMRAYT PKS-SN--SL RGRLEILIKV 
+NIA_USTMA        651   PWpaalrlsl ekR-RT-GEA -E-MVQRAYT PYS-GN--TQ RGFLDILIKV 
+YMM5_YEAST       104   PAGHHVAV-- --R-VP-IDG -K-QEVRYYN PIS-SK--LE SGYLDLVVKA 
+YMI7_YEAST       104   PMGYHLAV-- --R-VT-ING -E-RLVRYYT PVN-VP--NT EGHLELVVKT 
+NC5R_YEAST       110   PIGQHIVI-- --K-AN-ING -K-DITRSYT PTS-LDGDtk gN-------F 
+MCR1_YEAST        85   VLASALFA-- --KFVT-PKG -S-NVVRPYT PVS-DL--SQ KGHFQLVVKH 
+1fnc_             99   ---------- ---------- ---------- ---------- --------RL 
+2pia_             40   EAGANLTV-- --AVPNg--- ----SRRTYS LCN-DS--QE RNR------- 
+1fdr_             31   TAGQFT---- ----KL-GLE -I-RVQRAYS YVN-SP--DN pD-------L 
+1krh_A           176   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A            31   RAGQYL---- ----MV-VMD -E-RDKRPFS MAS-TP--DE KGFIELHIGY 
+1ep1_B            73   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       6676766600 0050550555 0505666666 6660550055 5655666666 
+ 
+1ndh_             82   YFKDTHPK-- ----FPAGGK MSQYLESMKI GD-----T-I EFRGPNGLLV 
+NIA2_MAIZE        46   YFKDEDPK-- ----YPNGGL MSQYLDSLPL GA-----T-I DIKGPHRHIE 
+NIA7_HORVU       703   YFKDEDPK-- ----FPAGGL MSQYLDALPL GA-----P-V DIKGPVGHIE 
+NIA3_MAIZE       703   YFRNENTK-- ----FPDGGR MTQYLDSLPV GA-----H-V DVKGPLGHVE 
+NIA1_HORVU       727   YFRDEHPK-- ----FPNGGL MTQYLESLQV GS-----SyI DVKGPLGHVE 
+NIA_SPIOL        743   YFKDVHPR-- ----FPNGGV MSQHLDSLSL GS-----I-V DVKGPLGHIE 
+NIA1_PHAVU       698   YFKGVHPN-- ----FPNGGI MSQHLDSLPI GS-----V-V DVKGPLGHIE 
+NIA1_SOYBN       703   YFKGVHPK-- ----FPNGGI MSQHLDSLPI GS-----V-L DVKGPLGHIE 
+NIA_LOTJA        717   YFKGVHPK-- ----FPNGGA MSQHLDSLPI GS-----D-L DVKGPLGHIE 
+NIA_BETVE        715   YFKNSNPR-- ----FPNGGL MSQHLDSLPI GS-----V-L HVKGPLGHVE 
+NIA_CUCMA        735   YFKGVHPK-- ----FPNGGI MSQYLDSMEV GS-----T-L DVKGPLGHIE 
+NIA_CICIN        736   YFKGVEPK-- ----FPNGGL MSQHLESMEL GS-----S-I EIKGPLGHIE 
+NIA1_TOBAC       720   YFKGIHPK-- ----FPNGGQ MSQYLDSLQL GS-----F-L DVKGPLGHIE 
+NIA1_ARATH       733   YFKDVHPR-- ----FPNGGL MSQHLDSLPI GS-----M-I DIKGPLGHIE 
+NIA2_ARATH       733   YFGGVHPR-- ----FPNGGL MSQYLDSLPI GS-----T-L EIKGPLGHVE 
+NIA_VOLCA        679   YFANEHPA-- ----FPDGGK MSQHFESLRI GD-----T-V EFKGPLGHFV 
+NIA_PHYIN        712   YFAGDNPV-- ----HPEGGL FSQYLDGLHL GQ-----Q-I QIKGPLGHFT 
+NIA_LEPMC        716   YA----D--- --APGREGGK MTKALDSIPC GH-----W-V DMKGPIGKFE 
+NIA_ASPNG        690   YF----D--- --TPTVKGGK MTMALEKLAL GS-----E-I DCKGPTGRFE 
+NIA_EMENI        693   YA----E--- --TPSIPGGK MTTALDTLPL GS-----V-I ECKGPTGRFE 
+NIA_FUSOX        723   YY----D--- --TPQRKGGV MTQALDALPI GH-----W-V DFKGPTGKFV 
+NIA_BEABA        713   YR----D--- --VPGQPGGK MTQALDSIPL GH-----F-V DIKGPVGKFE 
+NIA_NEUCR        798   YYA--SP--- --TEDIKGGQ MTQALDALAL GK-----A-V EFKGPVGKFV 
+NIA_PICAN        676   YFP--NRE-- ----YPNGGI MTNLIENLQV GN-----Q-I EVKGPVGEFE 
+NIA_USTMA        694   YFP--SDaaa tsAPAFEGGK MTMLLEKIDV SSpsddlT-I ELKGPLGSFT 
+YMM5_YEAST       143   Y--------- ------VDGK VSKYFAGLNS GD-----T-V DFKGPIGTLN 
+YMI7_YEAST       143   Y--------- ------KHGV VSKYFDKLKI RQ-----Y-V EFKGPLGELE 
+NC5R_YEAST       144   EL----L--- --VKSYPTGN VSKMIGELKI GD-----S-I QIKGPRGNYH 
+MCR1_YEAST       125   Y--------- ------EGGK MTSHLFGLKP ND-----T-V SFKGPIMKWK 
+1fnc_            101   IYT--ND--- --AGETIKGV CSNFLCDLKP GA-----E-V KLTGPVGKEM 
+2pia_             69   YVIAVKRD-- ----SNGRGG SISFIDDTSE GD-----A-V EVSLPRNEF- 
+1fdr_             60   EF----Y--- --LVTVPDGK LSPRLAALKP GD-----E-V QVVSEAAGF- 
+1krh_A           176   ---------- -----PQGKM SEYLSVQAKA GD-----K-M SFTGPFGSF- 
+1qfj_A            67   A--------- ------K--- --AVMDRILK DH-----Q-I VVDIPHG-EA 
+1ep1_B            73   ---------- -----GDETT GTYKLSKLES GA-----K-V DVMGPLGNG- 
+                                                                 
+                       6532334400 0000444666 6666776666 7600000606 7777777766 
+ 
+1ndh_            120   YQGKGKFAIR PdkksspvIK TVKSVGMIAG GTGITPMLQV IRAIMKD--- 
+NIA2_MAIZE        84   YTGRRRFVVN -GK-----QR HARRLAMIQA GRGTTPDDDT EQAVLRDQ-- 
+NIA7_HORVU       741   YAGRGAFTVG -GE-----RR FARRLAMVAG GTGITPVYQV IQAVLRDQ-- 
+NIA3_MAIZE       741   YVGRGGFVID -GK-----PR KAGRLAMVAG GSGITPIYQV IQAVLRDQ-- 
+NIA1_HORVU       766   YTGRGNFVIN -GK-----QR RARRLAMICG GSGITPMYQV IQAVLRDQ-- 
+NIA_SPIOL        781   YLGKGNFTVH -GK-----PK FAKKLAMISG GTGITPIYQV MQAILKD--- 
+NIA1_PHAVU       736   YTGRGNFLVH -GK-----PR FAKRLTMLAG GTGITPIYQV VQAILKD--- 
+NIA1_SOYBN       741   YTGRGNFLVH -GK-----PR FATRLAMLAG GTGITPIYQV VQAILKD--- 
+NIA_LOTJA        755   YTGRGNFLVH -GK-----HR FAKKLAMLAG GTGITPIYQV AQAILKD--- 
+NIA_BETVE        753   YTGRGNFLVH -GE-----PK FAKRLAMVAG GTGITPIYQV IQAILKD--- 
+NIA_CUCMA        773   YTGRGNFMVH -GK-----PR FARRLAMLAG GTGITPIYQV VQAILKD--- 
+NIA_CICIN        774   YMGRGTFSVH -GK-----QK FARKLAMFAG GTGITPDLSS DASYLKD--- 
+NIA1_TOBAC       758   YQGKGNFLVH -GK-----QK FAKKLAMIAG GTGITPVYQV MQAILKD--- 
+NIA1_ARATH       771   YKGKGNFLVS -GK-----PK FAKKLAMLAG GTGITPIYQI IQSILSD--- 
+NIA2_ARATH       771   YLGKGSFTVH -GK-----PK FADKLAMLAG GTGITPVYQI IQAILKD--- 
+NIA_VOLCA        717   YDGRGSYTLN -GKl----HK HATHMSFVAG GTGITPCYAV IKAALRD--- 
+NIA_PHYIN        750   YYGDGNFSLE -TT-----NF HAYKFGFVAG GTGITPVYQV MRAILED--- 
+NIA_LEPMC        751   YLGKGVCSIN -GN-----ER RVRSMKMICG GSGITPIYQV LRAILQD--- 
+NIA_ASPNG        725   YLGNGKILVS -GK-----ER HVSSFKMICG GTGITPIFQV LRAVMQD--- 
+NIA_EMENI        728   YLDRGRVLIS -GK-----ER FVKSFVMICG GTGITPVFQV LRAVMQD--- 
+NIA_FUSOX        758   YHGNGLCTIN -EK-----ER RVRRFIMVCG GSGITPIRQV LRAVIDN--- 
+NIA_BEABA        748   YLGKGHCTVS -GT-----SR HVRRFVMICA GSGVTPIFQV LRAVTSD--- 
+NIA_NEUCR        835   YQGRGVCSVN -GR-----ER KVKRFVMVCG GSGVTPIYQV AEAVAVD--- 
+NIA_PICAN        712   YVKCGHCSFN -NK-----PY QMKHFVMISG GSGITPTYQV LQAIFSD--- 
+NIA_USTMA        741   YLGQQQIRWK PAS-----AC SLRKLAMIAG GSGITPIWST LKAIADEVLd 
+YMM5_YEAST       172   Y--------- --E-----PN SSKHLGIVAG GSGITPVLQI LNEIITV--- 
+YMI7_YEAST       172   Y--------- --D-----QD TATELGIIAG GSGITPVLQV LQEIIPS--- 
+NC5R_YEAST       179   Y--------- --E-----RN CRSHLGMIAG GTGIAPMYQI MKAIAMD--- 
+MCR1_YEAST       154   W--------- --Q-----PN QFKSITLLGA GTGINPLYQL AHHIVEN--- 
+1fnc_            138   LM-------- --P-----KD PNATIIMLGT GTGIAPFRSF LWKMFFE--- 
+2pia_            106   P--------- --L-----DK RAKSFILVAG GIGITPMLSM ARQLRAEGL- 
+1fdr_             94   F-------VL -DE-----VP HCETLWMLAT GTAIGPYLSI LRLGKDl--- 
+1krh_A           204   Y--------- --L-----RD VKRPVLMLAG GTGIAPFLSM LQVLEQK--- 
+1qfj_A            90   WL-------- --R-----DD EERPMILIAG GTGFSYARSI LLTALAR--- 
+1ep1_B           101   F-------PV -AE-----VT STDKILIIGG GIGVPPLYEL AKQLEKT--- 
+                                                                 
+                       6566545454 0550000044 4556667777 7788887777 7777766000 
+ 
+1ndh_            167   -------PDD HTVCH----L LFANQTEKDI LLRPELEE-L RNEHS--ARF 
+NIA2_MAIZE       126   -------PDD DTEMH----L VYANRTDHDM LLREEIDRaW LPRTRRLKVW 
+NIA7_HORVU       783   -------PDD TTEMH----L VYANRTEDDM LLREEIDR-W AAANP--ARL 
+NIA3_MAIZE       783   -------PED KTEMH----L VYANRTEDDI LLRAELDR-W AAEYP--ERL 
+NIA1_HORVU       808   -------PED ETEMH----L VYANRSEDDI LLRDELDR-W AAEYP--DRL 
+NIA_SPIOL        822   -------PED KTEMH----V VYANRTEEDI LLREELDK-W ADEFR--DRV 
+NIA1_PHAVU       777   -------PED RTEMY----V VYANRTEDDI LLKEELDE-W AKKHDRLKVW 
+NIA1_SOYBN       782   -------PED CTEMH----V VYANRTEDDI LLKEELDE-W AKKYDRLKVW 
+NIA_LOTJA        796   -------PED HTKMY----V VYANRTEDDI LLREELDT-W AKKYE--DRF 
+NIA_BETVE        794   -------PED ETEMF----V VYANRTEDDI LLREELDD-W AKKHEKLKVW 
+NIA_CUCMA        814   -------PED ETEMY----V VYANRTEDDI LLRDELDT-W AKKNQRLKVW 
+NIA_CICIN        815   -------PED DTEMY----V VYANRTEDDI LLREELDA-W ADKYS--DRV 
+NIA1_TOBAC       799   -------PED DTEMY----V VYANRTEDDI LLKEELDS-W AEKIP--ERV 
+NIA1_ARATH       812   -------PED ETEMY----V VYANRTEDDI LVREELEG-W ASKHK--ERL 
+NIA2_ARATH       812   -------PED ETEMY----V IYANRTEEDI LLREELDG-W AEQYP--DRL 
+NIA_VOLCA        759   -------PED KTQIS----L VFANNTEEDI LLREELDE-L ANNHP--DRF 
+NIA_PHYIN        791   -------AKD QTKVA----L IYCVRSQRDL LLRKELET-L QKLRP--GQC 
+NIA_LEPMC        792   -------SAD STHCT----V LNGNRLEEDI LCREDLDR-F AEENG--ERC 
+NIA_ASPNG        766   -------KQD PTSCV----V LDGNRQEEDI LCRADLDA-Y EALDS--KKC 
+NIA_EMENI        769   -------EQD ETKCV----M LDGNRLEEDI LLKNELDE-F EALAGKKEKC 
+NIA_FUSOX        799   -------PKD TTPCL----V FNGNRSVNDI LCMEELEE-L EAANP--SRC 
+NIA_BEABA        789   -------AQD GTECL----V LDGNRCEKDI LCREELDA-M VARAP--ART 
+NIA_NEUCR        876   -------DQD GTECL----V LDGNRVEGDI LMKSELDE-L VERAkpmGRC 
+NIA_PICAN        753   -------PED RTSVQ----L FFGNKKVDDI LLREELDH-I QEKYP--EQF 
+NIA_USTMA        786   asnpsspALD PIQIW----I VYGNRTEQDI LIREELDA-L SRLKGNLKVW 
+YMM5_YEAST       203   -------PED LTKVS----L LYANETENDI LLKDELDE-M AEKYPHFQVH 
+YMI7_YEAST       203   -------PED LTHIS----L IYANETEDDI LMKSQLDH-M AKEYPHFKVH 
+NC5R_YEAST       210   -------PHD TTKVS----L VFGNVHEEDI LLKKELEA-L VAMKP--SQF 
+MCR1_YEAST       185   -------PND KTKVN----L LYGNKTPQDI LLRKELDA-L KEKYP--DKF 
+1fnc_            170   -------KHD DYKFNglawL FLGVPTSSSL LYKEEFEK-M KEKAP--DNF 
+2pia_            139   ---------- ---------- ---------- ---------- ----RSFRLY 
+1fdr_            128   --------DR FKNLV----L VHAARYAADL SYLPLMQE-L EKRYE--GKL 
+1krh_A           235   -------GSE HPVRL----V FGVTQDCDLV ----ALEQ-L DALQQKLPWF 
+1qfj_A           122   -------NPN RDITI----Y WGGREEQHLY ----DLCE-L EALSLKHPGL 
+1ep1_B           135   -------GCQ MTILL----G Fasenvki-- ---------- ---------- 
+                                                                 
+                       0000000778 7877700007 7777777777 7666666505 5444300333 
+ 
+1ndh_            203   KLWYT---VD R---A----- -----PE--A --------WD YSQGFVNEEM 
+NIA2_MAIZE       165   YVVS-----K V---P----- -----ED--G --------WE YGVGRVDEHV 
+NIA7_HORVU       819   KVWYV---VS KVGRP----- -----ED--A --------WE YGVGRVDEQV 
+NIA3_MAIZE       819   KVWYV---VS QVKRl----- ------D--E --------WK YSVGIVTEAV 
+NIA1_HORVU       844   KVWYVidqVK R---P----- -----ED--G --------WK FSVGFVTEDI 
+NIA_SPIOL        858   KVWYV---VE K---A----- -----EE--G --------WK YDTGFISEKI 
+NIA1_PHAVU       815   YVLQ-----A N---I----- -----RE--G --------WE YSVGFITESI 
+NIA1_SOYBN       820   YVIQ-----E S---I----- -----RE--G --------WE YSVGFITESI 
+NIA_LOTJA        832   KVWYV---VE T---A----- -----KE--G --------WG YSVGFVTEGV 
+NIA_BETVE        832   YVVK-----E S---K----- -----RE--G --------WE YSVGYIRESI 
+NIA_CUCMA        852   YVVQ-----E S---I----- -----RE--G --------WE YSVGFITENI 
+NIA_CICIN        851   KVWYV---VA K---SI---- -----RE--G --------WK YSEGFITEDI 
+NIA1_TOBAC       835   KVWYV---VQ D---SI---- -----KE--G --------WK YSLGFISEAI 
+NIA1_ARATH       848   KIWYV---VE I---A----- -----KE--G --------WS YSTGFITEAV 
+NIA2_ARATH       848   KVWYV---VE S---A----- -----KE--G --------WA YSTGFISEAI 
+NIA_VOLCA        795   HLWHT---VS Q---TN---- -----SS--D --------WK FSTGRVTLEM 
+NIA_PHYIN        827   RIFYT---LS D---ME---- -----LL--D rndpivrgWA YGKSRLNFAM 
+NIA_LEPMC        828   TLVHT---LT Q---A----- -----AE--G --------WT GRRGRIGEEL 
+NIA_ASPNG        802   KVVHT---LT K---A----- -----PD--S --------WT GRRGRISEDL 
+NIA_EMENI        807   KIVHT---LT K---G----- -----SE--S --------WT GRRGRIDEEL 
+NIA_FUSOX        835   RVVNA---LS N---PP---- -----PE--- --------WN GLKGFVNQAL 
+NIA_BEABA        825   TLLHK---LS R---PD---- -----AS--- --------WC GLRGRMDKEY 
+NIA_NEUCR        914   RVKYT---LS R---PG---- -----AE--- --------WE GLRGRLDKTM 
+NIA_PICAN        789   KVDYS---LS D---LDhl-- -----PE--N --------WS GVRGRLTFDI 
+NIA_USTMA        831   HVLSN---CT P---E----- -----NE--A nwsmgrgisl pmslgapatn 
+YMM5_YEAST       241   YVVH-----Y ----P----- -----SD--R --------WT GDVGYITKDQ 
+YMI7_YEAST       241   YVIH-----K ----P----- -----NG--K --------WN GDVGYVTLEE 
+NC5R_YEAST       246   KIVYY---LD S---PD---- -----RE--D --------WT GGVGYITKDV 
+MCR1_YEAST       221   NVTYF---VD D---K----- -----QDDQD --------FD GEISFISKDF 
+1fnc_            210   RLDFA---VS R---E----- -----QTNEK GEKMYIQ--T RMAQYAVElw 
+2pia_            145   YLTR-----D ----Pegtaf fdeltSD--E --------WR SDVKIhh--- 
+1fdr_            163   RIQTV---VS R---ET---- -----AA--G sltgripali esgeles--- 
+1krh_A           269   EYRTV---VA H---A----- -----ESqhe rk-------- ---GYVT-GH 
+1qfj_A           156   QVVPV---VE Q---P----- -----EA--G --------WR GRTGTVLTAV 
+1ep1_B           152   --------LE N---E----- -----FSNLK NVTLKIA--T DDGSYGTKGH 
+                                                                 
+                       3332100011 1000100000 0000012002 0000000022 2233333333 
+ 
+1ndh_            227   IRDHLP---- P-------P- EE-EPLVLMC GPPPMIQY-- ---------- 
+NIA2_MAIZE       187   MREHLP---- L-------G- DS-ETIALVC GPPAMIEC-- ---------- 
+NIA7_HORVU       846   LREHLP---- L-------Gg DG-ETLALVC GPPAMLEC-- ---------- 
+NIA3_MAIZE       845   LRDDVP---- E-------A- RD-GTLALLC GPPSMIQS-- ---------- 
+NIA1_HORVU       871   LRAHVP---- E-------G- GD-DTLALAC GPPPMIKF-- ---------- 
+NIA_SPIOL        882   LRDHVP---- A-------V- GD-DVLALTC GPPPMIQF-- ---------- 
+NIA1_PHAVU       837   LREHVP---- L-------A- SP-DTLALTC GPPPMIQF-- ---------- 
+NIA1_SOYBN       842   LTEHIP---- N-------A- SP-DTLALTC GPPPMIQF-- ---------- 
+NIA_LOTJA        856   MREHLP---- E-------A- GD-DALALAC GPPPMIQF-- ---------- 
+NIA_BETVE        854   LREHIP---- E-------G- SD-DVLALAC GAPSMIEE-- ---------- 
+NIA_CUCMA        874   LREHIP---- A-------A- AE-DTLALAC GPPAMIQF-- ---------- 
+NIA_CICIN        876   MREHVP---- E-------V- SE-DTLALAC GPPPMIQF-- ---------- 
+NIA1_TOBAC       860   LREHIP---- E-------P- SH-TTLALAC GPPPMIQF-- ---------- 
+NIA1_ARATH       872   LREHIP---- E-------G- LEGESLALAC GPPPMIQF-- ---------- 
+NIA2_ARATH       872   MREHIP---- D-------G- LDGSALAMAC GPPPMIQF-- ---------- 
+NIA_VOLCA        820   FKQHLF---- Ac------S- GP-ECLALMC GPPAMLEH-- ---------- 
+NIA_PHYIN        860   VKNi------ I-------G- SD-AEDVCMC GPEGMIEY-- ---------- 
+NIA_LEPMC        852   LKEFCG---- T--------- EE-DGLVLVC GPEGLERS-- ---------- 
+NIA_ASPNG        826   LKEHAi---- --------P- DG-KSMVLIC GPEAMEKS-- ---------- 
+NIA_EMENI        831   IRQHAG---- T-------P- DR-ETMVLVC GPEAMEKA-- ---------- 
+NIA_FUSOX        859   VPEYMdlpka S-------G- EG-DELLLVC GPPPMVKA-- ---------- 
+NIA_BEABA        849   LEEHIG---- G-----FRK- SDGREMVLVC GPAALEET-- ---------- 
+NIA_NEUCR        938   LEREVGe--- G-------D- LRGETMVLLC GPEGMQNM-- ---------- 
+NIA_PICAN        816   LDTYVR---- G-------K- KMGEYMLLVC GPPGMNGV-- ---------- 
+NIA_USTMA        863   hrqscfg--- G-------D- ELEDTLALVC GPPPMEKA-- ---------- 
+YMM5_YEAST       262   MNRYLP---- E-------Y- SE-DNRLLIC GPDGMNNL-- ---------- 
+YMI7_YEAST       262   MKRYLP---- K-------Q- AE-DHRLLIC GPPKMNEM-- ---------- 
+NC5R_YEAST       271   IKEHLP---- A-------A- TMDNVQILIC GPPAMVAS-- ---------- 
+MCR1_YEAST       247   IQEHVP---- G-------P- KE-STHLFVC GPPPFMNAys gekkspkdqg 
+1fnc_            242   eml------- ---------- KKDNTYVYMC GLKGMEKG-- ---------- 
+2pia_            173   --DHGdptka fdfwsvFEK- SKPAQHVYCC GPQALMDT-- ---------- 
+1fdr_            193   -TIGLP---- M-------N- KE-TSHVMLC GNPQMVRD-- ---------- 
+1krh_A           291   Ieydw----- L-------N- GG-EVDVYLC GPVPMVEA-- ---------- 
+1qfj_A           180   LQDHGT---- L-------A- EHD---IYIA GRFEMAKI-- ---------- 
+1ep1_B           179   VGMLMN---- E-------I- DFEVDALYTC GAPAMLKA-- ---------- 
+                                                                 
+                       3333220000 1000000010 2203344444 4444443300 0000000000 
+ 
+1ndh_            252   -ACLPNLERV GHPKERCFAF ---------- ---------- ---------- 
+NIA2_MAIZE       212   -TVRPGLEKM GYDLDKACLV F--------- ---------- ---------- 
+NIA7_HORVU       872   -TVRPGLEKM GYDLDKDCLV F--------- ---------- ---------- 
+NIA3_MAIZE       870   -PILPNLEKM KHQLDDSVVS F--------- ---------- ---------- 
+NIA1_HORVU       896   -AISPNLEKM KYDMANSFIS F--------- ---------- ---------- 
+NIA_SPIOL        907   -AVQPNLDKM GFDIKEQLLI F--------- ---------- ---------- 
+NIA1_PHAVU       862   -AVQPNLEKL GYDIQNDLLV F--------- ---------- ---------- 
+NIA1_SOYBN       867   -AVQPNLEKL GYDTQNNLLV F--------- ---------- ---------- 
+NIA_LOTJA        881   -AVNPNLEKM GYDVKNDLLV F--------- ---------- ---------- 
+NIA_BETVE        879   -AVRLNLEKM NYDTKNSLII F--------- ---------- ---------- 
+NIA_CUCMA        899   -AVQPNLEKM NYDTKNSLLV F--------- ---------- ---------- 
+NIA_CICIN        901   -AINPNLEKM GYDIKNSLLV F--------- ---------- ---------- 
+NIA1_TOBAC       885   -AVNPNLEKM GYDIKDSLLV F--------- ---------- ---------- 
+NIA1_ARATH       898   -ALQPNLEKM GYNVKEDLLI F--------- ---------- ---------- 
+NIA2_ARATH       898   -AVQPNLEKM QYNIKEDFLI F--------- ---------- ---------- 
+NIA_VOLCA        846   -CCVPFLESM GYSKEQMIHF ---------- ---------- ---------- 
+NIA_PHYIN        883   -ACKPALLKL NYDLKTQTTV F--------- ---------- ---------- 
+NIA_LEPMC        876   -VKGLLSGMA WRDDDVIFF- ---------- ---------- ---------- 
+NIA_ASPNG        850   -ARKILLEQG WAESDLHFF- ---------- ---------- ---------- 
+NIA_EMENI        856   -SKKILLSLG WKEENLHYF- ---------- ---------- ---------- 
+NIA_FUSOX        888   -VEASFLGMG FKSDDFVFF- ---------- ---------- ---------- 
+NIA_BEABA        877   -VRSVLVEMA WKPEDMLFF- ---------- ---------- ---------- 
+NIA_NEUCR        965   -VREVLKGMG WKDEDVLVF- ---------- ---------- ---------- 
+NIA_PICAN        842   -VENWCNARK LDKQYVVYF- ---------- ---------- ---------- 
+NIA_USTMA        890   -VSDGLNELG WDLQRCVVFf ---------- ---------- ---------- 
+YMM5_YEAST       287   -ALQYAKELG WKVNSTRSSG DDQVFVF--- ---------- ---------- 
+YMI7_YEAST       287   -VLNYAKELG WSNGFHKGNG TDKVFVF--- ---------- ---------- 
+NC5R_YEAST       297   -VRRSTVDLG FRRSKPLSKM EDQVFVF--- ---------- ---------- 
+MCR1_YEAST       284   eLIGILNNLG YSKDQVFKF- ---------- ---------- ---------- 
+1fnc_            263   -IDDIMVSLA AAEGIdwiey krqlkkaeqw nvevy----- ---------- 
+2pia_            208   -VRDMTgh-- WPSGTVHFES FGAtntnare ntpftvrlsr sgtsfeipan 
+1fdr_            217   -TQQLLKETR QMTKHLRRRp ghmtaehyw- ---------- ---------- 
+1krh_A           315   -VRSWLDTQG IQPANFLFEK FSAn------ ---------- ---------- 
+1qfj_A           203   -ARDLFCSER NAREDRLFgd afafi----- ---------- ---------- 
+1ep1_B           205   -VAKKYDQLE RLYISMESRm ---------- ---------- ---------- 
+                                                                 
+                       0333333333 2222222222 2000000000 0000000000 0000000000 
+ 
+1ndh_            271   ---------- ---------- ---------- ---------- ---------- 
+NIA2_MAIZE       232   ---------- ---------- ---------- ---------- ---------- 
+NIA7_HORVU       892   ---------- ---------- ---------- ---------- ---------- 
+NIA3_MAIZE       890   ---------- ---------- ---------- ---------- ---------- 
+NIA1_HORVU       916   ---------- ---------- ---------- ---------- ---------- 
+NIA_SPIOL        927   ---------- ---------- ---------- ---------- ---------- 
+NIA1_PHAVU       882   ---------- ---------- ---------- ---------- ---------- 
+NIA1_SOYBN       887   ---------- ---------- ---------- ---------- ---------- 
+NIA_LOTJA        901   ---------- ---------- ---------- ---------- ---------- 
+NIA_BETVE        899   ---------- ---------- ---------- ---------- ---------- 
+NIA_CUCMA        919   ---------- ---------- ---------- ---------- ---------- 
+NIA_CICIN        921   ---------- ---------- ---------- ---------- ---------- 
+NIA1_TOBAC       905   ---------- ---------- ---------- ---------- ---------- 
+NIA1_ARATH       918   ---------- ---------- ---------- ---------- ---------- 
+NIA2_ARATH       918   ---------- ---------- ---------- ---------- ---------- 
+NIA_VOLCA        865   ---------- ---------- ---------- ---------- ---------- 
+NIA_PHYIN        903   ---------- ---------- ---------- ---------- ---------- 
+NIA_LEPMC        894   ---------- ---------- ---------- ---------- ---------- 
+NIA_ASPNG        868   ---------- ---------- ---------- ---------- ---------- 
+NIA_EMENI        874   ---------- ---------- ---------- ---------- ---------- 
+NIA_FUSOX        906   ---------- ---------- ---------- ---------- ---------- 
+NIA_BEABA        895   ---------- ---------- ---------- ---------- ---------- 
+NIA_NEUCR        983   ---------- ---------- ---------- ---------- ---------- 
+NIA_PICAN        860   ---------- ---------- ---------- ---------- ---------- 
+NIA_USTMA        909   ---------- ---------- ---------- ---------- ---------- 
+YMM5_YEAST       313   ---------- ---------- ---------- ---------- ---------- 
+YMI7_YEAST       313   ---------- ---------- ---------- ---------- ---------- 
+NC5R_YEAST       323   ---------- ---------- ---------- ---------- ---------- 
+MCR1_YEAST       303   ---------- ---------- ---------- ---------- ---------- 
+1fnc_            297   ---------- ---------- ---------- ---------- ---------- 
+2pia_            255   rsilevlrda nvrvpsSCES GTCGSCktal csgeadhrdm vlrddekgtq 
+1fdr_            245   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           338   ---------- ---------- ---------- ---------- ---------- 
+1qfj_A           227   ---------- ---------- ---------- ---------- ---------- 
+1ep1_B           224   ---------- ------ACGI GACYACvehd kedeshalkv cedgpvflgk 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ndh_            271   ---------- ------- 
+NIA2_MAIZE       232   ---------- ------- 
+NIA7_HORVU       892   ---------- ------- 
+NIA3_MAIZE       890   ---------- ------- 
+NIA1_HORVU       916   ---------- ------- 
+NIA_SPIOL        927   ---------- ------- 
+NIA1_PHAVU       882   ---------- ------- 
+NIA1_SOYBN       887   ---------- ------- 
+NIA_LOTJA        901   ---------- ------- 
+NIA_BETVE        899   ---------- ------- 
+NIA_CUCMA        919   ---------- ------- 
+NIA_CICIN        921   ---------- ------- 
+NIA1_TOBAC       905   ---------- ------- 
+NIA1_ARATH       918   ---------- ------- 
+NIA2_ARATH       918   ---------- ------- 
+NIA_VOLCA        865   ---------- ------- 
+NIA_PHYIN        903   ---------- ------- 
+NIA_LEPMC        894   ---------- ------- 
+NIA_ASPNG        868   ---------- ------- 
+NIA_EMENI        874   ---------- ------- 
+NIA_FUSOX        906   ---------- ------- 
+NIA_BEABA        895   ---------- ------- 
+NIA_NEUCR        983   ---------- ------- 
+NIA_PICAN        860   ---------- ------- 
+NIA_USTMA        909   ---------- ------- 
+YMM5_YEAST       313   ---------- ------- 
+YMI7_YEAST       313   ---------- ------- 
+NC5R_YEAST       323   ---------- ------- 
+MCR1_YEAST       303   ---------- ------- 
+1fnc_            297   ---------- ------- 
+2pia_            305   imvcvsraks aelvldl 
+1fdr_            245   ---------- ------- 
+1krh_A           338   ---------- ------- 
+1qfj_A           227   ---------- ------- 
+1ep1_B           258   qlsl------ ------- 
+                             
+                       0000000000 0000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1ndh_       :0.008420(NIA2_MAIZE  :0.007948((((((NIA7_HORVU  :0.001119NIA1_HORVU  :0.001119):0.000065((((NIA_SPIOL   :0.000974(NIA_CICIN   :0.000941NIA1_TOBAC  :0.000941):0.000033):0.000020(NIA_BETVE   :0.000922NIA_CUCMA   :0.000922):0.000072):0.000022(NIA1_ARATH  :0.000944NIA2_ARATH  :0.000944):0.000072):0.000012((NIA1_PHAVU  :0.000945NIA1_SOYBN  :0.000945):0.000021NIA_LOTJA   :0.000966):0.000063):0.000155):0.000143NIA3_MAIZE  :0.001327):0.000812NIA_VOLCA   :0.002139):0.000266NIA_PHYIN   :0.002404):0.000921((((NIA_LEPMC   :0.001337(NIA_ASPNG   :0.001035NIA_EMENI   :0.001035):0.000302):0.000227((NIA_FUSOX   :0.001222NIA_BEABA   :0.001222):0.000238NIA_NEUCR   :0.001460):0.000103):0.000653NIA_PICAN   :0.002216):0.000768NIA_USTMA   :0.002984):0.000341):0.004622):0.000472):0.008638(((YMM5_YEAST  :0.005247YMI7_YEAST  :0.005247):0.007522NC5R_YEAST  :0.012769):0.002910MCR1_YEAST  :0.015679):0.001379):0.097973((2pia_       :0.0703191krh_A      :0.070319):0.0199031ep1_B      :0.090222):0.024809):0.045140((1fnc_       :0.0868631fdr_       :0.086863):0.0625991qfj_A      :0.149462):0.010709);
+ 
+ 

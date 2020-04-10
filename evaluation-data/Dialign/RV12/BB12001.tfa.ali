@@ -1,0 +1,221 @@
+1ac5_              1   lpsseeykva yel------- ---------- ---------- LPGLS----- 
+1ysc_              1   ---------- ---------- ---------- ------KIKD PKILG----- 
+1ivy_A             1   ---------- ---------- ---------- -APDQDEIQR LPGLA----- 
+CPS1_PENJA         1   f--------- ---------- ---------- -------VKN SGICE----- 
+CBPX_ORYSA         1   ---------- ---------- ---------- ------MATG KSGGS----- 
+CPVL_HUMAN         1   ---------- -MVGAMWKVI VSLVLLMP-- ---------- ---Gpcdglf 
+YUA6_CAEEL         1   mvmsrtlvlv aLLGFAYVCE SALITNLP-- ---------- ---GA----- 
+CBP1_HORVU         1   marcrrrsgc tagaal-LLL LALALSGGGG AAPQGAEVTG LPGFD----- 
+NF31_NAEFO         1   mmmrcvn--- ---------- ---------G QTAQDHLVTQ LPGLS----- 
+YSS2_CAEEL         1   mkllsilfif vssysfcl-- ---------- AAPATDKVND LPGLT----- 
+RISC_HUMAN         1   melalrrspv pr----WLLL LPLLLGLNAG AVIDWPTEEG KEVWD----- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ac5_             19   ---------- ---------- ---------- ---------- --EVPDpsni 
+1ysc_             10   ---------- ---------- ---------- ---------- --IDPNVTQ- 
+1ivy_A            15   ---------- ---------- ---------- ---------- --KQPSFRQ- 
+CPS1_PENJA        10   ---------- ---------- ---------- ---------- --TTPGVNQ- 
+CBPX_ORYSA        10   ---------- ---------- ---------- ---------- --SAEDLGH- 
+CPVL_HUMAN        25   rslyrsvsmp pkgdsgqplf ltpyieagki qkgrelslvg pfPGLNMKS- 
+YUA6_CAEEL        31   ---------- ---------- ---------- ---------- --PISNFKQ- 
+CBP1_HORVU        45   ---------- ---------- ---------- ---------- --GALPSKH- 
+NF31_NAEFO        24   ---------- ---------- ---------- ---------- --GNIGVKS- 
+YSS2_CAEEL        34   ---------- ---------- ---------- ---------- --FTPDFFH- 
+RISC_HUMAN        42   ---------- ---------- ---------- ---------- --YVTVRKda 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ac5_             27   pqmHAGHipl rsedadeqDS -SDLEYFFWK FTNNDSNGNv DRPLIIWLNG 
+1ysc_             17   ---YTGYLDV --------ED -EDKHFFFWT FESRNDP-A- KDPVILWLNG 
+1ivy_A            22   ---YSGYLKS --------SG S--KHLHYWF VESQKDP-E- NSPVVLWLNG 
+CPS1_PENJA        17   ---YSGYLSV --------GS --NMNMWFWF FEARNNP-Q- QAPLAAWFNG 
+CBPX_ORYSA        17   ---HAGYYRL --------PN THDARLFYFF FESRGSKGE- DDPVVIWLTG 
+CPVL_HUMAN        74   ---YAGFLTV --------NK TYNSNLFFWF FPAQIQP-E- DAPVVLWLQG 
+YUA6_CAEEL        38   ---YSGYYNV --------GT KKNHMLHYWF VESQSNP-S- TDPVLLWLTG 
+CBP1_HORVU        52   ---YAGYVTV --------DE GHGRNLFYYV VESERDP-G- KDPVVLWLNG 
+NF31_NAEFO        31   ---YTGYLLA --------NA TRGRYLFYWF FESMRNP-S- QDPLVMWTNG 
+YSS2_CAEEL        41   ---YSGYLRA --------WT --DKYLHYWL TESSRAP-T- QDPLVLWLNG 
+RISC_HUMAN        50   ymfwwl---- ---------- -------YYA TNSCKNF-S- ELPLVMWLQG 
+                                                                 
+                       0000000000 0000000000 0001134666 6555556060 6799999999 
+ 
+1ac5_             76   GPGCSSMD-G ALVESGPFRV NSDG------ KLYLNEGSWI SKGDLLFIDQ 
+1ysc_             53   GPGCSSLT-G LFFELGPssI -GPDLK---- -PIGNPYSWN SNATVIFLDQ 
+1ivy_A            57   GPGCSSLD-G LLTEHGPFLV QPDGVT---- -LEYNPYSWN LIANVLYLES 
+CPS1_PENJA        52   GPGCSSMI-G LFQENGPCHf vngDST---- -PSLNENSWN NYANMIYIDQ 
+CBPX_ORYSA        55   GPGCSSEL-A LFYENGPFHI -ADNMS---- -LVWNDFGWD QESNLIYVDQ 
+CPVL_HUMAN       111   GPGGSSMF-G LFVEHGPYVV -TSNMT---- -LRDRDFPWT TTLSMLYIDN 
+YUA6_CAEEL        75   GPGCSGLS-A LLTEWGPWNV NTDGAT---- -LRTNPYSWN KNASILTLEA 
+CBP1_HORVU        89   GPGCSSFD-G FVYEHGPFNF ESGGsvkslp KLHLNPYAWS KVSTMIYLDS 
+NF31_NAEFO        68   GPGCSSLG-G EASEHGLFLV NADGAT---- -ITRNPYSWN RVSNILYIEQ 
+YSS2_CAEEL        76   GPGCSSLD-G LIEELGPFHV KDFGNS---- -IYYNEYAWN KFANVLFLES 
+RISC_HUMAN        77   GPGGSSTGfG NFEEIGPl-- ---DSD---- -LKPRKTTWL QAASLLFVDN 
+                                                                 
+                       9999988808 7777776422 1122120000 0222444555 5555555555 
+ 
+1ac5_            119   PTGTGFSVEQ NKDEgkidkn kFDE-DLEDV TKHFMDFLEN YFKIFPED-- 
+1ysc_             96   PVNVGFSYSG SSG------- --VS-NTVAA GKDVYNFLEL FFDQFPEYvn 
+1ivy_A           101   PAGVGFSYSD DKF------- -YAT-NDTEV AQSNFEALQD FFRLFPEY-- 
+CPS1_PENJA        96   PIGVGFSYGT DDV------- -TST---VTA APYVWNLLQA FYAQRPEY-- 
+CBPX_ORYSA        98   PTGTGFSYSS NPRDtrh--- -----DEAGV SNDLYAFLQA FFTEHPNF-- 
+CPVL_HUMAN       154   PVGTGFSFTD DTHG------ -YAV-NEDDV ARDLYSALIQ FFQIFPEY-- 
+YUA6_CAEEL       119   PAGVGYSYAT DNN------- -IATG-DDQT ASENWEALVA FFNEFPQY-- 
+CBP1_HORVU       138   PAGVGLSYSK NVSD------ -YET-GDLKT ATDSHTFLLK WFQLYPEF-- 
+NF31_NAEFO       112   PVGVGFSYSN STDD------ -YQnlNDVQA ASDMNNALRD FLTRFPQF-- 
+YSS2_CAEEL       120   PAGVGYSYST NFN------- -LTVS-DDEV SLHNYMALLD FLSKFPEY-- 
+RISC_HUMAN       117   PVGTGFSYVN GSGA------ -YAK-DLAMV ASDMMVLLKT FFSCHKEF-- 
+                                                                 
+                       5555555543 3110000000 0110001111 2222223444 4555555400 
+ 
+1ac5_            166   LTRKIILSGE SYAGQYIPFF ANAILNHNKF ---------S KIdgdtyDLK 
+1ysc_            136   KGQDFHIAGE SYAGHYIPVF ASEILSHKDR ---------N -F-----NLT 
+1ivy_A           140   KNNKLFLTGE SYAGIYIPTL AVLVMQ---- -------DPS -M-----NLQ 
+CPS1_PENJA       133   ESRDFAIFTE SYGGHYGPEF ASYIEQQNaa ikagsVTGQN -V-----NIV 
+CBPX_ORYSA       138   AKNDFYITGE SYAGHYIPAF ASRVYKGNKN SE-----GIH -I-----NLK 
+CPVL_HUMAN       194   KNNDFYVTGE SYAGKYVPAI AHLIHSLNp- -----VREVK -I-----NLN 
+YUA6_CAEEL       158   KGNDFYVTGE SYGGIYVPTL VQTILDRQSQ ---------S HI-----NIK 
+CBP1_HORVU       178   LSNPFYIAGE SYAGVYVPTL SHEVVKGIQG GA-----KPT -I-----NFK 
+NF31_NAEFO       153   IGRETYLAGE SYGGVYVPTT AYNIVEGNGK GQ-----QPY -V-----NLV 
+YSS2_CAEEL       159   KGRDFWITGE SYAGVYIPTL AVRILNDKKN ---------F -P-----NFK 
+RISC_HUMAN       157   QTVPFYIFSE SYGGKMAAGI GLELYKAIQR Gt------IK -C-----NFA 
+                                                                 
+                       5555555555 5555555544 3222211100 0000000001 0100000111 
+ 
+1ac5_            207   ALLIGNGWID PNTQSLSYLP FAMEKKLIDE SNPNFKH--L --------TN 
+1ysc_            171   SVLIGNGLTD PLTQYNYYEP MACGEGgeps vlpSEECSAM --------ED 
+1ivy_A           173   GLAVGNGLSS YEQNDNSLVY FAYYHGLLGN RLWSSLQTHC Csqnkc--NF 
+CPS1_PENJA       177   ALGVNNGWID STIQEKAYID FSYNNSYQQi idsSTRDSLL --------DA 
+CBPX_ORYSA       177   GFAIGNGLTD PAIQYKAYTD YSLDMGLITK SQFNRI---- -NKIVPTCEL 
+CPVL_HUMAN       232   GIAIGDGYSD PESIIGGYAE FLYQIGLLDE KQKKYFQKQ- ---------- 
+YUA6_CAEEL       194   GLAIGNGCVS ANEGVDSLVN FLYHHGVVDQ AKWEHMKTSC CH------ND 
+CBP1_HORVU       217   GYMVGNGVCD TIFDGNALVP FAHGMGLISD EIYQQASTSC HG------NY 
+NF31_NAEFO       192   GILVGNGVTD AEADSNSIPP MMKYHSLISI KYYEEGYKAC QG------DF 
+YSS2_CAEEL       194   GVAIGNGALN FPNNYNTMVP FYYYHALVRD DLYNDIARNC CNNNIGTCDI 
+RISC_HUMAN       195   GVALGDSWIS PVDSVLSWGP YLYSMSLLED KGLAEVSKV- ---------- 
+                                                                 
+                       1222222221 1111111111 1111111111 0000000000 0000000000 
+ 
+1ac5_            247   AHEN------ ---------- ---------- --------CQ NLINSASTDE 
+1ysc_            213   SLER------ ---------- ---------- --------CL GLIESCYDSQ 
+1ivy_A           221   YDNK------ ---------- ---------- --------DL E--------- 
+CPS1_PENJA       219   YNNQ------ ---------- ---------- --------CL PALQQCSQSG 
+CBPX_ORYSA       222   AIKLcg---- ---------- ---------- ---------- --------TS 
+CPVL_HUMAN       271   ---------- ----CHECIE HIRKQNWLEA FEILDKllDG D--------- 
+YUA6_CAEEL       238   TDAcpwhsfs efsaCGEFVE ATQQTAW--- ---------- ---------- 
+CBP1_HORVU       261   WNAT------ ---------- ---------- --------DG K--------- 
+NF31_NAEFO       236   YANQ------ ---------- ---------- --------NL PACQKFLTDS 
+YSS2_CAEEL       244   YSKF------ ---------- ---------- --------FD PNCRDKVINA 
+RISC_HUMAN       234   ---------- ----AEQVLN AVNKGLYREA TELWGKaemi ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ac5_            263   A--------- ---------- ---------- ---------- ---------- 
+1ysc_            229   SVWSCVPATI YCNnaqlapy qr---TGRNV YDIRKDCEGG NLCYPTLQDI 
+1ivy_A           228   ---------- -CVTNLQEVA RIVGNSGLNI YNLYAPCAGG Vpshfryekd 
+CPS1_PENJA       235   STSDCTNADS VCYQNIEGPI SSS--GDFDV YDIREP---- ---------- 
+CBPX_ORYSA       230   GTISCLGAYV VCNLICSSIE TII--GKKNY YDIRKPCVGS L--------- 
+CPVL_HUMAN       298   ---------- -LTSDPSYFQ NVT--GCSNY YNFLRCTE-- ---------- 
+YUA6_CAEEL       265   ---------- ---------- ----NGGLNP YNMYADCIST SASFRFGMEY 
+CBP1_HORVU       268   ---------- -CDTAISKIE SLI--SGLNI YDILEPCYHS rsikevnlqn 
+NF31_NAEFO       252   SN-------- ---------- ---AMGNINP YYIYDSCPWl ginlqqklkt 
+YSS2_CAEEL       260   LD-------- ---------- ---GTNELNM YNLYDVCYYN pttnlkkafi 
+RISC_HUMAN       260   ---------- --------IE QNT--DGVNF YNILTKST-- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ac5_            264   ---------- ---------- ---------- ---------- -------AHF 
+1ysc_            276   DD-------- ---------- ----YLN--- --------QD YVKEAVGAEV 
+1ivy_A           267   tvvv---QDL GNIFTRLPLK rmwhqallr- ---------- SGDKVRMDPP 
+CPS1_PENJA       269   ---------- --SNDPYPPK TystYLS--- --------DP TVVKAIGART 
+CBPX_ORYSA       269   ---------- ---------- ---------- ---------- ---------- 
+CPVL_HUMAN       323   ---------- ---------- ---------- ---------- ---------- 
+YUA6_CAEEL       291   ER-------- ---------- ----RFN--- --------KK YTPEVLGTVP 
+CBP1_HORVU       305   sklpqsfKDL GTTNKPFPVR Trmlgrawpl rapvkagrvp SWQEVASGVP 
+NF31_NAEFO       281   tqemtfqvld pktqqpvkih plfqmykhgg wskrvaneRN FAPRFETDAP 
+YSS2_CAEEL       289   erqmriavgl parkhnaatt v--------- ---------- --------PL 
+RISC_HUMAN       278   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ac5_            267   SYQECENiln lllsytress qkgtadclnm ynfnlkdsyp scgmnwPKDI 
+1ysc_            293   DHYESCNFDI NRnflfag-- ---------- ---------- ---------- 
+1ivy_A           303   CT-------- ---------- ---------- ---------- --------NT 
+CPS1_PENJA       296   NYQECPNGPY NKfastgdnp ---------- ---------- ---------- 
+CBPX_ORYSA       269   CY-------- ---------- ---------- ---------- --------DL 
+CPVL_HUMAN       323   ---------- ---------- ---------- ---------- ------PEDQ 
+YUA6_CAEEL       308   CL-------- ---------- ---------- ---------- --------DE 
+CBP1_HORVU       355   CM-------- ---------- ---------- ---------- --------SD 
+NF31_NAEFO       331   CV-------- ---------- ---------- ---------- --------PN 
+YSS2_CAEEL       312   CA-------- ---------- ---------- ---------- --------QT 
+RISC_HUMAN       278   ---------- ---------- ---------- ---------- ------Ptst 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ac5_            317   S--------- ---------- ------FVSK FFSTPGVIDS LHLDS--DKI 
+1ysc_            311   ---------- ---------- ---------- ---------- ---------- 
+1ivy_A           307   T--------- ---------- ------AAST YLNNPYVRKA LNIPE--Q-L 
+CPS1_PENJA       316   ---------- ---------- ---------- ---------- ---------- 
+CBPX_ORYSA       273   S--------- ---------- ------NMEK FLQLKSVRES LGVGD--IQF 
+CPVL_HUMAN       327   L--------- ---------- ------YYVK FLSLPEVRQA IHVGN--QTF 
+YUA6_CAEEL       312   S--------- ---------- ------PVTN YLNRQDVRKA LGIPS--S-L 
+CBP1_HORVU       359   E--------- ---------- ------VATA WLDNAAVRSA IHAQSVSA-I 
+NF31_NAEFO       335   Q--------- ---------- ------SIAK YFRRLDVQQA LGVRRKTAdp 
+YSS2_CAEEL       316   N--------- ---------- ------NTHV YLNRADVRKS LHIPS--S-L 
+RISC_HUMAN       282   messleftqs hlvclcqrhv rhlqrdALSQ LMNGPIRKKL KIIPE--Dqs 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ac5_            340   DHWKECTNSV GTKLSNPISK PSIHLLPGLL ESGIEIVLFN GDKDLICNNK 
+1ysc_            311   ---------- ------DWMK PYHTAVTDLL NQDLPILVYA GDKDFICNWL 
+1ivy_A           329   PQWDMCNFLV NlqYRRLYRS MNSQYLKLLS SQKYQILLYN GDVDMACNFM 
+CPS1_PENJA       316   ---------- ---------R SFLSTLSSVV QSGINVLVWA GDADWICNWL 
+CBPX_ORYSA       296   vscsptvyqa mll---DWMR NLEVGIPELL ENDIKVLIYA GEYDLICNWL 
+CPVL_HUMAN       350   Ndgtivekyl redtvq---- -SVKPWLTEI MNNYKVLIYN GQLDIIVAAA 
+YUA6_CAEEL       334   PAWSICSNAI SYGYKRQYGD MTSRVLNAVN NNNLKMMLYN GDVDLACNAL 
+CBP1_HORVU       383   GPWLLCTDKL YFvhdag--- SMIAYHKNLT SQGYRAIIFS GDHDMCVPFT 
+NF31_NAEFO       360   ngWNICTGII NYtqv---Y- STILPFYAKL LPHIRILVYS GDTDMVVNGL 
+YSS2_CAEEL       338   PAWEECSDQV GKNYvvthF- NVIPEFQTMI AAGIKILVYN GDVDTACNSI 
+RISC_HUMAN       330   --WGGQATNV FVNMEEDFMK PVISIVDELL EAGINVTVYN GQLDLIVDTM 
+                                                                 
+                       0000000000 0000000000 0000000011 1112222222 2222222222 
+ 
+1ac5_            390   GVLDTIDNLK WGGIKGFSdd avsfdwihks KSTDDSEEFS GYVKYDRNLT 
+1ysc_            345   GNKAWTDVLP WKYDEEFASQ KVRNWTAsi- -----TDEVA GEVKSYKHFT 
+1ivy_A           379   GDEWFVDSLN QKMEVQRRP- ---WL----V KYGDSGEQIA GFVKEFSHIA 
+CPS1_PENJA       347   GNYEVANAVD FPGNAQFSal dlaPYTV--- -----NGVEK GQFKTVDNFS 
+CBPX_ORYSA       343   GNSRWVNSME WSGKEAFVSS SEEPFTV--- -----DGKEA GILKSYGPLS 
+CPVL_HUMAN       395   LTEHSLMGMD WKGSQEYKKA EKKVWkifk- ----SDSEVA GYIRQAGDFH 
+YUA6_CAEEL       384   MGQRFTDKLG LTLSKKKTH- ---FT----V KGQIGGY-VT QYK--GSQVT 
+CBP1_HORVU       430   GSEAWTKSLG YGVVDSWRP- ---WI----T NGQVSGY--- -TEGYEHGLT 
+NF31_NAEFO       406   GTQAAIDKLQ LQETSSWRT- ---WEFDSAL GTVVGGY-IR KFEKSGKGLT 
+YSS2_CAEEL       387   MNQQFLTSLN LTVlgeqekv neaWHYSGQT GTAVAGF--- -QTKFAGNVD 
+RISC_HUMAN       378   GQEAWVRKLK WPELPKFSql kwkaly---- -SDPKSLETS AFVKSYKNLA 
+                                                                 
+                       2222211111 1000000000 0000000000 0000000011 1112222233 
+ 
+1ac5_            440   FVSVYNASHM VPFDKSLVSR GIVDIYSNdv miidnngknv mitt- 
+1ysc_            389   YLRVFNGGHM VPFDVPENAL SMVNEWIHGG fsl------- ----- 
+1ivy_A           421   FLTIKGAGHM VPTDKPLAAF TMFSRFLNKQ PY-------- ----- 
+CPS1_PENJA       389   FLKVYGAGHE VPYYQPDTAL QAFKQIIQKK Pisst----- ----- 
+CBPX_ORYSA       385   FLKVHDAGHM VPMDQPKVAL EMLMRWTSGN lsnasssfqr ldftm 
+CPVL_HUMAN       440   QVIIRGGGHI LPYDQPLRAF DMINRFIYGK GWdpyvg--- ----- 
+YUA6_CAEEL       423   FATVRGAGHM VPTDKPAVAE HIIQSFLFNK AF-------- ----- 
+CBP1_HORVU       468   FATIKGAGHT VPEYKPQEAF AFYSRWLAGS kl-------- ----- 
+NF31_NAEFO       451   FITVRGAGHM VPLVKPDSAF YMFKNFIDGT cc-------- ----- 
+YSS2_CAEEL       433   FLTVRGSGHF VPEDKPKESQ QMIFNFINNK DYstpiql-- ----- 
+RISC_HUMAN       423   FYWILKAGHM VPSDQGDMAL KMMRLVTQQE ---------- ----- 
+                                                            
+                       3333333333 3333333332 2222222110 0000000000 00000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1ac5_       :0.014574(((1ysc_       :0.007525CBPX_ORYSA  :0.007525):0.001380CPS1_PENJA  :0.008906):0.002951((((1ivy_A      :0.005214YUA6_CAEEL  :0.005214):0.000310YSS2_CAEEL  :0.005524):0.002562(CBP1_HORVU  :0.007640NF31_NAEFO  :0.007640):0.000445):0.003588CPVL_HUMAN  :0.011673):0.000183):0.002718):0.006256RISC_HUMAN  :0.020831);
+ 
+ 

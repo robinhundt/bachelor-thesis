@@ -1,0 +1,149 @@
+1dvh_              1   ---------- ---------- ---------- ---------- ---------- 
+C553_DESVM         1   mkrilvvmsI C--------- ---------- ---------- ---------- 
+C553_DESDN         1   S--------- ---------- ---------- ---------- ---------- 
+CYSD_CHLLT         1   ---------- ---------- ---------- ---------- ---------- 
+1b7v_A             1   v--------- ---------- ---------- ---------- ---------- 
+1cno_A             1   A--------- ---------- ---------- ---------- ---------- 
+1h1o_A             1   vssdcm---V Chgmtgrdtl ypivprlagq hksymeaqlk aykdhsrADQ 
+CYSD_CHLTE         1   mlaaaplll- ---------- ---------- ---------- -------ASG 
+C554_PARSP         1   A--------- ---------- ---------- ---------- ---------- 
+1fj0_A             1   x--------- ---------- ---------- ---------- ---------- 
+155c_              1   n--------- ---------- ---------- ---------- ---------- 
+C550_PARPN         1   ---------- ---------- ---------- ---------- ---------- 
+1akk_              1   ---------- ---------- ---------- ---------- ---------- 
+CYC_ASPNG          1   g--------- ---------- ---------- ---------- ---------- 
+CYC_DEBHA          1   ---------- ---------- ---------- ---------- ---------- 
+CYC_SCHPO          1   ---------- ---------- ---------- ---------- ---------- 
+CY2_RHOGL          1   g--------- ---------- ---------- ---------- ---------- 
+CY2_RHOVA          1   A--------- ---------- ---------- ---------- ---------- 
+CY22_RHOFU         1   ---------- ---------- ---------- ---------- ---------- 
+CY21_RHOCE         1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1dvh_              1   ---------- ---------- ---------- ---------- -------ADG 
+C553_DESVM        12   ---------- ---------- ---------- ----AALAFG vsaamA-ADG 
+C553_DESDN         2   ---------- ---------- ---------- ---------G D----L--GA 
+CYSD_CHLLT         1   ---------- ---------- --------AP eQS------K S----I-PRG 
+1b7v_A             2   ---------- ---------- ---------- ---------- -------DAE 
+1cno_A             2   ---------- ---------- ---------- ---------G D----I-EAG 
+1h1o_A            48   NGeiymwpva qaldsakita ladyfnAQKP PmQSSGIKHA G----AKEGK 
+CYSD_CHLTE        13   NGfattgPA- ---------- --------AK P-----AVKP V----TESRG 
+C554_PARSP         2   ---------- ---------- ---------- ---------G D----A-AAG 
+1fj0_A             2   ---------- ---------- ---------- ---------- D----AKAGE 
+155c_              2   ---------- ---------- ---------- --E------G D----A-AKG 
+C550_PARPN         1   ---------- ---------- ---------- -QE------G D----A-AKG 
+1akk_              1   ---------- ---------- ---------- ---------G D----VEKGK 
+CYC_ASPNG          2   ---------- ---------- ---------- --KDASFAPG D----SAKGA 
+CYC_DEBHA          1   -------PA- ---------- ---------- P-----YEKG S----EKKGA 
+CYC_SCHPO          1   ---------- ---------- ---------- P-----YAPG D----EKKGA 
+CY2_RHOGL          2   --------S- ---------- --------AP P--------G D----P-VEG 
+CY2_RHOVA          2   ---------- ---------- ---------- ---------G D----P-VKG 
+CY22_RHOFU         1   ---------- ---------- ------ADAP P-----A--- ---------- 
+CY21_RHOCE         1   ---------- ---------- ---------- -QD------G D----P-VKG 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000002 2000021333 
+ 
+1dvh_              4   AALYK----- ---SCIGCHG ADG------S KA-AMGSAKP VKG------- 
+C553_DESVM        27   AALYK----- ---SCVGCHG ADG------S KQ-AMGVGHA VKG------- 
+C553_DESDN         7   ERYAK----- ---MCKSCHG ADG------S NA-AMSRA-- LKG------- 
+CYSD_CHLLT        12   EILSL----- ---SCAGCHG TDG------K SE-SIIPT-- IYG------- 
+1b7v_A             5   AVVQQ----- ---KCISCHG GDL------T GAS--APA-- IDK------- 
+1cno_A             8   KAKAA----- ---VCAACHG QNG------I SQVPIYPN-- LAG------- 
+1h1o_A            94   AIFNQgvtne qipACMECHG SDG------Q GA-GPFPR-- LAG------- 
+CYSD_CHLTE        35   EILSL----- ---SCAGCHG TDG------N SS-SVIPS-- IYG------- 
+C554_PARSP         8   EDKIG----- ---TCVACHG TDG------Q GLAPIYPN-- LTG------- 
+1fj0_A             8   AVFK------ ------QCMT CHR------A DKNMVGPA-- LAGVVGRKAG 
+155c_              9   EKEFN----- ---KCKACHM IQAPDGTDI- KGGKTGPN-- LYGVVGRKIA 
+C550_PARPN         9   EKEFN----- ---KCKACHM VQAPDGTDIV KGGKTGPN-- LYGVVGRKIA 
+1akk_              8   KIFVQ----- ---KCAQCHT VEK------G GKHKTGPN-- LHGLFGRKTG 
+CYC_ASPNG         16   KLFQT----- ---RCAQCHT VEA------G GPHKVGPN-- LHGLFGRKTG 
+CYC_DEBHA         14   NLFKT----- ---RCLQCHT VEE------G GPHKVGPN-- LHGVVGRTSG 
+CYC_SCHPO         12   SLFKT----- ---RCAQCHT VEK------G GANKVGPN-- LHGVFGRKTG 
+CY2_RHOGL         12   KHLFHt---- ---ICILCH- ------TDIK GRNKVGPS-- LYGVVGRHSG 
+CY2_RHOVA          8   EQVFK----- ---QCKICHQ VGP------T AKNGVGPE-- QNDVFGQKAG 
+CY22_RHOFU         7   ---FG----- ---MCKACHS VE-------A GKNGVGPS-- LAGVYGRKAG 
+CY21_RHOCE         9   EAVFK----- ---KCMACHR IGP------D AKNLVGPV-- LTGVVGRQAG 
+                                                                 
+                       3333400000 0005777776 6550000004 5657888800 8886666666 
+ 
+1dvh_             32   --QGAEELY- ----KKM--- KGY------- ---------- ---------- 
+C553_DESVM        55   --QKADELF- ----KKL--- KGY------- ---------- ---------- 
+C553_DESDN        33   --LPAEEVK- ----AAL--- IGY------- ---------- ---------- 
+CYSD_CHLLT        38   --RSAEYIE- ----SAL--- LDF------- ---------- ---------- 
+1b7v_A            30   --AGANYSE- ----EEI--- LDIil----- ---------- ---------- 
+1cno_A            35   --QKEQYLV- ----AAL--- KAY------- ---------- ---------- 
+1h1o_A           128   --QRYGYII- ----QQL--- TYF------- ---------- ---------- 
+CYSD_CHLTE        61   --KSPEYIE- ----TAL--- IDF------- ---------- ---------- 
+C554_PARSP        35   --QSATYLE- ----SSI--- KAY------- ---------- ---------- 
+1fj0_A            38   TAAGFTYSP- ----LNH--- NSGeagLVWT ADNIVPYLAD PNAFLKKFLT 
+155c_             48   SEEGFKYGEG ILEVAEK--- NPD---LTWT EANLIEYVTD PKPLVKKMTD 
+C550_PARPN        49   SEEGFKYGDG ILEVAEK--- NPD---LVWT EADLIEYVTD PKPWLVEKTG 
+1akk_             42   QAPGFTYTD- ----ANK--- NKG---ITWK EETLMEYLEN PKKYIP---- 
+CYC_ASPNG         50   QSEGYAYTD- ----ANK--- QAG---VTWD ENTLFSYLEN PKKFIP---- 
+CYC_DEBHA         48   QAQGFSYTD- ----ANK--- KKG---VEWT EQDLSDYLEN PKKYIP---- 
+CYC_SCHPO         46   QAEGFSYTE- ----ANR--- DKG---ITWD EETLFAYLEN PKKYIP---- 
+CY2_RHOGL         46   IEPGYNYSE- ----ANI--- KSG---IVWT PDVLFKYIEH PQKIVP---- 
+CY2_RHOVA         42   ARPGFNYSD- ----AMK--- NSG---LTWD EATLDKYLEN PKAVVP---- 
+CY22_RHOFU        37   TLAGFKFSD- ----PHA--- KSG---LTWD EPTLTKYLAD PKGVIP---- 
+CY21_RHOCE        43   VAPGFSYSA- ----LNHaag EAG---LHWT AENIMAYLPD PNAFLRKFVT 
+                                                                 
+                       6688888770 0000776000 6660005454 4444335555 5554430000 
+ 
+1dvh_             45   ---------- ADGSYGGE-- -RKAMMTNAV KKYSDEELKA LADYMSKL-- 
+C553_DESVM        68   ---------- ADGSYGGE-- -KKAVMTNLV KRYSDEEMKA MADYMSKL-- 
+C553_DESDN        46   ---------- KEQTYGGK-- -KKGMMERVV KSLTDEDIEV LATHIGTF-- 
+CYSD_CHLLT        51   ---------- KS---GAR-- -PSTVMGRHA KGYSDEEIHQ IAEYFGSLST 
+1b7v_A            45   ---------- -N---G---- -QGGMPGGIA KGAEAEAV-- -AAWLAEKK- 
+1cno_A            48   ---------- KA---GQRQG GQAPVMQGQA TALSDADIAN LAAYYASNPA 
+1h1o_A           141   ---------- HN---GTR-- -VNTLMNQIA KNITVAQMKD VAAYLSSL-- 
+CYSD_CHLTE        74   ---------- KN---GSR-- -TSTVMGRHA KGYTGEEIHL IAEYFGNLSK 
+C554_PARSP        48   ---------- RD---GQRKG GNAALMTPMA QGLSDEDIAD IAAYYSSQE- 
+1fj0_A            80   EKGKADQAVG vTKMTFKL-- -ANE------ -----QQRKD VVAYLATLK- 
+155c_             92   DKGAK----- -TKMTFKM-- -GKN------ -----Q--AD VVAFLAQDDP 
+C550_PARPN        93   DSAAK----- -TKMTFKL-- -GKN------ -----Q--AD VVAFLAQNSP 
+1akk_             77   ---------G TKMIFAGI-- -KKK------ -----TERED LIAYLKKATN 
+CYC_ASPNG         85   ---------G TKMAFGGL-- -KKG------ -----KERND LITYLKESTA 
+CYC_DEBHA         83   ---------G TKMAFGGL-- -KKA------ -----KDRND LITYLVKATk 
+CYC_SCHPO         81   ---------G TKMAFAGF-- -KKP------ -----ADRNN VITYLKKATS 
+CY2_RHOGL         81   ---------G TKMGYPGQ-- -PDP------ -----QKRAD IIAYLETLK- 
+CY2_RHOVA         77   ---------G TKMVFVGL-- -KNP------ -----QDRAD VIAYLKQLSG 
+CY22_RHOFU        72   ---------G NKMVFAGL-- -KNP------ -----ADVAA VIAYLKSL-- 
+CY21_RHOCE        85   DAGNPEAAKG STKMVFKL-- -PNE------ -----QERKD VVAYLKTFSN 
+                                                                 
+                       0000000003 5544455500 0555111111 1111155555 5555554310 
+ 
+1dvh_             80   ---------- ----- 
+C553_DESVM       103   ---------- ----- 
+C553_DESDN        81   ---------- ----- 
+CYSD_CHLLT        85   MNN------- ----- 
+1b7v_A            72   ---------- ----- 
+1cno_A            85   AA-------- ----- 
+1h1o_A           173   ---------- ----- 
+CYSD_CHLTE       108   KNH------- ----- 
+C554_PARSP        84   ---------- ----- 
+1fj0_A           115   ---------- ----- 
+155c_            120   DAxxxxxxxx xxxxx 
+C550_PARPN       121   DAgaeaapae daad- 
+1akk_            104   E--------- ----- 
+CYC_ASPNG        112   ---------- ----- 
+CYC_DEBHA        110   ---------- ----- 
+CYC_SCHPO        108   E--------- ----- 
+CY2_RHOGL        107   ---------- ----- 
+CY2_RHOVA        104   K--------- ----- 
+CY22_RHOFU        97   ---------- ----- 
+CY21_RHOCE       121   ---------- ----- 
+                           
+                       0000000000 00000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((1dvh_       :0.009802C553_DESVM  :0.009802):0.018748C553_DESDN  :0.028550):0.029479(((CYSD_CHLLT  :0.010528CYSD_CHLTE  :0.010528):0.031465(1cno_A      :0.016867C554_PARSP  :0.016867):0.025126):0.0075391h1o_A      :0.049532):0.008497):0.0578851b7v_A      :0.115915):0.097433(((1fj0_A      :0.012438CY21_RHOCE  :0.012438):0.017216(155c_       :0.005912C550_PARPN  :0.005912):0.023743):0.002010(((1akk_       :0.009028((CYC_ASPNG   :0.007829CYC_SCHPO   :0.007829):0.000493CYC_DEBHA   :0.008321):0.000707):0.009236(CY2_RHOVA   :0.013540CY22_RHOFU  :0.013540):0.004724):0.001511CY2_RHOGL   :0.019775):0.011889):0.181684);
+ 
+ 

@@ -1,0 +1,59 @@
+1csp               1   ---------- ---------- ---------- ---------- ---------- 
+CSPD_HAEIN         1   mei------- ---------- ---------- ---------- ---------- 
+GR2B_ARATH         1   msgggdvnms ggdrr----- ---------- ---------- ---------- 
+CSPF_ECOLI         1   msrk------ ---------- ---------- ---------- ---------- 
+PIPI_HUMAN         1   mtsestsppv vpplhspksp vwptfpfhre gsrvwerggv pprdlpsplp 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1csp               1   ---------- -------MLE GKVKWFNSEK GFGFIEV-EG QD-DVFVHFS 
+CSPD_HAEIN         4   ---------- ---------- GIVKWFNNAK GFGFISA-EG VDaDIFAHYS 
+GR2B_ARATH        16   ---------- ---------K GTVKWFDTQK GFGFITPSDG GD-DLFVHQS 
+CSPF_ECOLI         5   ---------- --------MT GIVKTFDGKS GKGLITPSDG RI-DVQLHVS 
+PIPI_HUMAN        51   tkrtrtysat arasagpVFK GVCKQFSRSQ GHGFITPENG SE-DIFVHVS 
+                                                                 
+                       0000000000 0000000003 8888888888 8888864367 7709999999 
+ 
+1csp              32   AIQGEGFKTL EEGQAVSFEI VEGNRG-PQA ANVTkea--- ---------- 
+CSPD_HAEIN        33   VIEMDGYRSL KAGQKVQFEV LHSDKG-SHA TKIIPIADTQ e--------- 
+GR2B_ARATH        46   SIRSEGFRSL AAEESVEFDV EVDNSGrPKA IEVSgpdgap vqgnsggggs 
+CSPF_ECOLI        36   ALNLRDAEEI TTGLRVEFCR INGLRG-PSA ANVyls---- ---------- 
+PIPI_HUMAN       100   DIEGEyvpv- -EGDEVTYKM CPIPPK-NQK FQAVEVVLTQ lap------- 
+                                                                 
+                       8876644444 4444444444 3333330222 2220000000 0000000000 
+ 
+1csp              68   ---------- ---------- ---------- ---------- ---------- 
+CSPD_HAEIN        73   ---------- ---------- ---------- ---------- ---------- 
+GR2B_ARATH        96   sggrggfggg ggrgggrggg sygggyggrg sggrgggggd nscfkcgepg 
+CSPF_ECOLI        71   ---------- ---------- ---------- ---------- ---------- 
+PIPI_HUMAN       140   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1csp              68   ---------- ---------- ---------- ---------- ---------- 
+CSPD_HAEIN        73   ---------- ---------- ---------- ---------- ---------- 
+GR2B_ARATH       146   hmarecsqgg ggysgggggg rygsgggggg gggglscysc gesgHFARDC 
+CSPF_ECOLI        71   ---------- ---------- ---------- ---------- ---------- 
+PIPI_HUMAN       140   ---------- ---------- ---------- ---------- ----HTPHET 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1csp              68   -------- 
+CSPD_HAEIN        73   -------- 
+GR2B_ARATH       196   TSGgar-- 
+CSPF_ECOLI        71   -------- 
+PIPI_HUMAN       146   WSGqvvgs 
+                   
+                       00000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1csp        :0.022739CSPD_HAEIN  :0.022739):0.008069GR2B_ARATH  :0.030808):0.029666PIPI_HUMAN  :0.060474):0.003272CSPF_ECOLI  :0.063745);
+ 
+ 

@@ -1,0 +1,1397 @@
+1j0f_A             1   ---------- ---------- ---------G ---------- ---------- 
+SH3N_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME         1   ---------- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN         1   m--------- -------PLL LLGETEplkl erdcrspvdp WAaaspdlal 
+1grx_              1   ---------- ---------- ---------- ---------- ---------- 
+1fov_A             1   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A             1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE         1   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA         1   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO         1   m--------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR         1   ---------- ---------- ---------- ---------- ---------- 
+1kng_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB         1   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA         1   M--------- ---------- ---------- ---------- ---------- 
+RESA_BACHD         1   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACSU         1   ---------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH         1   ---------- ---------- ----MDIQQN KT-------- ---------- 
+CCMG_PARDE         1   ma-------- ---------- ---------- ---------- ---------- 
+HELX_RHOCA         1   M--------- ---------- ---------- ---------- ---------- 
+CYCY_RHILV         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_YERPE         1   mk-------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_PANCI         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_VIBCH         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU         1   M--------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI         1   M--------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN         1   M--------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU         1   msmlh----- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA         1   M--------- ---------- ---------- ---------- ---------- 
+1mek_              1   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN         1   m--------- ---------- ---------- ---------- ---------- 
+THI2_CORNE         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA         1   m--------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN         1   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU         1   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN         1   ma-------- ---------- ---------- ---------- ---------- 
+THIM_CHLRE         1   mal------V ARRAAVPSAR S------SAR ---------- ---------- 
+THIO_GRIPA         1   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA           1   -------MAL ESLFKS---- ---------- ---------- ---------- 
+THIM_SPIOL         1   -------MAI ENCLQLSTSA S------VGT ---------- ---------- 
+THIM_ORYSA         1   -------MAL ETCFRA---- ---------- ---------- WA-------- 
+THIM_MAIZE         1   -------MAM ETCFRA---- ---------- ---------- WA-------- 
+THIO_BUCAI         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU         1   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH         1   maslldsVTV TRVFSLPIAA S------VSS ---------- ---------- 
+THIM_BRANA         1   -------MAA FTCTSSPPIS LRSEMMIASS KT-------- -V-------- 
+THM2_ARATH         1   -------MAA FTCTSRPPIS LRSETRIVSS ---------- ---------- 
+THIO_ECHGR         1   ms-------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI         1   g--------- ----ASE--- ---------- ---------- ---------- 
+THH1_ARATH         1   m--------- ----ASE--- ---------- ---------- ---------- 
+THH2_TOBAC         1   m--------- -----AE--- ---------- ---------- ---------- 
+THH1_TOBAC         1   -------MAA NDATSSE--- ---------- ---------- ---------- 
+THI3_DICDI         1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A             2   ---------S EGAATMSG-- ---------- -LRVYSTSVT G-SREIKSQQ 
+SH3N_HUMAN         1   ---------- -----MSG-- ---------- -LRVYSTSVT G-SREIKSQQ 
+SH3B_DROME         1   ---------- ---------- ---------M VLKVYVSGMS G-NKEVKKRQ 
+SH3M_HUMAN         1   ---------- ---------- ---------M VIRVFIASSS G-FVAIKKKQ 
+SH3L_HUMAN         1   ---------- ---------- ---------M VIRVYIASSS G-STAIKKKQ 
+SH3B_HUMAN        35   aclchcqdlS SGAFPNRGvl ggvlfptveM VIKVFVATSS G-SIAIRKKQ 
+1grx_              1   ---------- ---------- ---------- ---------- ---------- 
+1fov_A             1   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A             1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE         1   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA         1   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO         2   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR         1   ---------- ---------- ---------- ---------- ---------- 
+1kng_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB         1   ---------- ---------- ---------- --------MS Glaky----- 
+RESA_BACAA         2   ---------- ---------- ---------- ---------- -------KKN 
+RESA_BACHD         1   ---------- ---------- ---------- ---------- -----MDKRK 
+RESA_BACSU         1   ---------- ---------- ---------- ---------- -----MKKKR 
+RESA_OCEIH         9   ---------- ---------- ---------- ---------- --NKQKKKRN 
+CCMG_PARDE         3   ---------- ---------- ---------- ---------- -------RFS 
+HELX_RHOCA         2   ---------- ---------- ---------- ---------- --------AK 
+CYCY_RHILV         2   ---------- ---------- ---------- ---------- -------GRY 
+DSBE_PSEFL         2   ---------- ---------- ---------- ---------- --------KR 
+DSBE_PSEAE         2   ---------- ---------- ---------- ---------- --------KR 
+DSBE_YERPE         3   ---------- ---------- ---------- --------PQ S-S-----FN 
+DSBE_ECOLI         2   ---------- ---------- ---------- ---------- --------KR 
+DSBE_PANCI         2   ---------- ---------- ---------- ---------- --------NK 
+DSBE_VIBCH         2   ---------- ---------- ---------- ---------- --------NK 
+DSBE_HAEIN         2   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU         2   ---------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI         2   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN         2   ---------- ---------- ---------- ---------- -------NKK 
+NRFX_PASMU         6   ---------- ---------- ---------- ---------- ----QQKRKN 
+DSBE_XYLFA         2   ---------- ---------- ---------- ---------- ---------- 
+1mek_              1   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN         2   ---------- ---------- ---------- ---------- ---------- 
+THI2_CORNE         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA         2   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN         1   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU         1   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN         3   ---------- ---------- ---------- ---------- ---------- 
+THIM_CHLRE        19   ---------P AFARAAPR-- ---------- -RSV------ ---------- 
+THIO_GRIPA         1   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA          10   ---------- ---------- ---------- ---------- ------IHTK 
+THIM_SPIOL        18   ---------V AVKSHVHH-- ---------- -LQPSSKvnv ptFRGLKRSF 
+THIM_ORYSA        12   ---------- ----TLHA-- ---------- -PQPPSS--- ----GGSRDR 
+THIM_MAIZE        12   ---------- -----LHA-- ---------- -P-------- ----AGSKDR 
+THIO_BUCAI         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU         1   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH        25   ---------S SAAPSVSR-- ---------- -RRISPARFL E-FRGLKSSR 
+THIM_BRANA        27   ---------- ----SLST-- ---------- -RQMFSV--- ----GGLRTR 
+THM2_ARATH        24   ---------S PSASSLSS-- ---------- -RRMFAVLPE S-S--GLRIR 
+THIO_ECHGR         3   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI         5   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH         5   ---------- EGQ------- ---------- ---------- ---------- 
+THH2_TOBAC         4   ---------- EGQ------- ---------- ---------- ---------- 
+THH1_TOBAC        11   ---------- EGQ------- ---------- ---------- ---------- 
+THI3_DICDI         1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A            29   SEVTRIL--- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        22   SEVTRIL--- ---------- ---------- ---------- ---------- 
+SH3B_DROME        21   QRVLMIL--- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN        21   QDVVRFL--- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN        21   QDVLGFL--- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN        84   QEVVGFL--- ---------- ---------- ---------- ---------- 
+1grx_              1   ---------- ---------- ---------- ---------- ---------- 
+1fov_A             1   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A             1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE         1   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA         1   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO         2   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR         1   ---------- ---------- ---------- ---------- ---------- 
+1kng_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB         8   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA         5   R--------- ---------L LFRVIILLIL -SGAVGFTLY ----QGFF-A 
+RESA_BACHD         6   R--------- ---------F WMRLSILAVI -SVALGYTFY ----SNFF-A 
+RESA_BACSU         6   R--------- ---------L FIRTGILLVL -ICALGYTIY ----NAVF-A 
+RESA_OCEIH        17   R--------- ---------F IFRSSILLIL -VAAVVFAIV ----SNMK-D 
+CCMG_PARDE         6   P--------- ---------M MLLPVAIFAG FAGLSGWA-L ----LPNDPD 
+HELX_RHOCA         4   P--------- ---------L MFLPLLVMAG FVGAGYFA-M ----QQNDPN 
+CYCY_RHILV         5   T--------- ---------L ALLPLIVFGG -IAHGAKMLY DQDFHGKNIA 
+DSBE_PSEFL         4   W--------- ---------L MVVPLALFLL -VAVFLYR-G ----LYLDPA 
+DSBE_PSEAE         4   A--------- ---------I LLLPLGIFLI -VAVFLFR-G ----LWLDPS 
+DSBE_YERPE         9   K--------- ---------L MFIPLVLFLL -LVVAFLIQL TRNANGEDPT 
+DSBE_ECOLI         4   K--------- ---------V LLIPLIIFLA -IAAALLWQL ARNAEGDDPT 
+DSBE_PANCI         4   K--------- ---------I LFIPLVLFLL -LAAALLWQF NRNADGDDPT 
+DSBE_VIBCH         4   K--------- ---------I LFIPLVAFLL -LAGVFATQL MKNSAGDDPT 
+DSBE_HAEIN         2   ---------- -KKK------ LLVPLILFLS -ITIAFLVQL KRNAQGEDIK 
+DSBE_PASMU         2   ---------- -NKK------ LYFPLILFLI -LVFAFAVQL LRNAQGDDPK 
+DSBE_CHRVI         2   --------NT SAKR------ ALIPLGSFwp w--ALLFY-G ----LQLDPR 
+NRFX_HAEIN         5   L--------- ---------I FFTPLFVLLG -VCILLIA-G ----LNQDPK 
+NRFX_PASMU        12   H--------- ---------F VFLPLVILLA -VCALLFI-G ----LQQDPQ 
+DSBE_XYLFA         2   --------SD SPRRFptplL LTGVMGVLIL -IALLTFTLM ----RSWDNA 
+1mek_              1   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN         2   ---------- ---------- ---------- ---------- ---------- 
+THI2_CORNE         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA         2   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN         1   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU         1   ---------- ---------- MVV------- ---------- ---------- 
+TXL2_HUMAN         3   ---------- ---------- ---------- ---------- ---------- 
+THIM_CHLRE        31   --VVRa---- ---------- ---------- ---------- ---------- 
+THIO_GRIPA         1   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA          14   TSLSSSI--- ---------- ---------- ---VFIFK-G kaclltsksr 
+THIM_SPIOL        46   PALSSSVSSS SPRQFR---- ---------- ---------- ---------- 
+THIM_ORYSA        28   LLLSGAGSSQ SKPRLS---- ---------- ---------- ---------- 
+THIM_MAIZE        22   LLVGNLvlp- -SKR------ ALAPLSVgRV ATR------- ---------- 
+THIO_BUCAI         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU         1   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH        52   SLVTQSASLG ANRRTR---- ---------- ---------- ---------- 
+THIM_BRANA        43   VSLSSVSKNS RASRLR---- ---------- ---------- ---------- 
+THM2_ARATH        49   LSLSPASLTS ihqp------ --------RV SRL------- ---------- 
+THIO_ECHGR         3   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST         1   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI         5   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH         8   ---------- ---------- ------VIA- ---------- ---------- 
+THH2_TOBAC         7   ---------- ---------- ------VIG- ---------- ---------- 
+THH1_TOBAC        14   ---------- ---------- ------VFG- ---------- ---------- 
+THI3_DICDI         1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A            36   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        29   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME        28   ---------- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN        28   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN        28   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN        91   ---------- ---------- ---------- ---------- ---------- 
+1grx_              1   ---------- ---------- ---------- ---------- ---------- 
+1fov_A             1   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A             1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE         1   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK         1   ---------- ---------- ---------- ---------- M--------- 
+GLRX_BOVIN         1   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO         1   ---------- ---------- ---------- ------M--T ---------- 
+GLRX_RICCO         1   ---------- ---------- ---------- ---------- M--------- 
+GLRX_VERFO         1   ---------- ---------- ---------- ---------- M--------- 
+GLRX_LYCES         1   ---------- ---------- ---------- ---------- M--------- 
+GLRX_ORYSA         1   ---------- ---------- ---------- ---------- M--------- 
+GLR1_SCHPO         2   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA         1   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR         1   ---------- ---------- ---------- ---------- ---------- 
+1kng_A             1   --------RP APQTAL---- ---------- ----PPL--E ---------- 
+TYPX_TRYBB         8   -LPGAt---- ---------- ---------- -----NL--L S--------- 
+RESA_BACAA        31   DKEKMQIGKE APNFVV---- ---------- ----TDL--E G--------- 
+RESA_BACHD        32   DRSLARAGEQ AVNFVL---- ---------- ----EDL--E G--------- 
+RESA_BACSU        32   GKESISEGSD APNFVL---- ---------- ----EDT--N G--------- 
+RESA_OCEIH        43   DNKIYRVGDA APDFQLkqis ---------- ----EEV--D Q--------- 
+CCMG_PARDE        33   ALPSAMIGRE APSVGE---- ---------- ----ATL--P ---------- 
+HELX_RHOCA        31   AMPTALAGKE APAVRL---- ---------- ----EPL--G ---------- 
+CYCY_RHILV        36   EIPSALSHQG ADAEPA---- ---------- ----AAR--R ---------- 
+DSBE_PSEFL        30   ELPSRMIGKP FPAFNL---- ---------- ----PTV--H ---------- 
+DSBE_PSEAE        30   ELPSALIGKP FPAFDL---- ---------- ----PSV--Q D--------- 
+DSBE_YERPE        40   MLESALIGKP VPAFKL---- ---------- ----ESL--E Q--------- 
+DSBE_ECOLI        35   NLESALIGKP VPKFRL---- ---------- ----ESL--D N--------- 
+DSBE_PANCI        35   LLESALVGKP VPVFKL---- ---------- ----ESL--Q N--------- 
+DSBE_VIBCH        35   KLESVLVGKT VPEFRL---- ---------- ----EDL--A E--------- 
+DSBE_HAEIN        34   ALESALVGKP VPAKNL---- ---------- ----TEL--F ---------- 
+DSBE_PASMU        34   ALESALIGKP VPLRTL---- ---------- ----QDL--F ---------- 
+DSBE_CHRVI        31   KIPSPLVDKP APEFSL---- ---------- ----PDL--K D--------- 
+NRFX_HAEIN        31   KIASALIDKP VPEFYQ---- ---------- ----ANL--H E--------- 
+NRFX_PASMU        38   KIASALIGKP VPTFSQ---- ---------- ----ADL--L R--------- 
+DSBE_XYLFA        39   PDQSALLGKP APNFSL---- ---------- ----PLL--H D--------- 
+1mek_              1   ---------D APEEED---- ---------- ----HVL--V ---------- 
+TXN4_HUMAN         2   --------HP AVFLSL---- ---------- ----PDL--R csllllvtwv 
+THI2_CORNE         1   ---------- ---------- ---------- --SATIV--N T--------- 
+THIO_MYCGA         2   ---------- ---------- ---------- -----KH--I ---------- 
+THIO_MYCGE         1   ---------- -----M---- ---------- ----VTE--I ---------- 
+THIO_MYCPN         1   ---------- -----M---- ---------- ----VTE--I ---------- 
+TRX2_YEAST         1   ---------- ---------- ---------- ----VTQ--F ---------- 
+THIO_COPCM         1   ---------- -----M---- ---------- ----VQV--I ---------- 
+THIO_CHLPN         1   ---------- ---------- ---------- -----MV--K I--------- 
+THIO_CHLCV         1   ---------- ---------- ---------- -----MV--K V--------- 
+THIO_ICTPU         4   ---------- ----HI---- ---------- ----ENL--N A--------- 
+TXL2_HUMAN         3   ----AGAAEA AVAAVE---- ---------- ----EvgsaG Q--------- 
+THIM_CHLRE        35   ---------- ---------- ---------- ----EAG--A V--------- 
+THIO_GRIPA         1   ---------- ---------- ---------- ---MSIS--Q V--------- 
+THIM_PEA          37   iQESFAELNS FTSLVLlien hVLLHARE-- -AVNEVQ--V V--------- 
+THIM_SPIOL        62   ------YS-- -------S-- -VVCKASE-- -AVKEVQ--D V--------- 
+THIM_ORYSA        44   ------VASP SPLRpasR-- -FACQCSN-- -VVDEVV--V A--------- 
+THIM_MAIZE        47   ------RP-- -------R-- -HVCQSKN-- -AVDEVV--V A--------- 
+THIO_BUCAI         1   ---------- ---------- ---------- --MNKII--E L--------- 
+THIO_RHORU         1   ---------- ---------- ---------- -----MK--Q V--------- 
+THM4_ARATH        68   ------IArg g------R-- -IACEAQDtt aAAVEVP--N L--------- 
+THIM_BRANA        59   ------RG-- -------G-- -IICEAQD-- -TATGIP--M V--------- 
+THM2_ARATH        68   ------RR-- -------A-- -VVCEAQE-- -TTTDIQ--V V--------- 
+THIO_ECHGR         3   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST         1   ---------- -----V---- ---------- ----TQL--K ---------- 
+THIO_EMENI         5   ---------- ----HV---- ---------- ----PPI--T ---------- 
+THH1_ARATH        11   ---------- ---------- ---------- ------C--H TVE------- 
+THH2_TOBAC        10   ---------- ---------- ---------- ------V--H TVD------- 
+THH1_TOBAC        17   ---------- ---------- ---------- ------C--H KVE------- 
+THI3_DICDI         1   ---------- ---------- ---------- --MSKVI--H V--------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A            36   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        29   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME        28   ---------- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN        28   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN        28   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN        91   ---------- ---------- ---------- ---------- ---------- 
+1grx_              1   ---------- ---------- ---------- MQTVIFGRSG CPYSVRAKDL 
+1fov_A             1   ---------- ---------- ---------- ANVEIYTKET CPYCHRAKAL 
+1b4q_A             1   ---------- --A------Q -EFVNSKIQP GKVVVFIKPT CPYSRRAQEI 
+GLRX_HAEIN         1   ---------- ---------- ---------- MFVVIFGRPG CPYCVRAKNL 
+GLR1_SALTY         1   ---------- ---------- ---------- MFTVIFGRPG CPYCVRAKEL 
+GLRX_PSEAE         1   ---------- ---------- ---------M PPVVIYTTAW CPYCIRAKQL 
+GLR3_ECOLI         1   ---------- ---------- ---------- ANVEIYTKET CPYCHRAKAL 
+GLRX_CHICK         2   ---------- --V------D -SFVQSKLRD NKVTLFVKGS CPYCKNAIVL 
+GLRX_BOVIN         1   ---------- --A------Q -AFVNSKIQP GKVVVFIKPT CPYCRKTQEL 
+GLR2_SCHPO         3   ---------- SIA------K -AFVEKAISN NPVTVFSKSF CPFCKAAKNT 
+GLRX_RICCO         2   ---------- --A------M -TKTKELVSS NAVVVFSKTY CPYCTSVKKL 
+GLRX_VERFO         2   ---------- --A------M -IKAQELVSS NSVVVFSKTF CPYCTSVKQL 
+GLRX_LYCES         2   ---------- --S------L -AKAKEIVSG NPVAVFSKTY CPFCVSVKDL 
+GLRX_ORYSA         2   ---------- --A------L -AKAKETVAS APVVVYSKSY CPFCVRVKKL 
+GLR1_SCHPO         2   ---------- SSV------E -SFVDSAVAD NDVVVFAKSY CPYCHATEKV 
+GLRX_NEIMA         1   ---------- ---------- ---------M QTVTMYTGPF CPYCTMAKRL 
+GLRX_RICPR         1   ---------- ---------- ----MNKSIL HTIIIYTLAS CPYCIKAKAL 
+1kng_A            13   ---------- GlqadnvqvP GLDPAAFKGK VSLVNVWASW CVPCHDEAPL 
+TYPX_TRYBB        17   ---------- KSG------E -VSLGSLVGK TVFLYFSASW CPPCRGFTPV 
+RESA_BACAA        52   ---------- --K------K -IELKDLKGK GVFLNFWGTW CKPCEKEMPY 
+RESA_BACHD        53   ---------- --E------S -IELRELEGK GVFLNFWGTY CPPCEREMPH 
+RESA_BACSU        53   ---------- --K------R -IELSDLKGK GVFLNFWGTW CEPCKKEFPY 
+RESA_OCEIH        68   ---------- --S------T -VQLSDLEGK GVMLNFWATW CDPCKAEMPY 
+CCMG_PARDE        53   ---------- GKV------Q LTDEIVRQPG VKLVNFWASW CPPCRAEHPT 
+HELX_RHOCA        51   ---------- AEA------P FTDADLRDGK IKLVNFWASW CAPCRVEHPN 
+CYCY_RHILV        56   ---------- ATL------P ALTDAAIKGK LTLVNVFASW CLPCRDEHPV 
+DSBE_PSEFL        50   ---------- GDK------T -LTQADLRGK PALVNVWATW CISCRVEHPV 
+DSBE_PSEAE        51   ---------- PAR------R -LTEADLKGK PALVNVWGTW CPSCRVEHPE 
+DSBE_YERPE        61   ---------- PGK------T FDQAVLRDGK PILLNVWATW CPTCRAEHEY 
+DSBE_ECOLI        56   ---------- PGQ------F YQADVLTQGK PVLLNVWATW CPTCRAEHQY 
+DSBE_PANCI        56   ---------- PGQ------L YSQKALINGK PLLLNVWATW CPTCRAEHEY 
+DSBE_VIBCH        56   ---------- PGK------L YDQSIFK-GE PLLLNVWATW CPTCYAEHQY 
+DSBE_HAEIN        54   ---------- ENK------T YTNELFQQGE PVLLNVWATW CPTCYAEHQY 
+DSBE_PASMU        54   ---------- EEK------Q YGIEIFQQGK PILLNVWATW CPTCYAEHQY 
+DSBE_CHRVI        52   ---------- PNQ------T -LTRDILIGQ VSLVNVWASW CPSCRQEHAE 
+NRFX_HAEIN        52   ---------- PSQ------I -VSPKEFPKQ PFLLNVWGSW CGYCKEEHPL 
+NRFX_PASMU        59   ---------- TER------R -VTQQDLPQQ TFLLNVWGSW CAYCKKEHPF 
+DSBE_XYLFA        60   ---------- PSL------Q -ISNTDLAGA PYLLHVWGSW CAACATEQPV 
+1mek_             12   ---------- LRK------S NFAEALAAHK YLLVEFYAPW CGHCKALAPE 
+TXN4_HUMAN        24   ftpVTTEITS LDT------E NIDEILNNAD VALVNFYADW CRFSQMLHPI 
+THI2_CORNE         8   ---------- TDE------N FQADVLDAET PVLVDFWAGW CAPCKAIAPV 
+THIO_MYCGA         5   ---------- TNK------A ELDQLLSTNK KVVVDFYANW CGPCKILGPI 
+THIO_MYCGE         6   ---------- RSL------K QLEEIFSAKK NVIVDFWAAW CGPCKLTSPE 
+THIO_MYCPN         6   ---------- KSL------K QLGELFASNN KVIIDFWAEW CGPCKITGPE 
+TRX2_YEAST         5   ---------- KTA------S EFDSAIAQDK LVVVDFYATW CGPCKMIAPM 
+THIO_COPCM         6   ---------- SNL------D EFNKLTNSGK IIIIDFWATW CGPCRVISPI 
+THIO_CHLPN         5   ---------- ISS------E -NFDSFIASG LVLVDFFAEW CGPCRMLTPI 
+THIO_CHLCV         5   ---------- VSA------E -NFNSFIATG LVLIDFFAEW CGPCKMLTPV 
+THIO_ICTPU        11   ---------- --F------S -AALKNAGDK LVVVDFTATW CGPCQKIGPI 
+TXL2_HUMAN        22   ---------- --F------E -ELLRLKAKS LLVVHFWAPW APQCAQMNEV 
+THIM_CHLRE        40   ---------- NDD------T FKNVVLESSV PVLVDFWAPW CGPCRIIAPV 
+THIO_GRIPA         7   ---------- IDT------S FHEEVINSRQ PVLVDFWAPW CGPCRMIAST 
+THIM_PEA          73   ---------- NDS------S WDELVIGSET PVLVDFWAPW CGPCRMIAPI 
+THIM_SPIOL        80   ---------- NDS------S WKEFVLESEV PVMVDFWAPW CGPCKLIAPV 
+THIM_ORYSA        71   ---------- DEK------N WDSMVLGSEA PVLVEFWAPW CGPCRMIAPV 
+THIM_MAIZE        65   ---------- DEK------N WDGLVMACET PVLVEFWAPW CGPCRMIAPV 
+THIO_BUCAI         8   ---------- TDQ------N FEEQVLNSKS FFLVDFWAQW CNPCKILAPI 
+THIO_RHORU         5   ---------- SDA------S FEEDVLKADG PNXVDFWAEW CGPCRQXAPA 
+THM4_ARATH        92   ---------- SDS------E WQTKVLESDV PVLVEFWAPW CGPCRMIHPI 
+THIM_BRANA        77   ---------- NDS------T WESLVLKADE PVVVDFWAPW CGPCKMIDPI 
+THM2_ARATH        86   ---------- NDS------T WDSLVLKATG PVVVDFWAPW CGPCKMIDPL 
+THIO_ECHGR         3   ---VEAVVKQ VDG------D ALEAAIKGDK LLVCDFFATW CGPCKSLAPK 
+TRX1_YEAST         6   ---------- SAS------E YDSALASGDK LVVVDFFATW CGPCKMIAPM 
+THIO_EMENI        11   ---------- SKA------E FQEKVLNAKG FVVVDCFATW CGPCKAIAPT 
+THH1_ARATH        16   ---------- TWN------E QLQKANESKT LVVVDFTASW CGPCRFIAPF 
+THH2_TOBAC        15   ---------- AWN------E HLQKGIDDKK LIVVDFTASW CGPCKFIASF 
+THH1_TOBAC        22   ---------- EWN------E YFKKGVETKK LVVVDFTASW CGPCRFIAPI 
+THI3_DICDI         8   ---------- TSN------E -ELDKYLQHQ RVVVDFSAEW CGPCRAIAPV 
+                                                                 
+                       0000000000 0010000001 0111222234 4678888888 9888888777 
+ 
+1j0f_A            36   ---------- -D--G---KR ---------- ---------- -----IQYQL 
+SH3N_HUMAN        29   ---------- -D--G---KR ---------- ---------- -----IQYQL 
+SH3B_DROME        28   ---------- -D--S---KN ---------- ---------- -----IKYDT 
+SH3M_HUMAN        28   ---------- -E--A---NK ---------- ---------- -----IEFEE 
+SH3L_HUMAN        28   ---------- -E--A---NK ---------- ---------- -----IGFEE 
+SH3B_HUMAN        91   ---------- -E--A---NK ---------- ---------- -----IDFKE 
+1grx_             21   AEKLS-NE-R -D-------D ---------- ---------- -----FQYQY 
+1fov_A            21   LSSKG-VS-F -Q-------E LPIDGNAAKR E--------- ---------- 
+1b4q_A            32   LSQLP-IK-Q -G--LLE--F VDITATN--- --H------- ---------- 
+GLRX_HAEIN        21   AEKLK-GE-V -A-------D ---------- ---------- -----FDYRY 
+GLR1_SALTY        21   AEKLS-KE-R -D-------D ---------- ---------- -----FNYRY 
+GLRX_PSEAE        22   LQRKG-VD-F -Q-------E IACDGK---- ---------- ---------- 
+GLR3_ECOLI        21   LSSKG-VS-F -Q-------E LPIDGNAAKR E--------- ---------- 
+GLRX_CHICK        33   LKEFN-FL-P -G--CLE--V VDITGM---- ---------- ---------- 
+GLRX_BOVIN        32   LSQLP-FK-Q -G--LLE--F VDITAAG--- --N------- ---------- 
+GLR2_SCHPO        36   LTKYS-AP-Y -K-------A YELDKIE--- --N------- ---------- 
+GLRX_RICCO        33   LDQLG-AK-Y -K-------V VELDTES--- --D------- ---------- 
+GLRX_VERFO        33   LNQLG-AQ-F -K-------V IELDSES--- --D------- ---------- 
+GLRX_LYCES        33   LSKLG-AT-F -K-------A VELDSEK--- --D------- ---------- 
+GLRX_ORYSA        33   FGQLG-AT-F -K-------A IELDGES--- --D------- ---------- 
+GLR1_SCHPO        35   IADKK-IK-A -Q-------V YQIDLMN--- --N------- ---------- 
+GLRX_NEIMA        22   LHAAG-VghI -D-------E IRVDAS---- ---------- ---------- 
+GLRX_RICPR        27   LDKKN-VI-Y -E-------E IEVSNLT--- ---------- ---------- 
+1kng_A            53   LTELG-KD-K RFQ------L VGINYKD--- --AADNARRF LGRYGNPFGR 
+TYPX_TRYBB        50   LAEFY-EK-H -H-------V ---------- ---------- -----AKNFE 
+RESA_BACAA        83   MNELY-PK-Y -K-------E KGVEIIALDA DETDIAVKNF VNQYG-LKFP 
+RESA_BACHD        84   MEKLY-GE-Y -K-------E QGVEIIAVNA NEPELTVQRF VDRYG-LSFP 
+RESA_BACSU        84   MANQY-KH-F -K-------S QGVEIVAVNV GESKIAVHNF MKSYG-VNFP 
+RESA_OCEIH        99   MQDLY-AE-Y -K-------E KGVEIVAVSL DGTELVVDQF IDEYD-LTFP 
+CCMG_PARDE        87   LTELS-AR-L -P-------V YGVDLKD--- --PEGAALGF LSEHGDPFHA 
+HELX_RHOCA        85   LIGLK-QD-G -IE------I MGVNWKD--- --TPDQAQGF LAEMGSPYTR 
+CYCY_RHILV        90   LKELA-KD-G RLN------I VAINYKD--- --QSDNALRF LGELGNPYQA 
+DSBE_PSEFL        83   LNKLA-EK-G -VV------I YGINYKD--- --DNAAALKW LAEFHNPYQL 
+DSBE_PSEAE        84   LTRLA-EQ-G -VV------I YGINYKD--- --DNAAAIKW LNELHNPYLL 
+DSBE_YERPE        95   LNKLA-AQ-G -IR------V VGLNYKD--- --DRSKAVQW LNSLGNPYFL 
+DSBE_ECOLI        90   LNQLS-AQ-G -IR------V VGMNYKD--- --DRQKAISW LKELGNPYAL 
+DSBE_PANCI        90   LNTLA-EK-G -VR------V VGLNYKD--- --NRVKAINW LNTLGNPYAL 
+DSBE_VIBCH        89   LNELA-KQ-G -VK------I IGLNYKD--- --QRDKATQW LNDLGNPYLI 
+DSBE_HAEIN        88   LNKLA-KE-G -VR------I IGLDYKD--- --ESPKAMKW LKDLGNPYQV 
+DSBE_PASMU        88   LNKLA-QQ-G -VT------I IGIDYKD--- --KSAQAIKW LKDLGNPYQI 
+DSBE_CHRVI        85   LMRIArEH-G -VR------V IGFNWKD--- --TRPEALAL LQRYGDPYTV 
+NRFX_HAEIN        85   LIEIA-KT-L -P-------I VGVDYRD--- --NRQNGIKM LKRMGNPFIL 
+NRFX_PASMU        92   LMQLA-KS-M -P-------I VGLNYRD--- --NPQNALAM LNQLGNPFQL 
+DSBE_XYLFA        93   LTHFA-LS-K RVR------V IGYNWKD--- --RREDALQW LEQLGNPYLA 
+1mek_             46   YAKAA-GK-L -KAEG---SE ---------- ---------- -----IRLAK 
+TXN4_HUMAN        68   FEEAS-DV-I -KEEfpneNQ ---------- ---------- -----VVFAR 
+THI2_CORNE        42   LEELS-NE-Y -A-------G K--------- ---------- -----VKIVK 
+THIO_MYCGA        39   FEEVA-QD-K -K-------D ---------- ---------- -----WTFVK 
+THIO_MYCGE        40   FQKAA-DE-F -S-------D ---------- ---------- -----AQFVK 
+THIO_MYCPN        40   FAKAA-SE-V -S-------T ---------- ---------- -----VAFAK 
+TRX2_YEAST        39   IEKFS-EQ-Y -P-------Q ---------- ---------- -----ADFYK 
+THIO_COPCM        40   FEKFS-EK-Y -G--A---NN ---------- ---------- -----IVFAK 
+THIO_CHLPN        38   LENLA-AE-L -P-------H ---------- ---------- -----VTIGK 
+THIO_CHLCV        38   LESLE-AE-V -S-------S ---------- ---------- -----VLIGK 
+THIO_ICTPU        42   FETLS-KS-E -D--Y---QN ---------- ---------- -----VVFLK 
+TXL2_HUMAN        53   MAELA-KE-L -P-------Q ---------- ---------- -----VSFVK 
+THIM_CHLRE        74   VDEIA-GE-Y -K-------D K--------- ---------- -----LKCVK 
+THIO_GRIPA        41   IDEIA-HD-Y -K-------D K--------- ---------- -----LKVVK 
+THIM_PEA         107   IDELA-KE-Y -A-------G K--------- ---------- -----IKCYK 
+THIM_SPIOL       114   IDELA-KE-Y -S-------G K--------- ---------- -----IAVYK 
+THIM_ORYSA       105   IDELA-KE-Y -V-------G K--------- ---------- -----IKCCK 
+THIM_MAIZE        99   IDELA-KD-Y -A-------G K--------- ---------- -----ITCCK 
+THIO_BUCAI        42   LEEIS-KE-Y -S-------N K--------- ---------- -----VIVGK 
+THIO_RHORU        39   LEELA-TA-L -G-------D K--------- ---------- -----VTVAK 
+THM4_ARATH       126   VDQLA-KD-F -A-------G K--------- ---------- -----FKFYK 
+THIM_BRANA       111   VNELA-QQ-Y -T-------G K--------- ---------- -----IKFFK 
+THM2_ARATH       120   VNDLA-QH-Y -T-------G K--------- ---------- -----IKFYK 
+THIO_ECHGR        44   LDAMA-KE-N -E-------K ---------- ---------- -----VIFVK 
+TRX1_YEAST        40   IEKFA-EQ-Y -S-------D ---------- ---------- -----AAFYK 
+THIO_EMENI        45   VEKFA-QT-Y -T-------D ---------- ---------- -----ASFYQ 
+THH1_ARATH        50   FADLA-KK-L -P-------N ---------- ---------- -----VLFLK 
+THH2_TOBAC        49   YAELA-KK-M -P-------T ---------- ---------- -----VTFLK 
+THH1_TOBAC        56   LADIA-KK-M -P-------H ---------- ---------- -----VIFLK 
+THI3_DICDI        41   FDKLS-NE-F -T-------T ---------- ---------- -----FTFVH 
+                                                                 
+                       7766605403 0300000003 2111111000 0000000000 0000022334 
+ 
+1j0f_A            45   VD-------- ---------- ---------I ---------- ---------- 
+SH3N_HUMAN        38   VD-------- ---------- ---------I ---------- ---------- 
+SH3B_DROME        37   VD-------- ---------- ---------I ---------- ---------- 
+SH3M_HUMAN        37   VD-------- ---------- ---------I ---------- ---------- 
+SH3L_HUMAN        37   KD-------- ---------- ---------I ---------- ---------- 
+SH3B_HUMAN       100   LD-------- ---------- ---------I ---------- ---------- 
+1grx_             36   VD-------- ---------- ---------I ---------- ---------- 
+1fov_A            42   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A            53   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN        36   VD-------- ---------- ---------I ---------- ---------- 
+GLR1_SALTY        36   ID-------- ---------- ---------I ---------- ---------- 
+GLRX_PSEAE        38   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN        53   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO        54   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO        51   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO        51   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES        51   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA        51   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO        53   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA        39   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        44   ---------- ---------- ---------- ---------- ---------- 
+1kng_A            90   VG-------- ---------- ---------V DANGRASIEW GVYGVPETFV 
+TYPX_TRYBB        65   VVliswdene sdfhdyygkm pwlalpfdqR STVSELGKTF GVESIPTLIT 
+RESA_BACAA       122   VA-------- ---------- ---------I DKGQKIIGTY GVGPLPTSFL 
+RESA_BACHD       123   IV-------- ---------- ---------I DKGLNVIDAY GIRPLPTTIL 
+RESA_BACSU       123   VV-------- ---------- ---------L DTDRQVLDAY DVSPLPTTFL 
+RESA_OCEIH       138   VP-------- ---------- ---------H DKNGEVKDLY KIGPMPTTYF 
+CCMG_PARDE       122   LA-------- ---------- ---------A DPRGRVAIDW GVTAPPETFI 
+HELX_RHOCA       121   LG-------- ---------- ---------A DPGNKMGLDW GVAGVPETFV 
+CYCY_RHILV       127   IG-------- ---------- ---------I DPNGKAAIDW GVYGIPESYL 
+DSBE_PSEFL       119   DI-------- ---------- ---------R DEDGNLGLNL GVYGAPETFF 
+DSBE_PSEAE       120   SI-------- ---------- ---------S DADGTLGLDL GVYGAPETYL 
+DSBE_YERPE       131   SL-------- ---------- ---------Y DGDGMLGLDL GVYGAPETFL 
+DSBE_ECOLI       126   SL-------- ---------- ---------F DGDGMLGLDL GVYGAPETFL 
+DSBE_PANCI       126   SL-------- ---------- ---------Y DGDGMLGLDL GVYGAPETFL 
+DSBE_VIBCH       125   SL-------- ---------- ---------F DGNGMLGLDL GVYGAPETFL 
+DSBE_HAEIN       124   VL-------- ---------- ---------K DEKGSFGLDL GVYGAPETFI 
+DSBE_PASMU       124   VL-------- ---------- ---------K DEKGSNGLDL GVYGAPETFV 
+DSBE_CHRVI       122   SL-------- ---------- ---------Y DPDNKAGIDW GVYGAPETFI 
+NRFX_HAEIN       120   TI-------- ---------- ---------D DSHGELGLKL GVDGAPETYL 
+NRFX_PASMU       127   VI-------- ---------- ---------N DSRGELALNL GVDGAPETYL 
+DSBE_XYLFA       130   VV-------- ---------- ---------S DPEGKTAMDW GVTAAPTTFL 
+1mek_             65   VD-------- ---------- ---------A TEESDLAQQY GVRGYPTIKF 
+TXN4_HUMAN        90   VD-------- ---------- ---------C DQHSDIAQRY RISKYPTLKL 
+THI2_CORNE        58   VD-------- ---------- ---------V TSCEDTAVKY NIRNIPALLM 
+THIO_MYCGA        54   VD-------- ---------- ---------V DQANEISSEY EIRSIPTVIF 
+THIO_MYCGE        55   VN-------- ---------- ---------V DDHTDIAAAY NITSLPTIVV 
+THIO_MYCPN        55   VN-------- ---------- ---------V DEQTDIAAAY KITSLPTIVL 
+TRX2_YEAST        54   LD-------- ---------- ---------V DELGDVAQKN EVSAMPTLLL 
+THIO_COPCM        57   VD-------- ---------- ---------V DTASDISEEA KIRAMPTFQV 
+THIO_CHLPN        53   IN-------- ---------- ---------I DENSKPAETY EVSSIPTLIL 
+THIO_CHLCV        53   VN-------- ---------- ---------I DDHPAPAEQY GVSSIPTLIL 
+THIO_ICTPU        59   VD-------- ---------- ---------V DDAADVSSHC DIKCMPTFHF 
+TXL2_HUMAN        68   LE-------- ---------- ---------A EGVPEVSEKY EISSVPTFLF 
+THIM_CHLRE        90   LN-------- ---------- ---------T DESPNVASEY GIRSIPTIMV 
+THIO_GRIPA        57   VN-------- ---------- ---------T DQNPTIATEY GIRSIPTVMI 
+THIM_PEA         123   LN-------- ---------- ---------T DESPNTATKY GIRSIPTVLF 
+THIM_SPIOL       130   LN-------- ---------- ---------T DEAPGIATQY NIRSIPTVLF 
+THIM_ORYSA       121   VN-------- ---------- ---------T DDSPNIATNY GIRSIPTVLM 
+THIM_MAIZE       115   VN-------- ---------- ---------T DDSPNVASTY GIRSIPTVLI 
+THIO_BUCAI        58   LN-------- ---------- ---------I EENPNTAPVY SIRSIPTLLL 
+THIO_RHORU        55   IN-------- ---------- ---------I DENPQTPSKY GVRGIPTLMI 
+THM4_ARATH       142   IN-------- ---------- ---------T DESPNTANRY GIRSVPTVII 
+THIM_BRANA       127   LN-------- ---------- ---------T DDSPATPGKY GVRSIPTIMI 
+THM2_ARATH       136   LN-------- ---------- ---------T DESPNTPGQY GVRSIPTIMI 
+THIO_ECHGR        59   LD-------- ---------- ---------V DECQDVAEKY RVTAMPTLIV 
+TRX1_YEAST        55   LD-------- ---------- ---------V DEVSDVAQKA EVSSMPTLIF 
+THIO_EMENI        60   ID-------- ---------- ---------V DELSEVAAEL GIRAMPTFLL 
+THH1_ARATH        65   VD-------- ---------- ---------T DELKSVASDW AIQAMPTFMF 
+THH2_TOBAC        64   VD-------- ---------- ---------V DELKSVATDW AVEAMPTFMF 
+THH1_TOBAC        71   VD-------- ---------- ---------V DELKTVSAEW SVEAMPTFVF 
+THI3_DICDI        56   VD-------- ---------- ---------I DKVNTHPIGK EIRSVPTFYF 
+                                                                 
+                       4400000000 0000000000 0000000004 4433333334 4444444444 
+ 
+1j0f_A            48   ---------- -SQ-D----- ---------- ---------- ---------- 
+SH3N_HUMAN        41   ---------- -SQ-D----- ---------- ---------- ---------- 
+SH3B_DROME        40   ---------- -TEpGKESEK ELM------- ---------- ---------- 
+SH3M_HUMAN        40   ---------- -TM-SEEQRQ WMY------- ---------- ---------- 
+SH3L_HUMAN        40   ---------- -AA-NEENRK WMR------- ---------- ---------- 
+SH3B_HUMAN       103   ---------- -AG-DEDNRR WMR------- ---------- ---------- 
+1grx_             39   ---------- -RA-E----- ---------- ---------- ---------- 
+1fov_A            42   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A            53   ---------- -------T-- ---------- ---------- ---------- 
+GLRX_HAEIN        39   ---------- -HA-E----- ---------- ---------- ---------- 
+GLR1_SALTY        39   ---------- -HA-E----- ---------- ---------- ---------- 
+GLRX_PSEAE        38   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN        53   ---------- -------I-- ---------- ---------- ---------- 
+GLR2_SCHPO        54   ---------- -------G-- ---------- ---------- ---------- 
+GLRX_RICCO        51   ---------- -------G-- ---------- ---------- ---------- 
+GLRX_VERFO        51   ---------- -------G-- ---------- ---------- ---------- 
+GLRX_LYCES        51   ---------- -------G-- ---------- ---------- ---------- 
+GLRX_ORYSA        51   ---------- -------G-- ---------- ---------- ---------- 
+GLR1_SCHPO        53   ---------- -------G-- ---------- ---------- ---------- 
+GLRX_NEIMA        39   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        44   ---------- ---------- --Q------- ---------- ---------- 
+1kng_A           113   VGREGTIVYK LVG-PITPDN LRS------- ---------- ---------- 
+TYPX_TRYBB       115   INADTGAIIG TQA-RTRVIE DPDGANfp-- ---------- ---------- 
+RESA_BACAA       145   IDKDGKVVEQ IIG-EQTKEQ LEG------- ---------- ---------- 
+RESA_BACHD       146   INEHGEIVKV HTG-GMTEQM VEE------- ---------- ---------- 
+RESA_BACSU       146   INPEGKVVKV VTG-TMTESM IHD------- ---------- ---------- 
+RESA_OCEIH       161   IKPNGEIEEI VQG-ALTLDR LEG------- ---------- ---------- 
+CCMG_PARDE       145   MHGSGRILHR HAG-PLVRED YTN------- ---------- ---------- 
+HELX_RHOCA       144   VDGAGRILTR IAG-PLTEDV ITK------- ---------- ---------- 
+CYCY_RHILV       150   VGADGTILYK RVG-PSTNIS LKE------- ---------- ---------- 
+DSBE_PSEFL       142   IDAKGVIRDK YVG-VIDEVV WRD------- ---------- ---------- 
+DSBE_PSEAE       143   IDKQGIIRHK IVG-VVDQKV WRE------- ---------- ---------- 
+DSBE_YERPE       154   IDGQGVIRYR HAG-DLNDRV WQQ------- ---------- ---------- 
+DSBE_ECOLI       149   IDGNGIIRYR HAG-DLNPRV WEE------- ---------- ---------- 
+DSBE_PANCI       149   IDGKGIIRYR HAG-DLNAEV WKD------- ---------- ---------- 
+DSBE_VIBCH       148   IDANGVIRYR HVG-DVNSRN WQE------- ---------- ---------- 
+DSBE_HAEIN       147   VDGKGVIHYR YAG-DVNEKV WTQ------- ---------- ---------- 
+DSBE_PASMU       147   IDGQGIIHYR HAG-DLNQKV WDE------- ---------- ---------- 
+DSBE_CHRVI       145   VDAEGIIRHK RVG-PIDAQV Wa-------- ---------- ---------- 
+NRFX_HAEIN       143   VDENGVIRYR HSG-LLDKET WQT------- ---------- ---------- 
+NRFX_PASMU       150   IDQYGVIRYR YSG-PLTPEV WQE------- ---------- ---------- 
+DSBE_XYLFA       153   IDGRGIVRWH HKG-ALNQQI IEH------- ---------- ---------- 
+1mek_             88   FRNGDTASPK eytaGREA-- ---------- ---------- ---------- 
+TXN4_HUMAN       113   FRNGMMMKRE YRG-QRSVKA LAD------- ---------- ---------- 
+THI2_CORNE        81   FKDGEVVAQQ VGA-APRSKL AAF------- ---------- ---------- 
+THIO_MYCGA        77   FQDGKMADKR IGF-IPKNEL KEL------- ---------- ---------- 
+THIO_MYCGE        78   FENGVEKKRA IGF-MPKTKI IDL------- ---------- ---------- 
+THIO_MYCPN        78   FEKGQEKHRA IGF-MPKAKI VQL------- ---------- ---------- 
+TRX2_YEAST        77   FKNGKEVAKV VGA-NPAAIK QAIAANA--- ---------- ---------- 
+THIO_COPCM        80   YKDGQKIDEL VGA-NPTALE SLVQKSLA-- ---------- ---------- 
+THIO_CHLPN        76   FKDGNEVARV VGL-KDKEFL TNL------- ---------- ---------- 
+THIO_CHLCV        76   FKDGKEVDRV VGL-KDKDSL IRL------- ---------- ---------- 
+THIO_ICTPU        82   YKNGQKIDEF SGA-NEQTLK QKINDHk--- ---------- ---------- 
+TXL2_HUMAN        91   FKNSQKIDRL DGA-HAPELT KKVQRHASSG Sflpsanehl kedlnlrlkk 
+THIM_CHLRE       113   FKGGKKCETI IGA-VPKATI VQT------- ---------- ---------- 
+THIO_GRIPA        80   FINGKKVDTV VGA-VPKLTL LNT------- ---------- ---------- 
+THIM_PEA         146   FKNGERKDSV IGA-VPKATL SEK------- ---------- ---------- 
+THIM_SPIOL       153   FKNGERKESI IGA-VPKSTL TDS------- ---------- ---------- 
+THIM_ORYSA       144   FKNGEKKESV IGA-VPKTTL ATI------- ---------- ---------- 
+THIM_MAIZE       138   FKGGEKKESV IGA-VPKSTL TTL------- ---------- ---------- 
+THIO_BUCAI        81   FNNSEVLATK VGA-VSKLEL KEF------- ---------- ---------- 
+THIO_RHORU        78   FKDGQVAATK IGA-LPKTKL FEW------- ---------- ---------- 
+THM4_ARATH       165   FKGGEKKDSI IGA-VPRETL EKT------- ---------- ---------- 
+THIM_BRANA       150   FVKGEKKDTI IGA-VPKTTL ATS------- ---------- ---------- 
+THM2_ARATH       159   FVGGEKKDTI IGA-VPKTTL TSS------- ---------- ---------- 
+THIO_ECHGR        82   FKNGCEIGHV VGA-NEAGIR ELIQANA--- ---------- ---------- 
+TRX1_YEAST        78   YKGGKEVTRV VGA-NPAAIK QAIASNV--- ---------- ---------- 
+THIO_EMENI        83   FKDGQKVSDV VGA-NPGALE AGIKALLA-- ---------- ---------- 
+THH1_ARATH        88   LKEGKILDKV VGA-KKDELQ STIAKHLA-- ---------- ---------- 
+THH2_TOBAC        87   LKEGKIVDKV VGA-KKDELQ QTIAKHISST Sta------- ---------- 
+THH1_TOBAC        94   IKDGKEVDRV VGA-KKEELQ QTIVKHAA-- ---------- ---------- 
+THI3_DICDI        79   YVNGAKVSEF SGA-NEATLR STLEANI--- ---------- ---------- 
+                                                                 
+                       4433333333 3330222111 1110000000 0000000000 0000000000 
+ 
+1j0f_A            51   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        44   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME        52   ---------- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN        51   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN        51   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN       114   ---------- ---------- ---------- ---------- ---------- 
+1grx_             42   ---------- ---------- ---------- ---------- ---------- 
+1fov_A            42   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A            54   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN        42   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE        38   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN        54   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO        55   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA        52   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO        54   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA        39   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        45   ---------- ---------- ---------- ---------- ---------- 
+1kng_A           135   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB       142   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       167   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACHD       168   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACSU       168   ---------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH       183   ---------- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       167   ---------- ---------- ---------- ---------- ---------- 
+HELX_RHOCA       166   ---------- ---------- ---------- ---------- ---------- 
+CYCY_RHILV       172   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL       164   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE       165   ---------- ---------- ---------- ---------- ---------- 
+DSBE_YERPE       176   ---------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       171   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PANCI       171   ---------- ---------- ---------- ---------- ---------- 
+DSBE_VIBCH       170   ---------- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN       169   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU       169   ---------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       165   ---------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       172   ---------- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA       175   ---------- ---------- ---------- ---------- ---------- 
+1mek_            106   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN       135   ---------- ---------- ---------- ---------- ---------- 
+THI2_CORNE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA        99   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       100   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       100   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN        98   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV        98   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       140   lthaapcmlf mkgtpqeprc gfskqmveil hkhniqfssf difsdeevrq 
+THIM_CHLRE       135   ---------- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       102   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA         168   ---------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       175   ---------- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       166   ---------- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       160   ---------- ---------- ---------- ---------- ---------- 
+THIO_BUCAI       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU       100   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       187   ---------- ---------- ---------- ---------- ---------- 
+THIM_BRANA       172   ---------- ---------- ---------- ---------- ---------- 
+THM2_ARATH       181   ---------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       121   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A            51   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        44   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME        52   ---------- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN        51   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN        51   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN       114   ---------- ---------- ---------- ---------- ---------- 
+1grx_             42   ---------- ---------- ---------- ---------- ---------- 
+1fov_A            42   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A            54   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN        42   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE        38   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN        54   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO        55   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES        52   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA        52   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO        54   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA        39   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        45   ---------- ---------- ---------- ---------- ---------- 
+1kng_A           135   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB       142   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       167   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACHD       168   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACSU       168   ---------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH       183   ---------- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       167   ---------- ---------- ---------- ---------- ---------- 
+HELX_RHOCA       166   ---------- ---------- ---------- ---------- ---------- 
+CYCY_RHILV       172   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL       164   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE       165   ---------- ---------- ---------- ---------- ---------- 
+DSBE_YERPE       176   ---------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       171   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PANCI       171   ---------- ---------- ---------- ---------- ---------- 
+DSBE_VIBCH       170   ---------- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN       169   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU       169   ---------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       165   ---------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       172   ---------- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA       175   ---------- ---------- ---------- ---------- ---------- 
+1mek_            106   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN       135   ---------- ---------- ---------- ---------- ---------- 
+THI2_CORNE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA        99   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       100   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       100   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN        98   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV        98   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       190   glkaysswpt ypqlyvsgel iggldiikel easeeldtic pkapkleerl 
+THIM_CHLRE       135   ---------- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       102   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA         168   ---------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       175   ---------- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       166   ---------- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       160   ---------- ---------- ---------- ---------- ---------- 
+THIO_BUCAI       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU       100   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       187   ---------- ---------- ---------- ---------- ---------- 
+THIM_BRANA       172   ---------- ---------- ---------- ---------- ---------- 
+THM2_ARATH       181   ---------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       121   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A            51   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        44   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME        52   ---------- ---------- ---------- ---------- -------QNk 
+SH3M_HUMAN        51   ---------- ---------- ---------- ---------- -------KNV 
+SH3L_HUMAN        51   ---------- ---------- ---------- ---------- -------ENV 
+SH3B_HUMAN       114   ---------- ---------- ---------- ---------- -------ENV 
+1grx_             42   ---------- ---------- ---------- ---------- ---------- 
+1fov_A            42   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A            54   ---------- ---------- ---------- ---------- -------NEI 
+GLRX_HAEIN        42   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE        38   ---------- ---------- ---------- ---------- -------PEL 
+GLR3_ECOLI        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK        52   ---------- ---------- ---------- ---------- -------DDI 
+GLRX_BOVIN        54   ---------- ---------- ---------- ---------- -------SEI 
+GLR2_SCHPO        55   ---------- ---------- ---------- ---------- -------SDI 
+GLRX_RICCO        52   ---------- ---------- ---------- ---------- -------SEI 
+GLRX_VERFO        52   ---------- ---------- ---------- ---------- -------SDL 
+GLRX_LYCES        52   ---------- ---------- ---------- ---------- -------SEI 
+GLRX_ORYSA        52   ---------- ---------- ---------- ---------- -------SEL 
+GLR1_SCHPO        54   ---------- ---------- ---------- ---------- -------DEI 
+GLRX_NEIMA        39   ---------- ---------- ---------- ---------- -------PEA 
+GLRX_RICPR        45   ---------- ---------- ---------- ---------- -------EEK 
+1kng_A           135   ---------- ---------- ---------- ---------- -------VLL 
+TYPX_TRYBB       142   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       167   ---------- ---------- ---------- ---------- -------YLK 
+RESA_BACHD       168   ---------- ---------- ---------- ---------- -------FME 
+RESA_BACSU       168   ---------- ---------- ---------- ---------- -------YMN 
+RESA_OCEIH       183   ---------- ---------- ---------- ---------- -------YLN 
+CCMG_PARDE       167   ---------- ---------- ---------- ---------- -------RFL 
+HELX_RHOCA       166   ---------- ---------- ---------- ---------- -------KID 
+CYCY_RHILV       172   ---------- ---------- ---------- ---------- -------GLV 
+DSBE_PSEFL       164   ---------- ---------- ---------- ---------- -------ELA 
+DSBE_PSEAE       165   ---------- ---------- ---------- ---------- -------QLA 
+DSBE_YERPE       176   ---------- ---------- ---------- ---------- -------EIL 
+DSBE_ECOLI       171   ---------- ---------- ---------- ---------- -------EIK 
+DSBE_PANCI       171   ---------- ---------- ---------- ---------- -------EVQ 
+DSBE_VIBCH       170   ---------- ---------- ---------- ---------- -------TLA 
+DSBE_HAEIN       169   ---------- ---------- ---------- ---------- -------TLK 
+DSBE_PASMU       169   ---------- ---------- ---------- ---------- -------KIQ 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       165   ---------- ---------- ---------- ---------- -------VFL 
+NRFX_PASMU       172   ---------- ---------- ---------- ---------- -------MFI 
+DSBE_XYLFA       175   ---------- ---------- ---------- ---------- -------KLL 
+1mek_            106   ---------- ---------- ---------- ---------- -------DDI 
+TXN4_HUMAN       135   ---------- ---------- ---------- ---------- -------YIR 
+THI2_CORNE       103   ---------- ---------- ---------- ---------- -------IDQ 
+THIO_MYCGA        99   ---------- ---------- ---------- ---------- -------LK- 
+THIO_MYCGE       100   ---------- ---------- ---------- ---------- -------FNN 
+THIO_MYCPN       100   ---------- ---------- ---------- ---------- -------VSQ 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN        98   ---------- ---------- ---------- ---------- -------INK 
+THIO_CHLCV        98   ---------- ---------- ---------- ---------- -------INQ 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       240   kvltnkasvm lfmkgnkqea kcgfskqile ilnstgveye tfdiledEEV 
+THIM_CHLRE       135   ---------- ---------- ---------- ---------- -------VEK 
+THIO_GRIPA       102   ---------- ---------- ---------- ---------- -------LQK 
+THIM_PEA         168   ---------- ---------- ---------- ---------- -------VEK 
+THIM_SPIOL       175   ---------- ---------- ---------- ---------- -------IEK 
+THIM_ORYSA       166   ---------- ---------- ---------- ---------- -------IDK 
+THIM_MAIZE       160   ---------- ---------- ---------- ---------- -------IDK 
+THIO_BUCAI       103   ---------- ---------- ---------- ---------- -------LDE 
+THIO_RHORU       100   ---------- ---------- ---------- ---------- -------VEA 
+THM4_ARATH       187   ---------- ---------- ---------- ---------- -------IER 
+THIM_BRANA       172   ---------- ---------- ---------- ---------- -------IDK 
+THM2_ARATH       181   ---------- ---------- ---------- ---------- -------LDK 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       121   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000111 
+ 
+1j0f_A            51   ---------- ---------- ---------- ---------- -----NALRD 
+SH3N_HUMAN        44   ---------- ---------- ---------- ---------- -----NALRD 
+SH3B_DROME        55   stsnggtv-- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN        54   PP-------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN        54   PE-------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN       117   PG-------- ---------- ---------- ---------- ---------- 
+1grx_             42   ---------- ---------- ---------- ---------- -----GITKE 
+1fov_A            42   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A            57   QD-------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN        42   ---------- ---------- ---------- ---------- -----GITKE 
+GLR1_SALTY        42   ---------- ---------- ---------- ---------- -----GITKA 
+GLRX_PSEAE        41   RA-------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        42   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK        55   QD-------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN        57   QD-------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO        58   QA-------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO        55   QT-------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO        55   QN-------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES        55   QA-------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA        55   QS-------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO        57   QS-------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA        42   FA-------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        48   EK-------- ---------- ---------- ---------- ---------- 
+1kng_A           138   PQ-------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB       142   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       170   KI-------- ---------- ---------- ---------- ---------- 
+RESA_BACHD       171   LI-------- ---------- ---------- ---------- ---------- 
+RESA_BACSU       171   LI-------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH       186   DI-------- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       170   PE-------- ---------- ---------- ---------- ---------- 
+HELX_RHOCA       169   PL-------- ---------- ---------- ---------- ---------- 
+CYCY_RHILV       175   PA-------- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL       167   AK-------- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE       168   PL-------- ---------- ---------- ---------- ---------- 
+DSBE_YERPE       179   PL-------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       174   PL-------- ---------- ---------- ---------- ---------- 
+DSBE_PANCI       174   PL-------- ---------- ---------- ---------- ---------- 
+DSBE_VIBCH       173   PL-------- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN       172   PI-------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU       172   PI-------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       168   PK-------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       175   PE-------- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA       178   PI-------- ---------- ---------- ---------- ---------- 
+1mek_            109   VN-------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN       138   qqksdpiqei rdlaeittld rskrniigyf eqkdsdnyrv fervaNILHD 
+THI2_CORNE       106   NI-------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA       101   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       103   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN       101   HA-------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV       101   HS-------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       290   RQ-------- ---------- ---------- ---------- ---------- 
+THIM_CHLRE       138   YL-------- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       105   HL-------- ---------- ---------- ---------- ---------- 
+THIM_PEA         171   YI-------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       178   YL-------- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       169   YV-------- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       163   YI-------- ---------- ---------- ---------- ---------- 
+THIO_BUCAI       106   NI-------- ---------- ---------- ---------- ---------- 
+THIO_RHORU       103   SV-------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       190   FLve------ ---------- ---------- ---------- ---------- 
+THIM_BRANA       175   FL-------- ---------- ---------- ---------- ---------- 
+THM2_ARATH       184   FLp------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       121   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1100000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A            56   EMRTLAGNPK ATPPQIVNGN H--------- -----YCGDY ELFVE---AV 
+SH3N_HUMAN        49   EMRALAGNPK ATPPQIVNGD Q--------- -----YCGDY ELFVE---AV 
+SH3B_DROME        63   ---SDPEPRH PLPPQLFNDD E--------- -----YCGDY DAFDM---AN 
+SH3M_HUMAN        56   --EKKPTQGN PLPPQIFNGD R--------- -----YCGDY DSFFE---SK 
+SH3L_HUMAN        56   --NSRPATGY PLPPQIFNES Q--------- -----YRGDY DAFFE---AR 
+SH3B_HUMAN       119   --EKKPQNGI PLPPQIFNEE Q--------- -----YCGDF DSFFS---AK 
+1grx_             47   DLQQKAGKPV ETVPQIFVDQ Q--------- -----HIGGY TDFAA---WV 
+1fov_A            42   --EMIKRSGR TTVPQIFIDA Q--------- -----HIGGY DDLYA---LD 
+1b4q_A            59   --YLQQLTGA RTVPRVFIGK D--------- -----SIGGS SDLVS---LQ 
+GLRX_HAEIN        47   DLSKSVGKPV ETVPQIFIDE K--------- -----PIGGC TDFEA---LM 
+GLR1_SALTY        47   DLEKTVGKPV ETVPQIFVDQ K--------- -----HIGGC TDFEA---WA 
+GLRX_PSEAE        43   --ELARKAGS TTVPQIWIGE T--------- -----HVGGC DDLHA---LE 
+GLR3_ECOLI        42   --EMIKRSGR TTVPQIFIDA Q--------- -----HIGGC DDLYA---LD 
+GLRX_CHICK        57   --YFQKTTGQ RTVPRVFIGT K--------- -----CIGGF SDLQK---ME 
+GLRX_BOVIN        59   --YLQQLTGA RTVPRVFIGQ E--------- -----CIGGC TDLVN---MH 
+GLR2_SCHPO        60   --YLHEKTKQ STVPSIFFRN Q--------- -----FIGGN SDLNK---LR 
+GLRX_RICCO        57   --ALAEWTGQ RTVPNVFIGG K--------- -----HIGGC DSTTA---KH 
+GLRX_VERFO        57   --ALAEWTGQ RTVPNVFIGG K--------- -----HIGGC DKTTG---MH 
+GLRX_LYCES        57   --ALAEWTGQ RTVPNVFIGR K--------- -----HIGGC DATTA---LH 
+GLRX_ORYSA        57   --ALAEWTGQ RTVPNVFING K--------- -----HIGGC DDTLA---LN 
+GLR1_SCHPO        59   --YLLKKTGQ RTVPNIFIHQ K--------- -----HVGGN SDFQA---LF 
+GLRX_NEIMA        44   --EMQQLSGQ RSVPQIFIGE T--------- -----HVGGF TDLYR---LQ 
+GLRX_RICPR        50   --FIKKSGGK STVPQIFIDN M--------- -----HVGGC DDLFN---LE 
+1kng_A           140   --MEKA---- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB       142   ---------W Pn-------- ---------- ---------- ---------- 
+RESA_BACAA       172   -------TP- ---------- ---------- ---------- ---------- 
+RESA_BACHD       173   -------KPE A--------- ---------- ---------- ---------- 
+RESA_BACSU       173   -------KPG ETsg------ ---------- ---------- ---------- 
+RESA_OCEIH       188   -------AP- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       172   --LEKA---- ---------- ---------- ---------- ---------- 
+HELX_RHOCA       171   --LAGT---- ---------- ---------- ---------- ---------- 
+CYCY_RHILV       177   --MEKA---- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL       169   --YQAL---- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE       170   --YQQL---- ---------- ---------- ---------- ---------- 
+DSBE_YERPE       181   --YKKYQGGa ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       176   --WEKY---- ---------- ---------- ---------- ---------- 
+DSBE_PANCI       176   --WNKY---- ---------- ---------- ---------- ---------- 
+DSBE_VIBCH       175   --YEKM---- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN       174   --YDKL---- ---------- ---------- ---------- ---------- 
+DSBE_PASMU       174   --YQKL---- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       170   --IEALKNk- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       177   --WQKL---- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA       180   --LAd----- ---------- ---------- ---------- ---------- 
+1mek_            111   --WLKKRTGP AA-------- ---------- ---------- ---------- 
+TXN4_HUMAN       188   DCAFLSAFGD VSKPERYSGD Niiykppghs apdmvYLGAM TNFDVtynWI 
+THI2_CORNE       108   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA       101   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       103   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       292   --GLKAYSNW PTYPQLYVKG E--------- -----LVGGL DIVKE---LK 
+THIM_CHLRE       140   -------N-- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       107   -------KST ---------- ---------- ---------- ---------- 
+THIM_PEA         173   ---------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       180   -------SP- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       171   -------SS- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       165   -------GSS ---------- ---------- ---------- ---------- 
+THIO_BUCAI       108   -------N-- ---------- ---------- ---------- ---------- 
+THIO_RHORU       105   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       194   ---------- ---------- ---------- ---------- ---------- 
+THIM_BRANA       177   -------Q-- ---------- ---------- ---------- ---------- 
+THM2_ARATH       187   ---------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       121   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0011100000 1111111111 1000000000 0000011111 1100000000 
+ 
+1j0f_A            89   EQDTLQEFLK LA-------- ---------- ---------- ---------- 
+SH3N_HUMAN        82   EQNTLQEFLK LA-------- ---------- ---------- ---------- 
+SH3B_DROME        93   EIDTLEVFLK LAPADTTAVS TAQIELK--- ---------- -------QEN 
+SH3M_HUMAN        87   ESNTVFSFLG LKPRLASKAE p--------- ---------- ---------- 
+SH3L_HUMAN        87   ENNAVYAFLG LTAPPGSKE- -AEVQAK--- ---------- -------QQa 
+SH3B_HUMAN       150   EENIIYSFLG LAPPPDSKG- -SEkaeegge teaqkegsed vgnlPEAQEK 
+1grx_             80   KENL-DA--- ---------- ---------- ---------- ---------- 
+1fov_A            73   ARGGLDPLLK ---------- ---------- ---------- ---------- 
+1b4q_A            90   QSGELLTRLK QIGALQ---- ---------- ---------- ---------- 
+GLRX_HAEIN        80   KEQF------ --GIVA---- ---------- ---------- ---------- 
+GLR1_SALTY        80   KENL------ --NLFA---- ---------- ---------- ---------- 
+GLRX_PSEAE        74   RAGKLDALLS a--------- ---------- ---------- ---------- 
+GLR3_ECOLI        73   ARGGLDPLLK ---------- ---------- ---------- ---------- 
+GLRX_CHICK        88   QQ--LPMMLR QIGALV---- ---------- ---------- ---------- 
+GLRX_BOVIN        90   ERGELLTRLK QMGALQ---- ---------- ---------- ---------- 
+GLR2_SCHPO        91   SSGTLTKMIA ELKENKSSIl ---------- ---------- ---------- 
+GLRX_RICCO        88   SQGQLVPLLT EAGAV----- ---------- ---------- ---------- 
+GLRX_VERFO        88   QEGKLIPLLT EAGAVKA--- ---------- ---------- ---------- 
+GLRX_LYCES        88   REGKLLPLLT EAGAIAkt-S TA-------- ---------- ---------- 
+GLRX_ORYSA        88   NEGKLVPLLT EAGAIASSAK ttita----- ---------- ---------- 
+GLR1_SCHPO        90   KKGELDSLFN TA-------- ---------- ---------- ---------- 
+GLRX_NEIMA        75   QEGGLDGLLN p--------- ---------- ---------- ---------- 
+GLRX_RICPR        81   KEGRLDKLLE HQPKN----- ---------- ---------- ---------- 
+1kng_A           144   ---------- ------L--- ---------- ---------- ---------- 
+TYPX_TRYBB       145   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       174   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACHD       177   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACSU       180   ---------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH       190   QQN------- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       176   ---------- ------LAae ---------- ---------- ---------- 
+HELX_RHOCA       175   ---------- ------AD-- ---------- ---------- ---------- 
+CYCY_RHILV       181   ---------- ------LGK- ---------- ---------- ----Pvs--- 
+DSBE_PSEFL       173   ---------- ------VDE- -AKp------ ---------- ---------- 
+DSBE_PSEAE       174   ---------- ------LDE- ---------- ---------- ----PEAR-- 
+DSBE_YERPE       189   ---------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       180   ---------- ------SKE- -AAQ------ ---------- ---------- 
+DSBE_PANCI       180   ---------- ------SKl- ---------- ---------- ---------- 
+DSBE_VIBCH       179   ---------- ------LAE- -AKQ------ ---------- ---------- 
+DSBE_HAEIN       178   ---------- ------SEQq ---------- ---------- ---------- 
+DSBE_PASMU       178   ---------- ------VErk ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       177   ---------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       181   ---------- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA       183   --------IE HSPTAAPALH QAp------- ---------- ---------- 
+1mek_            121   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN       238   QDkcv----- ---------- ---------- ---------- ----PLVREI 
+THI2_CORNE       108   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA       101   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       103   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       323   ENGELLPILR gen------- ---------- ---------- ---------- 
+THIM_CHLRE       141   ---------- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       110   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA         173   ---------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       182   ---------- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       173   ---------- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       168   ---------- ---------- ---------- ---------- ---------- 
+THIO_BUCAI       109   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU       105   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       194   ---------- ---------- ---------- ---------- ---------- 
+THIM_BRANA       178   ---------- ---------- ---------- ---------- ---------- 
+THM2_ARATH       187   ---------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       121   ---------- --PATVTA-- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A           101   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        94   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME       123   GDAKKEEAET EAEDKKTEAG DGDVDVKEEA AEKAEv---- ---------- 
+SH3M_HUMAN       108   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN       115   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN       198   NEEEGETATE ETEEIAMEGA EGEAEEEEET AEGEE----- ---------- 
+1grx_             86   ---------- ---------- ---------- ---------- ---------- 
+1fov_A            83   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A           106   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN        88   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY        88   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE        85   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        83   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK       102   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN       106   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO       111   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO       103   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO       105   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES       109   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA       113   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO       102   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA        86   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        96   ---------- ---------- ---------- ---------- ---------- 
+1kng_A           145   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB       145   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       174   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACHD       177   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACSU       180   ---------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH       193   ---------- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       180   ---------- ---------- ---------- ---------- ---------- 
+HELX_RHOCA       177   ---------- ---------- ---------- ---------- ---------- 
+CYCY_RHILV       187   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL       179   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE       181   ---------- ---------- ---------- ---------- ---------- 
+DSBE_YERPE       189   ---------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       186   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PANCI       183   ---------- -AED------ ---------- ---------- ---------- 
+DSBE_VIBCH       185   ---------- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN       182   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU       182   ---------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       177   ---------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       181   ---------- EAENAKvr-- ---------- ---------- ---------- 
+DSBE_XYLFA       198   ---------- ---------- ---------- ---------- ---------- 
+1mek_            121   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN       249   TFENGEELTE EGLPFLILFH MKEDTESLEI FQNEvarqli sekgtinflh 
+THI2_CORNE       108   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA       101   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       103   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       336   ---------- ---------- ---------- ---------- ---------- 
+THIM_CHLRE       141   ---------- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       110   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA         173   ---------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       182   ---------- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       173   ---------- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       168   ---------- ---------- ---------- ---------- ---------- 
+THIO_BUCAI       109   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU       105   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       194   ---------- ---------- ---------- ---------- ---------- 
+THIM_BRANA       178   ---------- ---------- ---------- ---------- ---------- 
+THM2_ARATH       187   ---------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       127   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A           101   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        94   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME       159   ---------- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN       108   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN       115   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN       233   ---------- ---------- ---------- ---------- ---------- 
+1grx_             86   ---------- ---------- ---------- ---------- ---------- 
+1fov_A            83   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A           106   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN        88   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY        88   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE        85   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        83   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK       102   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN       106   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO       111   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO       103   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO       105   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES       109   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA       113   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO       102   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA        86   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        96   ---------- ---------- ---------- ---------- ---------- 
+1kng_A           145   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB       145   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       174   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACHD       177   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACSU       180   ---------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH       193   ---------- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       180   ---------- ---------- ---------- ---------- ---------- 
+HELX_RHOCA       177   ---------- ---------- ---------- ---------- ---------- 
+CYCY_RHILV       187   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL       179   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE       181   ---------- ---------- ---------- ---------- ---------- 
+DSBE_YERPE       189   ---------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       186   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PANCI       186   ---------- ---------- ---------- ---------- ---------- 
+DSBE_VIBCH       185   ---------- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN       182   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU       182   ---------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       177   ---------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       189   ---------- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA       198   ---------- ---------- ---------- ---------- ---------- 
+1mek_            121   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN       299   adcdkfrhpl lhiqktpadc pviaidsfrh myvfgdfkdv lipgklkqfv 
+THI2_CORNE       108   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA       101   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       103   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       336   ---------- ---------- ---------- ---------- ---------- 
+THIM_CHLRE       141   ---------- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       110   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA         173   ---------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       182   ---------- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       173   ---------- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       168   ---------- ---------- ---------- ---------- ---------- 
+THIO_BUCAI       109   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU       105   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       194   ---------- ---------- ---------- ---------- ---------- 
+THIM_BRANA       178   ---------- ---------- ---------- ---------- ---------- 
+THM2_ARATH       187   ---------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       127   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A           101   ---------- ---------- ---------- ---------- ---------- 
+SH3N_HUMAN        94   ---------- ---------- ---------- ---------- ---------- 
+SH3B_DROME       159   ---------- ---------- ---------- ---------- ---------- 
+SH3M_HUMAN       108   ---------- ---------- ---------- ---------- ---------- 
+SH3L_HUMAN       115   ---------- ---------- ---------- ---------- ---------- 
+SH3B_HUMAN       233   ---------- ---------- --PGEdeds- ---------- ---------- 
+1grx_             86   ---------- ---------- ---------- ---------- ---------- 
+1fov_A            83   ---------- ---------- ---------- ---------- ---------- 
+1b4q_A           106   ---------- ---------- ---------- ---------- ---------- 
+GLRX_HAEIN        88   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SALTY        88   ---------- ---------- ---------- ---------- ---------- 
+GLRX_PSEAE        85   ---------- ---------- ---------- ---------- ---------- 
+GLR3_ECOLI        83   ---------- ---------- ---------- ---------- ---------- 
+GLRX_CHICK       102   ---------- ---------- ---------- ---------- ---------- 
+GLRX_BOVIN       106   ---------- ---------- ---------- ---------- ---------- 
+GLR2_SCHPO       111   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICCO       103   ---------- ---------- ---------- ---------- ---------- 
+GLRX_VERFO       105   ---------- ---------- ---------- ---------- ---------- 
+GLRX_LYCES       109   ---------- ---------- ---------- ---------- ---------- 
+GLRX_ORYSA       113   ---------- ---------- ---------- ---------- ---------- 
+GLR1_SCHPO       102   ---------- ---------- ---------- ---------- ---------- 
+GLRX_NEIMA        86   ---------- ---------- ---------- ---------- ---------- 
+GLRX_RICPR        96   ---------- ---------- ---------- ---------- ---------- 
+1kng_A           145   ---------- ---------- ---------- ---------- ---------- 
+TYPX_TRYBB       145   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACAA       174   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACHD       177   ---------- ---------- ---------- ---------- ---------- 
+RESA_BACSU       180   ---------- ---------- ---------- ---------- ---------- 
+RESA_OCEIH       193   ---------- ---------- ---------- ---------- ---------- 
+CCMG_PARDE       180   ---------- ---------- ---------- ---------- ---------- 
+HELX_RHOCA       177   ---------- ---------- ---------- ---------- ---------- 
+CYCY_RHILV       187   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEFL       179   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PSEAE       181   ---------- ---------- ---------- ---------- ---------- 
+DSBE_YERPE       189   ---------- ---------- ---------- ---------- ---------- 
+DSBE_ECOLI       186   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PANCI       186   ---------- ---------- ---------- ---------- ---------- 
+DSBE_VIBCH       185   ---------- ---------- ---------- ---------- ---------- 
+DSBE_HAEIN       182   ---------- ---------- ---------- ---------- ---------- 
+DSBE_PASMU       182   ---------- ---------- ---------- ---------- ---------- 
+DSBE_CHRVI       166   ---------- ---------- ---------- ---------- ---------- 
+NRFX_HAEIN       177   ---------- ---------- ---------- ---------- ---------- 
+NRFX_PASMU       189   ---------- ---------- ---------- ---------- ---------- 
+DSBE_XYLFA       198   ---------- ---------- ---------- ---------- ---------- 
+1mek_            121   ---------- ---------- ---------- ---------- ---------- 
+TXN4_HUMAN       349   fdlhsgklhr efhhgpdptd taPGEqaqdv assppessfq klapseyryt 
+THI2_CORNE       108   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGA       101   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCGE       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_MYCPN       103   ---------- ---------- ---------- ---------- ---------- 
+TRX2_YEAST       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_COPCM       107   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLPN       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_CHLCV       103   ---------- ---------- ---------- ---------- ---------- 
+THIO_ICTPU       108   ---------- ---------- ---------- ---------- ---------- 
+TXL2_HUMAN       336   ---------- ---------- ---------- ---------- ---------- 
+THIM_CHLRE       141   ---------- ---------- ---------- ---------- ---------- 
+THIO_GRIPA       110   ---------- ---------- ---------- ---------- ---------- 
+THIM_PEA         173   ---------- ---------- ---------- ---------- ---------- 
+THIM_SPIOL       182   ---------- ---------- ---------- ---------- ---------- 
+THIM_ORYSA       173   ---------- ---------- ---------- ---------- ---------- 
+THIM_MAIZE       168   ---------- ---------- ---------- ---------- ---------- 
+THIO_BUCAI       109   ---------- ---------- ---------- ---------- ---------- 
+THIO_RHORU       105   ---------- ---------- ---------- ---------- ---------- 
+THM4_ARATH       194   ---------- ---------- ---------- ---------- ---------- 
+THIM_BRANA       178   ---------- ---------- ---------- ---------- ---------- 
+THM2_ARATH       187   ---------- ---------- ---------- ---------- ---------- 
+THIO_ECHGR       108   ---------- ---------- ---------- ---------- ---------- 
+TRX1_YEAST       104   ---------- ---------- ---------- ---------- ---------- 
+THIO_EMENI       110   ---------- ---------- ---------- ---------- ---------- 
+THH1_ARATH       115   ---------- ---------- ---------- ---------- ---------- 
+THH2_TOBAC       119   ---------- ---------- ---------- ---------- ---------- 
+THH1_TOBAC       127   ---------- ---------- ---------- ---------- ---------- 
+THI3_DICDI       105   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1j0f_A           101   -------- 
+SH3N_HUMAN        94   -------- 
+SH3B_DROME       159   -------- 
+SH3M_HUMAN       108   -------- 
+SH3L_HUMAN       115   -------- 
+SH3B_HUMAN       240   -------- 
+1grx_             86   -------- 
+1fov_A            83   -------- 
+1b4q_A           106   -------- 
+GLRX_HAEIN        88   -------- 
+GLR1_SALTY        88   -------- 
+GLRX_PSEAE        85   -------- 
+GLR3_ECOLI        83   -------- 
+GLRX_CHICK       102   -------- 
+GLRX_BOVIN       106   -------- 
+GLR2_SCHPO       111   -------- 
+GLRX_RICCO       103   -------- 
+GLRX_VERFO       105   -------- 
+GLRX_LYCES       109   -------- 
+GLRX_ORYSA       113   -------- 
+GLR1_SCHPO       102   -------- 
+GLRX_NEIMA        86   -------- 
+GLRX_RICPR        96   -------- 
+1kng_A           145   -------- 
+TYPX_TRYBB       145   -------- 
+RESA_BACAA       174   -------- 
+RESA_BACHD       177   -------- 
+RESA_BACSU       180   -------- 
+RESA_OCEIH       193   -------- 
+CCMG_PARDE       180   -------- 
+HELX_RHOCA       177   -------- 
+CYCY_RHILV       187   -------- 
+DSBE_PSEFL       179   -------- 
+DSBE_PSEAE       181   -------- 
+DSBE_YERPE       189   -------- 
+DSBE_ECOLI       186   -------- 
+DSBE_PANCI       186   -------- 
+DSBE_VIBCH       185   -------- 
+DSBE_HAEIN       182   -------- 
+DSBE_PASMU       182   -------- 
+DSBE_CHRVI       166   -------- 
+NRFX_HAEIN       177   -------- 
+NRFX_PASMU       189   -------- 
+DSBE_XYLFA       198   -------- 
+1mek_            121   -------- 
+TXN4_HUMAN       399   llrdrdel 
+THI2_CORNE       108   -------- 
+THIO_MYCGA       101   -------- 
+THIO_MYCGE       103   -------- 
+THIO_MYCPN       103   -------- 
+TRX2_YEAST       103   -------- 
+THIO_COPCM       107   -------- 
+THIO_CHLPN       103   -------- 
+THIO_CHLCV       103   -------- 
+THIO_ICTPU       108   -------- 
+TXL2_HUMAN       336   -------- 
+THIM_CHLRE       141   -------- 
+THIO_GRIPA       110   -------- 
+THIM_PEA         173   -------- 
+THIM_SPIOL       182   -------- 
+THIM_ORYSA       173   -------- 
+THIM_MAIZE       168   -------- 
+THIO_BUCAI       109   -------- 
+THIO_RHORU       105   -------- 
+THM4_ARATH       194   -------- 
+THIM_BRANA       178   -------- 
+THM2_ARATH       187   -------- 
+THIO_ECHGR       108   -------- 
+TRX1_YEAST       104   -------- 
+THIO_EMENI       110   -------- 
+THH1_ARATH       115   -------- 
+THH2_TOBAC       119   -------- 
+THH1_TOBAC       127   -------- 
+THI3_DICDI       105   -------- 
+                   
+                       00000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1j0f_A      :0.007398SH3N_HUMAN  :0.007398):0.018937(SH3B_DROME  :0.020785(SH3M_HUMAN  :0.010696(SH3L_HUMAN  :0.009648SH3B_HUMAN  :0.009648):0.001048):0.010089):0.005549):0.219467((1grx_       :0.010986(GLRX_HAEIN  :0.009715GLR1_SALTY  :0.009715):0.001271):0.032463((((((1fov_A      :0.007605GLR3_ECOLI  :0.007605):0.009564GLRX_PSEAE  :0.017169):0.001772GLRX_RICPR  :0.018941):0.004781GLRX_NEIMA  :0.023722):0.006773((GLR2_SCHPO  :0.019679GLR1_SCHPO  :0.019679):0.003722(((GLRX_RICCO  :0.007763GLRX_VERFO  :0.007763):0.000871GLRX_LYCES  :0.008634):0.000442GLRX_ORYSA  :0.009076):0.014324):0.007095):0.003236((1b4q_A      :0.008207GLRX_BOVIN  :0.008207):0.009662GLRX_CHICK  :0.017869):0.015862):0.009718):0.202353):0.178795(((((1kng_A      :0.009294CYCY_RHILV  :0.009294):0.007112(CCMG_PARDE  :0.010219HELX_RHOCA  :0.010219):0.006186):0.002919(((((DSBE_PSEFL  :0.005449DSBE_PSEAE  :0.005449):0.003916(((DSBE_YERPE  :0.004822(DSBE_ECOLI  :0.004530DSBE_PANCI  :0.004530):0.000292):0.000678DSBE_VIBCH  :0.005500):0.001022(DSBE_HAEIN  :0.004810DSBE_PASMU  :0.004810):0.001712):0.002843):0.002505DSBE_CHRVI  :0.011870):0.000762(NRFX_HAEIN  :0.006783NRFX_PASMU  :0.006783):0.005848):0.002370DSBE_XYLFA  :0.015002):0.004323):0.027367(((RESA_BACAA  :0.008154RESA_BACHD  :0.008154):0.000105RESA_BACSU  :0.008259):0.002610RESA_OCEIH  :0.010869):0.035822):0.036319(TYPX_TRYBB  :0.070508((1mek_       :0.031876TXN4_HUMAN  :0.031876):0.010177((((((THI2_CORNE  :0.014711THIO_BUCAI  :0.014711):0.001618THIO_RHORU  :0.016329):0.001025((THIM_CHLRE  :0.010186THIO_GRIPA  :0.010186):0.001226(((THIM_PEA    :0.007555THIM_SPIOL  :0.007555):0.001058(THIM_ORYSA  :0.005792THIM_MAIZE  :0.005792):0.002821):0.001207(THM4_ARATH  :0.009768(THIM_BRANA  :0.005495THM2_ARATH  :0.005495):0.004272):0.000053):0.001591):0.005943):0.005295((THIO_MYCGA  :0.018231(THIO_MYCGE  :0.009749THIO_MYCPN  :0.009749):0.008482):0.004151(THIO_CHLPN  :0.009100THIO_CHLCV  :0.009100):0.013282):0.000267):0.003642((((((TRX2_YEAST  :0.009449TRX1_YEAST  :0.009449):0.004641THIO_EMENI  :0.014090):0.002646THIO_ECHGR  :0.016736):0.002352(THIO_COPCM  :0.015559THIO_ICTPU  :0.015559):0.003530):0.002332((THH1_ARATH  :0.007404THH2_TOBAC  :0.007404):0.000795THH1_TOBAC  :0.008200):0.013221):0.001904THI3_DICDI  :0.023324):0.002967):0.012461TXL2_HUMAN  :0.038752):0.003302):0.028454):0.012503):0.341585);
+ 
+ 

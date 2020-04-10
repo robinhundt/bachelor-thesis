@@ -1,0 +1,261 @@
+1awd_              1   ---------- ---------- ---------- ---------- ---------- 
+FER1_ANASP         1   ---------- ---------- ---------- ---------- ---------- 
+FER_SPIMA          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_CYAPA         1   ---------- ---------- ---------- ---------- ---------- 
+FER3_CYACA         1   ---------- ---------- ---------- ---------- ---------- 
+FER1_CYACA         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_CYACA         1   ---------- ---------- ---------- ---------- ---------- 
+FER_PORPU          1   ---------- ---------- ---------- ---------- ---------- 
+FER_ODOSI          1   ---------- ---------- ---------- ---------- ---------- 
+FER_BUMFI          1   e--------- ---------- ---------- ---------- ---------- 
+FER_SILPR          1   m---AS-TLS TLSVSASL-L P-----K-QQ PM------VA S--------- 
+FER2_NOSMU         1   ---------- ---------- ---------- ---------- ---------- 
+FER_PHYPA          1   M--AAA-AMT SIVPVASI-A PvskvaN-VR PS------SV S--------- 
+FERH_ANASP         1   ---------- ---------- ---------- ---------- ---------- 
+FERV_ANAVA         1   ---------- ---------- ---------- ---------- ---------- 
+FER_SYNEL          1   ---------- ---------- ---------- ---------- ---------- 
+FER_BRYMA          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_RAPSA         1   ---------- ---------- ---------- ---------- ---------- 
+FER3_MAIZE         1   m------STS TFATSCTL-L G-----N-VR TT------QA S--------- 
+FER6_MAIZE         1   ---------- ---MSTAT-A -------PRL PA------P- RsgasyhyQT 
+FER1_SYNP2         1   ---------- ---------- ---------- ---------- ---------- 
+FER_WHEAT          1   m------AAA LSLRAPFS-L R-----AVAP PA------P- R--------- 
+FER1_ORYSA         1   M--AAT-ALS SQVRLPMS-L R-----VATA PA------PA R--------- 
+FER1_MAIZE         1   ---------- ---MATvlgS -------PRA PAfffsssSL R--------- 
+FER_APHSA          1   ---------- ---------- ---------- ---------- ---------- 
+FER_MARPO          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_DUNSA         1   ---------- ---------- ---------- ---------- ---------- 
+FER1_MESCR         1   maaTTA-ALS GATMSTAF-A -------PKT PP------MT A--------- 
+FER_LEUGL          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_SPIOL         1   M--AAT-TTT MMGMATTF-V P-----KPQA PP------MM A--------- 
+FER_SOLLY          1   ---------- ---------- ---------- ---------- ---------- 
+FER_CAPAN          1   M--AS---VS ATMISTSF-M P-----RKPA VT------SL K--------- 
+FER_PERBI          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_PEA           1   M--ATTpALY GTAVSTSF-L R-----TQPM PM------SV T--------- 
+FER_GLEJA          1   ---------- ---------- ---------- ---------- ---------- 
+FER_EUGVI          1   ---------- ---------- ---------- ---------- ---------- 
+FER_RHOPL          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_EQUAR         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_EQUAR         1   ---------- ---------- ---------- ---------- ---------- 
+FER1_PHYAM         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_PHYAM         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_APHSA         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_ARATH         1   M--AST-ALS SAIVSTSF-L R-----RQQT PI------SL R--------- 
+FER2_PLEBO         1   ---------- ---------- ---------- ---------- ---------- 
+1gua_B             1   ---------N TIRV---F-L P-----NK-- ---------- --------QR 
+1ubi_              1   ---------- ---------- ---------- ---------- ---------- 
+1a5r_              1   ---------- ----SMSD-Q E-----AKPS TE------DL ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1awd_              1   ---------- ---------- ---------- ---------- ---------- 
+FER1_ANASP         1   ---------- ---------- ---------- ---------- ---------- 
+FER_SPIMA          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_CYAPA         1   ---------- ---------- ---------- ---------- ---------- 
+FER3_CYACA         1   ---------- ---------- ---------- ---------- ---------- 
+FER1_CYACA         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_CYACA         1   ---------- ---------- ---------- ---------- ---------- 
+FER_PORPU          1   ---------- ---------- ---------- ---------- ---------- 
+FER_ODOSI          1   ---------- ---------- ---------- ---------- ---------- 
+FER_BUMFI          2   ---------- ---------- ---------- ---------- ---------- 
+FER_SILPR         25   -SLPTNMGQA LF-----G-- --LK------ A--GSRGRV- --------TA 
+FER2_NOSMU         1   ---------- ---------- ---------- ---------- ---------- 
+FER_PHYPA         31   -VAKA----- -F-----G-- --LK------ S--RSMGRL- --------TC 
+FERH_ANASP         1   ---------- ---------- ---------- ---------- ---------- 
+FERV_ANAVA         1   ---------- ---------- ---------- ---------- ---------- 
+FER_SYNEL          1   ---------- ---------- ---------- ---------- ---------- 
+FER_BRYMA          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_RAPSA         1   ---------- ---------- ---------- ---------- ---------- 
+FER3_MAIZE        23   -QTAVKSPSS LsffsqvtkV PSLK------ TSKK-L-D-- --------VS 
+FER6_MAIZE        23   TAAPAANTLS FA-----G-- --HA------ RQAA-RASGp rlssrfvaSA 
+FER1_SYNP2         1   ---------- ---------- ---------- ---------- ---------- 
+FER_WHEAT         23   -VALAPAALS LA-----A-- --AK------ Q--V-RGAR- --------LR 
+FER1_ORYSA        27   ---------- ---------V SVLP------ ASNK-LGDR- --------LR 
+FER1_MAIZE        22   -AAPAPTAVA LP-----A-- --AKvgimgr S--ASSRRR- --------LR 
+FER_APHSA          1   ---------- ---------- ---------- ---------- ---------- 
+FER_MARPO          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_DUNSA         1   ---------- ---------- ---------- ---------- ---------- 
+FER1_MESCR        27   -ALPTNVGRA LF-----G-- --LK------ S--SASRGR- --------VT 
+FER_LEUGL          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_SPIOL        27   -ALPSNTGRS LF-----G-- --LK------ T--GSRGGR- --------MT 
+FER_SOLLY          1   ---------- ---------- ---------- ---------- ---------- 
+FER_CAPAN         25   -PIP-NVGEA LF-----G-- --LK------ S--A-NGGK- --------VT 
+FER_PERBI          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_PEA          28   -TTKA----- -FsngflG-- --LK------ TSLK-RGDL- --------AV 
+FER_GLEJA          1   ---------- ---------- ---------- ---------- ---------- 
+FER_EUGVI          1   ---------- ---------- ---------- ---------- ---------- 
+FER_RHOPL          1   ---------- ---------- ---------- ---------- ---------- 
+FER1_EQUAR         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_EQUAR         1   ---------- ---------- ---------- ---------- ---------- 
+FER1_PHYAM         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_PHYAM         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_APHSA         1   ---------- ---------- ---------- ---------- ---------- 
+FER2_ARATH        27   -SLPFANTQS LF-----G-- --LK------ SSTA-RGGR- --------VT 
+FER2_PLEBO         1   ---------- ---------- ---------- ---------- ---------- 
+1gua_B            13   TVVNVRNGMS LH-----D-- --CL------ MKAL-KVRG- --------LQ 
+1ubi_              1   ---------- ---------- ---------- ---------- ---------- 
+1a5r_             15   ---------- ---------- ---------- ------GD-- --------KK 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1awd_              1   ----YKVTLK T-P-SG-EET IECPEDTYIL DAAEEAGLD- --LPYSCRAG 
+FER1_ANASP         1   --ATFKVTLI NEA-EGTKHE IEVPDDEYIL DAAEEQGYD- --LPFSCRAG 
+FER_SPIMA          1   --ATYKVTLI SEA-EGINET IDCDDDTYIL DAAEEAGLD- --LPYSCRAG 
+FER1_CYAPA         1   --AVYKVRLI CEE-QGLDTT IECPDDEYIL DAAEEQGID- --LPYSCRAG 
+FER3_CYACA         1   --ASYKIHLV NKD-QGIDET IECPDDQYIL DAAEEQGLD- --LPYSCRAG 
+FER1_CYACA         1   --TSYKVKLT NEK-EGIDVE INCPNDQYIL DAAEEQGID- --LPYSCRAG 
+FER2_CYACA         1   ---MYKIQLV NQK-EGVDVT INCPGDQYIL DAAEEQGVD- --LPYSCRAG 
+FER_PORPU          1   --ADYKIHLL SED-EGIDVT FDCSEDTYIL DAAEEAGIE- --LPYSCRAG 
+FER_ODOSI          1   --ATYKVTLL SEE-HDIDAT IDCNDDVFLL DAAEEQGIE- --LPYSCRAG 
+FER_BUMFI          2   ---TYSVTLV NEE-KNINAV IKCPDDQFIL DAAEEQGIE- --LPYSCRAG 
+FER_SILPR         48   -MATYKVTLI TKE-SG-TVT FDCPDDVYVL DQAEEEGID- --LPYSCRAG 
+FER2_NOSMU         1   --ATYKVRLF NAA-EGLDET IEVPDDEYIL DAAEEAGLD- --LPFSCRSG 
+FER_PHYPA         48   -MATYKVTFL DGE-TGAENV XECSDEEYXL DAAERAGMD- --LPYSCRAG 
+FERH_ANASP         1   --ASYQVRLI NKKQDI-DTT IEIDEETTIL DGAEENGIE- --LPFSCHSG 
+FERV_ANAVA         1   --TTYQVRLI NKKRAI-DIT IPVDENTTIL DAAEQQDIE- --LPFSCQSG 
+FER_SYNEL          1   --ATYKVTLV R-P-DGSETT IDVPEDEYIL DVAEEQGLD- --LPFSCRAG 
+FER_BRYMA          1   --ASYKVTLK L-D-DGSEAV IDCDEDSFIL DVAEEEGID- --IPFSCRSG 
+FER1_RAPSA         1   -SAVYKVKLI G-P-DGQENE FDVPDDQYIL DAAEEAGVD- --LPYSCRAG 
+FER3_MAIZE        54   AMAVYKVKLV G-P-EGEEHE FDAPDDAYIL DAAETAGVE- --LPYSCRAG 
+FER6_MAIZE        57   AAVLHKVKLV G-P-DGTEHE FEAPDDTYIL EAAETAGVE- --LPFSCRAG 
+FER1_SYNP2         1   --ATYKVTLI T-P-DG-EVS YDAPDDEYIL DSAGDAGYD- --LPASCRAG 
+FER_WHEAT         45   AQATYKVKLV T-P-EG-EVE LEVPDDVYIL DQAEEEGID- --LPYSCRAG 
+FER1_ORYSA        42   MQATYNVKLI T-P-DG-EVE LQVPDDVYIL DQAEEEGID- --LPYSCRAG 
+FER1_MAIZE        51   AQATYNVKLI T-P-EG-EVE LQVPDDVYIL DQAEEDGID- --LPYSCRAG 
+FER_APHSA          1   --ASYKVTLK T-P-DG-DNV ITVPDDEYIL DVAEEEGLD- --LPYSCRAG 
+FER_MARPO          1   ---TFKVTLN T-P-TG-QSV IDVEDDEYIL DAAEEAGLS- --LPYSCRAG 
+FER1_DUNSA         1   ---SYMVTLK T-P-SG-EQK VEVSPDSYIL DAAEEAGVD- --LPYSCRAG 
+FER1_MESCR        50   AMAAYKVTLV T-P-EG-KQE LECPDDVYIL DAAEEAGID- --LPYSCRAG 
+FER_LEUGL          1   ---AFKVKLL T-P-DG-PKE FECPDDVYIL DQAEELGIE- --LPYSCRAG 
+FER1_SPIOL        50   -MAAYKVTLV T-P-TG-NVE FQCPDDVYIL DAAEEEGID- --LPYSCRAG 
+FER_SOLLY          1   --ATYKVKLI T-P-EG-PVE FNCPDDVYIL DSAEENGHD- --LPYSCRAG 
+FER_CAPAN         46   CMASYKVKLI T-P-DG-PIE FDCPDNVYIL DQAEEAGHD- --LPYSCRAG 
+FER_PERBI          1   ----FKVTLD T-P-DG-KKS FECPGDSYIL DKAEEEGLE- --LPYSCRAG 
+FER1_PEA          51   AMASYKVKLV T-P-DG-TQE FECPSDVYIL DHAEEVGID- --LPYSCRAG 
+FER_GLEJA          1   --AIFKVKFL T-P-DG-ERT IEVPDDKFIL DAGEEAGLD- --LPYSCRAG 
+FER_EUGVI          1   --ATYSVKLI N-P-DG-EVT IECGEDQYIL DAAEDAGID- --LPYSCRAG 
+FER_RHOPL          1   -AVKYTVTLS T-P-GG-VEE IEGDETTYVL DSAEDQGID- --LPYSCRAG 
+FER1_EQUAR         1   ---AYKTVLK T-P-SG-EFT LDVPEGTTIL DAAEEAGYD- --LPFSCRAG 
+FER2_EQUAR         1   ---AYKVTLK T-P-DG-DIT FDVEPGERLI DIGSEKA-D- --LPLSCQAG 
+FER1_PHYAM         1   --ATYKVTLV T-P-SG-TQT IDCPDDTYVL DAAEEAGLD- --LPYSCRAG 
+FER2_PHYAM         1   -AASYKVTFV T-P-SG-TNT ITCPADTYVL DAAEESGLD- --LPYSCRAG 
+FER2_APHSA         1   --ATYKVTLI NEE-EGINAI LEVADDQTIL DAGEEAGLD- --LPSSCRAG 
+FER2_ARATH        51   AMATYKVKFI T-P-EG-EQE VECEEDVYVL DAAEEAGLD- --LPYSCRAG 
+FER2_PLEBO         1   --ATYQVRLI NKKRNL-DIT LPVDEDTTVL EAAEEAELD- --LPFSCHSG 
+1gua_B            38   PECCAVFRLL HEH-KGKKAR LDWNTDAASL IGEELQ---- ---------- 
+1ubi_              1   ----MQIFVK T-L-TGKTIT LEVEPSDTIE NVKAKIQ-DK EGIPPDQqRL 
+1a5r_             19   EGEYIKLKVI G-Q-DSSEIH FKVKMTTHLK KLKESYC-QR QGVPMNSlRF 
+                                                                 
+                       0000111111 1010110112 3456677788 8888888880 0088888899 
+ 
+1awd_             41   ACSSCAGKVE SGEV-DQSDQ SFLDDAQMGK GFVLTCVAYP TSDVTILTHQ 
+FER1_ANASP        45   ACSTCAGKLV SGTV-DQSDQ SFLDDDQIEA GYVLTCVAYP TSDVVIQTHK 
+FER_SPIMA         45   ACSTCAGKIT SGSI-DQSDQ SFLDDDQIEA GYVLTCVAYP TSDCTIQTHQ 
+FER1_CYAPA        45   ACSTCAGKVV EGTV-DQSDQ SFLDDAQLAA GYVLTCVAYP SSDCTVKTHQ 
+FER3_CYACA        45   ACSTCAGKLL EGEV-DQSDQ SFLDDDQVKA GFVLTCVAYP TSNATILTHQ 
+FER1_CYACA        45   ACSTCAGKLI SGTV-DQSDQ SFLDDEQIKE GFVLTCVAYP TSNCTILTHQ 
+FER2_CYACA        44   ACSTCAGKLV KGSV-DQSDQ SFLDEEQINN GFILTCVAYP TSDCVIQTHQ 
+FER_PORPU         45   ACSTCAGKVT EGSV-DQSDQ SFLDDEQLLK GYVLTCIAYP ESDCTILTHV 
+FER_ODOSI         45   ACSTCAGKVT EGDI-DQSEQ TFLDDDQVGA GFVLTCIAYP KSDCTVLVHQ 
+FER_BUMFI         45   ACSTCAGKVL SGTI-DQSEQ SFLDDDQMGA GFLLTCVAYP TSDCKVQTHA 
+FER_SILPR         92   SCSSCAGKVV AGSV-DQSDQ SFLDDDQIEA GWVLTCAAYP SADVTIETHK 
+FER2_NOSMU        45   SCSSCNGILK KGTV-DQSDQ NFLDDDQIAA GNVLTCVAYP TSNCEIETHR 
+FER_PHYPA         93   ACSSCAGIIK AGEV-DQSDQ SFLDDSQIDD GFVLTCVAYP ASDCIIXTHQ 
+FERH_ANASP        45   SCSSCVGKVV EGEV-DQSDQ IFLDDEQMGK GFALLCVTYP RSNCTIKTHQ 
+FERV_ANAVA        45   SCSSCVAKVV EGEV-DQSEQ VFLDEEQMAK GFIVLCVSYP RSDCTIRTHQ 
+FER_SYNEL         44   ACSTCAGKLL EGEV-DQSDQ SFLDDDQIEK GFVLTCVAYP RSDCKILTNQ 
+FER_BRYMA         44   SCSTCAGKIE GGTV-DQSEQ TFLDDDQMEE GYVLTCVAYP TSDCTILTHQ 
+FER1_RAPSA        45   ACSTCAGKIE KGQV-DQSDG SFLEDHHFEK GYVLTCVAYP QSDLVIHTHK 
+FER3_MAIZE        99   ACSTCAGKIE SGSV-DQSDG SFLDDGQQEE GYVLTCVSYP KSDCVIHTHK 
+FER6_MAIZE       102   SCSTCAGRMS AGEV-DQSEG SFLDDGQMAE GYLLTCISYP KADCVIHTHK 
+FER1_SYNP2        43   ACSTCAGKIV SGTV-DQSEQ SFLDDDQIEA GYVLTCIAYP QSDVTIETNK 
+FER_WHEAT         89   SCSSCAGKLV SGEI-DQSDQ SFLDDDQMEA GWVLTCHAYP KSDIVIETHK 
+FER1_ORYSA        86   SCSSCAGKVV SGEI-DQSDQ SFLDDDQVAA GWVLTCHAYP KSDVVIETHK 
+FER1_MAIZE        95   SCSSCAGKVV SGSV-DQSDQ SYLDDGQIAD GWVLTCHAYP TSDVVIETHK 
+FER_APHSA         43   ACSTCAGKLV SGPAPd-EDQ SFLDDDQIQA GYILTCVAYP TGDCVIETHK 
+FER_MARPO         42   ACSSCAGKVT AGEV-DQSDE SFLDDDQMDE GYVLTCIAYP TSDLTIDTHQ 
+FER1_DUNSA        42   SCSSCAGKVE SGTV-DQSDQ SFLDDDQMDS GFVLTCVAYA TSDCTIVTHQ 
+FER1_MESCR        94   SCSSCAGKVT SGSV-NQDDG SFLDDDQIKE GWVLTCVAYP TGDVTIETHK 
+FER_LEUGL         42   SCSSCAGKLV EGDL-DQSDQ SFLDDEQIEE GWVLTCAAYP RSDVVIETHK 
+FER1_SPIOL        93   SCSSCAGKLK TGSL-NQDDQ SFLDDDQIDE GWVLTCAAYP VSDVTIETHK 
+FER_SOLLY         43   ACSSCAGKIT AGNV-DQSDN SFLDDDQVAE GFVLTCVAYP KSNVTIETHK 
+FER_CAPAN         90   SCSSCAGKIA GGAV-DQTDG NFLDDDQLEE GWVLTCVAYP QSDVTIETHK 
+FER_PERBI         41   SCSSCAGKVL TGSI-DQSDQ AFLDDDQGGD GYCLTCVTYP TSDVTIKTHC 
+FER1_PEA          95   SCSSCAGKVV GGEV-DQSDG SFLDDEQIEA GFVLTCVAYP TSDVVIETHK 
+FER_GLEJA         43   ACSSCTGKLL DGRV-DQSEQ SFLDDDQMAE GFVLTCVAYP AGDITIETHA 
+FER_EUGVI         43   ACSSCTGIVK EGTV-DQSDQ SFLDDDQMAK GFCLTCTTYP TSNCTIETHK 
+FER_RHOPL         44   ACSTCAGIVE LGTV-DQSDQ SFLDDDQLND SFVLTCVAYP TSDCQIKTHQ 
+FER1_EQUAR        42   ACSSCLGKVV SGSV-DESEG SFLDDGQMEE GFVLTCIAIP ESDLVIETHK 
+FER2_EQUAR        41   ACSTCLGKIV SGTV-DQSEG SFLDDEQIEQ GYVLTCIAIP ESDVVIETHK 
+FER1_PHYAM        43   SCSSCTGKVT AGTV-DQEDQ SFLDDDQIEA GFVLTCVAFP KGDVTIETHK 
+FER2_PHYAM        44   ACSSCAGKVT AGAV-NQEDG SFLEEEQMEA GWVLTCVAYP TSDVTIETHK 
+FER2_APHSA        45   SCSTCAGKLV SGAAPNQDDQ AFLDDDQLAA GWVMTCVAYP TGDCTIMTHQ 
+FER2_ARATH        95   SCSSCAGKVV SGSI-DQSDQ SFLDDEQMSE GYVLTCVAYP TSDVVIETHK 
+FER2_PLEBO        45   ACSSCVGKVV EGEI-NQDDQ TFLDEEQVAK GFVLLCVTYP RTDCTIRTHQ 
+1gua_B            73   ---------- ---V-D---- -FL------- ---------- ---------- 
+1ubi_             44   IF---AGKQL -------EDG RTLSDYNIQK ESTLHLVLRL RGG------- 
+1a5r_             66   LF---EGQRI -------ADN HTPKELGMEE EDVIEVYQEQ TGGHSTV--- 
+                                                                 
+                       8888888776 6867088887 8888888777 7777777777 7777777777 
+ 
+1awd_             90   EAALY-- 
+FER1_ANASP        94   EEDLY-- 
+FER_SPIMA         94   EEGLY-- 
+FER1_CYAPA        94   EESLY-- 
+FER3_CYACA        94   EESLY-- 
+FER1_CYACA        94   EEALY-- 
+FER2_CYACA        93   EEALY-- 
+FER_PORPU         94   EQELY-- 
+FER_ODOSI         94   EDELY-- 
+FER_BUMFI         94   EDDLY-- 
+FER_SILPR        141   EEELTA- 
+FER2_NOSMU        94   EDAIa-- 
+FER_PHYPA        142   EENM--- 
+FERH_ANASP        94   EPYLa-- 
+FERV_ANAVA        94   EPYLV-- 
+FER_SYNEL         93   EEELY-- 
+FER_BRYMA         93   EEEMIG- 
+FER1_RAPSA        94   EEELF-- 
+FER3_MAIZE       148   EGDLY-- 
+FER6_MAIZE       151   EEDLY-- 
+FER1_SYNP2        92   EEELY-- 
+FER_WHEAT        138   EEELTA- 
+FER1_ORYSA       135   EDDLI-- 
+FER1_MAIZE       144   EEELTGa 
+FER_APHSA         92   EEALY-- 
+FER_MARPO         91   EEALI-- 
+FER1_DUNSA        91   EENLY-- 
+FER1_MESCR       143   EEELTA- 
+FER_LEUGL         91   EEELTG- 
+FER1_SPIOL       142   EEELTA- 
+FER_SOLLY         92   EDDLVG- 
+FER_CAPAN        139   EAELVG- 
+FER_PERBI         90   ESEL--- 
+FER1_PEA         144   EEDLTA- 
+FER_GLEJA         92   EEKL--- 
+FER_EUGVI         92   EDDLF-- 
+FER_RHOPL         93   EEKLY-- 
+FER1_EQUAR        91   EEELF-- 
+FER2_EQUAR        90   EDEL--- 
+FER1_PHYAM        92   EEDIV-- 
+FER2_PHYAM        93   EEDLTA- 
+FER2_APHSA        95   ESEVL-- 
+FER2_ARATH       144   EEAIM-- 
+FER2_PLEBO        94   EAYLV-- 
+1gua_B            77   ------- 
+1ubi_             77   ------- 
+1a5r_            103   ------- 
+                  
+                       7644100 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((((((((((1awd_       :0.008865FER1_DUNSA  :0.008865):0.000719FER_MARPO   :0.009584):0.000691FER_BRYMA   :0.010275):0.000149((((FER1_ANASP  :0.008855FER1_SYNP2  :0.008855):0.000622FER_SYNEL   :0.009477):0.000028FER_APHSA   :0.009505):0.000659((((FER_SPIMA   :0.008354FER1_CYAPA  :0.008354):0.000182(FER3_CYACA  :0.008153(FER1_CYACA  :0.007582FER2_CYACA  :0.007582):0.000571):0.000382):0.000683(FER_PORPU   :0.008752FER_ODOSI   :0.008752):0.000466):0.000116FER_BUMFI   :0.009335):0.000829):0.000259):0.000445((((((FER_SILPR   :0.007262(FER1_MESCR  :0.006392FER1_SPIOL  :0.006392):0.000870):0.001259(FER1_PEA    :0.007567FER2_ARATH  :0.007567):0.000954):0.000170(FER_SOLLY   :0.008087FER_CAPAN   :0.008087):0.000604):0.000131(((FER_WHEAT   :0.006472FER1_ORYSA  :0.006472):0.000419FER1_MAIZE  :0.006890):0.001584FER_LEUGL   :0.008475):0.000347):0.000734(FER1_PHYAM  :0.008381FER2_PHYAM  :0.008381):0.001175):0.001131FER_GLEJA   :0.010687):0.000182):0.000358(FER2_NOSMU  :0.010046FER_EUGVI   :0.010046):0.001181):0.000119FER_PERBI   :0.011346):0.000155(FER1_RAPSA  :0.008748(FER3_MAIZE  :0.007935FER6_MAIZE  :0.007935):0.000813):0.002753):0.000301FER_RHOPL   :0.011802):0.000385FER_PHYPA   :0.012188):0.000061FER2_APHSA  :0.012249):0.001084(FER1_EQUAR  :0.010157FER2_EQUAR  :0.010157):0.003176):0.001708(FERH_ANASP  :0.008723(FERV_ANAVA  :0.008468FER2_PLEBO  :0.008468):0.000255):0.006318):0.6862841gua_B      :0.701325):0.006653(1ubi_       :0.0808421a5r_       :0.080842):0.627136);
+ 
+ 

@@ -1,0 +1,533 @@
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK         1   mswsr----S ILCLLGA--- ---------- ---------- ---------- 
+CYS1_OSTOS         1   ----MKYL-- FFALCLYLYQ GISEAE---- ---------- ---------- 
+CYS1_HAECO         1   ----MKYL-- VLALCTYLCS QTGADE---- ---------- ---------- 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL         1   ----MKYL-- ILAALVA--- ---------- ---------- ---------- 
+CPR5_CAEEL         1   mwkLSA---- ---ILLVA-- ---------- ---------- ---------- 
+CYS1_CAEEL         1   ----MKFL-- ILTALCA--- ---------- ---------- ---------- 
+CYSP_SCHMA         1   MLTSILCIAS LITFLEA--- ---------- ---------- ---------- 
+CYSP_SCHJA         1   MLKIAVYIVS LFTFLEA--- ---------- ---------- ---------- 
+CAL2_GIALA         1   ---MKL---- ---FLLAA-- ---------- ---------- ---------- 
+CAL1_GIALA         1   ---MAL---- ---SLLLA-- ---------- ---------- ---------- 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI         1   MKVL-----S ALCVLLVS-- ---------- ---------- ---------- 
+CYS2_DICDI         1   mrllvfli-- -------L-- ---------- ---------- ---------- 
+ACP1_ENTHI         1   ---------- ----MFAL-- ---------- ---------- ---------- 
+CPR1_DROME         1   MRLF-----A AATVALVlll gqaageelae eragqaqgda estessettt 
+CATL_SCHMA         1   mpvnLEYL-- GFKLpg---- ---------- ---------- ---------- 
+CYSP_PEA           1   md--RR---- ---FLFAL-- ---------- ---------- ---------- 
+CATV_NPVAP         1   MNKIVLYLLv ygatlgaayd ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        14   ---------- ---------- ---------- ---------- ---------- 
+CYS1_OSTOS        21   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HAECO        21   ---------- ---------- ---------- ---------- ---------- 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        12   ---------- ---------- ---------- ---------- ---------- 
+CPR5_CAEEL        12   ---------- ---------- ---------- ---------- ---------- 
+CYS1_CAEEL        12   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHMA        18   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHJA        18   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI        14   ---------- ---------- ---------- ---------- ---------- 
+CYS2_DICDI        10   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI         5   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME        46   dqavseppit lvhvlnpger eylspnligv qniamtflpl smnfvniida 
+CATL_SCHMA        15   ---------- ---------- ---------- ---------- ---------- 
+CYSP_PEA          10   ---------- ---------- ---------- ---------- ---------- 
+CATV_NPVAP        21   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        14   ---------- ---------- ---------- ---------- ---------- 
+CYS1_OSTOS        21   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HAECO        21   ---------- ---------- ---------- ---------- ---------- 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        12   ---------- ---------- ---------- ---------- ---------- 
+CPR5_CAEEL        12   ---------- ---------- ---------- ---------- ---------- 
+CYS1_CAEEL        12   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHMA        18   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHJA        18   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI        14   ---------- ---------- ---------- ---------- ---------- 
+CYS2_DICDI        10   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI         5   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME        96   freitagvry eillnaldtk aiqpaeadiv crlvilekpw lrtqwgdkhr 
+CATL_SCHMA        15   ---------- ---------- ---------- ---------- ---------- 
+CYSP_PEA          10   ---------- ---------- ---------- ---------- ---------- 
+CATV_NPVAP        21   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        14   ---------- ---FANARSI ---------P YYPPLSSD-- --------LV 
+CYS1_OSTOS        21   ---------- --VPAEQIPL ---------E AQALSGLP-- --------LV 
+CYS1_HAECO        21   ---------- --NAAQGIPL ---------E AQRLTGEP-- --------LV 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        12   ---------- ---VTAGLVI ---------P LVPKTQEA-- --------IT 
+CPR5_CAEEL        12   ---------- --------AA savvipghrE APALTGQA-- --------LI 
+CYS1_CAEEL        12   ---------- ---VTLAFVp inhqsa---- VETLTGQA-- --------LV 
+CYSP_SCHMA        18   ---------- ---HISVK-N ---------E KFEPLSDD-- --------II 
+CYSP_SCHJA        18   ---------- ---HVTTRNN ---------Q RIEPLSDE-- --------MI 
+CAL2_GIALA         9   ---------- --------AA FSA------- --PALTVS-- --------EL 
+CAL1_GIALA         9   ---------- --------VV ---------C AKPLVSRA-- --------EL 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI        14   ---------- --------VA ---------T AKQQLSEV-- --------EY 
+CYS2_DICDI        10   ---------- --------LI FVN------- --FSFANvrp ngrrfsesQY 
+ACP1_ENTHI         5   ---------- --------IL FVS------- --LACAN--- ---------- 
+CPR1_DROME       146   elvtsnctdp avNSVAGDPA ---------E KARLLNEK-- --------YV 
+CATL_SCHMA        15   ---------- ---------- ---------- ---------- ---------- 
+CYSP_PEA          10   ---------- --------FL FAA------- --VATAVT-- --------Dd 
+CATV_NPVAP        21   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        32   NHINKLNTT- ---------- ---------- ---------- ---------- 
+CYS1_OSTOS        40   EYLQKNQRL- ---------- ---------- ---------- ---------- 
+CYS1_HAECO        40   AYLRRSQNL- ---------- ---------- ---------- ---------- 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        30   EYVNSKQSL- ---------- ---------- ---------- ---------- 
+CPR5_CAEEL        34   DYVNSAQKL- ---------- ---------- ---------- ---------- 
+CYS1_CAEEL        35   DYVNSAQSL- ---------- ---------- ---------- ---------- 
+CYSP_SCHMA        35   SYINEHPNA- ---------- ---------- ---------- ---------- 
+CYSP_SCHJA        36   SFINEHPDA- ---------- ---------- ---------- ---------- 
+CAL2_GIALA        22   NHIKSLNPR- ---------- ---------- ---------- ---------- 
+CAL1_GIALA        22   RRIQALNPP- ---------- ---------- ---------- ---------- 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI        27   RN-------- ---------- ---------- ---------- ---------- 
+CYS2_DICDI        33   RT-------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI        15   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       177   HRSRRSANdi lgrhkpydee aakaqlqksl dkltagegph ykivkvysas 
+CATL_SCHMA        15   ---------- ---------- ---------- ---------- ---------- 
+CYSP_PEA          23   tnnddfiirq vvdneedhLL ---------- ---------- ---------- 
+CATV_NPVAP        21   ---------- --------LL ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        41   ---------- ---------- ---------- ---------- ---------- 
+CYS1_OSTOS        49   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HAECO        49   ---------- ---------- ---------- ---------- ---------- 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        39   ---------- ---------- ---------- ---------- ---------- 
+CPR5_CAEEL        43   ---------- ---------- ---------- ---------- ---------- 
+CYS1_CAEEL        44   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHMA        44   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHJA        45   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA        31   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA        31   ---------- ---------- ---------- ---------- ---------- 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI        29   ---------- ---------- ---------- ---------- ---------- 
+CYS2_DICDI        35   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI        15   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       227   rqvdsgiltr idadlidgse eqhrcivdiw tkvwvrkdeh eitfkcrnqp 
+CATL_SCHMA        15   ---------- ---------- ---------- ---------- ---------- 
+CYSP_PEA          43   ---------- ---------- ---------- ---------- ---------- 
+CATV_NPVAP        23   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        41   ---------- ---------- ---------- ----GRA--- GHNF----HN 
+CYS1_OSTOS        49   ---------- ---------- ---------- ----FEV--- TATP----VP 
+CYS1_HAECO        49   ---------- ---------- ---------- ----FEV--- NSAP----TP 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        39   ---------- ---------- ---------- ----WKA--- EIPK----DI 
+CPR5_CAEEL        43   ---------- ---------- ---------- ----WTA--- GHQV----IP 
+CYS1_CAEEL        44   ---------- ---------- ---------- ----FKT--- EHVE----IT 
+CYSP_SCHMA        44   ---------- ---------- ---------- ----GWRAEK SNRF----HS 
+CYSP_SCHJA        45   ---------- ---------- ---------- ----GWKADK SDRF----HS 
+CAL2_GIALA        31   ---------- ---------- ---------- ----WKA--- GIPKRFEGLT 
+CAL1_GIALA        31   ---------- ---------- ---------- ----WKA--- GMPKRFENVT 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI        29   ---------- ---------- ---------- AFTNWMI--- AH-QRHYSSE 
+CYS2_DICDI        35   ---------- ---------- ---------- AFTEWTL--- KF-NRQYSSS 
+ACP1_ENTHI        15   ---------- ---------- --------EV AFKQWAA--- THNKVFANRA 
+CPR1_DROME       277   vvqarhtrsv ewaekkthkk hshrfdKVDH LFYKFQV--- RFGRRYVSTA 
+CATL_SCHMA        15   ---------- ---------- ------NVDE KYVQFKL--- KY-RKQYHET 
+CYSP_PEA          43   ---------- ---------- ------NAEH HFTSFKS--- KFSKSYATKE 
+CATV_NPVAP        23   ---------- ---------- ------KAPS YFEEFLH--- KFNKNYSSES 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        50   TDMS-YVKKL C--------- ---------- ---------- ----GTFLGG 
+CYS1_OSTOS        58   YFKQ-RLM-- --DLKYIDQN NIPD-EEV-- ---------- ---------- 
+CYS1_HAECO        58   NFEQ-KIM-- --DIKYkhqk lnlmvk--ED PDP------- ---------- 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        48   TIEQvKKRLM R--------- ---------- ---------- ----TEFVAP 
+CPR5_CAEEL        52   KEKI-TKKLM D--------- ---------- ---------- ----VKYLVP 
+CYS1_CAEEL        53   EEEM-KFKLM D--------- ---------- ---------- ----GKYAAA 
+CYSP_SCHMA        56   LDDA-RIQMG ARREE-PDLR RKRR-PTVDH NDW------- ---------- 
+CYSP_SCHJA        57   LDDA-RIlMG ARKED-AEMK RNRR-PTVDH HDL------- ---------- 
+CAL2_GIALA        44   KDEI-SSLLM P--------- ---------- ---------- ----VSFLkn 
+CAL1_GIALA        44   EDEF-RSMLI RPDRLRARsg sl-------- ---------- ---------- 
+1ppn_              1   ---------- ---------- ---------- ---------- ---------- 
+1yal_              1   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A             1   ---------- ---------- ---------- ---------- ---------- 
+1atk_              1   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A             1   ---------- ---------- ---------- ---------- ---------- 
+1aec_              1   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI        45   EFNG-RYNIF KANMDYVNEW NTKG-SETVL GLNVFADISN EEYRATYLGT 
+CYS2_DICDI        51   EFSN-RYSIF KSNMDYVDNW NSKGDSQTVL GLNNFADITN EEYRKTYLGT 
+ACP1_ENTHI        34   EYLY-RFAVF LDNKKFV--- ---E-ANANT ELNVFADMTH EEFIQTHLGM 
+CPR1_DROME       324   ERQM-RLRIF RQNLKTIEEL NANEMGSAKY GITEFADMTS SEYKErt-GL 
+CATL_SCHMA        35   EDEI-RFNIF KSNILKAQLY QVFVRGSAIY GVTPYSDLTT DEFARTHLTA 
+CYSP_PEA          64   EHDY-RFGVF KSNLIKAKLH QNRD-PTAEH GITKFSDLTA SEFRRQFLGL 
+CATV_NPVAP        44   EKLR-RFKIF QHNLEEIINK NQND-TSAQY EINKFSDLSK DETISKYTGL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- --------LP ES-------- ------F--- ---DAREQWS 
+CATB_CHICK        66   PK-APERVDF A---EDMDLP DT-------- ------F--- ---DTRKQWP 
+CYS1_OSTOS        80   -----EDE-- ELEENNDDIP ES-------- ------Y--- ---DPRIQWA 
+CYS1_HAECO        84   ---------- -----EVDIP PS-------- ------Y--- ---DPRDVWK 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        65   HT--PDVEVV KHDINEDTIP AT-------- ------F--- ---DARTQWP 
+CPR5_CAEEL        68   HK--DEDI-- VATEVSDAIP DH-------- ------F--- ---DARDQWP 
+CYS1_CAEEL        69   HS--DEIRAT EQEVVLASVP AT-------- ------F--- ---DSRTQWS 
+CYSP_SCHMA        86   ---------- -----NVEIP SN-------- ------F--- ---DSRKKWP 
+CYSP_SCHJA        87   ---------- -----NVEIP SQ-------- ------F--- ---DSRKKWP 
+CAL2_GIALA        60   akgAAPRGTF T---DKDDVP ES-------- ------F--- ---DFREEYP 
+CAL1_GIALA        65   ----PPISIT EVQELVDPIP PQ-------- ------F--- ---DFRDEYP 
+1ppn_              1   ---------- ---------- ---------- ------I--- ---PEYVDWR 
+1yal_              1   ---------- ---------- ---------- ------Y--- ---PQSIDWR 
+1cqd_A             1   ---------- ---------- ---------- ------L--- ---PDSIDWR 
+1s4v_A             1   ---------- ---------- -T-------- ------V--- ---PASVDWR 
+1atk_              1   ---------- ---------- ---------- ------A--- ---PDSVDYR 
+1iwd_A             1   ---------- ---------- ---------- ------L--- ---PSFVDWR 
+1aec_              1   ---------- ---------- ---------- ------L--- ---PSYVDWR 
+CYS7_DICDI        93   PF-DASSLEM T---ESDKIF DAs------- ---------- ----AQVDWR 
+CYS2_DICDI       100   RV-NAHSYNg yd-------- ---------- GREVLNVedl qtnPKSIDWR 
+ACP1_ENTHI        76   TY-E------ --------VP ETTSNvkaav ka----A--- ---PESVDWR 
+CPR1_DROME       372   WQ-RDEAKAT GGSAAVVPAy hge------- ------L--- ---PKEFDWR 
+CATL_SCHMA        84   SW-V------ --------VP SSRSNtptsl GKEVNNI--- ---PKNFDWR 
+CYSP_PEA         112   KK-RLRLPAH AQKAPILPTt ---------- -----NL--- ---PEDFDWR 
+CATV_NPVAP        92   SL-PLQKQNf cevvVLDRPP DK-------- ------G--- ---PLEFDWR 
+                                                                 
+                       0000000000 0000000000 0100000000 0000001000 0003333344 
+ 
+1cpj_A            13   NCPTIAQIRD QGSCGSCWAF GAVEAMSDRI CIHTNGRVNV EVSAEDLLTC 
+CATB_CHICK        92   NCPTISEIRD QGSCGSCWAF GAVEAISDRI CVHTNAKVSV EVSAEDLLSC 
+CYS1_OSTOS       103   NCSSLFHIPD QANCGSCWAV SSAAAMSDRI CIASKGAKQV LISAQDVVSC 
+CYS1_HAECO        99   NCTTFY-IRD QANCGSCWAV STAAAISDRI CIASKAEKQV NISATDIMTC 
+CYS3_OSTOS         1   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL        93   NCMSINNIRD QSDCGSCWAF AAAEAASDRF CIASNGAVNT LLSAEDVLSC 
+CPR5_CAEEL        94   NCMSINNIRD QSDCGSCWAF AAAEAISDRT CIASNGAVNT LLSSEDLLSC 
+CYS1_CAEEL        97   ECKSIKLIRD QATCGSCWAF GAAEMISDRT CIETKGAQQP IISPDDLLSC 
+CYSP_SCHMA       101   GCKSIATIRD QSRCGSCWSF GAVEAMSDRS CIQSGGKQNV ELSAVDLLTC 
+CYSP_SCHJA       102   HCKSISQIRD QSRCGSCWAF GAVEAMTDRI CIQSGGGQSA ELSALDLISC 
+CAL2_GIALA        87   HC--IPEVVD QGGCGSCWAF SSVATFGDRR CVAGLDKKPV KYSPQYVVSC 
+CAL1_GIALA        91   QC--VKPALD QGSCGSCWAF SAIGVFGDRR CAMGIDKEAV SYSQQHLISC 
+1ppn_              9   QKGAVTPVKN QGSCGSCWAF SAVVTIEGII KIRTGNLNEY --SEQELLDC 
+1yal_              9   AKGAVTPVKN QGACGSXWAF STIATVEGIN KIVTGNLLEL --SEQELVDC 
+1cqd_A             9   ENGAVVPVKN QGGCGSCWAF STVAAVEGIN QIVTGDLISL --SEQQLVDC 
+1s4v_A            10   KKGAVTSVKD QGQCGSCWAF STIVAVEGIN QIKTNKLVSL --SEQELVDC 
+1atk_              9   KKGYVTPVKN QGQCGSCWAF SSVGALEGQL KKKTGKLLNL --SPQNLVDC 
+1iwd_A             9   SKGAVNSIKN QKQCGSCWAF SAVAAVESIN KIRTGQLISL --SEQELVDC 
+1aec_              9   SAGAVVDIKS QGECGGCWAF SAIATVEGIN KIVTGVLISL --SEQELIDC 
+CYS7_DICDI       118   TQGAVTPIKN QGQCGGCWSF STTGATEGAQ YLANGKKNLV SLSEQNLIDC 
+CYS2_DICDI       131   TKNAVTPIKD QGQCGSCWSF STTGSTEGAH ALKTKKLVSL --SEQNLVDC 
+ACP1_ENTHI       101   Si--MNPAKD QGQCGSCWTF CTTAVLEGRV NKDLGKLYSF --SEQQLVDC 
+CPR1_DROME       402   QKDAVTQVKN QGSCGSCWAF SVTGNIEGLY AVKTGELKEF --SEQELLDC 
+CATL_SCHMA       113   EKGAVTEVKN QGMCGSCWAF STTGNVESQW FRKTGKLLSL --SEQQLVDC 
+CYSP_PEA         140   EKGAVTPVKD QGSCGSCWAF STTGALEGAH YLATGKLVSL --SEQQLVDC 
+CATV_NPVAP       121   RLNKVTSVKN QGMCGACWAF ATLGSLESQF AIKHDQLINL --SEQQLIDC 
+                                                                 
+                       4434444555 5556666666 5554444332 2222222222 1122222222 
+ 
+1cpj_A            63   ---------- CGI---QCG- DGCNGGYPSG AWNFWTRKGL VSGGVYNSHI 
+CATB_CHICK       142   ---------- CGF---ECG- MGCNGGYPSG AWRYWTERGL VSGGLYDSHV 
+CYS1_OSTOS       153   ---------- C-T---WCG- DGCEGGWPIS AFRFHADEGV VTGGDYNTKG 
+CYS1_HAECO       148   ---------- CRP---QCG- DGCEGGWPIE AWKYFIYDGV VSGGEYLTKD 
+CYS3_OSTOS         1   ---------- ---------- ---------- AWQYFALEGV VTGGNYRKQG 
+CPR4_CAEEL       143   ---------- C-S---NCG- YGCEGGYPIN AWKYLVKSGF CTGGSYEAQF 
+CPR5_CAEEL       144   ---------- C-TgmfSCG- NGCEGGYPIQ AWKWWVKHGL VTGGSYETQF 
+CYS1_CAEEL       147   ---------- CGS---SCG- NGCEGGYPIQ ALRWWDSKGV VTGGDYHGAG 
+CYSP_SCHMA       151   ---------- C-E---SCG- LGCEGGILGP AWDYWVKEGI VTASSKENHT 
+CYSP_SCHJA       152   ---------- C-K---DCG- DGCQGGFPGV AWDYWVKRGI VTGGSKENHT 
+CAL2_GIALA       135   DH--G----- --------D- MACNGGWLPN VWKFLTKTGT TTDECVPY-- 
+CAL1_GIALA       139   SL--E----- --------N- FGCDGGDFQP TWSFLTFTGA TTAECVKY-- 
+1ppn_             57   DR--R----- --------S- YGCNGGYPWS ALQLVAQYGI HYRNTYPYEG 
+1yal_             57   DK--H----- --------S- YGCKGGYQTT SLQYVANNGV HTSKVYPYQA 
+1cqd_A            57   TT--A----- --------N- HGCRGGWMNP AFQFIVNNGG INSEETYPYR 
+1s4v_A            58   DT-DQ----- --------N- QGCNGGLMDY AFEFIKQRGG ITTEANYPYE 
+1atk_             57   VS--E----- --------N- DGCGGGYMTN AFQYVQKNRG IDSEDAYPYV 
+1iwd_A            57   DT--A----- --------S- HGCNGGWMNN AFQYIITNGG IDTQQNYPYS 
+1aec_             57   GR-TQ----- --------Nt RGCNGGYITD GFQFIINNGG INTEENYPYT 
+CYS7_DICDI       168   ---------- SGS---YGN- NGCEGGLMTL AFEYIINNKG IDTESSYPYT 
+CYS2_DICDI       179   SGpEE----- --------N- FGCDGGLMNN AFDYIIKNKG IDTESSYPYT 
+ACP1_ENTHI       147   DA--S----- --------D- NGCEGGHPSN SLKFIQENNG LGLESDYPYK 
+CPR1_DROME       450   DT--T----- --------D- SACNGGLMDN AYKAIKDIGG LEYEAEYPYK 
+CATL_SCHMA       161   DG--L----- --------D- DGCNGGLPSN AYESIIKMGG LMLEDNYPYD 
+CYSP_PEA         188   DH--Vcdpeq A-G---SCD- SGCNGGLMNN AFEYLLESGG VVQEKDYAYT 
+CATV_NPVAP       169   DF--V----- --------D- VGCDGGLLHT AYEAVMNMGG IQAENDYPYE 
+                                                                 
+                       1000000000 0000000020 2333333332 3333333332 2222222222 
+ 
+1cpj_A            99   G-----CLPY TIPPCEHH-V -NGARP-PCT --GE-GDTPK CNKMC--EAG 
+CATB_CHICK       178   G-----CRAY TIPPCEHH-V -NGSRP-PCT --GEGGETPR CSRHC--EPG 
+CYS1_OSTOS       188   S-----CRPY EIHPCGHH-G -NETYYGECV --GM-ADTPR CKRRC--LLG 
+CYS1_HAECO       184   V-----CRPY PIHPCGHH-G -NDTYYGECR --GT-APTPP CKRKC--RPG 
+CYS3_OSTOS        21   C-----CRPY EFPPCGRH-G -KEPYYGECY --DT-AKTPK CQKTC--QRG 
+CPR4_CAEEL       178   G-----CKPY SLAPCGET-V gNVTWP-SCP --DDGYDTPA CVNKCTN-KN 
+CPR5_CAEEL       182   G-----CKPY SIAPCGET-V -NGVKW-Pac peDT-EPTPK CVDSCTSKNN 
+CYS1_CAEEL       183   C-----KP-Y PIAPCtsgnc p--------- ---E-SKTPS CSMSC--QSG 
+CYSP_SCHMA       186   G-----CEPY PFPKCEHH-T -KGKYP-PCG --SKIYNTPR CKQTC--QRK 
+CYSP_SCHJA       187   G-----CQPY PFPKCEHH-T -KGKYP-ACG --TKIYKTPQ CKQTC--QKG 
+CAL2_GIALA       167   -KSGSTTL-- ---------- ---------R --GT-CPT-K CADGSskvhl 
+CAL1_GIALA       171   -VDYGHTV-- ---------- ---------A --SP-CPA-V CDDGSpiqly 
+1ppn_             91   V-----QR-Y ----CRSR-E -KGPYA-AKT --D------- ---------G 
+1yal_             91   K-----QY-K ----CRAT-D -KPGPK-VKI --T------- ---------G 
+1cqd_A            91   GQDGI-CN-- ------S--T -VNAPV-VSI --D------- ---------S 
+1s4v_A            93   AYDGT-CD-- ------VS-K -ENAPA-VSI --D------- ---------G 
+1atk_             91   GQEES-CM-- ------YN-P -TGKAA-KCR --G------- ---------Y 
+1iwd_A            91   AVQGS-CKPY RL-------- ----RV-VSI --N------- ---------G 
+1aec_             93   AQDGE-CN-- ------VDl- -QNEKY-VTI --D------- ---------T 
+CYS7_DICDI       204   AEDGKKCK-- ------FN-P -KNVAA-QL- --S------- ---------S 
+CYS2_DICDI       215   AETGSTCL-- ------FN-K -SDIGA-TI- --K------- ---------G 
+ACP1_ENTHI       181   AVAGT-CK-- ------K--V -KNVAT-VT- --G------- ---------S 
+CPR1_DROME       484   AKKNQ-CH-- ------FN-R -TlshvqVA- --G------- ---------F 
+CATL_SCHMA       195   AKNEK-CH-- ------L--K -TDGVA-VYI --N------- ---------S 
+CYSP_PEA         231   GRDGS-CK-- ------FD-K -SKVVA-SV- --S------- ---------N 
+CATV_NPVAP       203   ANNGP-CR-- ------VNaA -KFVVR-VK- --K------- ---------C 
+                                                                 
+                       2111001100 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A           136   Y-STSYKEDK HYGYTSYSVS DSEKEIMAEI YKNGPVEGAF TVFSDFLTYK 
+CATB_CHICK       216   Y-SPSYKEDK HYGITSYGVP RSEKEIMAEI YKNGPVEGAF IVYEDFLMYK 
+CYS1_OSTOS       226   Y-PKSYPSD- RYYKKAYQLK NSVKAIQKDI MKNGPVVATY TVYEDFAHYR 
+CYS1_HAECO       222   V-RKMYRIDK RYGKDAYIVK QSVKAIQSEI LRNGPVVASF AVYEDFRHYK 
+CYS3_OSTOS        59   Y-LKAYKEDK HFGKSAYRLP NNVKAIQRDI MKNGPVVAGF IVYEDFAHYK 
+CPR4_CAEEL       218   Y-NVAYTADK HFGSTAYAVG KKVSQIQAEI IAHGPVEAAF TVYEDFYQYK 
+CPR5_CAEEL       223   Y-ATPYLQDK HFGSTAYAVG KKVEQIQTEI LTNGPIEVAF TVYEDFYQYT 
+CYS1_CAEEL       212   Y-STAYAKDK HFGVSAYAVP KNAASIQAEI YANGPVEAAF SVYEDFYKYK 
+CYSP_SCHMA       224   Y-KTPYTQDK HRGKSSYNVK NDEKAIQKEI MKYGPVEASF TVYEDFLNYK 
+CYSP_SCHJA       225   Y-KTPYEQDK HYGDESYNVQ NNEKVIQRDI MMYGPVEAAF DVYEDFLNYK 
+CAL2_GIALA       191   atATSYKDyg l--------- -DIPAMMKAL STSGPLQVAF LVHSDFMYYE 
+CAL1_GIALA       195   ---------K AHGYg--QVS KSVPAIMGML VAGGPLQTMI VVYADLSYYE 
+1ppn_            110   V-RQ------ -------VQP YNEGALLYSI ANQPVSVVLE AAGKDFQLYR 
+1yal_            110   Y-KR------ -------VPS NXETSFLGAL ANQPLSVLVE AGGKPFQLYK 
+1cqd_A           110   Y-EN------ -------VPS HNEQSLQKAV ANQPVSVTMD AAGRDFQLYR 
+1s4v_A           113   H-EN------ -------VPE NDENALLKAV ANQPVSVAID AGGSDFQFYS 
+1atk_            111   R-EI------ -------PEG NEKALKRAVA RVGPVSVAID ASLTSFQFYS 
+1iwd_A           109   F-QR------ -------VTR NNESALQSAV ASQPVSVTVE AAGAPFQHYS 
+1aec_            113   Y-EN------ -------VPY NNEWALQTAV TYQPVSVALD AAGDAFKQYS 
+CYS7_DICDI       224   Y-VN------ -------VTS GSESDLAAKV TQGPTSVAID ASNQSFQLYV 
+CYS2_DICDI       235   Y-VN------ -------ITA GSEISLENGA QHGPVSVAID ASHNSFQLYT 
+ACP1_ENTHI       199   R-RV------ -------TDG SETGLQTIIA ENGPVAVGMD ASRPSFQLYK 
+CPR1_DROME       504   V-DL------ -------PKG NETAMQEWLL ANGPISIGIN ANAMQFYRGG 
+CATL_SCHMA       214   S-VN------ -------LTQ DETELAAWLY HNSTISVGMN ALLLQFYQHG 
+CYSP_PEA         250   F-SV------ -------VTL DEDQIAANLV KNGPLAVAIN AAWM--QTYM 
+CATV_NPVAP       223   Y-RY------ -------VTL FEEKLKDLLR IVGPIPVAID ASDI--VGYK 
+                                                                 
+                       1011000000 0000000111 1111111111 1112222222 2332232233 
+ 
+1cpj_A           185   SG-VYKHEAG -DV-MGGHAI RILGWG---- ---------- ---------- 
+CATB_CHICK       265   SG-VYQHVSG -EQ-VGGHAI RILGWG---- ---------- ---------- 
+CYS1_OSTOS       274   SG-IYKHKAG -RK-TGLHAV KVIGWG---- ---------- ---------- 
+CYS1_HAECO       271   SG-IYKHTAG -EL-RGYHAV KMIGWG---- ---------- ---------- 
+CYS3_OSTOS       108   SG-IYKHTAG -RM-TGGHAV KIIGWG---- ---------- ---------- 
+CPR4_CAEEL       267   TG-VYVHTTG -QE-LGGHAI RILGWG---- ---------- ---------- 
+CPR5_CAEEL       272   TG-VYVHTAG -AS-LGGHAV KILGWG---- ---------- ---------- 
+CYS1_CAEEL       261   SG-VYKHTAG -KY-LGGHAI KIIGWG---- ---------- ---------- 
+CYSP_SCHMA       273   SG-IYKHITG -EA-LGGHAI RIIGWG---- ---------- ---------- 
+CYSP_SCHJA       274   SG-IYRHVTG -SI-VGGHAI RIIGWG---- ---------- ---------- 
+CAL2_GIALA       231   SG-VYQHTYG -YM-EGGHAV EMVGYGT--- ---------- ---------- 
+CAL1_GIALA       234   SG-VYKHTYG -TInLGFHAL EIVGYGT--- ---------- ---------- 
+1ppn_            146   GG-IFVGPC- -GN-KVDHAV AAVGYGp--- ---------- ---------- 
+1yal_            146   SG-VFDGPC- -GT-KLDHAV TAVGYG---- ---------- ---------- 
+1cqd_A           146   SG-IFTGSC- -NI-SANHAL TVVGYG---- ---------- ---------- 
+1s4v_A           149   EG-VFTGSC- -GT-ELDHGV AIVGYGT--- ---------- ---------- 
+1atk_            147   KG-VYYDESC NSD-NLNHAV LAVGYG---- ---------- ---------- 
+1iwd_A           145   SG-IFTGPC- -GT-AQNHGV VIVGYG---- ---------- ---------- 
+1aec_            149   SG-IFTGPC- -GT-AIDHAV TIVGYG---- ---------- ---------- 
+CYS7_DICDI       260   SG-IYNEPAC SST-QLDHGV LAVGFGTGSg ssgshggsqs qsaGSDSQSA 
+CYS2_DICDI       271   SG-IYYEPKC SPT-ELDHGV LVVGYGVq-- ---------- ---GKDDEGP 
+ACP1_ENTHI       235   KGtIYSDTKC RSR-MMNHCV TAVGYG---- ---------- ---------- 
+CPR1_DROME       540   VS-HPWKALC SKK-NLDHGV LVVGYGV--- ---------- ---------- 
+CATL_SCHMA       250   IS-HPWWIFC SKY-LLDHAV LLVGYGV--- ---------- ---------- 
+CYSP_PEA         284   SG-VSCPYVC AKS-RLDHGV LLVGFGKGAy ap-------- ---------- 
+CATV_NPVAP       257   RG-IIR--YC ENH-GLNHAV LLVGYG---- ---------- ---------- 
+                                                                 
+                       3303322222 0220233555 5555550000 0000000000 0000000000 
+ 
+1cpj_A           208   ---------- ---------- --------I- ---------- ---------- 
+CATB_CHICK       288   ---------- ---------- --------V- ---------- ---------- 
+CYS1_OSTOS       297   ---------- ---------- --------E- ---------- ---------- 
+CYS1_HAECO       294   ---------- ---------- --------N- ---------- ---------- 
+CYS3_OSTOS       131   ---------- ---------- --------K- ---------- ---------- 
+CPR4_CAEEL       290   ---------- ---------- --------T- ---------- ---------- 
+CPR5_CAEEL       295   ---------- ---------- --------V- ---------- ---------- 
+CYS1_CAEEL       284   ---------- ---------- --------T- ---------- ---------- 
+CYSP_SCHMA       296   ---------- ---------- --------V- ---------- ---------- 
+CYSP_SCHJA       297   ---------- ---------- --------V- ---------- ---------- 
+CAL2_GIALA       255   ---------- ---------- --------D- ---------- ---------- 
+CAL1_GIALA       259   ---------- ---------- --------T- ---------- ---------- 
+1ppn_            169   ---------- ---------- ---------- ---------- ---------- 
+1yal_            168   ---------- ---------- --------T- ---------- ---------- 
+1cqd_A           168   ---------- ---------- --------T- ---------- ---------- 
+1s4v_A           172   ---------- ---------- --------T- ---------- ---------- 
+1atk_            171   ---------- ---------- --------I- ---------- ---------- 
+1iwd_A           167   ---------- ---------- --------T- ---------- ---------- 
+1aec_            171   ---------- ---------- --------T- ---------- ---------- 
+CYS7_DICDI       308   GSESSQSESG SQSQSESGSQ SQSQSGSqsf sgslysgsys gsqsgsqsgn 
+CYS2_DICDI       304   VLNRKQTIVI HKNEDNKVES SDDSSDSVR- ---------- ---------- 
+ACP1_ENTHI       260   ---------- ---------- --------S- ---------- ---------- 
+CPR1_DROME       565   ---------- ---------- --------S- ---------- ---------- 
+CATL_SCHMA       275   ---------- ---------- --------S- ---------- ---------- 
+CYSP_PEA         314   ---------- ---------- -------IR- ---------- ---------- 
+CATV_NPVAP       279   ---------- ---------- --------V- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000040 0000000000 0000000000 
+ 
+1cpj_A           209   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK       289   ---------- ---------- ---------- ---------- ---------- 
+CYS1_OSTOS       298   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HAECO       295   ---------- ---------- ---------- ---------- ---------- 
+CYS3_OSTOS       132   ---------- ---------- ---------- ---------- ---------- 
+CPR4_CAEEL       291   ---------- ---------- ---------- ---------- ---------- 
+CPR5_CAEEL       296   ---------- ---------- ---------- ---------- ---------- 
+CYS1_CAEEL       285   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHMA       297   ---------- ---------- ---------- ---------- ---------- 
+CYSP_SCHJA       298   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA       256   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA       260   ---------- ---------- ---------- ---------- ---------- 
+1ppn_            169   ---------- ---------- ---------- ---------- ---------- 
+1yal_            169   ---------- ---------- ---------- ---------- ---------- 
+1cqd_A           169   ---------- ---------- ---------- ---------- ---------- 
+1s4v_A           173   ---------- ---------- ---------- ---------- ---------- 
+1atk_            172   ---------- ---------- ---------- ---------- ---------- 
+1iwd_A           168   ---------- ---------- ---------- ---------- ---------- 
+1aec_            172   ---------- ---------- ---------- ---------- ---------- 
+CYS7_DICDI       358   sgaavkqtga gsgsgsgsgs gsgsgsgsvs gsasgsasgs asgsssgsns 
+CYS2_DICDI       333   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI       261   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       566   ---------- ---------- ---------- ---------- ---------- 
+CATL_SCHMA       276   ---------- ---------- ---------- ---------- ---------- 
+CYSP_PEA         316   ---------- ---------- ---------- ---------- ---------- 
+CATV_NPVAP       280   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A           209   -----E---- -NGVPYWLVA NSWNADWGDN GFFKILRGEN H-CGIESEIV 
+CATB_CHICK       289   -----E---- -NGTPYWLAA NSWNTDWGIT GFFKILRGED H-CGIESEIV 
+CYS1_OSTOS       298   -----E---- -KGTPYWIVA NSWHDDWGEN GFFRMHRGSN D-CGFEERMA 
+CYS1_HAECO       295   -----E---- -NNTDFWLIA NSWHNDWGEK GYFRIIRGTN D-CGIEGTIA 
+CYS3_OSTOS       132   -----E---- -KGTPYWLIA NSWHDDWGEK GFYRMIRGIN N-CRIEEMVF 
+CPR4_CAEEL       291   -----D---- -NGTPYWLVA NSWNVNWGEN GYFRIIRGTN E-CGIEHAVV 
+CPR5_CAEEL       296   -----D---- -NGTPYWLVA NSWNVAWGEK GYFRIIRGLN E-CGIEHSAV 
+CYS1_CAEEL       285   -----E---- -SGSPYWLVA NSWGVNWGES GFFKIYRGDD Q-CGIESAVV 
+CYSP_SCHMA       297   -----E---- -NKTPYWLIA NSWNEDWGEN GYFRIVRGRD E-CSIESEVI 
+CYSP_SCHJA       298   -----E---- -KRTPYWLIA NSWNEDWGEK GLFRMVRGRD E-CSIESDVV 
+CAL2_GIALA       256   -----D---- -DGVDYWIIK NSWGPDWGED GYFRMIRGIN D-CSIEEQAY 
+CAL1_GIALA       260   -----D---- -DGTDYWIIK NSWGPDWGEN GYFRIVRGVN E-CRIEDEIY 
+1ppn_            169   ---------- ----NYILIK NSWGTGWGEN GYIRIKRGTG NSYGVCGLYT 
+1yal_            169   -----S---- -DGKNYIIIK NSWGPNWGEK GYMRLKRQSG NSQGTCGVYK 
+1cqd_A           169   -----E---- -NDKDFWIVK NSWGKNWGES GYIRAERNIE NPDGKCGITR 
+1s4v_A           173   -----I---- -DGTKYWTVK NSWGPEWGEK GYIRMERGIS DKEGLCGIAM 
+1atk_            172   -----Q---- -KGNKHWIIK NSWGENWGNK GYILMARNKN NACGIANLAS 
+1iwd_A           168   -----Q---- -SGKNYWIVR NSWGQNWGNQ GYIWMERNVA SSAGLCGIAQ 
+1aec_            172   -----E---- -GGIDYWIVK NSWDTTWGEE GYMRILRNVG G-AGTCGIAT 
+CYS7_DICDI       408   nggvyP---- -TAGDYWIVK NSWGTSWGMD GYILMTKGNN NQCGIATMAS 
+CYS2_DICDI       333   -----P---- -KANNYWIVK NSWGTSWGIK GYILMSKDRK NNCGIASVSS 
+ACP1_ENTHI       261   -----N---- -SNGKYWIIR NSWGTSWGDA GYFLLARDSN NMCGIGRDSN 
+CPR1_DROME       566   -----Dypnf hKTLPYWIVK NSWGPRWGEQ GYYRVYRGDN T-CGVSEMAT 
+CATL_SCHMA       276   -----E---- -KNEPFWIVK NSWGVEWGEN GYFRMYRGDG S-CGINTVAT 
+CYSP_PEA         316   -----L---- -KEKPYWIIK NSWGQNWGEQ GYYKICRGRN V-CGVDSMVS 
+CATV_NPVAP       280   -----E---- -NGIPFWILK NTWGADWGEQ GYFRVQQNIN A-CGIKNELP 
+                                                                 
+                       0000040000 0456788899 9998888888 8888777655 4044433222 
+ 
+1cpj_A           248   AGIPRt---- --- 
+CATB_CHICK       328   AGVPRMeqyw trv 
+CYS1_OSTOS       337   AGSVQ----- --- 
+CYS1_HAECO       334   AGIVDtesl- --- 
+CYS3_OSTOS       171   AGIV------ --- 
+CPR4_CAEEL       330   GGVPKV---- --- 
+CPR5_CAEEL       335   AGIPDlarhn --- 
+CYS1_CAEEL       324   AGKAKV---- --- 
+CYSP_SCHMA       336   AGRIn----- --- 
+CYSP_SCHJA       337   AGLIKt---- --- 
+CAL2_GIALA       295   AGFFDe---- --- 
+CAL1_GIALA       299   AVYLD----- --- 
+1ppn_            205   SSFYPVKn-- --- 
+1yal_            209   SSYYPFKgfa --- 
+1cqd_A           209   FASYPVKk-- --- 
+1s4v_A           213   EASYPIKkss nn- 
+1atk_            212   FPKm------ --- 
+1iwd_A           208   LPSYPTKa-- --- 
+1aec_            211   MPSYPVKy-- --- 
+CYS7_DICDI       453   RPTAVASl-- --- 
+CYS2_DICDI       373   YPla------ --- 
+ACP1_ENTHI       301   YPTgvkli-- --- 
+CPR1_DROME       610   SAVLa----- --- 
+CATL_SCHMA       315   SAMIy----- --- 
+CYSP_PEA         355   TVAAAQSnh- --- 
+CATV_NPVAP       319   SSAeiy---- --- 
+                         
+                       2210000000 000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((((1cpj_A      :0.002880CATB_CHICK  :0.002880):0.001630(CYSP_SCHMA  :0.002394CYSP_SCHJA  :0.002394):0.002116):0.000684((CPR4_CAEEL  :0.003240CPR5_CAEEL  :0.003240):0.001258CYS1_CAEEL  :0.004498):0.000696):0.001441((CYS1_OSTOS  :0.003486CYS1_HAECO  :0.003486):0.002430CYS3_OSTOS  :0.005916):0.000719):0.004828(CAL2_GIALA  :0.004774CAL1_GIALA  :0.004774):0.006689):0.010813((((1ppn_       :0.0055101yal_       :0.005510):0.001958(((1cqd_A      :0.0054861iwd_A      :0.005486):0.0000191aec_       :0.005505):0.0002921s4v_A      :0.005797):0.001672):0.002852((1atk_       :0.007138(CYS7_DICDI  :0.003978CYS2_DICDI  :0.003978):0.003161):0.001660ACP1_ENTHI  :0.008799):0.001522):0.000479(((CPR1_DROME  :0.005586CATL_SCHMA  :0.005586):0.001117CYSP_PEA    :0.006703):0.001428CATV_NPVAP  :0.008131):0.002669):0.011475);
+ 
+ 

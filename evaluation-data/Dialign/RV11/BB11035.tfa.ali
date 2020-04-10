@@ -1,0 +1,43 @@
+1dvh_              1   ad-------- --GAALYKS- ---------- ---------- -CIGCHGADG 
+1cno_A             1   a----GDIE- -AGKAKAAV- ---------- ---------- -CAACHGQNG 
+1fj0_A             1   x-----DAK- -AGEAVFKQ- ---------- ---------- -CMTCHRADK 
+1b7v_A             1   ---------V DAEAVVQQK- ---------- ---------- -CISCHGGDl 
+1h31_B             1   aevapGDVaI DGQGHVARpl tdapgdpveg rrlmtdrsvg nCIACHevte 
+                                                                 
+                       0000001110 0134444440 0000000000 0000000000 0999996552 
+ 
+1dvh_             19   skaam---GS AKPVKGQGA- ---------- ---------- ---------- 
+1cno_A            23   I-------SQ VPIYPNLAGQ K--------- ---------- ---------- 
+1fj0_A            22   N-------MV GPALAGVVGR Kagtaagfty splnhnsgea glvwtadniv 
+1b7v_A            20   t------GAS APAIDKAGAN Y--------- ---------- ---------- 
+1h31_B            51   madaqfpGTV GPSLDGVAAR Y--------- ---------- ---------- 
+                                                                 
+                       1000000123 3333333333 2000000000 0000000000 0000000000 
+ 
+1dvh_             35   -------EEL YKKMKG---- ----YADGSY GG-------- ---------- 
+1cno_A            37   -----EQy-L VAALKA---- ----YKAGQR QG-------- ---------- 
+1fj0_A            65   pyladPNAFL KKFLTEkgka dqavGVTKMT FK-------- ---------- 
+1b7v_A            35   -----SEEEI LDIILN---- ----GQGGMP GG-------- ---------- 
+1h31_B            72   -----PEAMI RGILVN---- ----SKNVFP etvmpayyrv egfnrpgiaf 
+                                                                 
+                       0000011112 2222220000 0000333333 1100000000 0000000000 
+ 
+1dvh_             52   ---------- -ERKAMMTNA VKKYSDEELK ALADYmskl- -- 
+1cno_A            55   ---------- -GQAPVMQGQ ATALSDADIA NLAAYyasnp aa 
+1fj0_A            97   ---------- -LANEQQRKD VVAYLATLK- ---------- -- 
+1b7v_A            54   ---------- -IAKGAEAEA VAAWLAEKK- ---------- -- 
+1h31_B           109   tskpiegeir pLMTAGQIED VVAYLMTLtq ---------- -- 
+                                                         
+                       0000000000 0111112222 2222222211 1111100000 00 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1dvh_       :0.0698661cno_A      :0.069866):0.059131(1fj0_A      :0.097465(1b7v_A      :0.0693461h31_B      :0.069346):0.028120):0.031531);
+ 
+ 

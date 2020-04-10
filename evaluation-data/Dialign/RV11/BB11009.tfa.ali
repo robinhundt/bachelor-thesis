@@ -1,0 +1,95 @@
+1a70_              1   ---------- ---------- ---------- ---------- ----AAYKVT 
+1i7h_A             1   pkivilPHQD l--------- ---------- ---------- ---------- 
+1krh_A             1   sn-------- ---------- ---------- ---------- ------HQVA 
+2pia_              1   tt----PQED gflrlkiask ekiardiwsf eltdpqgapl ppfeAGANLT 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_              7   LVTPTGNVE- ---------- ---------- ---------- ---------- 
+1i7h_A            12   ---------- ---------- ---------- ---------- ---------- 
+1krh_A             7   LQFEDGVTR- ---------- ---------- ---------- ---------- 
+2pia_             47   VAVPNGSrrt yslcndsqer nryviavkrd sngrggsisf iddtsegdav 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             16   ---------- ---------- ---------- ---------- ---------- 
+1i7h_A            12   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            16   ---------- ---------- ---------- ---------- ---------- 
+2pia_             97   evslprnefp ldkraksfil vaggigitpm lsmarqlrae glrsfrlyyl 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             16   ---------- ---------- ---------- ---------- ---------- 
+1i7h_A            12   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            16   ---------- ---------- ---------- ---------- ---------- 
+2pia_            147   trdpegtaff deltsdewrs dvkihhdhgd ptkafdfwsv fekskpaqhv 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             16   ---------- ---------- ---------- ---------- ---------- 
+1i7h_A            12   ---------- ---------- ---------- ---------- ---------- 
+1krh_A            16   ---------- ---------- ---------- ---------- ---------- 
+2pia_            197   yccgpqalmd tvrdmtghwp sgtvhfesfg atntnarent pftvrlsrsg 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             16   --FQCPD--- -----DVYIL DAAEEEGIDL PYSC-RAGSC SSCAGKLKTG 
+1i7h_A            12   ----CPDgav leanSGETIL DAALRNGIEI EHACeKSCAC TTCHCIVREG 
+1krh_A            16   --FICia--- ----QGETLS DAAYRQQINI PMDC-REGEC GTCRAFCESG 
+2pia_            247   tsFEIPA--- -----NRSIL EVLRDANVRV PSSC-ESGTC GSCKTALCSG 
+                                                                 
+                       0022222000 0000133344 7777777888 8888088889 9999999999 
+ 
+1a70_             55   SLNQDDQSFL DDDQIDEGWV LtcaayPVSD VTIETHKKEE lta------- 
+1i7h_A            58   FDSLPESSEQ EDDMLDKAWG Le----PESR LSCQARVTDE DLVV-----E 
+1krh_A            56   NYDMPEDNYI EDALTPEeaq qgyV------ LACQCRPTSD avfqiqassE 
+2pia_            288   EADHRDMVLR DDEKgtq--- ---I------ MVCVSRAKSA ELVL-----D 
+                                                                 
+                       6665555555 5222222111 1000000000 0000000000 0000000000 
+ 
+1a70_             98   ---------- ---------- ---------- ---------- ---------- 
+1i7h_A            99   IPRYTINHar e--------- ---------- ---------- ---------- 
+1krh_A           100   VCKTKIHHfe gtlarvenls dstitfdiql ddgqpdihfl agqyvnvtlp 
+2pia_            321   L--------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             98   ---------- ---------- ---------- ---------- ---------- 
+1i7h_A           110   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           150   gttetrsysf ssqpgnrltg fvvrnvpqgk mseylsvqak agdkmsftgp 
+2pia_            322   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             98   ---------- ---------- ---------- ---------- ---------- 
+1i7h_A           110   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           200   fgsfylrdvk rpvlmlaggt giapflsmlq vleqkgsehp vrlvfgvtqd 
+2pia_            322   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             98   ---------- ---------- ---------- ---------- ---------- 
+1i7h_A           110   ---------- ---------- ---------- ---------- ---------- 
+1krh_A           250   cdlvaleqld alqqklpwfe yrtvvahaes qherkgyvtg hieydwlngg 
+2pia_            322   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a70_             98   ---------- ---------- ---------- -------- 
+1i7h_A           110   ---------- ---------- ---------- -------- 
+1krh_A           300   evdvylcgpv pmveavrswl dtqgiqpanf lfekfsan 
+2pia_            322   ---------- ---------- ---------- -------- 
+                                                    
+                       0000000000 0000000000 0000000000 00000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1a70_       :0.0550661i7h_A      :0.055066):0.0176131krh_A      :0.072680):0.0461452pia_       :0.118825);
+ 
+ 

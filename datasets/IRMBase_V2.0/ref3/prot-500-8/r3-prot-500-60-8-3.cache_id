@@ -1,0 +1,191 @@
+Family   SEQ01 SEQ02 SEQ03 SEQ04 SEQ05 SEQ06 SEQ07 SEQ08
+
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx------------------------------
+SEQ02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ05 xxxxxxxxxxxxx-----------------------------------------------
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SEQ01 ------------------------------------------------------------
+SEQ02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ05 ------------------------------------------------------------
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SEQ01 ------------------------------------------------------------
+SEQ02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxx---------------------------------
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ05 ------------------------------------------------------------
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ07 ------------------------------------------------------------
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SEQ01 ------------------------------------------------------------
+SEQ02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ03 ------------------------------------------------------------
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ05 ------------------------------------------------------------
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ07 ------------------------------------------------------------
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SEQ01 ------------------------------------------------------------
+SEQ02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ03 ------------------------------------------------------------
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ05 ------------------------------------------------------------
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------------
+SEQ07 ------------------------------------------------------------
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SEQ01 ------------------------------------------------------------
+SEQ02 xxxx--------------------------------------------------------
+SEQ03 ------------------------------------------------------------
+SEQ04 xxxxx-------------------------------------------------------
+SEQ05 ------------------------------------------------------------
+SEQ06 ------------------------------------------------------------
+SEQ07 ------------------------------------------------------------
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SEQ01 ---------------------------------------------hhhhhhhhhhhhhhh
+SEQ02 ---------------------------------------------hhhhh----------
+SEQ03 ---------------------------------------------hhhhh----------
+SEQ04 ---------------------------------------------hhhhhhhhhhhhhhh
+SEQ05 ------------------------------------------------------------
+SEQ06 ---------------------------------------------hhhhhhhhhhhhhhh
+SEQ07 ---------------------------------------------hhhhhhhhhhhhhhh
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhhhhhhhhhhhhhhh
+
+SEQ01 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx
+SEQ02 --hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx
+SEQ03 --hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx
+SEQ04 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx
+SEQ05 ---------------------------------------------xxxxxxxxxxxxxxx
+SEQ06 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx
+SEQ07 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx
+SEQ08 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ05 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ08 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx---
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ03 xxxxxxxx----------------------------------------------------
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ05 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ08 ------------------------------------------------------------
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ02 x-----------------------------------------------------------
+SEQ03 ------------------------------------------------------------
+SEQ04 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------------
+SEQ05 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ06 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ08 ------------------------------------------------------------
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ02 ------------------------------------------------------------
+SEQ03 ------------------------------------------------------------
+SEQ04 ------------------------------------------------------------
+SEQ05 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ06 xxxxxxxxxxxxxxxxxxxxxx--------------------------------------
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx--------------
+SEQ08 ------------------------------------------------------------
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ02 ------------------------------------------------------------
+SEQ03 ------------------------------------------------------------
+SEQ04 ------------------------------------------------------------
+SEQ05 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ06 ------------------------------------------------------------
+SEQ07 ------------------------------------------------------------
+SEQ08 ------------------------------------------------------------
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhh
+SEQ02 ----------------------------------------------------------hh
+SEQ03 ----------------------------------------------------------hh
+SEQ04 ------------------------------------------------------------
+SEQ05 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx---------------------------hh
+SEQ06 ----------------------------------------------------------hh
+SEQ07 ----------------------------------------------------------hh
+SEQ08 ----------------------------------------------------------hh
+
+SEQ01 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-----hhhhhhhhhhhhhhhh
+SEQ02 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-----hhhhhhhhhhhhhhhh
+SEQ03 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-----hhhhhhhhhhhhhhhh
+SEQ04 ------------------------------------------------------------
+SEQ05 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-----hhhhhhhhhhhhhhhh
+SEQ06 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-----hhhhhhhhhhhhhhhh
+SEQ07 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+SEQ08 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-----hhhhhhhhhhhhhhhh
+
+SEQ01 hhhxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ02 hhhxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx------------
+SEQ03 hhhxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ04 ---xxxxxxxxxxxx---------------------------------------------
+SEQ05 hhhxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx------
+SEQ06 hhhxxxxxxxx-------------------------------------------------
+SEQ07 hhhxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx------------
+SEQ08 hhhxxxx-----------------------------------------------------
+
+SEQ01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhhhhhhhhhhhhhhhhhhhh
+SEQ02 ----------------------------------------hhhhhhhhhhhhhhhhhhhh
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx--------------------------
+SEQ04 ----------------------------------------hhhhhhhhhhhhhhhhhhhh
+SEQ05 ----------------------------------------hhhhhhhhhhhhhhhhhhhh
+SEQ06 ----------------------------------------hhhhhhhhhhhhhhhhhhhh
+SEQ07 ----------------------------------------hhhhhhhhhhhhhhhhhhhh
+SEQ08 ----------------------------------------hhhhhhhhhhhhhhhhhhhh
+
+SEQ01 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh--------------------
+SEQ02 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxx-----
+SEQ03 ----------------------------------------xxxxxxxxxxxxxxxxxxxx
+SEQ04 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxx-------
+SEQ05 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxxxxxxx
+SEQ06 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh--------------------
+SEQ07 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxxxxxxx
+SEQ08 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhxxxxxxxxxxxxxxxxxxx-
+
+SEQ01 ------------------------------------------------------------
+SEQ02 ------------------------------------------------------------
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ04 ------------------------------------------------------------
+SEQ05 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ06 ------------------------------------------------------------
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ08 ------------------------------------------------------------
+
+SEQ01 ------------------------------------------------------------
+SEQ02 ------------------------------------------------------------
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ04 ------------------------------------------------------------
+SEQ05 xxxxxxxxxx--------------------------------------------------
+SEQ06 ------------------------------------------------------------
+SEQ07 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx---------------------------
+SEQ08 ------------------------------------------------------------
+
+SEQ01 ---------------------------------------
+SEQ02 ---------------------------------------
+SEQ03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEQ04 ---------------------------------------
+SEQ05 ---------------------------------------
+SEQ06 ---------------------------------------
+SEQ07 ---------------------------------------
+SEQ08 ---------------------------------------

@@ -1,0 +1,227 @@
+1mrp_              1   ---------- ---------- ---------- ---------- ----D----- 
+FBPA_NEIMA         1   mktsi--R-- YALLAAALTA ATP------- ---------- -ALAD----- 
+FBPA_SERMA         1   MKLRISSLGP VALLASSMML AFG------- ---------- -AQAASADQG 
+1atg_              1   ---------- ---------- ---------- ---------- --------EL 
+1wod_              1   ---------- ---------- ---------- ---------- -------GKI 
+MODA_AZOVI         1   ---------- MSFSLSRLVV ALGagl---- ---------- LACAAQAAEV 
+MODA_RHOCA         1   MTQFPQT--- ------LRAG ATALALV--- --------MG LALPAAAGEV 
+1pot_              1   ---------- ---------- ---------- ---------- --------NN 
+POT2_HAEIN         1   MKKFfahs-- --LKNLFLST TALFAASAFA NNK------- ---------- 
+POT1_HAEIN         1   MKKFAGL--- ------ITAS FVAATLTACN DKDak---QE TAKATAAAND 
+POTF_ECOLI         1   mta-LNKKWL SGLVAGALMA VSVGTLAAeq k--------- ---------- 
+1sbp_              1   kdi------- ---------- ---------- ---------- --------QL 
+CYSP_ECOLI         1   MAVNLLKKNS LALVASLLLA ---------- --------G- ---HVQATEL 
+SUBI_SYNP7         1   mktawtrR-- SFLQSAALAT ATVITIAACG GNNQSSSGG- ---SGQPVEV 
+SUBI_SYNY3         1   marsaf---- -GWGFSVIAV LMVGSITACN TTTTTEPGQG ENASQAPANL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000100011 
+ 
+1mrp_              2   ITVYNGQHKE AATAVAKAFE QET-GIKVT- -----LNSGK SEQLAGQLKE 
+FBPA_NEIMA        24   ITVYNGQHKE AAQAVADAFT RAT-GIKVK- -----LNSAK GDQLAGQIKE 
+FBPA_SERMA        33   IVIYNAQHEN LVKSWVDGFT KDT-GIKVT- -----LRNGG DSELGNQLVQ 
+1atg_              3   KVVTATNFLG TLEQLAGQFA KQT-GHAVV- -----ISSGS SGPVYAQIVN 
+1wod_              4   TVFAAASLTN AMQDIATQFK KEK-GVDVV- -----SSFAS SSTLARQIEA 
+MODA_AZOVI        27   QVAVAANFTA PMKDIASQFE KDT-GHKVI- -----TSFGP TGGFYSQIQN 
+MODA_RHOCA        31   IAAVAANFTE PAKEIGALFT EKT-GHTVT- -----YAFGP SGQFYTQITQ 
+1pot_              3   TLYFYNWTEY VPPGLLEQFT KET-GIKVI- -----YSTYE SNETMYAKLK 
+POT2_HAEIN        30   -LYVYNWTDY VPSDLVAQFS KET-GIEVI- -----YSTFE SNEEMYAKLk 
+POT1_HAEIN        39   TVYLYTWTEY VPDGLLDEFT KET-GIKVI- -----VSSLE SNETMYAKLK 
+POTF_ECOLI        31   TLHIYNWSDY IAPDTVANFE KET-GIKVV- -----YDVFD SNEVLEGKLM 
+1sbp_              6   LNVSYDPTRE LYEQYNKAFS AHW-KQETGD NVVIDQSHGG SGKQATSVIN 
+CYSP_ECOLI        29   LNSSYDVSRE LFAALNPPFE QQWaKDNGGD KLTIKQSHAG SSKQALAILQ 
+SUBI_SYNP7        45   TLVSYAVTQA AYEQIIPKFA AQW-KEKTGQ EVRFNQSYGG SGSQTRAVID 
+SUBI_SYNY3        46   TLVSYAVTRD AFEKIIPKFT EEW-KSKTGQ DVTFEQSYGG SGSQTRAVVD 
+                                                                 
+                       2455666666 6667777788 8880888881 1111189888 8877767665 
+ 
+1mrp_             45   EG---DKTPA DVFYTEQTAT FADLSEAGL- LAPISEQTIQ QTAQKGVPL- 
+FBPA_NEIMA        67   EG---SRSPA DVFYSEQIPA LATLSAANL- LEPLPASTIN ETRGKGVPV- 
+FBPA_SERMA        76   EG---SASPA DVFLTENSPA MVLVDNAKL- FAPLDAATLA QVEpqyrpsh 
+1atg_             46   ------GAPY NVFFSADEKS PEKLDNQGF- ALPGSRFTYA IGKLVL---- 
+1wod_             47   ------GAPA DLFISADQKW MDYAVDKKA- IDTATRQTLL GNSLVVVAP- 
+MODA_AZOVI        70   ------GAPF EVFLAADDTT PEKLEKEGgt -VAGSRFTYA VGKLVL---- 
+MODA_RHOCA        74   ------GAPF EVFLSADASR PKKAVEEGY- AVPGSDFTYA VGKLVL---- 
+1pot_             46   -Tykd-GAYD --LVVPSTYY VDKMRKEGM- IQKIDKSKLT NFSNLDPDM- 
+POT2_HAEIN        72   lTQNTGSGYD --LVFPSSYY VNKMIKEKM- LQPIDQSKLT NIHQIPKHL- 
+POT1_HAEIN        82   -TQGESGGYD --VIAPSNYF VSKMAREGM- LKELDHSKLP VLKELDPDW- 
+POTF_ECOLI        74   AG---STGFD --LVVPSASF LERQLTAGV- FQPLDKSKLP EWKNLDPELl 
+1sbp_             55   ------GIEA DTVTLALAYD VNAIAERGR- IDKNWIKRLP DDSAPYTST- 
+CYSP_ECOLI        79   ------GLKA DVVTYNQVTD VQILHDKGKl IPADWQSRLP NNSSPFYST- 
+SUBI_SYNP7        94   ------GLEA DVVALALESD INQIEKAGL- IQPGWQQRVP NNGIITNSV- 
+SUBI_SYNY3        95   ------GLEA DIVALALSSD VQKIESAGL- IQPGWEQEAP NGSIVTNSV- 
+                                                                 
+                       0100015566 4466666455 5555555540 4445555554 4333332220 
+ 
+1mrp_             90   -APK------ ---------- ---------- ---------- KDWIALSGRS 
+FBPA_NEIMA       112   -AAK------ ---------- ---------- ---------- KDWVALSGRS 
+FBPA_SERMA       122   gr-------- ---------- ---------- ---------- --WIGIAARS 
+1atg_             85   ---------- ---------- ---------- ---------- ---------- 
+1wod_             89   ---------- ---------- --KASVQKDF TIDS-----K TNWT------ 
+MODA_AZOVI       109   ---------- ---------- ---------- ---------- ---------- 
+MODA_RHOCA       113   ---------- ---------- ---------- ---------- ---------- 
+1pot_             90   -LNKPFDPNN DYSIPYIWGA TAIGVNGDAV DPKS-----V TSWA------ 
+POT2_HAEIN       118   -LNKEFDPEN KYSLPYVYGL TGIEVNADEI DPKT-----I TSWA------ 
+POT1_HAEIN       127   -LNKPYDKGN KYSLPQLLGA PGIAFNTNTY KGEQ-----F TSWA------ 
+POTF_ECOLI       118   kLVAKHDPDN KFAMPYMWAT TGIGYNVDKV KAvlgenapV DSWD------ 
+1sbp_             97   ---------- ---------- --IVFLVRKG NPKQ-----I HDWN------ 
+CYSP_ECOLI       122   ---------- ---------- --MGFLVRKG NPKN-----I HDWN------ 
+SUBI_SYNP7       136   ---------- ---------- --VALVTQEG NPKG-----I KDWT------ 
+SUBI_SYNY3       137   ---------- ---------- --IAFVTKAS DNIK-----V EKWA------ 
+                                                                 
+                       0111001111 1111111111 1122222233 3323000003 4466111111 
+ 
+1mrp_            103   RVVVYDHTKL SEKDMEKSVL DYATPKWKGK -----IGYVS TSGAFLEQV- 
+FBPA_NEIMA       125   RVVVYDTRKL SEKDLEKSVL NYATPKWKNR -----IGYAP TSGAFLEQV- 
+FBPA_SERMA       132   TVFVYNPAKL SDAQLPKSLL DLAKPEWKGR waa-----SP SGADFQAIV- 
+1atg_             85   ---------- ---------- ------WSAK -----PGLVD NQGKVLagNG 
+1wod_            106   ---------- ---------- SLLNGGr--- ---------- ---------- 
+MODA_AZOVI       109   ---------- ---------- ------WSAK -----PGYVD DQGAVLKKNA 
+MODA_RHOCA       113   ---------- ---------- ------WSAD -----PARVD DKGAVLKtdl 
+1pot_            128   ---------- ---------- DLWKPEYKGS -----LLLT- ---------- 
+POT2_HAEIN       156   ---------- ---------- DLWKPEFKGK -----VLMT- ---------- 
+POT1_HAEIN       165   ---------- ---------- DLWKPEFANK -----VQLL- ---------- 
+POTF_ECOLI       162   ---------- ---------- LILKPENLEK lkscgVSFL- ---------- 
+1sbp_            114   ---------- ---------- DLIKPGVSVI T--------- ---------- 
+CYSP_ECOLI       139   ---------- ---------- DLVRSDVKLI F--------- ---------- 
+SUBI_SYNP7       153   ---------- ---------- DLTKPGVRIV T--------- ---------- 
+SUBI_SYNY3       154   ---------- ---------- DLANPEVKVI T--------- ---------- 
+                                                                 
+                       1111110011 1111111111 7777667777 3000044442 2222221010 
+ 
+1mrp_            147   ---------- ---------- ---------- ---------- ---------- 
+FBPA_NEIMA       169   ---------- ---------- ---------- ---------- ---------- 
+FBPA_SERMA       176   ---------- ---------- ---------- ---------- ---------- 
+1atg_            104   WRHIAISNPQ IAPYGLAGTQ VLTHLGLLDK LTaqeRIVEA NSVGQ-AHSQ 
+1wod_            113   ---LAVGDPE HVPAGIYAKE ALQKLGAWDT LSP--KLAPA EDVRG-ALAL 
+MODA_AZOVI       128   FKHLSIANPK TAPYGAAAVQ VLAKLGLTEA TKS--KLVEG ASIAQ-AHQF 
+MODA_RHOCA       132   -EHVAIADPK SAPYGAAAIE VMQKLGVYET LEP--KLVTG KSISQ-AYEF 
+1pot_            142   ---------- -----DDARE VFQMALRKLG YSG--NTTDP KEIEA-AYNE 
+POT2_HAEIN       170   ---------- -----SDARE VFHVALLLDG KSP--NTTNE EDIKT-AYER 
+POT1_HAEIN       179   ---------- -----DDARE VFNIALLKIG QDP--NTQDP AIIKQ-AYEE 
+POTF_ECOLI       181   ---------- -----DAPEE VFATVLNYLG KDP--NSTKA DDYTGpATDL 
+1sbp_            125   ------PNP- ---------- ---------- ---------- ---------- 
+CYSP_ECOLI       150   ------PNP- ---------- ---------- ---------- ---------- 
+SUBI_SYNP7       164   ------ANP- ---------- ---------- ---------- ---------- 
+SUBI_SYNY3       165   ------ANP- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0001114441 1111133333 3333332221 1110022111 1111102222 
+ 
+1mrp_            147   ---------- VALSKMKGDK ---V---ALN WLKGLKEN-- ---------- 
+FBPA_NEIMA       169   ---------- VAIVKLKGEA ---A---ALK WLKGLKEY-- ---------- 
+FBPA_SERMA       176   ---------- SALLELKGEK ---A---TLA WLKAMKTN-- ---------- 
+1atg_            153   TASGAADLGF VALAQIIQAA ---AkipGSH WFPPA----- ---------- 
+1wod_            157   VERNEAPLGI VYGSDAVASK ---Gvkv--- ---------- ---------- 
+MODA_AZOVI       175   VATGNAELGF VALSQVYKDg KLTG---GSG WNVPG----- ---------- 
+MODA_RHOCA       178   AATGNAPVGF VAYSQVIGKE ---G---GSS WMVPQ----- ---------- 
+1pot_            174   LKK------- ---------- ---------- ---------- ---------- 
+POT2_HAEIN       202   LEK------- ---------- ---------- ---------- ---------- 
+POT1_HAEIN       211   LLK------- ---------- ---------- ---------- ---------- 
+POTF_ECOLI       214   LLK------- ---------- ---------- ---------- ---------- 
+1sbp_            128   ---------- ---------- KSSG---GAR WNYLAAWGYA LHHNNNDQAK 
+CYSP_ECOLI       153   ---------- ---------- KTSG---NAR YTYLAAWGAA DKADGGDKGK 
+SUBI_SYNP7       167   ---------- ---------- KTSG---GAR WNFLGAWGSV TQTGGT-EEQ 
+SUBI_SYNY3       168   ---------- ---------- KTSG---GAR WNFLGIWGSV TKTGGT-EEQ 
+                                                                 
+                       2220000000 1111111000 3334000444 4444443311 1111110100 
+ 
+1mrp_            169   ---------- ---------- ---GKLYAKN SVALQAVENG EVPAALINNY 
+FBPA_NEIMA       191   ---------- ---------- ---GKPYAKN SVALQAVENG EIDAALINNY 
+FBPA_SERMA       198   ---------- ---------- ---FTAYKGN STVMKAVNAG QVDSGVIYHY 
+1atg_            185   ---------- ---------- ---------- ---------- --------NY 
+1wod_            181   ---------- -VATFPE--- DShkk----- ---------- ---------- 
+MODA_AZOVI       207   ---------- ---------- ---------- ---------- --------DL 
+MODA_RHOCA       207   ---------- ---------- ---------- ---------- --------DL 
+1pot_            177   -------LMP NVAAFNS--- DNPANPYMEG EVNLGMIWNG SAFVARQAGT 
+POT2_HAEIN       205   -------LLP NVATFNS--- DSPEVPYVQG EVAIGMIWNG SAYLAQKENQ 
+POT1_HAEIN       214   -------LRP NVLSFNS--- DNPANSFISG EVEVGQLWNG SVRIAKKEKA 
+POTF_ECOLI       217   -------LRP NIRYFHS--- SQYINDLANG DICVAIGWAG DVWQASNR-- 
+1sbp_            155   AEDFVKALFK NVEVLDSGAR GSTNTFVERG IGDVLIAWEN EALLATNELG 
+CYSP_ECOLI       180   TEQFMTQFLK NVEVFDTGGR GATTTFAERG LGDVLISFES EV-------- 
+SUBI_SYNP7       193   ALQFTTDIYK NVPILAKDAR ESTDVFTK-G QADVLLNYEN ELILAQQKGE 
+SUBI_SYNY3       194   AFDFAGKVLA NAPVLPKDAR ESTDVFYKQG QGNVLLNYEN EVLLAKQKGE 
+                                                                 
+                       0000000222 2222222111 3333334434 4433444333 3213322233 
+ 
+1mrp_            196   YWYNLAKEKG VENLKSRLYF V----RH--Q DPGALVS--- -YSGAAVLKA 
+FBPA_NEIMA       218   YWHAFAREKG VQNVHTRLNF V----RH--R DPGALVT--- -YSGAAVLKS 
+FBPA_SERMA       225   YPFVDGAKTG ENSNNIKLYY ----FKH--Q DPGAFVS--- -ISGGGVLAS 
+1atg_            187   YE-------- ---------- ---------- ---------P IVQQAVITKS 
+1wod_            192   ---------- ---------- ---------- ---------- -VEYPVAVVE 
+MODA_AZOVI       209   YE-------- ---------- ---------- ---------P IRQDAVILTK 
+MODA_RHOCA       209   YK-------- ---------- ---------- ---------P IKQDAVLLKT 
+1pot_            217   P--------- -----ID--- ----VVW--P KEGGIFW--- -MDSLAIPAN 
+POT2_HAEIN       245   S--------- -----LQ--- ----FVY--P KEGAIFW--- -MDNYAIPTT 
+POT1_HAEIN       254   P--------- -----LN--- ----MVF--P KEGPVLW--- -VDTLAIPAT 
+POTF_ECOLI       255   ------AKEA KNGVNVS--- ----FSI--P KEGAMAF--- -FDVFAMPAD 
+1sbp_            205   K--------- -----DK--- ----FEIVTP SE-SILAEpt VSVVDKVVEK 
+CYSP_ECOLI       222   ---------- ---NNIRKQY eaqgFEVVIP KT-NILAEFP VAWVDKNVQA 
+SUBI_SYNP7       242   K--------- -----VD--- ----YAI--P PV-NINIQGP VAVVDTYTDK 
+SUBI_SYNY3       244   N--------- -----QP--- ----YII--P QDFNVSISGP VAVVDTTVDK 
+                                                                 
+                       3100000000 0000022000 0000233004 3344444001 2666777777 
+ 
+1mrp_            236   SKNQAEAQKF VDFLASKKGQ EALVAARA-E YPLRADVVSP FNLEPYEKLE 
+FBPA_NEIMA       258   SQNKDEAKKF VAFLASKEGQ RALTAVRA-E YPLNPHVVST FNLEPIAKLE 
+FBPA_SERMA       265   SKHQQQAQAF IKWITGKQGQ EILRTNnafE YAVGVGAASN PKLVPLKDLD 
+1atg_            200   TAEKANAEQF MSWMKGPKAV AIIKAAGY-V LPq------- ---------- 
+1wod_            201   GHNNATVKAF YDYLKGPQAA EIFKRYGF-T IK-------- ---------- 
+MODA_AZOVI       222   GKDNPAAQAL VDYLKGPKAT EVIKAYGY-G LQ-------- ---------- 
+MODA_RHOCA       222   GAEDAAAKAY LDFLKTPEAL EIIRKYGY-V TE-------- ---------- 
+1pot_            240   AKNKEGALKL INFLLRPDVA KQVAETIG-Y PTP------- ------NLAA 
+POT2_HAEIN       268   AKNVEGAHKF IDFLLRPENA KIVIERMG-F SMP------- ------NNGA 
+POT1_HAEIN       277   AKNSEGAHKL INYMLGKKTA EKLTLAIG-Y PTS------- ------NIEA 
+POTF_ECOLI       286   AKNKDEAYQF LNYLLRPDVV AHISDHVF-Y ANA------- ------NKAA 
+1sbp_            233   KDTKAVAEAY LKYLYSPEGQ EIAAKNFY-R Prda------ ---------- 
+CYSP_ECOLI       258   NGTEKAAKAY LNWLYSPQAQ TIITDYYY-R VN-------- ---------- 
+SUBI_SYNP7       268   HGTRKVSEAF VQFLFTPEAQ AEFAKVGF-R Palpeg---- ---------- 
+SUBI_SYNY3       271   KGTREVRDAF VQYLFTPEAQ QIFAETGF-R Pv-------- ---------- 
+                                                                 
+                       7777788888 8888777777 6555444403 2210000000 0000001111 
+ 
+1mrp_            285   APVVSATTAQ DKEHAIKLIE EAGLK----- ---------- ---------- 
+FBPA_NEIMA       307   APQVSATTVS EKEHATRLLE QAGMK----- ---------- ---------- 
+FBPA_SERMA       315   APKVDAAQLN SKKv-VELMT EAGLl----- ---------- ---------- 
+1atg_            232   ---------- ---------- ---------- ---------- ---------- 
+1wod_            232   ---------- ---------- ---------- ---------- ---------- 
+MODA_AZOVI       253   ---------- ---------- ---------- ---------- ---------- 
+MODA_RHOCA       253   ---------- ---------- ---------- ---------- ---------- 
+1pot_            276   RKLLSPEVAN DKTLYPDAET I-KNGEWQND VGA------- -ASSIYEEYY 
+POT2_HAEIN       304   KTLLSAEVAN DPKLFPPAEE V-EKGIMQGD VGE------- -AVDIYEKYW 
+POT1_HAEIN       313   KKALPKEITE DPAIYPSADI L-KNSHWQDD VGD------- -AIQFYEQYY 
+POTF_ECOLI       322   TPLVSAEVRE NPGIYPPADV raKLFTLkvq dpkidrvrtr aWTKVKsgk- 
+1sbp_            266   ------DV-- AKKYDDAFPK L-KLFTIDEV FGG------- -WAKAQKDHF 
+CYSP_ECOLI       289   ----NPEV-- MDKLKDKFPQ T-ELFRVEDK FGS------- -WPEVMKTHF 
+SUBI_SYNP7       303   -------V-- DPQLLAPFPK I-QTWFTVAD LGG------- -WAKVQPEFF 
+SUBI_SYNY3       302   ----NEEV-- LAKFASQYPK V-ENLATIEE FGG------- -WKKAQAEFF 
+                                                                 
+                       1111112211 2222222333 2022222222 2220000000 0222222222 
+ 
+1mrp_            310   ---------- ------ 
+FBPA_NEIMA       332   ---------- ------ 
+FBPA_SERMA       339   ---------- ------ 
+1atg_            232   ---------- ------ 
+1wod_            232   ---------- ------ 
+MODA_AZOVI       253   ---------- ------ 
+MODA_RHOCA       253   ---------- ------ 
+1pot_            317   QKLKAg---- ------ 
+POT2_HAEIN       345   GKLKtn---- ------ 
+POT1_HAEIN       354   QELKAak--- ------ 
+POTF_ECOLI       371   ---------- ------ 
+1sbp_            299   ADGGTFDQIS K----- 
+CYSP_ECOLI       324   TSGGELDKll aagrn- 
+SUBI_SYNP7       335   GDGGWFDKVQ Qavagr 
+SUBI_SYNY3       337   DEGGIFDKVi tkigrq 
+                            
+                       2222111000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((1mrp_       :0.003388FBPA_NEIMA  :0.003388):0.006370FBPA_SERMA  :0.009758):0.107762(((1pot_       :0.004049POT2_HAEIN  :0.004049):0.000730POT1_HAEIN  :0.004779):0.005638POTF_ECOLI  :0.010417):0.107103):0.077023(((1atg_       :0.008666(MODA_AZOVI  :0.006148MODA_RHOCA  :0.006148):0.002519):0.0160071wod_       :0.024674):0.122750((1sbp_       :0.006243CYSP_ECOLI  :0.006243):0.003276(SUBI_SYNP7  :0.003913SUBI_SYNY3  :0.003913):0.005607):0.137904):0.047120);
+ 
+ 

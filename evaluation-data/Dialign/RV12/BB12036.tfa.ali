@@ -1,0 +1,61 @@
+1zip_              1   --------MN LVLMGLPGAG KGTQAEKIVA AYGIPHISTG DMFRAAM-KE 
+2ak2_              1   pkg-----VR AVLLGPPGAG KGTQAPKLAK NFCVCHLATG DMLRAMV-AS 
+2ak3_A             1   gasarl--LR AAIMGAPGSG KGTVSSRITK HFELKHLSSG DLLRdnM-LR 
+1zak_A             1   ad-----PLK VMISGAPASG KGTQCELIKT KYQLAHISAG DLLRAEI-AA 
+1qf9_A             1   meks--KPNV VFVLGGPGSG KGTQCANIVR DFGWVHLSAG DLLRQEQ-QS 
+3adk_              1   meeklkKSKI IFVVGGPGSG KGTQCEKIVQ KYGYTHLSTG DLLRAEV-SS 
+1uky_              1   pafspdqvSV IFVLGGPGAG KGTQCEKLVK DYSFVHLSAG DLLRAEQgRA 
+                                                                 
+                       0000000133 4588888888 8888888888 8888899999 9999643023 
+ 
+1zip_             42   GTPLGLQAKQ YMDRGDLVPD EVTIGIVRER LSKD-DC-QN G-FLLDGFPR 
+2ak2_             45   GSELGKKLKA TMDAGKLVSD EMVLELIEKN LETP-PC-KN G-FLLDGFPR 
+2ak3_A            48   GTEIGVLAKT FIDQGKLIPD DVMTRLVLHE LKNl--T-QY N-WLLDGFPR 
+1zak_A            45   GSENGKRAKE FMEKGQLVPD EIVVNMVKER LRQP-DaQEN G-WLLDGYPR 
+1qf9_A            48   GSKDGEMIAT MIKNGEIVPS IVTVKLLKNA IDAN---QGK N-FLVDGFPR 
+3adk_             50   GSARGKMLSE IMEKGQLVPL ETVLDMLRDA MVAKVDT-SK G-FLIDGYPR 
+1uky_             51   GSQYGELIKN CIKEGQIVPQ EITLALLRNA ISDNVKA-NK hkFLIDGFPR 
+                                                                 
+                       4433333333 3444444444 4444443333 3221010011 2033333333 
+ 
+1zip_             89   TVAQAEALET ---MLADIGR KLDYVIHIDV RQDVLMERLT GRRICRNCGA 
+2ak2_             92   TVRQAEMLDD ---LMEKRKE KLDSVIEFSI PDSLLIRRIT GRLIHPQSGR 
+2ak3_A            94   TLPQAEALDR ay-------- QIDTVINLNV PFEVIKQRLT ARWIHPGSGR 
+1zak_A            93   SYSQAMALET ---LEI---- RPDTFILLDV PDELLVERVV GRRLDPVTGK 
+1qf9_A            94   Neennnswee nmkDFV---- DTKFVLFFDC PEEVMTQRLL KR-------- 
+3adk_             98   EVKQGEEFER ---KIG---- QPTLLLYVDA GPETMTKRLL KR-------- 
+1uky_            100   KMDQAISFER ---DIV---- ESKFILFFDC PEDIMLERLL ER-------- 
+                                                                 
+                       3322222221 0002110000 1122333333 3333333333 3311111111 
+ 
+1zip_            136   TYHLIFHPPA KPGVCDKCGG ELYQRADDNE ATVANRLEVN MKQMKPLVDF 
+2ak2_            139   SYHEEFNPPK EPMKDDITGE PLIRRSDDNK KALKIRLEAY HTQTTPLVEY 
+2ak3_A           136   VYNIEFNPPK TMGIDDLTGE PLVQREDDRP ETVVKRLKAY EAQTEPVLEY 
+1zak_A           136   IYHLKYSPPE n----EEIAS RLTQRFDDTE EKVKLRLETY YQNIESLLST 
+1qf9_A           132   ---------- ---------G ESSGRSDDNI ESIKKRFNTF NVQTKLVIDH 
+3adk_            133   ---------- ---------G ETSGRVDDNE ETIKKRLETY YKATEPVIAF 
+1uky_            135   ---------- ---------G KTSGRSDDNI ESIKKRFNTF KETSMPVIEY 
+                                                                 
+                       1111111111 0000111112 2333555555 5555444444 3333344444 
+ 
+1zip_            186   YEQKGYLRNI NGEQDMEKVF ADIRELLGGL Ar-------- -- 
+2ak2_            189   YSKRGIHSAI DASQTPDVVF ASIlaafska ts-------- -- 
+2ak3_A           186   YRKKGVLETF SGTE-TNKIW PHVYAFLQTK LPQRSQETSV Tp 
+1zak_A           182   YEN--IIVKV QGDATVDAVF AKIDELLGSI LEKKNEMVSS T- 
+1qf9_A           163   YNKFDKVKII PANRDVNEVY NDVENLFKSM Gf-------- -- 
+3adk_            164   YEKRGIVRKV NAEGSVDDVF SQVcthldtl k--------- -- 
+1uky_            166   FETKSKVVRV RCDRSVEDVY KDVQDAIRDS L--------- -- 
+                                                         
+                       4332222111 1111111111 1110000000 0000000000 00 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1zip_       :0.0117991zak_A      :0.011799):0.001321(2ak2_       :0.0101172ak3_A      :0.010117):0.003003):0.005658((1qf9_A      :0.0075841uky_       :0.007584):0.0028793adk_       :0.010463):0.008315);
+ 
+ 

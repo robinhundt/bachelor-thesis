@@ -1,0 +1,371 @@
+1ton_              1   ---------- ---------- ---------- ---------- ---------- 
+1a0h_B             1   ---------- ---------- ---------- ---------- ---------- 
+1a0j_A             1   ---------- ---------- ---------- ---------- ---------- 
+1a0l_A             1   ---------- ---------- ---------- ---------- ---------- 
+1a5i_A             1   ---------- ---------- ---------- ---------- ---------- 
+1bru_P             1   ---------- ---------- ---------- ---------- ---------- 
+1c5m_D             1   ---------- ---------- ---------- ---------- ---------- 
+KLKA_HUMAN         1   mraphlh--- ---------- ------LSAA SGARALAKLL PLLMAQLWAA 
+BSS4_MOUSE         1   mMISRPPpal gGDQFSILIL LVLLTSTAPI SAATIR---- ---------- 
+TEST_MOUSE         1   m--------- -GARGKTLVP LLVVVATAAM ALQSTY---- ---------- 
+TRY3_ANOGA         1   ---------- -------MIS NKIAILLAVL VVAVACAQAR VALKHRSVQA 
+VDP_BOMMO          1   MTN----S-- ---------L LICFTILGLA ASSPTKpig- ---------- 
+TRYP_STRGA         1   MTH----T-- ---------T TIAAKRGGLA LAKKAAAAGA --VALAVASL 
+TRYP_SACER         1   ---------- ---------- ---------- ---------- ---------- 
+TRYE_DROER         1   ---------- ---------M LKIAVLLSVL ACALAG---- ---------- 
+TRYI_DROME         1   maVYGI---- ---------- -VATVLVLLL LGDAS----- ---------- 
+TRYZ_DROER         1   mss------- ---------S SWLGCLLAVL LSALALSQGL PLLEDLDENS 
+COGS_UCAPU         1   ---------- ---------- ---------- ---------- ---------- 
+CTR1_ANOGA         1   ---------- ---------- ---------- MLRKVFAVAS --ILLVVSAA 
+FIBC_LUMRU         1   ---------- ---------- ---------- ---------- ---------- 
+CFAD_HUMAN         1   --MHSS---- ---------- -VYFAVLVLL GAAAC----- ---------- 
+GRAB_MOUSE         1   ---------- ---------M KILLLLLTLS LASRTKA--- ---------- 
+PRN3_HUMAN         1   -MAHRPPS-- ---------P ALASVLLALL LSGAARA--- ---------- 
+GRAA_HUMAN         1   mrnsyrfla- ---------- ---------- SSLSVV---- ---------- 
+GRAM_RAT           1   l--------- ---------- ---------- --------LL LLALKTLWA- 
+ACRO_MOUSE         1   mve------- -------MLP TVAVLVLAVS VVAKDN---- ---------- 
+VSP1_BOTJA         1   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ton_              1   ---------- ---------- ---------- ---------- -------IVG 
+1a0h_B             1   ---------- ---------- ---------- ---------- -------IVE 
+1a0j_A             1   ---------- ---------- ---------- ---------- -------IVG 
+1a0l_A             1   ---------- ---------- ---------- ---------- -------IVG 
+1a5i_A             1   -----CGlrk ykeP------ ---------- ---------- ----QLHSTG 
+1bru_P             1   ---------- ---------- ---------- ---------- -------VVG 
+1c5m_D             1   ---------- ---------- ---------- ---------- -------IVG 
+KLKA_HUMAN        32   EAALLPQND- ---------- --T------- ---------- ---RLDPEAY 
+BSS4_MOUSE        37   -VSPDCGKP- ---------- --Q------- ---------- ---QLNRIVG 
+TEST_MOUSE        27   -LQVDPEKP- ---------- --Elqepdll sGPCGhrt-- ---IPSRIVG 
+TRY3_ANOGA        34   L--------- ---Prflprp qyD------- ---------- ---VGHRIVG 
+VDP_BOMMO         25   ---------- ---------- ---------- ---------- ----DIRIVG 
+TRYP_STRGA        34   Qpvsaaha-- ---------- ---------- ---------- ---ADARVIG 
+TRYP_SACER         1   ---------- ---------- ---------- ---------- -------IVG 
+TRYE_DROER        18   -TIPDGLLP- ---------- --Q------- ---------- ---LDGRIVG 
+TRYI_DROME        21   -------DV- ---------- --E------- ---------- ---ATGRIIG 
+TRYZ_DROER        35   F--------- ---P------ ---------- ---------- ----DGRIVG 
+COGS_UCAPU         1   ---------- ---------- ---------- ---------- -------IVG 
+CTR1_ANOGA        19   KVPKLVLDD- ---------- --H------- ---------- ---YVNRVVG 
+FIBC_LUMRU         1   ---------- ---------- ---------- ---------- -------VIG 
+CFAD_HUMAN        19   -------AA- ---------- --R------- ---------- ---PRGRILG 
+GRAB_MOUSE        19   ---------- ---------- ---------- ---------- -----GEIIG 
+PRN3_HUMAN        26   ---------- ---------- ---------- ---------- -----AEIVG 
+GRAA_HUMAN        16   -VSLLLIPE- ---------- --D------- ---------- ---VCEKIIG 
+GRAM_RAT          13   ------VGN- ---------- --R------- ---------- ---FEAQIIG 
+ACRO_MOUSE        23   -TTCD----- ---------- ---------- -GPCGlrfrq nsqAGTRIVS 
+VSP1_BOTJA         1   ---------- ---------- ---------- ---------- -------VVG 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000112 
+ 
+1ton_              4   GYKCEKNSQP ---WQVA--V I--------- --NEYLCGGV LIDPSWVITA 
+1a0h_B             4   GQDAEVGLSP ---WQVMlfR K--------S -PQELLCGAS LISDRWVLTA 
+1a0j_A             4   GYECRKNSAS ---YQAS--- L--------Q -SGYHFCGGS LISSTWVVSA 
+1a0l_A             4   GQEAPRSKWP ---WQVS--L R--------V HGWMHFCGGS LIHPQWVLTA 
+1a5i_A            16   GLFTDITSHP ---WQAA--I F--------A QNERFLCGGI LISSCWVLTA 
+1bru_P             4   GEDARPNSWP ---WQVS--L Q--------Y DQWRHTCGGT LVDQSWVLTA 
+1c5m_D             4   GQECKDGECP ---WQAL--L I--------N EENEGFCGGT ILSEFYILTA 
+KLKA_HUMAN        49   GAPCARGSQP ---WQVS--L F--------N -GLSFHCAGV LVDQSWVLTA 
+BSS4_MOUSE        53   GEDSMDAQWP ---WIVS--I L--------K -NGSHHCAGS LLTNRWVVTA 
+TEST_MOUSE        58   GDDAELGRWP ---WQGS--L R--------V -WGNHLCGAT LLNRRWVLTA 
+TRY3_ANOGA        52   GFEIDVSETP ---YQVS--L Q--------Y -FNSHRCGGS VLNSKWILTA 
+VDP_BOMMO         31   GEDIVITEAP ---YQVS--V M--------F -RGAHSCGGT LVAADIVVTA 
+TRYP_STRGA        49   GKPAAQNEFP FMVh------ ---------- --LSMGCGGA LYKKDIVLTA 
+TRYP_SACER         4   GEDANVQDHP ---FTVA--L V--------T PDGQQFCGGT LAAPNKVVTA 
+TRYE_DROER        34   GYETSIDAHP ---YQVS--L Q--------R -FGSHFCGGS IYSHDIVITA 
+TRYI_DROME        31   GSDQLIRNAP ---WQVS--I Q--------I -SARHECGGV IYSKEIIITA 
+TRYZ_DROER        43   GYVTDIAQVP ---YQIT--L RykaisspeN -PFRHRCGGS IVNETTILTA 
+COGS_UCAPU         4   GVEAVPNSWP ---HQAA--L F--------I -DDMYFCGGS LISPEWILTA 
+CTR1_ANOGA        36   GEVAKNGSAP ---YQVS--L Q--------V PGWGHNCGGS LLNDRWVLTA 
+FIBC_LUMRU         4   GTNASPGEFP WQLSQQR--Q S--------G -SWSHSCGAS LLSSTSALSA 
+CFAD_HUMAN        29   GREAEAHARP ---YMAS--V Q--------L -NGAHLCGGV LVAEQWVLSA 
+GRAB_MOUSE        24   GHEVKPHSRP YMALLSI--K ---------D QQPEAICGGF LIREDFVLTA 
+PRN3_HUMAN        31   GHEAQPHSRP YMASLQM--R G--------N -PGSHFCGGT LIHPSFVLTA 
+GRAA_HUMAN        32   GNEVTPHSRP ---YMVL--L S--------L -DRKTICAGA LIAKDWVLTA 
+GRAM_RAT          24   GREAVPHSRP ---YMVS--L Q--------N -TKSHMCGGV LVHQKWVLTA 
+ACRO_MOUSE        46   GQSAQLGAWP WMVSLQIfts hnsrr----- ---YHACGGS LLNSHWVLTA 
+VSP1_BOTJA         4   GRPCKINVHR ---SLVL--L Y--------N -SSSLLCSGT LINQEWVLTA 
+                                                                 
+                       2222222223 0002222002 2000000002 0223558888 8888888888 
+ 
+1ton_             38   AHCYSNNYQ- ---------V -----LLG-- --R----NNL FKDEPAQ-R- 
+1a0h_B            42   AHCLLYPPWd knftvDDLLV -----RIG-- --KHSRTRYE RK---VE-KI 
+1a0j_A            39   AHCYKSRIQ- ---------V -----RLG-- --E----HNI AVNEGTE-QF 
+1a0l_A            41   AHCVG----- --------LA -----ALR-- --VQLREQHL YY---QD-QL 
+1a5i_A            53   AHCFQPDQ-- -------LKV -----VLG-- --R----TYR VKPGEEE-QT 
+1bru_P            41   AHCISSSR-- -------TYV -----VLG-- --R----HSL STNEPGS-LA 
+1c5m_D            41   AHCLYQKR-- -------FKV -----RVG-- --D----RNT EQEEGGE-AV 
+KLKA_HUMAN        85   AHCGNKPLW- ---------A -----RVG-- --D----DHL LLLQGeqlrr 
+BSS4_MOUSE        89   AHCFKSNMDk p----SLFSV -----LLG-- --A----WKL GSPGPRS-QK 
+TEST_MOUSE        94   AHCFQKDND- ---------P FDWTVQFGel tsrpslwnlq ay------SN 
+TRY3_ANOGA        88   AHCTVNLQP- -----SSLAV -----RLG-- --S----SRH AS---GG-TV 
+VDP_BOMMO         67   AHCVMSFAP- -----EDYRI -----RVG-- --S----SFH QR---DG-ML 
+TRYP_STRGA        81   AHCMDGSG-- -----NNTRI tv-------- -------TAG VADLNSS-GA 
+TRYP_SACER        41   AHCTVGSQP- -----ADINV -----VSG-- --R----TVM SSNI--G-TV 
+TRYE_DROER        70   AHCLQSVDA- -----KDLKI -----RVG-- --S----TYW RS---GG-SV 
+TRYI_DROME        67   GHCLHERSV- -----TLMKV -----RVG-- --A----QNH NY---GG-TL 
+TRYZ_DROER        87   AHCVIGTVA- -----SQFKV -----VAG-- --T----NF- -QTGTDG-VI 
+COGS_UCAPU        40   AHCMDGAGF- -----VDV-- -----VLG-- --A----HNI REDE--ATQv 
+CTR1_ANOGA        73   AHCLVGHAP- -----GDLMV -----LVG-- --T----NSL KE---GG-EL 
+FIBC_LUMRU        43   SHCVDGVLP- -----NNIRV -----IAG-- --L----WQQ SDTS--GTQT 
+CFAD_HUMAN        65   AHCLEDAAD- -----GKVQV -----LLG-- --A----HSL SQPEPSK-RL 
+GRAB_MOUSE        63   AHCEGSIIN- ---------V -----TLG-- --A----HNI KEQEKTQ-QV 
+PRN3_HUMAN        70   AHCLRDIPQ- -----RLVNV -----VLG-- --A----HNV RTQE--PTQQ 
+GRAA_HUMAN        68   AHCNLNKR-- -------SQV -----ILG-- --A----HSI TREEPTK-QI 
+GRAM_RAT          60   AHCLSEPLQq l--------- ---KLVFG-- --L----HSL HDPQDPG-LT 
+ACRO_MOUSE        88   AHCFDNKKK- ---------V YDWRLVFGaq eiEYGRNKPV KE---PQ-QE 
+VSP1_BOTJA        40   AHCDSKNFK- ---------M -----KLG-- --V----HSI KIRNKNE-Rt 
+                                                                 
+                       8883221110 0000000001 0000011100 0010000100 0000000000 
+ 
+1ton_             63   -RLV-----R QSFRH----P DY-I--VHDH SNDLMLLHLS EPADITGGV- 
+1a0h_B            79   -SML-----D KIYIH----P RYNW--KENL DRDIALLKLK RPIELSDYI- 
+1a0j_A            65   -IDS-----V KVIMH----P SY-N--SRNL DNDIMLIKLS KPASLNSYV- 
+1a0l_A            65   -LPV-----S RIIVH----P QF-Y--TAQI GADIALLELE EPVKVSSHV- 
+1a5i_A            80   -FKV-----K KYIVH----K EF-D--DDTY NNDIALLQLK SCAQESDSV- 
+1bru_P            68   -VKV-----S KLVVH----Q DW-N--SNQL GNDIALLKLA SPVSLTDKI- 
+1c5m_D            68   -HEV-----E VVIKH----N RF-T--KETY DFDIAVLRLK TPITFRMNV- 
+KLKA_HUMAN       112   ttrsvvHPK- ---YHqgsgP IL-P--RRTD EHDLMLLKLA RPVVPGPRV- 
+BSS4_MOUSE       121   -VGI-----A WVLPH----P RYSW--KEGT HADIALVRLE HSIQFSERI- 
+TEST_MOUSE       128   RYQI-----E D-IFL----S PK-Y--SEQY PNDIALLKLS SPVTYNNFI- 
+TRY3_ANOGA       115   -VRV-----A RVLEH----P NY-D--DSTI DYDFSLMELE TELTFSDVV- 
+VDP_BOMMO         94   -YDV-----G DLAWH----P DF-N--FASM DNDIAILWLP KPVMFGDTV- 
+TRYP_STRGA       108   -IKV-----K STKVK----V AP-G--YDGV GKDWALIKLA KPIDRPT--- 
+TRYP_SACER        69   -SKV-----T NVWVH----P EY-Q--DAAK GFDVSVLTLE APVKEAP--- 
+TRYE_DROER        97   -HSV-----R SFRNH----E GY-N--ARTM VNDIAIVRIE SDLSFRSSI- 
+TRYI_DROME        94   -VPV-----A AYKVH----E QF-D--SRFL HYDIAVLRLS TPLTFGLST- 
+TRYZ_DROER       115   -TNV-----K RVIMH----E GYNS--GAAY NNDIAVLFVD PPLPLNNFTi 
+COGS_UCAPU        67   tIQS-----T DFTVH----E NY-N--SFVI SNDIAVIRLP VPVTLTAAI- 
+CTR1_ANOGA       100   -LKV-----D KLLYH----S RY-N--LPRF HNDIGLVRLE QPVQFSELV- 
+FIBC_LUMRU        72   -ANV-----D SYTMH----E NY-GagTASY SNDIAILHLA TSISLGGNI- 
+CFAD_HUMAN        95   -YDV-----L RAVPH----P DS-Q--PDTI DHDLLLLQLS EKATLGPAV- 
+GRAB_MOUSE        89   -IPM-----V KCIPH----P DY-N--PKTF SNDIMLLKLK SKAKRTRAV- 
+PRN3_HUMAN        99   HFSV-----A Q-VFL----N NY-D--AENK LNDVLLIQLS SPANLSASV- 
+GRAA_HUMAN        95   -MLV-----K KEFPY----P CY-D--PATR EGDLKLLQLT EKAKINKYV- 
+GRAM_RAT          89   -FYI-----K Q-AIK----H PG-Y--NLKY ENDLALLKLD GRVKPSKNV- 
+ACRO_MOUSE       124   -RYV-----Q KIVIH----E KY-N--VVTE GNDIALLKIT PPVTCGNFI- 
+VSP1_BOTJA        66   r-----HPKE KFICP----N RK-K--DDVL DKDIMLIRLN RPVSNSEHI- 
+                                                                 
+                       0001000001 1111100001 1101002222 2333333333 3333333330 
+ 
+1ton_             99   KVIDLPTKEP K---V----- -GST--CLAS GWGSTNP--- ---SEMVVSH 
+1a0h_B           116   HPVCLPDKQT A---A-Kllh aGFK--GRVT GWGNRREtwt tsvAEVQ-PS 
+1a0j_A           101   STVALPSSCA S---S----- -GTR--CLVS GWGNLSG--- ---SSSNYPD 
+1a0l_A           101   HTVTLPPASE T---F-PP-- -GMP--CWVT GWGDVDN--- ---DERL-PF 
+1a5i_A           116   RAICLPEANL Q---L-PD-- -WTE--CELS GYGKHKS--- ---SSPFYSE 
+1bru_P           104   QLGCLPAAGT I---L-PN-- -NYV--CYVT GWGRLQT--- ---NGAS-PD 
+1c5m_D           104   APACLPRDWA E---S----- -TTQktGIVS GFGRTHE--- ---KGRQ-ST 
+KLKA_HUMAN       154   RALQLPYRCA Q---P----- -GDQ--CQVA GWGTTAA--- ---RRVKYNK 
+BSS4_MOUSE       158   LPICLPDSSV R---L-PP-- -KTD--CWIA GWGSIQD--- ---GVPL-PH 
+TEST_MOUSE       164   QPICLLNSTY K---F-EN-- -RTD--CWVT GWGAIGE--- ---DESL-PS 
+TRY3_ANOGA       151   QPVSLPEQDE A---V-ED-- -GTM--TTVS GWGNTQS--- ---AAES-NA 
+VDP_BOMMO        130   EAIEMVETNS E---I-PD-- -GDI--TIVT GWGHMEE--- ---GGGN-PS 
+TRYP_STRGA       142   ----LKIATT A---K-YN-- -RGT--FTIA GWGDVRE--- ---GAGTGTT 
+TRYP_SACER       103   ----IELAka ddagY-AP-- -DTA--ATIL GWGNTSE--- ---GGQQ-AD 
+TRYE_DROER       133   RAVRIADHNP R---E----- -GAT--AVVS GWGTTES--- ---GGSTIPD 
+TRYI_DROME       130   RAINLASTSP S---G----- -GTT--VTVT GWGHTDN--- ---GALS-DS 
+TRYZ_DROER       153   KAIKLAT--- E---PPLD-- -GAP--SKIS GWGSTYP--- ---GGYS-SN 
+COGS_UCAPU       104   ATVGLPSTDV G---V----- -GTV--VTPT GWGLPSD--- ---SALGISD 
+CTR1_ANOGA       136   QSVEYSEKAV P---A----- -NAT--VRLT GWGRTSA--- ---NGPS-PT 
+FIBC_LUMRU       110   QAAVLPANNN Ndy-A----- -GTT--CVIS GWGRTDG--- ---TNNL-PD 
+CFAD_HUMAN       131   RPLPWQRVDR D---V-AP-- -GTL--CDVA GWGIVNH--- ---AGRR-PD 
+GRAB_MOUSE       125   RPLNLPRRNV N---V-KP-- -GDV--CYVA GWGRMAP--- ---MGKY-SN 
+PRN3_HUMAN       135   ATVQLPQQDQ P---V-PH-- -GTQ--CLAM GWGRVGA--- ---HDPP-AQ 
+GRAA_HUMAN       131   TILHLPKKGD D---V-KP-- -GTM--CQVA GWGRTHN--- ---SASW-SD 
+GRAM_RAT         124   KPLALPRKPR D---KPAE-- -GSR--CSTA GWGITHQ--- ---RGQL-AK 
+ACRO_MOUSE       160   GPCCLPHFKA G---PPQI-- -PHT--CYVT GWGYIKE--- ---KAPR-PS 
+VSP1_BOTJA       103   APLSLPSSPP S---V----- -GSV--CYVM GWGKISS--- ---TKETYPD 
+                                                                 
+                       3222221111 1000100000 0222002233 3332221000 0001111011 
+ 
+1ton_            132   D--LQCVNIH LLSNEKCI-- -ETY-K--DN -----VT-DV MLC---AGEM 
+1a0h_B           159   V--LQVVNLP LVERPVCKAS ---T-R--IR -----IT-DN MFC---AGYK 
+1a0j_A           134   T--LRCLDLP ILSSSSCNSA ---Y-P--GQ -----IT-SN MFC---AGME 
+1a0l_A           135   P--LKQVKVP IMENHICD-- -AKY-H--RI -----VR-DD MLC---AGNT 
+1a5i_A           151   Q--LKEGHVR LYPSSRCA-- -FLF-N--KT -----VT-NN MLC---AGDT 
+1bru_P           138   I--LQQGQLL VVDYATCSKW ---W-G--ST -----VK-TN MIC---AGGD 
+1c5m_D           138   R--LKMLEVP YVDRNSCKLS ---S-S--FI -----IT-QN MFC---AGYK 
+KLKA_HUMAN       187   G--LTCSSIT ILSPKECEVF ---YpGV-VT --------NN MICA--GLDR 
+BSS4_MOUSE       192   PQTLQKLKVP IIDSELCKSL ---Y-Wr-GA GQE-AIT-EG MLCA-GYLEG 
+TEST_MOUSE       198   PNTLQEVQVA IINNSMCNHM ---Y-KKPDF rt--NIW-GD MVCA-GTPEG 
+TRY3_ANOGA       185   I--LRAANIP TVNQKECTIA ---Y-S--SS GG---IT-DR MLCA-GYKRG 
+VDP_BOMMO        164   V--LQRVIVP KINEAACAEA ---Y-Spi-- ---YAIT-PR MLCA-GTPEG 
+TRYP_STRGA       173   K--LQKANVP FVSDRACKWH ---Y-G--NR -----LVPKQ ELCA-GYASG 
+TRYP_SACER       136   H--LQKATVP VNSDDTCKQA ---Y-GE-YT -------PNA MVCA-GVPEG 
+TRYE_DROER       166   H--LLAVDLE IVDVSRCRSG EFGY-G--KK -----IK-DT MLC---AYAP 
+TRYI_DROME       162   L--QKA-QLQ IIDRGECASQ KFGY-Ga-DF -----VG-EE TIC---AAST 
+TRYZ_DROER       185   Q--LLAVDVP IVGNDLCDLD ---Y-EN-Fi detYHIT-SA MLCAgKRGVG 
+COGS_UCAPU       137   V--LRQVDVP IMSNADCDAV ---Y-GI-VT --------DG NICI--DSTG 
+CTR1_ANOGA       168   L--LQSLNVV TLSNEDCNKK ---G-GDPGY tdv------G HLCT--LTKT 
+FIBC_LUMRU       144   I--LQKSSIP VITTAQCTAA ---M-V--GV GGA-NIW-DN HICV-QDPAG 
+CFAD_HUMAN       165   S--LQHVLLP VLDRATCNRR ---T-HHDGA -----IT-ER LMC---AESN 
+GRAB_MOUSE       159   T--LQEVELT VQKDRECESY ---F-KNRYN -------KTN QICA-GDPKT 
+PRN3_HUMAN       169   V--LQELNVT VVTFfc---- ---------- -------RPH NICT-FVPRR 
+GRAA_HUMAN       165   T--LREVNIT IIDRKVCNDR ---N-HYNFN PV---IG-MN MVCA-GSLRG 
+GRAM_RAT         159   S--LQELDLR LLDTRMCNNS ---R-F--WN GV---LT-DS MLCL-KAGAK 
+ACRO_MOUSE       195   Pv-LMEARVD LIDLDLCNST ---Q-W--YN GR---VT-ST NVCA-GYPEG 
+VSP1_BOTJA       136   V--PHCAKIN ILDHAVCRAA ---Y-T--Ww pa----T-ST TLCA-GILQG 
+                                                                 
+                       1001111111 1111111110 0000000000 0000011011 2332013333 
+ 
+1ton_            165   -----GKDTC AGDSGGPLIC DG----V--- ---LQGITSG G-ATPCA-KK 
+1a0h_B           192   pgegkRGDAC EGDSGGPFVM KSpyNNR--- -WYQMGIVSW GEGCDRD--G 
+1a0j_A           167   -----GGDSC QGDSGGPVVC NG----Q--- ---LQGVVSW G-YGCAR--N 
+1a0l_A           168   -----RRDSC QGDSGGPLVC KV--NGT--- -WLQAGVVSW G-EGCAP--N 
+1a5i_A           184   -----VHDAC QGDSGGPLVC MN--DNH--- -MTLLGIISW G-VGCGK--D 
+1bru_P           171   -----GISSC NGDSGGPLNC QA--NGQ--- -WQVHGIVSF GSLGCYY--H 
+1c5m_D           171   -----QEDAC QGDSGGPHVT RF--KDT--- -YFVTGIVSW G-EGCAR--K 
+KLKA_HUMAN       221   -----GQDPC QSDSGGPLVC DE----T--- ---LQGILSW G-VYPCGSAQ 
+BSS4_MOUSE       234   -----ERDAC LGDSGGPLMC QV--DDH--- -WLLTGIISW G-EGCAD--D 
+TEST_MOUSE       240   -----GKDAC FGDSGGPLAC DQ--DTV--- -WYQVGVVSW G-IGCGR-PN 
+TRY3_ANOGA       222   -----GKDAC QGDSGGPLVV DG----K--- ---LVGVVSW G-FGCAM-PG 
+VDP_BOMMO        201   -----GKDAC QGDSGGPLVH KK----K--- ---LAGIVSW G-LGCAR-PE 
+TRYP_STRGA       209   -----GIDTC QGDSGGPMFR KD----Dagk -WIQVGIVSW G-DGCAR-SG 
+TRYP_SACER       171   -----GVDTC QGDSGGPMVV NN----K--- ---LIGVTSW G-EGCAR-PG 
+TRYE_DROER       202   -----NKDAC QGDSGGPLVS GD----R--- ---LVGVVSW G-YGCGD-VR 
+TRYI_DROME       198   -----DADAC TGDSGGPLVA SS----Q--- ---LVGIVSW G-YRCAD-DN 
+TRYZ_DROER       227   -----GADAC QGDSGGPLVV RD----E--- ---LHGVVSW G-NSCAL-PN 
+COGS_UCAPU       170   -----GKGTC NGDSGGPLNY NG----L--- ---TYGITSF G-AAAGCEAG 
+CTR1_ANOGA       204   -----GEGAC NGDSGGPLVY EG----K--- ---LVGVVNF G-VPCAL--G 
+FIBC_LUMRU       183   -----NTGAC NGDSGGPLNC PD--GGTrvv gvtsw-VVSS G-LGTCL-PD 
+CFAD_HUMAN       200   -----RRDSC KGDSGGPLVC GG----V--- ---LEGVVTS G-SRVCGNRK 
+GRAB_MOUSE       195   -----KRASF RGDSGGPLVC KK----V--- ---AAGIVSY G-YKDGS-P- 
+PRN3_HUMAN       195   -----KAGIC FGDSGGPLIC DG----I--- ---IQGIDSF VIWGCAT-RL 
+GRAA_HUMAN       204   -----GRDSC NGDSGSPLLC EG----V--- ---FRGVTSF G-LENKC--G 
+GRAM_RAT         196   -----GQAPC KGDSGGPLVC GK--GKV--- ---DGILSFS S-KNCTD-IF 
+ACRO_MOUSE       233   -----KIDTC QGDSGGPLMC RD----Nvds pFVVVGITSW G-VGCAR-AK 
+VSP1_BOTJA       172   -----GKDTC EGDSGGPLIC NG----L--- ---QGIVSGG G-NPCGQ-PR 
+                                                                 
+                       0000055778 8899999876 4400004000 0004455555 5044433012 
+ 
+1ton_            198   TPAIYAKLI- ---KFTSWIK KVMKENp--- ---------- ---------- 
+1a0h_B           236   KYGFYTHVF- ---RLKKWIQ KVIDRLGs-- ---------- ---------- 
+1a0j_A           199   KPGVYTKVC- ---NYRSWIS STMSSN---- ---------- ---------- 
+1a0l_A           204   RPGIYTRVT- ---YYLDWIH HYVPKk---- ---------- ---------- 
+1a5i_A           220   VPGVYTKVT- ---NYLGWIR DNMhl----- ---------- ---------- 
+1bru_P           208   KPSVFTRVS- ---NYIDWIN SVIANN---- ---------- ---------- 
+1c5m_D           207   KYGIYTKVT- ---AFLKWID RSMKTRGLpk ak-------- ---------- 
+KLKA_HUMAN       255   HPAVYTQIC- ---KYMSWIN KVIRSN---- ---------- ---------- 
+BSS4_MOUSE       270   RPGVYTSLL- ---AHRSWVQ RIVQGVQLRG YLadsgdtgs s--------- 
+TEST_MOUSE       277   RPGVYTNIS- ---HHYNWIQ STMIRNGLlr pdpvplllfl tlawassllr 
+TRY3_ANOGA       255   YPGVYARVA- ---VVRNWVR ENSGA----- ---------- ---------- 
+VDP_BOMMO        234   YPGVYTKVS- ---ALREWVD ENITNLRLKH ILrrf----- ---------- 
+TRYP_STRGA       247   VPGVYTEVS- ---TFAKDIA KAASAL---- ---------- ---------- 
+TRYP_SACER       204   KPGVYARVG- ---AYYDVLM EQINAGAV-- ---------- ---------- 
+TRYE_DROER       235   YPGVYADVA- ---HFHEWIE RTAREV---- ---------- ---------- 
+TRYI_DROME       231   YPGVYADVA- ---ILRPWIV KAANAI---- ---------- ---------- 
+TRYZ_DROER       260   YPGVYANVA- ---FLRPWID AVRAGL---- ---------- ---------- 
+COGS_UCAPU       204   YPDAFTRVT- ---YFLDWIQ TQTGItp--- ---------- ---------- 
+CTR1_ANOGA       236   YPDGFARVS- ---YYHDWVR TTMANNSk-- ---------- ---------- 
+FIBC_LUMRU       223   YPSVYTRVS- ---AYLGWIG DNSR------ ---------- ---------- 
+CFAD_HUMAN       234   KPGIYTRVA- ---SYAAWID SVLA------ ---------- ---------- 
+GRAB_MOUSE       227   -PRAFTKVS- ---SFLSWIK KTMKSS---- ---------- ---------- 
+PRN3_HUMAN       229   FPDFFTRVA- ---LYVDWIR STLRRVEAKG rp-------- ---------- 
+GRAA_HUMAN       236   DPRGpgvyil lskKHLNWII MTIKGAV--- ---------- ---------- 
+GRAM_RAT         231   KPTVATAVA- ---PYSSWIR KVIGRWSPqp lt-------- ---------- 
+ACRO_MOUSE       272   RPGVYTATW- ---DYLDWIA SKIGPNALhl iqpatphppt trhpmvsfhp 
+VSP1_BOTJA       205   KPALYTKVF- ---DYLPWIE SIIAGTTTat cp-------- ---------- 
+                                                                 
+                       3444444430 0003333332 1110000000 0000000000 0000000000 
+ 
+1ton_            221   ---------- ---------- ---------- ---------- ---------- 
+1a0h_B           260   ---------- ---------- ---------- ---------- ---------- 
+1a0j_A           221   ---------- ---------- ---------- ---------- ---------- 
+1a0l_A           226   ---------- ---------- ---------- ---------- ---------- 
+1a5i_A           241   ---------- ---------- ---------- ---------- ---------- 
+1bru_P           230   ---------- ---------- ---------- ---------- ---------- 
+1c5m_D           235   ---------- ---------- ---------- ---------- ---------- 
+KLKA_HUMAN       277   ---------- ---------- ---------- ---------- ---------- 
+BSS4_MOUSE       307   ---------- ---------- ---------- ---------- ---------- 
+TEST_MOUSE       323   pa-------- ---------- ---------- ---------- ---------- 
+TRY3_ANOGA       276   ---------- ---------- ---------- ---------- ---------- 
+VDP_BOMMO        265   ---------- ---------- ---------- ---------- ---------- 
+TRYP_STRGA       269   ---------- ---------- ---------- ---------- ---------- 
+TRYP_SACER       228   ---------- ---------- ---------- ---------- ---------- 
+TRYE_DROER       257   ---------- ---------- ---------- ---------- ---------- 
+TRYI_DROME       253   ---------- ---------- ---------- ---------- ---------- 
+TRYZ_DROER       282   ---------- ---------- ---------- ---------- ---------- 
+COGS_UCAPU       227   ---------- ---------- ---------- ---------- ---------- 
+CTR1_ANOGA       260   ---------- ---------- ---------- ---------- ---------- 
+FIBC_LUMRU       243   ---------- ---------- ---------- ---------- ---------- 
+CFAD_HUMAN       254   ---------- ---------- ---------- ---------- ---------- 
+GRAB_MOUSE       248   ---------- ---------- ---------- ---------- ---------- 
+PRN3_HUMAN       257   ---------- ---------- ---------- ---------- ---------- 
+GRAA_HUMAN       263   ---------- ---------- ---------- ---------- ---------- 
+GRAM_RAT         259   ---------- ---------- ---------- ---------- ---------- 
+ACRO_MOUSE       318   pslrppwyfq hlpsrplylr plrpllhrps stqtssslmp llspptpaqp 
+VSP1_BOTJA       233   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ton_            221   ---------- ---------- ---------- ---------- ---------- 
+1a0h_B           260   ---------- ---------- ---------- ---------- ---------- 
+1a0j_A           221   ---------- ---------- ---------- ---------- ---------- 
+1a0l_A           226   ---------- ---------- ---------- ---------- ---------- 
+1a5i_A           241   ---------- ---------- ---------- ---------- ---------- 
+1bru_P           230   ---------- ---------- ---------- ---------- ---------- 
+1c5m_D           235   ---------- ---------- ---------- ---------- ---------- 
+KLKA_HUMAN       277   ---------- ---------- ---------- ---------- ---------- 
+BSS4_MOUSE       307   ---------- ---------- ---------- ---------- ---------- 
+TEST_MOUSE       325   ---------- ---------- ---------- ---------- ---------- 
+TRY3_ANOGA       276   ---------- ---------- ---------- ---------- ---------- 
+VDP_BOMMO        265   ---------- ---------- ---------- ---------- ---------- 
+TRYP_STRGA       269   ---------- ---------- ---------- ---------- ---------- 
+TRYP_SACER       228   ---------- ---------- ---------- ---------- ---------- 
+TRYE_DROER       257   ---------- ---------- ---------- ---------- ---------- 
+TRYI_DROME       253   ---------- ---------- ---------- ---------- ---------- 
+TRYZ_DROER       282   ---------- ---------- ---------- ---------- ---------- 
+COGS_UCAPU       227   ---------- ---------- ---------- ---------- ---------- 
+CTR1_ANOGA       260   ---------- ---------- ---------- ---------- ---------- 
+FIBC_LUMRU       243   ---------- ---------- ---------- ---------- ---------- 
+CFAD_HUMAN       254   ---------- ---------- ---------- ---------- ---------- 
+GRAB_MOUSE       248   ---------- ---------- ---------- ---------- ---------- 
+PRN3_HUMAN       257   ---------- ---------- ---------- ---------- ---------- 
+GRAA_HUMAN       263   ---------- ---------- ---------- ---------- ---------- 
+GRAM_RAT         259   ---------- ---------- ---------- ---------- ---------- 
+ACRO_MOUSE       368   asftiatqhm rhrttlsfar rlqrliealk mrtypmkhps qysgprnyhy 
+VSP1_BOTJA       233   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ton_            221   ---------- --------- 
+1a0h_B           260   ---------- --------- 
+1a0j_A           221   ---------- --------- 
+1a0l_A           226   ---------- --------- 
+1a5i_A           241   ---------- --------- 
+1bru_P           230   ---------- --------- 
+1c5m_D           235   ---------- --------- 
+KLKA_HUMAN       277   ---------- --------- 
+BSS4_MOUSE       307   ---------- --------- 
+TEST_MOUSE       325   ---------- --------- 
+TRY3_ANOGA       276   ---------- --------- 
+VDP_BOMMO        265   ---------- --------- 
+TRYP_STRGA       269   ---------- --------- 
+TRYP_SACER       228   ---------- --------- 
+TRYE_DROER       257   ---------- --------- 
+TRYI_DROME       253   ---------- --------- 
+TRYZ_DROER       282   ---------- --------- 
+COGS_UCAPU       227   ---------- --------- 
+CTR1_ANOGA       260   ---------- --------- 
+FIBC_LUMRU       243   ---------- --------- 
+CFAD_HUMAN       254   ---------- --------- 
+GRAB_MOUSE       248   ---------- --------- 
+PRN3_HUMAN       257   ---------- --------- 
+GRAA_HUMAN       263   ---------- --------- 
+GRAM_RAT         259   ---------- --------- 
+ACRO_MOUSE       418   rfstfeplsn kpsepflhs 
+VSP1_BOTJA       233   ---------- --------- 
+                               
+                       0000000000 000000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((1ton_       :0.0099581a0j_A      :0.009958):0.002840KLKA_HUMAN  :0.012798):0.001071VSP1_BOTJA  :0.013869):0.003504((((CFAD_HUMAN  :0.010658GRAA_HUMAN  :0.010658):0.001392GRAB_MOUSE  :0.012049):0.001641GRAM_RAT    :0.013691):0.001058PRN3_HUMAN  :0.014749):0.002624):0.003002((1a0h_B      :0.016284(((1a0l_A      :0.0095521bru_P      :0.009552):0.002888((BSS4_MOUSE  :0.008643TEST_MOUSE  :0.008643):0.002317ACRO_MOUSE  :0.010960):0.001480):0.002594(1a5i_A      :0.0132701c5m_D      :0.013270):0.001765):0.001250):0.002527(((((TRY3_ANOGA  :0.008059VDP_BOMMO   :0.008059):0.002763TRYP_SACER  :0.010822):0.001241TRYZ_DROER  :0.012064):0.000686(TRYE_DROER  :0.009028TRYI_DROME  :0.009028):0.003722):0.004689(COGS_UCAPU  :0.013223CTR1_ANOGA  :0.013223):0.004216):0.001372):0.001563):0.002536FIBC_LUMRU  :0.022910):0.001695TRYP_STRGA  :0.024606);
+ 
+ 

@@ -1,0 +1,33 @@
+1aho_              1   ---------- ---------- -VKDGY-IVD DVNCTYFC-- -GRNAYCNEE 
+1bmr_              1   ---------- ---------- -VRDGY-IAQ PENCVYHCFP GSSG--CDTL 
+1i6f_A             1   ---------- ---------- --KDGY-PVD SKGCKLSC-- -VANNYCDNQ 
+AEP_MESMA          1   MKLFLLLVIS ASMLIdGLVN A--DGY-IRG SNGCKVSCLL GNEG--CNKE 
+SCAT_MESMA         1   MKIIIFLIVC SFVLI-GVKA D--NGYLLNK YTGCKIWCVI NNES--CNSE 
+SCX6_ANDAU         1   g--------- ---------- R--DGYVVKN GTNCKYSCEI GSEYEYCGPL 
+SCX6_CENLL         1   MNSLLMIIGC LVLIG-TVWT K--EGYLVNM KTGCKYGCYE LGDNGYCDRK 
+BIRT_PARTR         1   ---------- ---------A DVPGNY-PLD KDGNTYKCFL LGGNEECLNV 
+                                                                 
+                       0000000000 0000000000 0002220222 3344444422 2333248888 
+ 
+1aho_             26   CTKLKGESGY CQWASPYGN- -ACYCYKLPD HVR-TKGPg- -RCH--- 
+1bmr_             27   CKEKGGTSGH CGFKVGHGL- -ACWCNALPD NVgiiv--EG EKCHS-- 
+1i6f_A            25   CKMKKASGGH C-----YAM- -SCYCEGLPE NAK-VSDSAT NICG--- 
+AEP_MESMA         46   CRAYGASYGY C-----WTWK LACWCQGLPD D-K-TWKSES NTCGGKk 
+SCAT_MESMA        46   CKLRRGNYGY C-----YFWK LACYCEGAPK S-E-LWAYET NKCNGKm 
+SCX6_ANDAU        30   CKRKNAKTGY C-----YAF- -ACWCIDVPD DVK-LYGDDG TYCSS-- 
+SCX6_CENLL        48   CKAESGNYGY C-----YTV- -GCWCEGLPN S-KpTWPLPG KSCSGK- 
+BIRT_PARTR        31   CKLHGVQYGY C-----YAS- -KCWCEYLED D-Kdsv---- ------- 
+                                                              
+                       8888888899 9000007550 0677776665 4120111100 0111000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1aho_       :0.0321171bmr_       :0.032117):0.017524(((1i6f_A      :0.034892((AEP_MESMA   :0.017802SCAT_MESMA  :0.017802):0.009121SCX6_CENLL  :0.026923):0.007969):0.003282SCX6_ANDAU  :0.038174):0.007905BIRT_PARTR  :0.046080):0.003561);
+ 
+ 

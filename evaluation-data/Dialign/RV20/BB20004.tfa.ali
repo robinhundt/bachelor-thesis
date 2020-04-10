@@ -1,0 +1,1171 @@
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             1   mlefsew--- ---------- ---------- ---------- ---------- 
+SYTC_YEAST         1   msaseagvte qvkklsvkds sndavkpnKK ENKKskqqsl y-------LD 
+SYTC_SCHPO         1   msaaavkgvq asldnlslei p--------- ---------- ---------- 
+SYT_THETN          1   mysl------ ---------- ---------- ---------- ---------- 
+SYT_CLOAB          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_THEMA          1   m--------- ---------- ---------- ---------- ---------- 
+SYT2_BACSU         1   ---------- ---------- ---------- ---------- ---------- 
+SYT_CHLMU          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_CHLCV          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_CHLPN          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_HELPJ          1   m--------- ---------- ---------- ---------- ---------- 
+SYT_THETH          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_DEIRA          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_CHLTE          1   msei------ ---------- ---------- ---------- ---------- 
+SYT_SYNY3          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_AQUAE          1   me-------- ---------- ---------- ---------- ---------- 
+SYT_BORBU          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_STRCO          1   m--------- ---------- ---------- ---------- ---------- 
+SYT_MYCLE          1   msapvhpvpg adggdplrpa tpglrsp--- ---------- ---------- 
+SYT1_BACSU         1   ---------- ---------- ---------- ---------- ---------- 
+SYT_BACHD          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_LISIN          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_UREPA          1   my-------- ---------- ---------- ---------- ---------- 
+SYT_MYCPU          1   mneknsdein y--------- ---------- ---------- ---------- 
+SYT_MYCPN          1   ML-------- ---------- ---------- ---------- ---------- 
+SYT_MYCGE          1   ML-------- ---------- ---------- ---------- ---------- 
+SYT_SULTO          1   MEEYKGVW-- ---------- ---------- ---------- ---------- 
+SYT_SULSO          1   MESYKPVW-- ---------- ---------- ---------- ---------- 
+SYT_FUSNN          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_STAAM          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_STRP3          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_LACPL          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_LACLA          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_NEIMA          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_CLOPE          1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE         1   ---------- ---------- ---------- ---------- ---------- 
+SYT_HALN1          1   mn-------- ---------- ---------- ---------- ---------- 
+SYT_RALSO          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_PSEAE          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_XANAC          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_HAEIN          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_VIBCH          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_RICCN          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_CAUCR          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_BRUME          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_AGRT5          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_TREPA          1   mglcveenit ml-------- ---------- ---------- ---------- 
+SYT_BUCAI          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_BUCAP          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_BUCBP          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_WIGBR          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_ARATH          1   mllrltarsi rrfttssssl pllssssfct vptma----- --ANHPKDEA 
+SYT_HUMAN          1   mggeekpiga geekqkegg- --------KK KNKEgsgdgg ra-----ELN 
+SYT_CAEEL          1   mrlncfrifv hiqkptqifk pfyrslssea sdkyhfvngh kmSKAPTDMA 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             8   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST        44   PEPTFIEERI EMFDRLQKEY N---DKVASM PRVPLKIVLK DGAVKEATSW 
+SYTC_SCHPO        22   ----FIQHRL DLFDKLQKEY K---ESLATK PREEIDITLP DGKVIKGTSW 
+SYT_THETN          5   ---------- ---------- --------GN QVKAMVITLR DGTKREF-EK 
+SYT_CLOAB          1   ---------- ---------- ---------- ---MIKVTLK DGKVMEF-EN 
+SYT_THEMA          2   ---------- ---------- ---------- ---KIKVKLP DGKEKEY-DR 
+SYT2_BACSU         1   ---------- ---------- ---------- MSKHVHIQLP DGQIQEY-PK 
+SYT_CHLMU          1   ---------- ---------- ---------- ----MIHVTC NQEAFEL-PE 
+SYT_CHLCV          1   ---------- ---------- ---------- ----MIRVIC NNETVEL-PK 
+SYT_CHLPN          1   ---------- ---------- ---------- ----MIQVTC DQKNYEV-LE 
+SYT_HELPJ          2   ---------- ---------- ---------- ---------- ---------- 
+SYT_THETH          1   ---------- ---------- ---------- ----MTVYLP DGKPLEL-PE 
+SYT_DEIRA          1   ---------- ---------- ---------- ----MHVTLP DGKQLDL-QP 
+SYT_CHLTE          5   ---------- ---------- --------TD DRQQVIITLP DGSERTY-SS 
+SYT_SYNY3          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_AQUAE          3   ---------- ---------- ---------- ---KIKVKIk -GKEYEV-EK 
+SYT_BORBU          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_STRCO          2   ---------- ---------- ---------- --SDVRVIIQ RDSEREE-RV 
+SYT_MYCLE         28   ---------- ---------- ---------- ---------- -QVPIQV-PA 
+SYT1_BACSU         1   ---------- ---------- ---------- MSDMVKITFP DGAVKEF-AK 
+SYT_BACHD          1   ---------- ---------- ---------- MADMINITFP DGAVKEF-PK 
+SYT_LISIN          1   ---------- ---------- ---------- ----MKITFP DGAVKEF-EP 
+SYT_UREPA          3   ---------- ---------- ---------- ---------- ---------- 
+SYT_MYCPU         12   ---------- ---------- ---------- ---------- ---------- 
+SYT_MYCPN          3   ---------- ---------- ---------- ---------- ---------- 
+SYT_MYCGE          3   ---------- ---------- ---------- ---------- ---------- 
+SYT_SULTO          9   ---------- ---------- ---------- ---------- ---------- 
+SYT_SULSO          9   ---------- ---------- ---------- ---------- ---------- 
+SYT_FUSNN          1   ---------- ---------- ---------- ---------- ---------- 
+SYT_STAAM          1   ---------- ---------- ---------- -MEQINIQFP DGNKKAF-DK 
+SYT_STRP3          1   ---------- ---------- ---------- ---MIKITFP DGAVREF-ES 
+SYT_LACPL          1   ---------- ---------- ---------- -MASINVKFP DGAEKQF-DA 
+SYT_LACLA          1   ---------- ---------- ---------- ---MIKITFP DGNVKEF-EA 
+SYT_NEIMA          1   ---------- ---------- ---------- ---MLNITLP DGSVRQY-ES 
+SYT_CLOPE          1   ---------- ---------- ---------- ---MIKITLK DGSIKEV-EA 
+SYT1_AERPE         1   ---------- ---------- ---------- ---------- ---------- 
+SYT_HALN1          3   ---------- ---------- ---VSERSSD IMSSVTVTLP DGSTLEV-AS 
+SYT_RALSO          1   ---------- ---------- ---------- ---MIAITLP DGSRREF-PG 
+SYT_PSEAE          1   ---------- ---------- ---------- ---MPIITLP DGSQRSF-DH 
+SYT_XANAC          1   ---------- ---------- ---------- ---MINITLP DGSRREF-ES 
+SYT_HAEIN          1   ---------- ---------- ---------- ---MPIITLP DGSQRQF-DR 
+SYT_VIBCH          1   ---------- ---------- ---------- ---MPIITLP DGSQRHF-DN 
+SYT_RICCN          1   ---------- ---------- ---------- ---MINISFP DGSIKQF-AK 
+SYT_CAUCR          1   ---------- ---------- ---------- ---MIDLVFP DGSSRQY-PD 
+SYT_BRUME          1   ---------- ---------- ---------- MSNTVSLQFP DGSVREY-DA 
+SYT_AGRT5          1   ---------- ---------- ---------- MSEAISLTFP DGSVRSY-PA 
+SYT_TREPA         13   ---------- ---------- ---------- ---------- ---------- 
+SYT_BUCAI          1   ---------- ---------- ---------- ---MPVIRFY DGSQQVY-EH 
+SYT_BUCAP          1   ---------- ---------- ---------- ---MPVIRFC DGSQQVY-KH 
+SYT_BUCBP          1   ---------- ---------- ---------- ---MPTIKFI DGTCRVY-PG 
+SYT_WIGBR          1   ---------- ---------- ---------- ---MPIINF- NNKEILF-NY 
+SYT_ARATH         44   YLSAVIPKRI KLFEQIQANQ L---ENLKSL PHDPIKVTLP DGNVKEGKKW 
+SYT_HUMAN         37   PWPEYIYTRL EMYNILKAEH DsiLAEKAEK DSKPIKVTLP DGKQVDAESW 
+SYT_CAEEL         51   PWPAFIEERI KLWDKLKAEY D---AEIAAK ESEPIQITLP DGKIHEGKTW 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000001 1111111011 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             8   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST        91   ETTPMDIAKG ISK----SLA DRLCISKVNG QLWDLD---- -RPFEGEAne 
+SYTC_SCHPO        65   ETTPISIAAS ISK----GLA DRVTVAIVNG EPWDLT---- -RPLEASC-- 
+SYT_THETN         26   GITVYEIAKS ISD----KLA REAVGGKFNG KIVELN---- -TKIEEDG-- 
+SYT_CLOAB         17   TTTPGDVAKA ISP----GLY KKAISAKING KRAELM---- -TNIDKDC-- 
+SYT_THEMA         18   GITPAEIAKE LGI------- KKAIGAVVNG ELWDLK---- -RPIENDC-- 
+SYT2_BACSU        20   GITIKEAAGS ISS----SLQ KKAAAGQVNG KLVDLS---- -FKLEEDA-- 
+SYT_CHLMU         16   GASAMDLASK M------KNS HCFAGALIND QEKDLS---- -TTLKDGD-- 
+SYT_CHLCV         16   GATAADFASK I------KNS HYFAGVVIND QIKDLS---- -TTLNEGD-- 
+SYT_CHLPN         16   GTTAAELAKQ L------KNS HQFIGVLINE RPRDLS---- -THLNEGD-- 
+SYT_HELPJ          2   SAELIAVYKD EQI----IDL ESAKVLGLSD GIKALK---- -------G-- 
+SYT_THETH         16   GATAKDVARA LGE----GWE RRAVGAIVDG ELYDLL---- -KPLPQGA-- 
+SYT_DEIRA         16   GATALDAAKA IGP----RLA QDALGATANG ELTDLM---- -TPLSDGA-- 
+SYT_CHLTE         26   GVTGLEIAES IGK----KLA EAALAFTIDG KPRDLD---- -TPVTENA-- 
+SYT_SYNY3          1   ---------- ---------- ---------- ----MA---- -KTVVSPD-- 
+SYT_AQUAE         18   GTPLGKIFEL AGI------- KDALGGVING KIIDLQ---- -TPVRESG-- 
+SYT_BORBU          1   ---------- MSK----DLD KEdi------ ---------- ---------- 
+SYT_STRCO         19   VTTGTTAAEL F------AGE RSIIAARVSG DLKDLA---- -YEVKDGE-- 
+SYT_MYCLE         36   GSTAAAAVSE AGLpthgAPD AIVVVRDADG KLRDLS---- -WVPDVDV-- 
+SYT1_BACSU        20   GTTTEDIAAS ISP----GLK KKSLAGKLNG KEIDLR---- -TPINEDG-- 
+SYT_BACHD         20   GTTTAEIAGS ISP----GLK KKALAGMLDG TLLDLN---- -TPIEQDG-- 
+SYT_LISIN         16   GVSTADIAAS ISP----GLK KKALAGKLNG ELLDLV---- -TPIHEDG-- 
+SYT_UREPA          3   ---------- ---------- ---------- ---------- ---------- 
+SYT_MYCPU         12   ---------- ---------- ---------- ---------- ---------- 
+SYT_MYCPN          3   ---------- ---------- ---------- ---------- ---------- 
+SYT_MYCGE          3   ---------- ---------- ---------- ---------- ---------- 
+SYT_SULTO          9   ---------- ---------- ---------- ---------- ---------- 
+SYT_SULSO          9   ---------- ---------- ---------- ---------- ---------- 
+SYT_FUSNN          1   ---MFEIAKG ISN----SLA KKSVGAKVDG KNVDMS---- -YILDHDA-- 
+SYT_STAAM         19   GTTTEDIAQS ISP----GLR KKAVAGKFNG QLVDLT---- -KPLETDG-- 
+SYT_STRP3         17   GVTTFDIAES ISK----SLA KKALAGKFND QLIDTT---- -RAIEEDG-- 
+SYT_LACPL         19   GVTTEAIAKS ISP----SLA KRSVAGKFND QIVDYR---- -QPLTTDG-- 
+SYT_LACLA         17   GVTTFEIAKS ISP----SLA KKTLAGKVNG KLIDAT---- -RAINEDS-- 
+SYT_NEIMA         17   PVTVAQIAAS IGA----GLA KAAVAGRVNG KLVDAC---- -DPIVEDS-- 
+SYT_CLOPE         17   GLSIFEIAQS ISQ----GLA RNACCGILNG KVEDLR---- -FIVNEDS-- 
+SYT1_AERPE         1   ------MGVG VSP----FHG DWSLASGQDK THIDYA---- -YELDit--- 
+SYT_HALN1         29   GATVEDVAHE IGP----GLG RDTVAGKIDH ELVAKE---- -EPISEDC-- 
+SYT_RALSO         17   PVTVAEVAQS IGA----GLA KAALAGRIDG QLVDTS---- -FRIEQNV-- 
+SYT_PSEAE         17   PVSVAEVAQS IGA----GLA KATLAGKVDG RLVDAC---- -DTIDRDA-- 
+SYT_XANAC         17   PVSVMQVAQS IGA----GLA KATIAGQVDG QLVDAS---- -DVIDHDA-- 
+SYT_HAEIN         17   PVSVLEVAQD IGA----GLA KATIAGRVNG ERRDAC---- -YVIEQDA-- 
+SYT_VIBCH         17   PVSTLEVAQS IGP----GLA KATIAGRVNG ARVDAC---- -DLIEHDA-- 
+SYT_RICCN         17   NITAYEVANA ISM----SLA KAAMVAEING ELQDLS---- -IVIDNDC-- 
+SYT_CAUCR         17   GATGRDVAAA ISK----SLE KKALLIKLDG QVLDLDrrlt pDLLTGER-- 
+SYT_BRUME         20   SMTGAALAES ISK----SLA KKAVAYAVDG TVRDLS---- -DPLGASG-- 
+SYT_AGRT5         20   GTTGREVAES ISK----SLA KKAVAIALDG TVRDLS---- -ET-ITDG-- 
+SYT_TREPA         13   ---------- ---------- ---------- ---------- ---------- 
+SYT_BUCAI         17   SVSLIEIIKN KKP----SIM KSLIAISVNN HFSNLN---- -TFIREDA-- 
+SYT_BUCAP         17   SVSLREIIEN KKP----NII RSLIAISVNN SFSNFN---- -TLITEDS-- 
+SYT_BUCBP         17   SISVLDILKD VSP----NSV QDFMFGCVNG ISVDRN---- -AIVTNDS-- 
+SYT_WIGBR         16   PISIIEIIKK FDK----NLS ENCIAAKING KLLDVS---- -EIINYDG-- 
+SYT_ARATH         91   ETTPMDIAAQ ISK----GLA NSALISAVDD VLWDMN---- -RPLEGDC-- 
+SYT_HUMAN         87   KTTPYQIACG ISQ----GLA DNTVIAKVNN VVWDLD---- -RPLEEDC-- 
+SYT_CAEEL         98   RTTPFEIAER ISK----GLA EAAVIAKVNG AVWDLD---- -RPFEGNA-- 
+                                                                 
+                       1111111111 1110000111 1111111111 1001000000 0001111100 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             8   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST       132   eiKLELLDFE SD-EGKKVFW HSSAHVLGES CECHLG---- ---A---HIC 
+SYTC_SCHPO       104   --TLKLCDFN DP-EGKRVFW HSSAHILGEA TELSFH---- ---C---HLC 
+SYT_THETN         65   --ELEILTFE DE-EGKKIYW HTSSHILAQA VKRLFK---- ---D--VKLA 
+SYT_CLOAB         56   --NLEILTFD DE-DGKWTLR HTASHILAQA IKRLYP---- ---E--AKLA 
+SYT_THEMA         54   --ELRLVTLE DP-EAPEFYR HTMAHILAQA VMRLYG---- ---KENVKLG 
+SYT2_BACSU        59   --ELSIVTLD SQ-EGLQVVR HTTAHVLAQA VKRLYG---- ---E--VSLG 
+SYT_CHLMU         53   --TVLFLTWD DP-QGREIFL HTSAHILAQA VLRLWP---- ---S--AQPT 
+SYT_CHLCV         53   --TLRFVTFE DS-EGREIFL HTSAHILAQA VLRLWP---- ---Q--AVPT 
+SYT_CHLPN         53   --TLVFLTSE DP-EGREIFL HTSAHLLAQA VLRLWP---- ---D--AIPT 
+SYT_HELPJ         35   --TEPIYFDD SP-LALEVIR HSCAHLLAQS LKALYP---- ---D--AKFF 
+SYT_THETH         55   --KVRLLTEK DP-EFQTLFR HTLAHVLAQA VKEFFREKGY DPES--VRLG 
+SYT_DEIRA         55   --SITLITKK NPGDAAPLFR HSLGHVMSQA VGEYYKAKGY GPDA--IKRG 
+SYT_CHLTE         65   --RVSIITFD SP-EGKEIFW HSSSHLMAHA IEELFP---- ---G--AKFG 
+SYT_SYNY3         10   --TIALPRTS ES-EQLKKIR HTTSHVMAMA VQKLFP---- ---K--AQVT 
+SYT_AQUAE         54   --EIKPVYRG SK-ESLEIMR HSLAHIMAQA LKELYG---- ---AKKVHLG 
+SYT_BORBU         11   ---------- -----LYKKR HSIAHVMAEA VLDLFP---- ---N--TKIA 
+SYT_STRCO         56   --TVEAVEIS SE-DGLDILR HSTAHVMAQA VQELFP---- ---E--AKLG 
+SYT_MYCLE         79   --EVTPVPVN TD-DGRSVIR HSTAHVLAQA VQDLFP---- ---Q--AKLG 
+SYT1_BACSU        59   --TVEIITEG SE-EGLQIMR HSAAHLLAQA IKRIYK---- ---D--VKFG 
+SYT_BACHD         59   --TITIVTPE SD-EALEVLR HSTAHVMAQA LKRLFK---- ---DRNVKLG 
+SYT_LISIN         55   --AIEIVTPD HE-DALGILR HSTAHLMAQA LKRLYP---- ---D--VKFG 
+SYT_UREPA          3   ---------- ---KFDQKLN HSAAHLLAMA LTKFYP---- ---N--LSLA 
+SYT_MYCPU         12   ---------- DF-KVDSNLN HTTSHLLAAA IVQLYP---- ---N--VKLG 
+SYT_MYCPN          3   ---------- ---------- -AGVLLLQSW LKANYP---- ---Q--VQFG 
+SYT_MYCGE          3   ---------- ---------- -AGVLLLQIW LKCKYA---- ---N--VQFG 
+SYT_SULTO          9   ---------- ---------- --LKAGIIYA LNLASN---- ---G--FKPV 
+SYT_SULSO          9   ---------- ---------- --LKGAVILA INLIDK---- ---G--YKPV 
+SYT_FUSNN         37   --EVEFIDID SP-EGEDIVR HSTAHLMAQA VLRLYP---- ---D--TKVT 
+SYT_STAAM         58   --SIGIVTPG SE-EALEVLR HSTAHLMAHA IKRLYG---- ---N--VKFG 
+SYT_STRP3         56   --SIEIVTPD HK-DAYEVLR HSAAHLFAQA AKRLFP---- ---N--LHLG 
+SYT_LACPL         58   --SIEIIAAD SE-DGLNVLR QTAAQVLANA GKQLFP---- ---N--IHFG 
+SYT_LACLA         56   --NFEIVTPD HE-DALGILR HSAAHLFAQA AKRHFP---- ---D--IHLG 
+SYT_NEIMA         56   --AVQIITPK DQ-EGIEIIR HSCAHLVGHA VKQLYP---- ---N--AKMV 
+SYT_CLOPE         56   --SLEICTFD SK-EGQHAFN HTASHVLAAA VKRLFP---- ---Q--DKLA 
+SYT1_AERPE        33   ------VKPD SR-VPVfnr- ---------- ---------- ---------- 
+SYT_HALN1         68   --EIEIVTDQ SD-EYLDVLR HTAAHVLAQA IRRHHP---- ---D--AKLT 
+SYT_RALSO         56   --DLAIVTDK DT-DGLDVIR HSTAHLLAYA VKELYP---- ---E--AQVT 
+SYT_PSEAE         56   --TLQIITPK DE-EGLEIIR HSCAHLVGHA VKQLYP---- ---T--AKMV 
+SYT_XANAC         56   --SLRIITAK DA-EGVEIIR HSCAHLVGHA VKQLYP---- ---E--VKMV 
+SYT_HAEIN         56   --TLEIITAK DE-DGLEIIR HSCAHLLGHA IKQLFP---- ---D--VKMA 
+SYT_VIBCH         56   --SLEIITTK DEVDGLEIVR HSCAHLLGHA LKQLYP---- ---N--AKMA 
+SYT_RICCN         56   --KLRILTAQ DP-ECLEIIR HDAAHLTAEA VKELFP---- ---E--TQVT 
+SYT_CAUCR         61   --KFEILTRE AP-EALDTIR HDTAHVLAEA VQELFP---- ---G--TQVT 
+SYT_BRUME         59   --KVEIITRE DP-RALELIR HDTAHVLAEA VQELFP---- ---G--TQVT 
+SYT_AGRT5         58   --KIEIVTRE DG-RALELIR HDAAHVMAEA VQELWP---- ---G--TQVT 
+SYT_TREPA         13   --------QK RS-DTLDRLR HSLAHVMAEA VQALFP---- ---G--TKLA 
+SYT_BUCAI         56   --FIEFVDQK NY-KALNIIR YSCAQLLSYA IKNIWP---- ---L--AQIA 
+SYT_BUCAP         56   --SISFISKK DC-EALNIIR YSCIQLLNYA AKKTWP---- ---S--CKIG 
+SYT_BUCBP         56   --IVKFVYKT DQ-STLDIIR YSCICLLGKA VKKLWP---- ---S--SKIG 
+SYT_WIGBR         55   --SLELVKPE NK-IGIRIIR CSCSHLLGYA IKQLWP---- ---T--SKMA 
+SYT_ARATH        130   --KLELFKFD SD-KGRDTLW HSSAHILGQA LEQEYG---- ---C---QLC 
+SYT_HUMAN        126   --TLELLKFE DE-EAQAVYW HSSAHIMGEA MERVYG---- ---G---CLC 
+SYT_CAEEL        137   --KLELLKFD DD-EAKQVFW HSSAHVLGEA MERYCG---- ---G---HLC 
+                                                                 
+                       0011111111 1101122233 4444444444 4433330000 0003003333 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             8   YSDILEKA-- EIYD-VRY-- ---------P i--------- ---------- 
+SYTC_YEAST       171   LGPPTDDG-- FFYE-MAVrd smkdisespE --R-T---VS QADFPGLEGV 
+SYTC_SCHPO       141   IGPPTDEG-- FFYE-MGI-- ---------D nGR-V---IT NDDYSSIESY 
+SYT_THETN        103   IGPAIDNG-- FYYD-FDT-- ---------E --R-P---FT TEDFEAIEEE 
+SYT_CLOAB         94   IGPAIDSG-- FYYD-IDA-- ---------D --F-S---FT EEMFAKIEKE 
+SYT_THEMA         94   IGPTIENG-- FYYD-FDI-- ---------K --NGR---LT EEDLPKIEQE 
+SYT2_BACSU        97   VGPVILDG-- FYYD-MKL-- ---------G --K-S---LA SGDLEAIEKE 
+SYT_CHLMU         91   IGPVIDQG-- FYYD-FAN-- ---------- --L-S---IS EEDFPAIEAM 
+SYT_CHLCV         91   IGPVINQG-- FYYD-FAN-- ---------- --L-S---VS EEDLLAIENM 
+SYT_CHLPN         91   IGPVIDHG-- FYYD-FAN-- ---------- --L-S---IS ESDFPLIEDT 
+SYT_HELPJ         73   VGPVVEEG-- FYYD-FKT-- ---------T --S-K---IS EEDLPKIEAK 
+SYT_THETH        100   VGPVIEKG-- FYYD-IEA-- ---------P --E-P---LS DEDLPAIEAK 
+SYT_DEIRA        101   VGPYIENG-- WYQD-FDL-- ---------P --E-P---LK EEDLPEIEKI 
+SYT_CHLTE        103   AGPAIEQG-- FYYD-IAC-- ---------E --H-R---FN EEDLRAIEAK 
+SYT_SYNY3         48   IGPWTETG-- FYYD-FDV-- ---------A --E-P---FT EADLKAIKKE 
+SYT_AQUAE         94   VGPTTEEG-- FYYD-VEV-- ---------E -GH-K---IT EEDLPKIEQK 
+SYT_BORBU         37   IGPPIKDG-- FYYD-FEF-- ---------K --K-Q---IT EDSLLDIENR 
+SYT_STRCO         94   IGPPVKDG-- FYYD-FDV-- ---------E --K-P---FH PDDLKAIEKK 
+SYT_MYCLE        117   IGPPITDG-- FYYD-FDV-- ---------A --E-P---FT PEDLKALEKR 
+SYT1_BACSU        97   VGPVIENG-- FYYD-VEM-- ---------D --E-A---IT PEDLPKIEKE 
+SYT_BACHD         99   VGPVIEGG-- FYYD-VDM-- ---------D --E-S---LT PEDLPKIEKE 
+SYT_LISIN         93   VGPAIESG-- FYYD-IDT-- ---------E --A-V---IS DESLVEIEKE 
+SYT_UREPA         31   IGPTIDEG-- FYYD-FNL-- ---------N --D-PntsIT PLDLLKIEKE 
+SYT_MYCPU         42   FGPAIEEG-- FYYD-FEF-- ---------E --N-P---LS KLELLKIEKL 
+SYT_MYCPN         23   SYGVQEGE-- FYLD-FKV-- ---------E --K-S---FS IKEFEQLEQD 
+SYT_MYCGE         23   EHGFNGDE-- FYLD-FYI-- ---------N --E-N---FS TKQFAKIESD 
+SYT_SULTO         28   EVGLGERD-- FYVD-VES-- ---------D --T-T---LT LDEAKKFATY 
+SYT_SULSO         28   AVGLGERD-- FYID-VKS-- ---------D --T-S---IT LDEVKKAINE 
+SYT_FUSNN         75   IGPVIENG-- FYYD-FDP-- ---------V --E-Q---FT EEDLEKIEAE 
+SYT_STAAM         96   VGPVIEGG-- FYYD-FDI-- ---------D --Q-N---IS SDDFEQIEKT 
+SYT_STRP3         94   VGPAIAEG-- FYYD-TDN-- ---------T --EGQ---IS NEDLPRIEAE 
+SYT_LACPL         96   SGEGNANG-- FFFD-TDNpd e--------D -GK-Q---VS EDDLEAISDK 
+SYT_LACLA         94   VGPAIQDG-- FYYD-TDN-- ---------E --AGQ---IS NDDLATIEAE 
+SYT_NEIMA         94   IGPVIEEG-- FYYD-IAT-- ---------E --K-P---FT PEDVAAIEAR 
+SYT_CLOPE         94   IGPSIDNG-- FYYD-FDT-- ---------E --K-P---FS ADQLNKLEEE 
+SYT1_AERPE        45   ---------- ---------- ---------- ---------- ---------- 
+SYT_HALN1        106   IGPYTDEG-- FYYD-IAN-- ---------- --V-E---LD ADDLDEIQAE 
+SYT_RALSO         94   IGPVIENG-- FYYD-FAY-- ---------K --R-P---FT PEDLVAIEKR 
+SYT_PSEAE         94   IGPVIEEG-- FYYD-IFF-- ---------E --R-P---FT PEDMAAIQQR 
+SYT_XANAC         94   IGPVIAEG-- FYYD-IYS-- ---------E --R-P---FT PEDMAAIEQR 
+SYT_HAEIN         94   IGPTIENG-- FYYD-VDL-- ---------D --R-S---LT QEDIDAIEKR 
+SYT_VIBCH         95   IGPTIDSG-- FYYD-IDL-- ---------E --Q-S---LS QEDLEKIEAR 
+SYT_RICCN         94   IGPAIENG-- YYYD-FAR-- ---------D --K-P---FT TDDLAVIEAK 
+SYT_CAUCR         99   IGPNVEDG-- FYYD-FAR-- ---------D --E-P---FS LDDLEKIEKR 
+SYT_BRUME         97   IGPVIENG-- FYYD-FAR-- ---------N --E-P---FT LDDLPVIEKK 
+SYT_AGRT5         96   IGPVIENG-- FYYD-FAK-- ---------N --E-P---FT PEDLPKIEKR 
+SYT_TREPA         45   VGPPIDYG-- FYYD-FSP-- ---------P --R-P---LC DADLAPIEEK 
+SYT_BUCAI         94   TSNIIEDG-- FYCD-IDF-- ---------K --R-S---IS EKDLILLENQ 
+SYT_BUCAP         94   ESEITKSG-- FYCD-IDF-- ---------E --N-S---IT EEDFFILENN 
+SYT_BUCBP         94   ESDVLENG-- FFCD-IEV-- ---------D --F-S---FN ETSLHLLEAC 
+SYT_WIGBR         93   TNNITENG-- FYYD-IDL-- ---------N --H-K---LS KNDLKLIEKK 
+SYT_ARATH        167   IGPCTTRGeg FYYDgFYG-- ---------E --L-G---LS DNHFPSIEAG 
+SYT_HUMAN        163   YGPPIENG-- FYYD-MYL-- ---------E --EGG---VS SNDFSSLEAL 
+SYT_CAEEL        174   YGPPIQEG-- FYYD-MWH-- ---------E -NR-T---IC PDDFPKIDQI 
+                                                                 
+                       4444444400 4444032100 0000000001 0010100011 1222222222 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A            25   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST       212   AKNVIKQKQK FERLVMS-KE DLLKMF---H -Y-SKYKTYL VQTKV---P- 
+SYTC_SCHPO       173   AKQAIKQKQP FERLVIS-KE GLLEMF---R -Y-NKYKQYI IQTKI---P- 
+SYT_THETN        133   MNKIIKEDYK LERFVLS-KE EAIKFMKE-K -D-EPYKVEL I-EEI---P- 
+SYT_CLOAB        124   MNKIIKENLK LERFELP-RE KAIEYMEE-K -K-EPYKVEL I-KDL---P- 
+SYT_THEMA        125   MKKIIKENLP IERKEIS-KE EARELF---R -D-QPYKLEL I-EEI----- 
+SYT2_BACSU       127   MKNIINENLE IKRIEVS-YE EAEELFAQ-K -D-ERLKLEI L-KDI---P- 
+SYT_CHLMU        120   AKAIAEEKLA ISRQVFSDKE ETLAYF---S -D-NPFKIEL I-TEL---P- 
+SYT_CHLCV        120   MEQIVQEKLE VSKKTFNGKE EALKEF---M -H-NAFKAEL I-QEL---P- 
+SYT_CHLPN        120   VKQIVDEKLA ISRFTYGDKQ QALAQF---P -Q-NPFKTEL I-REL---P- 
+SYT_HELPJ        103   MKEFAKSKLA ITKETLT-RE QALERF---K -G-DELKHAV M-SKIs---- 
+SYT_THETH        130   MREILKRDLP LRRFVLS-RE EALARY---R -GkDPYKTEL V-LEI---P- 
+SYT_DEIRA        131   MRDIIGRGLD ITRREIS-KD EALAQF---P -H-DPYKAEL I-EGL---P- 
+SYT_CHLTE        133   MLEISKRNLS INREEMP-RE QAIEYFSNER -K-DPYKVEI L-EDT---LK 
+SYT_SYNY3         78   MVKIINKKLP VIREEIS-RE EAKQRIES-I -Q-EPYKLEI L-DSI---H- 
+SYT_AQUAE        125   MKEIIERDYP ILRRELS-RE EAIKLFDK-L -K-EKYKIDI I-KEI---P- 
+SYT_BORBU         67   MREILKTGSS FEKEIIS-VE QALEIF---K -D-EPYKIDL I-KNF---D- 
+SYT_STRCO        124   MQEIQKRGQR FSRRVVT-DE AAREEL---A -D-EPYKLEL IglkgsasSD 
+SYT_MYCLE        147   MRQIVKEGQL FSRRIYE-SK E-QARTEW-A -G-EPYKLEL V-DDE---SG 
+SYT1_BACSU       127   MKKIVNANLP IVRKEVS-RE EAKARFAE-I -G-DDLKLEL L-DAI---P- 
+SYT_BACHD        129   MKKIIGENLP IERVVVS-RE EALARYEE-V -G-DPYKIEL I-NDL---P- 
+SYT_LISIN        123   MQKIVRENVP IEREVVS-RE EAIKRFEA-I -G-DQYKLEL I-EAI---P- 
+SYT_UREPA         64   MKKITTQALT FDYEQVT-YE KAKELF---K -H-NKYKLDI I-EQN----- 
+SYT_MYCPU         72   MKKLASMNLK MVKVDGS-NY D----F---T -N-KPYKKEL Y-DEL---KQ 
+SYT_MYCPN         53   LNAYFNQLNN VVQTKID-KT KSLKFFQADP -F-TTTLIES I-ESN---SL 
+SYT_MYCGE         53   LNSLSSKLEG ISQKFVS-LD EALSFFENDQ -F-TKNLLKK S-NLN---KF 
+SYT_SULTO         58   NQy-SYQLKD G--------- ------Y-IE -F-NGNKIKV L-GEP---SS 
+SYT_SULSO         58   NVLANVSIEN N--------- ------Q-IV -Y-KGNKVSI I-EDK---VS 
+SYT_FUSNN        105   MKRIVKENIK LEKYVLP-RD EAIEYFRD-V dK-NKYKVEV V-EGI---P- 
+SYT_STAAM        126   MKQIVNENMK IERKVVS-RD EAKELF---S -N-DEYKLEL I-DAI---P- 
+SYT_STRP3        125   MQKIVTENYP CIREEVT-KE EALELF---K -D-DPYKVEL I-NEH----- 
+SYT_LACPL        130   MAAIIKQDLP IEREVLS-KA DALALV---G -D-NPYQQDL V-NER---AA 
+SYT_LACLA        125   MKKIVKENFK SERKEVS-KE EAKEIF---A -N-DPYKLEL I-EEH---NE 
+SYT_NEIMA        124   MKELIAQDYD VVKIMTP-RA EAIKIFQE-R -G-EEYKLRL I-DDM---P- 
+SYT_CLOPE        124   MKKIIKENPE IKRFELP-RN EALELM---K -D-EPYKVEL I-NDL---P- 
+SYT1_AERPE        45   ---------- ---------- ---------- ---------- ---------- 
+SYT_HALN1        135   AASIIDDDLD VERVEYD-RA DAREHY---A -D-NEFKREI L-DAE---AA 
+SYT_RALSO        124   MAELAKKDEK VTREVWS-RD DAVKLFEG-M -G-EKYKAEI I-ASI---P- 
+SYT_PSEAE        124   MRELIDKDYD VIKKMTP-RA EVIELFKS-R -G-EDYKLRL I-DDM---P- 
+SYT_XANAC        124   MQELIAQDYD VIKKVTP-RA EVIEVFAQ-R -G-EEYKLRL I-EDM---SE 
+SYT_HAEIN        124   MLELAKTNYD VVKKRVT-WQ EARDTFE-KR -G-EPYKMAI L-DEN---IE 
+SYT_VIBCH        125   MVELAKTKYA VVKKKVS-WQ EARDTFE-SR -G-ESYKMEI L-DEN---VA 
+SYT_RICCN        124   MQELSQKNEQ VTRELWD-RD KAVEFFKS-I -G-EHYKAEI I-ASI---P- 
+SYT_CAUCR        129   MKEIVDRDEK ITREVWD-RN EAIAHFDG-I -G-EQYKAQI I-RDL---P- 
+SYT_BRUME        127   MREIIQRNKP FTKEVWS-RE KAKQVFSD-K -G-ESYKVEL V-DAI---P- 
+SYT_AGRT5        126   MKEIIQRNKP FTREIWS-RE KAKEVFAA-K -G-ENYKVEL V-DAI---P- 
+SYT_TREPA         75   MRAILRAGCP FVKEVVS-RP DALARF---K -D-EPFKQEL I-ERI---S- 
+SYT_BUCAI        124   MKMLVKREYN ILNKLIS-YS EAREIFQ-KC -F-EKYKVSL I-DEN---IN 
+SYT_BUCAP        124   MKTLIKREYF ISHQNIS-FD HAYEMFK-KK -S-EIYKIHL I-KKY---IN 
+SYT_BUCBP        124   MRQMINKKYK IYTKTFS-LK KASTIFKN-R -N-ETYKLFL L-DRL---VN 
+SYT_WIGBR        123   MHQLLKINFK INKINVT-WG KAYEMFK-NL -N-EIYKIKI L-EDN---IS 
+SYT_ARATH        200   AAKAAKEAQP FERIEVT-KD QALEMF---S -E-NNFKVEL I-NGL---P- 
+SYT_HUMAN        194   CKKIIKEKQA FERLEVK-KE TLLAMF---K -Y-NKFKCRI L-NEK---V- 
+SYT_CAEEL        205   VKAAVKDKQK FERLEMT-KE DLLEMF---K -Y-NEFKVRI I-TEK---I- 
+                                                                 
+                       2222111111 1111111011 1111110000 0001111111 1011100010 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A            25   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST       252   -DGGATTVYR ---------- ----CGK--- -LIDLCVGPH IPHTG--RI- 
+SYTC_SCHPO       213   -DGASTTVYR ---------- ----CGP--- -LIDLCTGPH VPHTG--RI- 
+SYT_THETN        174   -EGEEISFYK ---------- ----QGE--- -FVDLCAGPH LPSTG--MV- 
+SYT_CLOAB        165   -EDAVISFYK ---------- ----QGE--- -FVDLCAGPH VESTA--KV- 
+SYT_THEMA        163   -EGNRVTIYR ---------- ----QGE--- -FVDLCRGPH LPSTG--IV- 
+SYT2_BACSU       168   -RGEDITLYQ ---------- ----QGE--- -FVDLCRGPH LPSTG--MI- 
+SYT_CHLMU        160   -EEATISAYK ---------- ----QGE--- -FLDLCRGPH LPSTA--PV- 
+SYT_CHLCV        160   -EGESITAYS ---------- ----QGE--- -FMDLCRGPH LPSTA--PV- 
+SYT_CHLPN        160   -ENEEISAYS ---------- ----QGE--- -FFDLCRGPH LPSTA--HV- 
+SYT_HELPJ        142   --GDIFGVYQ ---------- ----QGE--- -FEDLCKGPH LPNTR--FL- 
+SYT_THETH        170   -EGEEISFYQ ---------- ----QGDeay gFTDLCRGPH VPSTG--RI- 
+SYT_DEIRA        170   -DDEPITFYS ---------- ----QGD--- -YTDLCRGPH FPSTG--KL- 
+SYT_CHLTE        176   -DVPTVSVYH ---------- ----QDG--- -FADLCSGPH LPSTG--KV- 
+SYT_SYNY3        119   -EPITVyhlg ---------- -----DQ--- -WWDLCAGPH LESTA--DIN 
+SYT_AQUAE        166   -EEEVISVYE ---------- ----QGD--- -FIDLCKGPH LPSTG--KA- 
+SYT_BORBU        106   -LQNEVSIYK ---------- ----SHN--- -FVDLCRGPH VENMN--KID 
+SYT_STRCO        168   -DGADVEVGA GELTIYDNLD AKTGELC--- -WKDLCRGPH LPTTR--NI- 
+SYT_MYCLE        188   -DAEIMEVGG DELTAYDNLN ARNGERI--- -WGDLCRGPH IPTTK--HI- 
+SYT1_BACSU       168   -EGETVSIYE ---------- ----QGE--- -FFDLCRGVH VPSTG--KI- 
+SYT_BACHD        170   -EDETITIYE ---------- ----QGE--- -FFDLCRGVH VPSTG--KL- 
+SYT_LISIN        164   -EDETVTIYT ---------- ----QGE--- -FFDLCRGVH VPSTG--KI- 
+SYT_UREPA        102   -KNNSLSIYH ---------- ----SGK--- -WFDLCKGPH VQNTK--EI- 
+SYT_MYCPU        108   -KGQEITFYS lvdt------ --NGKEI--- -FTDLCAGGH VESTS--KI- 
+SYT_MYCPN         96   -VVTTVNEQT FWVHDL---- ---------- ---------- --VLplpKQ- 
+SYT_MYCGE         96   -KITFFENKH FWIEDL---- ---------- ---------- --TLT--FIK 
+SYT_SULTO         85   -----LEP-- ---------- ---------- ---------- ---------- 
+SYT_SULSO         86   -ISTNLNP-- ---------- ---------- ---------- ---------- 
+SYT_FUSNN        147   -QGEQVSFYK ---------- ----QGD--- -FTDLCRGTH VPSTG--YL- 
+SYT_STAAM        165   -EDENVTLYS ---------- ----QGD--- -FTDLCRGVH VPSTA--KI- 
+SYT_STRP3        163   -AGAGLTVYR ---------- ----QGE--- -FVDLCRGPH VPSTG--RI- 
+SYT_LACPL        170   ANNDQVVVYK ---------- ----QGD--- -FVDLSDGAQ LASTG--KV- 
+SYT_LACLA        165   -DEGGLTIYT ---------- ----QGE--- -YTDLCRGPH VPSTG--VI- 
+SYT_NEIMA        165   -EVEAMGMYH ---------- ----HQE--- -YVDMCRGPH VPNTR--FL- 
+SYT_CLOPE        163   -EGEVISFYQ ---------- ----IGD--- -FVDLCAGPH LMAVK--PI- 
+SYT1_AERPE        45   ---------- ---------- ---------- ---------- ---------- 
+SYT_HALN1        175   -GDGPVSFYT ---------- ----QGD--- -FEDLCKGPH VDSTG--EI- 
+SYT_RALSO        165   -EDQEIGLYR ---------- ----EGN--- -FVDLCRGPH VPSTG--KL- 
+SYT_PSEAE        165   -DEKAMGLYF ---------- ----HEE--- -YVDMCRGPH VPNTR--FL- 
+SYT_XANAC        166   -DITAMGLYY ---------- ----HQE--- -YVDMCRGPH VPNTR--FL- 
+SYT_HAEIN        166   -RTATPALYH ---------- ----HLE--- -YIDMCRGPH VPNMR--FC- 
+SYT_VIBCH        167   -RDDRPGLYH ---------- ----HEE--- -YIDMCRGPH VPHMG--FC- 
+SYT_RICCN        165   -AGEPITLYR ---------- ----QGN--- -FIDLCRGPH APSTG--VV- 
+SYT_CAUCR        170   -DTDTITVYR ---------- ----QGN--- -WKDLCRGPH LPSTK--HV- 
+SYT_BRUME        168   -AGQDLKIYY ---------- ----QGD--- -WFDLCRGPH MASTG--QI- 
+SYT_AGRT5        167   -EGQDLKIYY ---------- ----QGD--- -WFDLCRGPH MASTG--QI- 
+SYT_TREPA        114   -ADDTLSLYH ---------- ----SGA--- -FTDLCRGPH VQSMR--DIN 
+SYT_BUCAI        166   -CNSKVSLYY ---------- ----HEN--- -YADIDIGLQ VFNIK--FC- 
+SYT_BUCAP        166   -KKNKISLYY ---------- ----HEN--- -YFDIDMGMQ VFNIK--FC- 
+SYT_BUCBP        166   FSNQVVSLCF ---------- ----HEE--- -YIDIQKKIS VPNIF--LC- 
+SYT_WIGBR        165   -KNSSLYIYH ---------- ----QEQ--- -YVDLCTLPH VPNIK--FC- 
+SYT_ARATH        239   -ADMTITVYR ---------- ----CGP--- -LVDLCRGPH IPNTS--FV- 
+SYT_HUMAN        233   -NTPTTTVYR ---------- ----CGP--- -LIDLCRGPH VRHTG--KI- 
+SYT_CAEEL        244   -HTPKTTVYR ---------- ----CGP--- -LIDLCRGPH VRHTG--KV- 
+                                                                 
+                       0111122233 0000000000 0000333000 0444444445 4444400440 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------R 
+1nj8_A            25   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST       280   -KAFKLLKNS SCYFLGDATN DSLQRVYGIS FPDKKLMDAH LKFLAEASMR 
+SYTC_SCHPO       241   -KSFAVTKNS SSYFLGDAKN DSLQRVYGIS FPDNKQMQEY KTFLAEAAKR 
+SYT_THETN        202   -KAIKLLSVA GAYWKGDEKN KMLQRIYGIS FPKKSMLDEY LHMMEEAKKR 
+SYT_CLOAB        193   -KVIKLMSVA GAYWRGNEKN KMLQRIYGTA FTKKADLDDY INMLEEAKKR 
+SYT_THEMA        191   -KHFKLLSVS GAYWRGSEKN PMLTRVYGTA FAKKEDLDNY LKFLEEAQRR 
+SYT2_BACSU       196   -KAFKLTRVS GAYWRGDSKN EVLQRVYGVA FQKKKDLDAH LHMLEEAAKR 
+SYT_CHLMU        188   -KAFKLLRTS AAYWRGDPSK ESLIRIYGIA FPTTKELKEH LHQLEEAKKR 
+SYT_CHLCV        188   -KAFKLLRTS AAYWRGDPSR ESLVRIYGIS FPTTKELKEH LHQLEEAKKR 
+SYT_CHLPN        188   -KAFKVLRTS AAYWRGDPSR ESLVRIYGTS FPTSKELRAH LEQIEEAKKR 
+SYT_HELPJ        169   -NHFKLTKLA GAYLGGDENN EMLIRIYGIA FATKEGLKDY LFQIEEAKKR 
+SYT_THETH        202   PPHFKLTHVA GAYWRGDENR PMLQRVYGVA FRTAEELKEY LWQLEEAKKR 
+SYT_DEIRA        198   PQSFKLMSTS GAYWRGNEKN PILQRIYGVA FATQKELDEY LFQLEEAKRR 
+SYT_CHLTE        204   -KAVLLTNIS SSYWRGDSSR ETMQRIYGIT FPSDKLLKEH IARLEEARKR 
+SYT_SYNY3        147   PKAIALESVA GAYWRGDANK AQLQRIYGTA WETPEQLAEY QRRKEEALKR 
+SYT_AQUAE        194   -GAFKLTSIS GAYWKGRSDQ PQLTRIYGIA YWSDKEVKER LKFYEEVKKR 
+SYT_BORBU        135   PKAFKLTSIA GAYWRGSEKN PMLTRIYGTL WNNEKELRSY LNLREEIKKR 
+SYT_STRCO        210   -PAFKLMRNA AAYWRGSEKN PMLQRIYGTA WPTKDELKAH LEFLAEAEKR 
+SYT_MYCLE        230   -PAFKLTRSS AAYWRGNQKN ASLQRIYGTA WESQEALDRH LEMITEAQRR 
+SYT1_BACSU       196   -KEFKLLSLA GAYWRGDSKN QMLQRVYGTA FFKKADLEEH LRMLEEAKER 
+SYT_BACHD        198   -KEFKLLNLA GAYWRGDSSN KMLQRIYGTA FFKKADLDEH LRLLEEAKER 
+SYT_LISIN        192   -QVFKLLSVA GAYWRGDSNN KMLQRIYGTA FFDKNGLKEF IQMQKEAKER 
+SYT_UREPA        130   -KAIKLLNIA GSYWRGDANN DQLIRIYGVA FSDQDQLDAY LKDLQERKER 
+SYT_MYCPU        142   -NNFKLLSLA GAYWRGNSNN IQLTRIYGSS FYKKDELENY LKVIEDRKER 
+SYT_MYCPN        118   -GFVKLLNVS ANYFLGDPTK PQLQRLVGIF AASKEQLKSL IAANEQKYQN 
+SYT_MYCGE        117   KSFIKLLNVS VNYFLGDPSQ LQLQRINGIF AQSKKELEQL IKENEERLKK 
+SYT_SULTO         88   ----KYFEIL NISVHHPSPN VQYVRIRGVG FEKKEELDQY LKWLEEVSEY 
+SYT_SULSO         93   ----KYFEIL NISTHHPNPN EQYVRIRGVA FETEEQLKDY LSWLEKAEET 
+SYT_FUSNN        175   -KAFKLRTVA GAYWRGNSKN KMLQRIYGYS FSNEERLKHH LKLMEEAEKR 
+SYT_STAAM        193   -KEFKLLSTA GAYWRGDSNN KMLQRIYGTA FFDKKELKAH LQMLEERKER 
+SYT_STRP3        191   -QVFHLLNVA GAYWRGNSDN NMMQRIYGTA WFDKKDLKAY LTRLEEAKER 
+SYT_LACPL        199   -KVFKLLSVA GAYWQGKSSN PMLQRIYGTA FLKQKDLDAD LKRRQEARER 
+SYT_LACLA        193   -KFFHLLNVA GAYWRGNSDN KMMQRIYGTA WFTKEELEEN LKLREEAKER 
+SYT_NEIMA        193   -KNFKLTKLA GAYWRGDSNN EMLQRIYGTA WATKDELKAY IQRIEEAEKR 
+SYT_CLOPE        191   -KAVKLLRST GAYWKGDEKN KMLSRVYGTA FPKKSELDAY LEALEEAKKR 
+SYT1_AERPE        45   ---------- ---------- ---------- ---------- ---------- 
+SYT_HALN1        203   -GGFEVLETS AAYWRGDEER ETLTRVYGTA FPTESDLQEY LARREEAKER 
+SYT_RALSO        193   -KVFKLMKVA GAYWRGDSNN EMLQRIYGTA WAKKEDQEAY LHMLEEAEKR 
+SYT_PSEAE        193   -KAFQLTKIS GAYWRGDSKN EQLQRIYGTA WADKKQLAAY IQRIEEAEKR 
+SYT_XANAC        194   -KAFKLTRIS GAYWRGDAKN EQLQRIYGTA WADKKQLDAY ILRMEEADKR 
+SYT_HAEIN        194   -QHFKLQKVA GAYWRGDSKN KMLQRIYGTA WADKKQLAEY LTRLEEAAKR 
+SYT_VIBCH        195   -QNFKLLNIA GAYWRGNSDN KMLQRIYGTA FHDKKALQAH LTRLEEAAKR 
+SYT_RICCN        193   -KHFKLMKVA GAYWRGDSRN EMLQRIYGTA WATKEQLDSY LLMLEEAEKR 
+SYT_CAUCR        198   GKAFKLTKLA GAYWRGDQNN AQLQRIYGTA WASEADLEAH LKRIEEAEKR 
+SYT_BRUME        196   GNSFKLMKVA GAYWRGDANN PMLTRIYGTA FANDNDLQAY LHMLEEAEKR 
+SYT_AGRT5        195   GTAFKLMKVA GAYWRGDSNN AMLSRIYGTA WATQEELDNY LHVLAEAEKR 
+SYT_TREPA        143   PHAFKLTSIA GAYWRGNERG PQLTRIYGTA WESEEDLHTY LRMQDEAKRR 
+SYT_BUCAI        194   -KYFKLQKIG GVYWKKNKNN KMLQRIYGTA WTNKQELDKH LDYLNELEKR 
+SYT_BUCAP        194   -KYFKLQKIG GIYWKGDHKN KMLQRIYGTA WSTKKELDKH LSYINELKKR 
+SYT_BUCBP        195   -RNFRLQKFS GVYWKGKREN KVLQRIYGTS WITRIQLEKH LDNVKKLDSR 
+SYT_WIGBR        193   -MFFKIQKIS GAYWKGNKKN KMLQRIYVTS WDSNSKLKNF IKNIKELEHR 
+SYT_ARATH        267   -KAFKCLRAS SAYWKGDKDR ESLQRVYGIS YPDQKQLKKY LQFLEEAKKY 
+SYT_HUMAN        261   -KALKIHKNS STYWEGKADM ETLQRIYGIS FPDPKMLKEW EKFQEEAKNR 
+SYT_CAEEL        272   -KAMAITKNS SSYWEGKADA ESLQRLYGIS FPDSKQLKEW QKLQEEAAKR 
+                                                                 
+                       0445565666 6666665555 4455666666 6555555555 5445566666 
+ 
+1evk_A             2   DHRKIGKQLD LYHMQEE-AP GMVFWHNDGW TIFRELEVFV RSKLKEYQYQ 
+1nj8_A            25   ---------- ---------K GCGVYLPYGF KIRRYTFEII RNLLDESGHD 
+SYTC_YEAST       329   DHRKIGKEQE LFLFNEM-SP GSCFWLPHGT RIYNTLVDLL RTEYRKRGYE 
+SYTC_SCHPO       290   DHRKIGRDQE LFFFNEI-SP GSCFFLPHGA RIYNTLLKYM RYQYSKRGYQ 
+SYT_THETN        251   DHRKLGKELD LFSIHPE-GP GFPFFHPKGM IIRNILEDFW RKEHIKRGYQ 
+SYT_CLOAB        242   DHRKIGKELD LFTMHEE-GP GFPFFHPKGM VLKNLLLNYW REVHDKAGYD 
+SYT_THEMA        240   DHRKLGPQLE LFMLNTEYAP GMPFFLPKGV VVLNELMKFS RELHRERGYQ 
+SYT2_BACSU       245   DHRKLGKQLG LFMFSEE-AP GMPFYLPKGQ IVRNELERFS RELQTNAGYD 
+SYT_CHLMU        237   DHRVLGTKLD LFSQQSY-SA GMPFFHPRGM VIWNALIDYW KRLHQLAGYQ 
+SYT_CHLCV        237   DHRVLGAKLD LFSQQEC-SA GMPFFHPRGM IVWDALIGYW QRLHQLAGYK 
+SYT_CHLPN        237   DHRVLGAKLD LFSQQES-SP GMPFFHPRGM IVWDALIRYW KQLHTAAGYK 
+SYT_HELPJ        218   DHRKLGVELG LFSFDDEIGA GLPLWLPKGA RLRKRIEDLL SQALLLRGYE 
+SYT_THETH        252   DHRRLGRELE LFLIDPLVGK GLVLWLPKGN VVREELMAFM REEQVRRGYQ 
+SYT_DEIRA        248   DHRKLGKELE LFTIDPLVGK GLPLWLPNGT VLREELTNFM KEQQFQRGYQ 
+SYT_CHLTE        253   DHRKLGAELG LFMLTPEVGS GLPIWLPNGA IIRNELETFL KAEQRKRGYV 
+SYT_SYNY3        197   DHRKLGKELG LFIFADPVGP GLPLWTPKGT IIRTILEDFL KQEQIKRGYL 
+SYT_AQUAE        243   DHRRLGKELE FFTIDDNVGA GLILWLPRGA IYRKVLEDYL REEHLKRGYQ 
+SYT_BORBU        185   DHRKLGKELD LFSIHEEIGP GLVFFHPNGA KIRALIEDFW REEHSKNGYD 
+SYT_STRCO        259   DHRKLGSELD LFSIPEQIGS GLAVFHPKGG IIRRVMEDYS RRRHEEEGYE 
+SYT_MYCLE        279   DHRKLGIELD LFSFPDEIGS GLAIFHPKGS IVRREMEEYS RRKHIEAGYQ 
+SYT1_BACSU       245   DHRKLGKELK LFANSQKVGQ GLPLWLPKGA TIRRVIERYI VDKEISLGYE 
+SYT_BACHD        247   DHRKLGKELG IFALSQKVGQ GLPLWLPKGA TIRRIIERYI VDKEEKLGYQ 
+SYT_LISIN        241   DHRKLGKELD LFANSIEVGQ GLPLWLPKGA TIRRVIERYI VDKEERLGYN 
+SYT_UREPA        179   DHRKIGKDLN LFTFNNLAGQ GLPIWLPNGT IIKNQVQKFI NEVEFQFNFD 
+SYT_MYCPU        191   DHRKIGKNLG IFTFSSLSGL GFPIWLKKGM LIKRAIEKEI LYLDRKYGFE 
+SYT_MYCPN        167   DHRAIGKRLE IFTFDPLVGA GFPIWLEKGA VLKKIIGDFV HYQQLMFGFK 
+SYT_MYCGE        167   DHRSLGKQLE LFSFDPLIGA GLPIWLAKGT TLRNIIGNFV HHQQLLFGFN 
+SYT_SULTO        134   DHRIIGERLD LFSFPDETAP GLALFHYKGQ IIRKELMKFM EEINESMGYQ 
+SYT_SULSO        139   DHRLIGEKLD LFSFHEEAGS GLVLFHPKGQ TIRNELIAFM REINDSMGYQ 
+SYT_FUSNN        224   DHRKLGKELE LFFLSEY-GP GFPFFLPKGM IVRNVLIDLW RREHEKAGYQ 
+SYT_STAAM        242   DHRKIGKELE LFTNSQLVGA GLPLWLPNGA TIRREIERYI VDKEVSMGYD 
+SYT_STRP3        240   DHRKLGKELD LFMISQEVGQ GLPFWLPDGA TIRRTLERYI TDKELASGYQ 
+SYT_LACPL        248   DHRVIGNELD LFFVDPKVGN GLPYWMPNGA TIRRQIERYI IDKEVANGYQ 
+SYT_LACLA        242   DHRKLGRELD LFFNDAELGA GTAYWLPAGA TIRRIIERFV VDQEVKNGYQ 
+SYT_NEIMA        242   DHRKLGKQLD LFHLQDE-AP GMVFWHPKGW ALWQVIEQHM RKELNAAGYK 
+SYT_CLOPE        240   DHNKLGRELG IFTTDENVGQ GLPLLMPKGA RIIQTLQRWI EDEEQRRGYV 
+SYT1_AERPE        45   ---------- --EFATFTGA GVPLFSLGGG PIRYALAEVL AKFHARRGYY 
+SYT_HALN1        252   DHRKLGREMD LFSIPDVTGP GLPLYHPNGK TVLRELSEYV RGLNSEMGYD 
+SYT_RALSO        242   DHRKLGKLLD LFHLQEE-AP GMVFWHPKGW QIWQAVEQYM RGRLAGAGYS 
+SYT_PSEAE        242   DHRRIGKQLD LFHLQEE-AP GMVFWHPNGW SVYQVLEQYM RKVQRDHGYV 
+SYT_XANAC        243   DHRRIGKAQD LFHLQEE-AP GLVFWHPKGW SLWQVVEQYM RKVYRDSGYG 
+SYT_HAEIN        243   DHRKIGKALD LYHMQEE-AP GMVFWHNDGW TIFRELETFV RTKLKQYDYQ 
+SYT_VIBCH        244   DHRKIGKQLD LFHMQQE-AP GMVFWHHNGW SIFRDLEIFI RQKLNEYGYQ 
+SYT_RICCN        242   DHRKLGRELD LFHFQEE-AQ GMVFWHDKGW SIYNTIEQYI RKKIRKNGYT 
+SYT_CAUCR        248   DHRKLGKTMD LFHIQEE-GK GMVFWHPKGW ALYRVLEDYM RRRLDAAGYK 
+SYT_BRUME        246   DHRRLGREMD LFHFQEE-GP GVVFWHAKGW KMFQNLVSYM RRRLDSHGYQ 
+SYT_AGRT5        245   DHRRLGREMD LFHFQEE-GP GVVFWHGKGW RMFQTLTAYM RRRLA-NTYQ 
+SYT_TREPA        193   DHRKLGPALG LFHLDEE-NP GQVFWHPEGW TLYVAIQQYL RRVMHEDGYA 
+SYT_BUCAI        243   DHRKIGKFLQ LYHMQEE-SP GMIFWHNKGW IIFNELQNFV RVKLKEYKYE 
+SYT_BUCAP        243   DHRKIGKLLN LYHMQKE-SP GMIFWHNNGW IIFNELEIFV REKLKEYKYK 
+SYT_BUCBP        244   DHRKISKILD LYHIQED-LP GMIFWHRNGW IVFQELKKLI RVKLRKYNYQ 
+SYT_WIGBR        242   DHRKIGKKLD LFHIYEN-SP GMVFWHHNGW IIFRILEKFI RKKLKKFYYQ 
+SYT_ARATH        316   DHRLLGQKQE LFFSHQL-SP GSYFFLPLGT RVYNRLMDFI KNQYWHRGYT 
+SYT_HUMAN        310   DHRKIGRDQE LYFFHEL-SP GSCFFLPKGA YIYNALIEFI RSEYRKRGFQ 
+SYT_CAEEL        321   DHRKLGKEHD LFFFHQL-SP GSAFWYPKGA HIYNKLVDFI RKQYRRRGFT 
+                                                                 
+                       6666666666 6643333133 4444444443 3332222222 2222223444 
+ 
+1evk_A            51   EVKGPFMMDR VLWEKTGHWD N-YKDAMF-T T--------- ---SS----- 
+1nj8_A            56   EALFPMLIPE DLLAKEAEhi kgFEDEVY-W V--------- ---THGGktq 
+SYTC_YEAST       378   EVITPNMYNS KLWETSGHWA N-YKENMF-T F--------- ---EV----- 
+SYTC_SCHPO       339   EVITPNMYNV NLWKTSGHWN N-YSENMF-S F--------- ---DI----- 
+SYT_THETN        300   EIRTPIILNE ELWKRSGHWD H-YKENMY-F T--------- ---EI----- 
+SYT_CLOAB        291   EISTPIILNE ALWHQSGHWD H-YKENMY-F T--------- ---KI----- 
+SYT_THEMA        290   EIFTPLIMNE QLWKISGHWD H-YAENMY-F I--------- ---EK----- 
+SYT2_BACSU       294   EVRTPFMMNQ RLWEQSGHWD H-YRDNMY-F S--------- ---EV----- 
+SYT_CHLMU        286   QIQTPQLMSR ELWEISGHWE N-YKENMY-T L--------- ---TV----- 
+SYT_CHLCV        286   QILTPQLMNR SLWETSGHWS N-YKANMY-T L--------- ---KI----- 
+SYT_CHLPN        286   EILTPQLMNR QLWEVSGHWD N-YKANMY-T L--------- ---QI----- 
+SYT_HELPJ        268   PVKGPEILKS DVWKISGHYD N-YKENMY-F T--------- ---TI----- 
+SYT_THETH        302   LVTTPHIGSL ELYKTSGHYP Y-YAESQFPP ISFK--ER-- ----G----- 
+SYT_DEIRA        298   GVVTPNIGNL DLYRTSGHYP Y-YSESQFNP I--------- ---QV----- 
+SYT_CHLTE        303   PVYTPHIGNI ELYKRSGHYP Y-YSDSQFPP LTYK-DET-- ----G----- 
+SYT_SYNY3        247   PVVTPHIARV DLFKQSGHWQ K-YQEDMFPM MaespEEA-- ----A----- 
+SYT_AQUAE        293   LVYTPHVGKS KLWETSGHLE C-YKQNMFPS M--------- ---KI----- 
+SYT_BORBU        235   ILFTPHIGKS WLWQTSGHLD F-YKDSMFEK I--------- ---EM----- 
+SYT_STRCO        309   FVYTPHATKG KLFETSGHLD W-YADGMYPP M--------- ---QL----- 
+SYT_MYCLE        329   FVNTPHITKA QLFHTSGHLD W-YAEGIFPP M--------- ---HL----- 
+SYT1_BACSU       295   HVYTPVLGSK ELYETSGHWD H-YQEGMFPP M--------- ---EM----- 
+SYT_BACHD        297   HVYTPVLASS ELYKTSGHWD H-YKDDMFPT M--------- ---EM----- 
+SYT_LISIN        291   HVYTPIMANV ELYKTSGHWD H-YHEDMFPT M--------- ---KM----- 
+SYT_UREPA        229   TVITPILGSI DLYKTSGHWD H-YKDNIFSP V--------- ---QI----- 
+SYT_MYCPU        241   EVLSPHFGEE SLYIKSGHLA H-YQETMFKS L--------- ---EV----- 
+SYT_MYCPN        217   TVSSPVLANL ELYKISGHYV H-YSEDMFPS V--------- ---KL----- 
+SYT_MYCGE        217   TVCSPVLANI ELFKISGHYQ H-YKEDMFPA I--------- ---KL----- 
+SYT_SULTO        184   EVFTAEIYRS ILWKTSGHYD Y-YKDKMV-L F--------- ---KM----- 
+SYT_SULSO        189   EVYTSHVFKT DIWKISGHYT L-YRDKLI-V F--------- ---NM----- 
+SYT_FUSNN        273   QLETPIMLNK ELWEISGHWF N-YRENMY-T S--------- ---EI----- 
+SYT_STAAM        292   HVYTPVLANV DLYKTSGHWD H-YQEDMFPP M--------- ---QL----- 
+SYT_STRP3        290   HVYTPPLASV ELYKTSGHWD H-YQEDMFPV M--------- ---DMG---- 
+SYT_LACPL        298   HVYTPVLANL DVYKQSGHWD H-YREDMFPP M--------- ---DMG---- 
+SYT_LACLA        292   HVITPVMMNL NTYKQSGHWQ H-YHEDMYPP M--------- ---DMG---- 
+SYT_NEIMA        291   EVKTPQIMDK TFWEKSGHWE N-YKDNMF-V T--------- ---SS----- 
+SYT_CLOPE        290   LTKTPLMAKS DLYKISGHWD H-YKDGMF-V Lg-------- -DEEK----- 
+SYT1_AERPE        83   VVETPIIAST ELFKVSGHIE F-YRNNMY-L F--------- ---DI----- 
+SYT_HALN1        302   EVETPHLFRT ELWKQSGHYD N-YVDDMF-L L--------- ---DV----- 
+SYT_RALSO        291   EVRTPQVMDR GLWERSGHWE N-YKENMF-V T--------- ---ES----- 
+SYT_PSEAE        291   EVRTPQVVDR ILWERSGHWS N-YAENMF-T T--------- ---SS----- 
+SYT_XANAC        292   EVRCPQILDV SLWQKSGHWD N-YQDAMF-F T--------- ---ES----- 
+SYT_HAEIN        292   EVKGPFMMDR VLWEKTGHWQ N-YADLMF-T T--------- ---QS----- 
+SYT_VIBCH        293   EVKGPLMMDR VLWERSGHWD K-YADAMF-T T--------- ---SS----- 
+SYT_RICCN        291   EVKTPVLVDK SLWEASGHWE K-FRDDMF-A L--------- ---ET----- 
+SYT_CAUCR        297   EVKTPQILDR SLWEKSGHAE K-FGHAMF-M C--------- --ESA----- 
+SYT_BRUME        295   EVNTPQVLDK SLWETSGHWG W-YRDNMF-K V--------- ---TVAGddt 
+SYT_AGRT5        293   EVNAPQVLDK SLWETSGHWG W-YQENMF-A Vksahafthp dDKEA----- 
+SYT_TREPA        242   EVHTPFVMPQ SLWERSGHWD K-YRANMY-L T--------- ---EG----- 
+SYT_BUCAI        292   EVKTPLLIDK LIWKQSGHWD N-YKNAIF-T T--------- ---LS----- 
+SYT_BUCAP        292   EVKTPLLIDK SIWQKSGHWD N-YQDAIF-T T--------- ---SS----- 
+SYT_BUCBP        293   EVKTPVMMNK KIWKDSGHLD N-YKESMF-M V--------- ---CS----- 
+SYT_WIGBR        291   EVKTPCIIDH DLWRLSGHLD N-YKNYMF-H T--------- ---NS----- 
+SYT_ARATH        365   EVITPNMYNM ELWQTSGHAD N-YKDNMF-T F--------- ---NI----- 
+SYT_HUMAN        359   EVVTPNIFNS RLWMTSGHWQ H-YSENMF-S F--------- ---EV----- 
+SYT_CAEEL        370   EVITPNMYNK KLWETSGHWQ H-YSEDMF-K I--------- ---EV----- 
+                                                                 
+                       4444444444 4555555555 5055555503 3000000000 0003300000 
+ 
+1evk_A            82   -EN------- -----REYCI KPMNCPGHVQ IFNQGLKSYR D---LPLRMA 
+1nj8_A            93   l-D------- -----VKLAL RPTSETPIYY MMKLWVKVHT D---LPIKIY 
+SYTC_YEAST       409   -EK------- -----ETFGL KPMNCPGHCL MFKSRERSYR E---LPWRVA 
+SYTC_SCHPO       370   -EK------- -----EKYAL KPMNCPGHCV MFKSRDRSYR D---LPWRVA 
+SYT_THETN        331   -DG------- -----QTYAI KPMNCPGAML VYKSTLRSYR D---LPLRLC 
+SYT_CLOAB        322   -DE------- -----ADYAI KPMNCPGSIL VYKDNIHSYR E---LPIKLA 
+SYT_THEMA        321   -DE------- -----ERYAV KPMNCPGHIL VYKSRTVSYR D---LPLRFF 
+SYT2_BACSU       325   -DD------- -----TRFAM KPMNCPGHML IFKNSLYSYR D---LPIRMA 
+SYT_CHLMU        317   -DE------- -----EDYAI KPMNCPGCML YYKTQLHSYR E---FPLRIA 
+SYT_CHLCV        317   -DE------- -----EDYAI KPMNCPGCML YYKTRLHSYK E---FPLRIA 
+SYT_CHLPN        317   -DD------- -----EDYAI KPMNCPGCML YYKTRLHSYK E---FPLRVA 
+SYT_HELPJ        299   -DE------- -----QEYGI KPMNCVGHIK VYQSALHSYR D---LPLRFY 
+SYT_THETH        338   -EE------- -----EEYLL KPMNCPHHIR IYAYRKRSYR E---LPLRLA 
+SYT_DEIRA        330   -DE------- -----EEYML KPMNCPHHVR IYASKPRSYR D---LPVRLA 
+SYT_CHLTE        340   -RE------- -----EQYLL KPMNCPHHHL IYSQTLRSYR D---LPIRLT 
+SYT_SYNY3        285   -QE------- -----MGFVL KPMNCPFHIQ IYKSELRSYR D---LPLRLA 
+SYT_AQUAE        325   -DE------- -----EEYYV KPMNCPFHIA IYKSRTRSYK E---LPLKLF 
+SYT_BORBU        267   -DK------- -----SDYYL KPMNCPFHIA IYNTGKHSYR D---LPFRWA 
+SYT_STRCO        341   -DE------- ----GVDYYL KPMNCPMHNL IFDARGRSYR E---LPLRLF 
+SYT_MYCLE        361   -DAehnddgt vrkpGQDYYL KPMNCPMHTL IFSSRGRSYR E---LPLRLF 
+SYT1_BACSU       327   -DN------- -----ETLVL RPMNCPHHMM IYKQDIHSYR E---LPIRIA 
+SYT_BACHD        329   -EN------- -----EELVL RPMNCPHHMM VYKTEMRSYR Q---LPLRIA 
+SYT_LISIN        323   -DN------- -----EELVL RPMNCPHHMM IYKNDIHSYR E---LPIRIA 
+SYT_UREPA        261   -DN------- -----EILVL RPMTCPHHTL VYSNELRSYR S---LPIRLS 
+SYT_MYCPU        273   -EN------- -----EKLIP RPMTCPHHII IYDAFPRSYR E---LPLRLS 
+SYT_MYCPN        249   -EN------- -----QMMML RPMTCPHHCL IFKHKRRSYK E---LPQRFC 
+SYT_MYCGE        249   -DS------- -----QAMML RPMTCPHHCL IFKQKRYSYK K---MPQRFS 
+SYT_SULTO        215   -ED------- -----EELGL KPMNCPAHIL IYKSKTRSYK D---LPIRFS 
+SYT_SULSO        220   -EG------- -----DEYGV KPMNCPAHIL IYKSKPRTYR D---LPIRFS 
+SYT_FUSNN        304   -DE------- -----LEFAI KPMNCPGGVL AFKHQLHSYK D---LPARLA 
+SYT_STAAM        324   -DE------- ----TESMVL RPMNCPHHMM IYANKPHSYR E---LPIRIA 
+SYT_STRP3        323   -DG------- -----EEFVL RPMNCPHHIQ VYKNHVRSYR E---LPIRIA 
+SYT_LACPL        331   -DG------- -----EQLEL RPMNCPSHIQ IYNHHIRSYR E---LPLRIA 
+SYT_LACLA        325   -DG------- -----EEMEL RPMNCPSHIA IYKHHVHSYR E---LPIRIA 
+SYT_NEIMA        322   -EK------- -----REYAV KPMNCPGHVQ IFNNGLRSYR D---LPMRLA 
+SYT_CLOPE        324   -DS------- -----EVFAL RPMTCPFQYA IYNSTQHSYR D---LPVRFA 
+SYT1_AERPE       114   -EG------- -----HEFAV KPMNCPYHIL LFLNEVAKHR SklpLPFKVF 
+SYT_HALN1        333   -ND------- -----EEYGL KPMNCPGHAT IFNEGSWSYR D---LPVRYF 
+SYT_RALSO        322   -EK------- -----REYAI KPMNCPGHVQ IFNHGLRSYR D---LPLRLA 
+SYT_PSEAE        322   -ES------- -----RDYAV KPMNCPCHVQ IFNQGLKSYR D---LPLRLA 
+SYT_XANAC        323   -EK------- -----RTYAV KPMNCPGHVQ VFNQGLHSYR D---LPIRYG 
+SYT_HAEIN        323   -EN------- -----REYAI KPMNCPGHVQ IFNQGLKSYR D---LPIRMA 
+SYT_VIBCH        324   -EN------- -----REYAI KPMNCPGHIQ IFNQGLKSYR D---LPLRMA 
+SYT_RICCN        322   -DD------- -----KTLAL KPMNCPCHVQ IFKQGIKSYR D---LPLRMS 
+SYT_CAUCR        329   -EG------- -----EVLAV KPMNCPGHIQ IFNVGQKSYR E---LPLRMA 
+SYT_BRUME        331   dDD------- -----RVFAL KPMNCPGHVQ IFKHGLKSYR D---LPIKLA 
+SYT_AGRT5        336   -DQ------- -----RVFAL KPMNCPGHVQ IFKHGLKSYR E---MPVRLA 
+SYT_TREPA        273   -EK------- -----RSFAL KPMNCPGHVE IFKQKTRSYR D---LPLRLS 
+SYT_BUCAI        323   -EH------- -----REYCI KPMNCPGHVQ IFNSRLKSYR D---LPIRMA 
+SYT_BUCAP        323   -EN------- -----REYCI KPMNCPGHVQ IFNCGLKSYR D---LPIRMA 
+SYT_BUCBP        324   -SN------- -----FEYGI KPMNCPGHVQ IFNHVVRSYR D---LPIRIS 
+SYT_WIGBR        322   -EN------- -----KQYCI KPMNCPAHVL IFKKKIRSYK E---LPFRIS 
+SYT_ARATH        396   -EK------- -----QEFGL KPMNCPGHCL IFQHRVRSYR E---LPMRLA 
+SYT_HUMAN        390   -EK------- -----ELFAL KPMNCPGHCL MFDHRPRSWR E---LPLRLA 
+SYT_CAEEL        401   -EK------- -----EEFGL KPMNCPGHCL MFGHMPHTYN E---LPFRFA 
+                                                                 
+                       0440000000 0000045667 7888888777 8877777888 8000888888 
+ 
+1evk_A           116   EFGSCHRNEP SGSLHGLMRV RGFTQDDAHI -FCTEEQIRD EVNGCIRLVY 
+1nj8_A           127   QIVNTFRYET KHTRPLIRLR EIMTFKEAHT aHSTKEEAEN QVKEAISIYK 
+SYTC_YEAST       443   DFGVIHRNEF SGALSGLTRV RRFQQDDAHI -FCTHDQIES EIENIFNFLQ 
+SYTC_SCHPO       404   DFGVLHRNEF SGALSGLTRV RRFQQDDAHI -FCTPDQVRS EIEGCFDFLK 
+SYT_THETN        365   ELGLVHRHEL SGVLHGLMRV RSFTQDDAHL -FMTPEQVED EILGVINLVD 
+SYT_CLOAB        356   EIGLVHRHEK SGALHGLMRV RCFNQDDAHI -FMTKEQITE EILGVIKLID 
+SYT_THEMA        355   EFGRVHRYER SGVLHGLMRV RSFTQDDAHI -FCTPDQIEE EILGVLDLIN 
+SYT2_BACSU       359   EFGQVHRHEY SGALNGMLRV RTFCQDDAHI -FVREDQIES EIKEAIRLID 
+SYT_CHLMU        351   EIGHVHRHEL SGALSGLMRV RTFHQDDAHV -FLTPEQVEE ETLNILNLVS 
+SYT_CHLCV        351   EIGHVHRYEV SGALSGLMRV RAFHQDDAHV -FLTPEQVEE ETLNILNLVS 
+SYT_CHLPN        351   EVGHVHRQEA SGALSGLMRV RAFHQDDAHV -FLTPEQVEE ETLNILQLVS 
+SYT_HELPJ        333   EYGVVHRHEK SGVLHGLLRV REFTQDDAHI -FCSFEQIQS EVSAILDFTH 
+SYT_THETH        372   EFGTVYRYEK AGELLGLTRV RGFTQDDAHI -FCTPEEVKG EFLGVLDLVL 
+SYT_DEIRA        364   EFGTVYRYEQ SGELNGLTRV RGFTQDDAHI -FCRPDQLKR EFLDVLDLTV 
+SYT_CHLTE        374   EFGTVYRHEQ SGELNGLVRA RGFTQDDSHI -YCRPDQLVD EICNAIDLTR 
+SYT_SYNY3        319   EFGTVYRYEQ SGELGGLTRV RGFTVDDSHL -FVTPDQLDE EFLSVVDLIL 
+SYT_AQUAE        359   ELGTVYRYEL SGVLHGLLRV RGFTQDDAHI -VCTPEQVND VIRETLDFAL 
+SYT_BORBU        301   ELGTVYRYEK IGALHGMMRA RGFTQDDAHI -ICTHSQVLD EIKEVLRFAI 
+SYT_STRCO        376   EFGTVYRYEK SGVVHGLTRA RGFTQDDAHI -YCTREQMSE ELDKTLTFVL 
+SYT_MYCLE        407   EFGTIYRYEK SGVVHGLTRA RGFTMDDSHI -FCTREQLHC ELASLLRFVL 
+SYT1_BACSU       361   ELGTMHRYEM SGALSGLQRV RGMTLNDAHI -FVRPDQIKD EFIRTVRLIQ 
+SYT_BACHD        363   ELGLMHRYEM SGAVSGLQRV RGMTLNDAHI -FCRPDQIKD EFVRVVRLIQ 
+SYT_LISIN        357   ELGMMHRYEM SGALSGLQRV RGMTLNDAHV -FVRPDQIKD EFKRVVELIL 
+SYT_UREPA        295   EHSILHRYES SGGLTGFERV REMILEDCHV -FCRFDQIEH EVINAFKMIQ 
+SYT_MYCPU        307   EQSRLYRYEK SGALTGLERV RTMDLTEGHI -FIRQDQIKD EVLNMINLIQ 
+SYT_MYCPN        283   EDSILHRFEA SGGLTGLERV RCMTLLDNHI -FCRTDQIKA EIKNAFKLIQ 
+SYT_MYCGE        283   EDSILHRFEA SGGLIGLERV RCMTLLDNHI -FCRADQIKS EIKNAFNLIQ 
+SYT_SULTO        249   EFGLVFRWEK RGELYGLLRV RGFVQDDGHI -FLTEDQIKD EVKMLVKKTI 
+SYT_SULSO        254   EFGHVYRWEK KGELYGLLRV RGFVQDDGHI -FLREDQLRE EIKMLISKTV 
+SYT_FUSNN        338   ELGRVHRHEF SGALHGLMRV RSFTQDDSHI -FMTPDQVQD EIIGVVNLID 
+SYT_STAAM        359   ELGTMHRYEA SGAVSGLQRV RGMTLNDSHI -FVRPDQIKE EFKRVVNMII 
+SYT_STRP3        357   ELGMMHRYEK SGALSGLQRV REMTLNDGHI -FVTPEQIQE EFQRALQLII 
+SYT_LACPL        365   ELGMMHRYEK SGALTGLSRV REMTLNDGHT -FVALDQIEE EFKKILSLMV 
+SYT_LACLA        359   EFGMMHRYEK SGALSGLQRV REMTLNDGHT -FVMLEQVQE EFSKILQLIM 
+SYT_NEIMA        356   EFGSCHRNEP SGALHGLMRV RGFVQDDAHI -FCTEDQIVS EARAFNELLV 
+SYT_CLOPE        358   ETSTLFRNES SGEMHGLIRV RQFTLADGHI -VCTPEQLED EFKNTVDLVK 
+SYT1_AERPE       151   EFGRVHRYEP SGSIYGLLRV RGFTQDDAHI -IVpgg---- ---RVIDVVY 
+SYT_HALN1        367   EDGKVYRKEQ RGELSGLSRV WAFTIDDGHV -FARADQIEA EVRRLMDTIT 
+SYT_RALSO        356   EFGACHRNEP SGALHGLMRV RGFVQDDAHI -FCTEGQIMA EAKDFNDLAF 
+SYT_PSEAE        356   EFGACHRNEP SGALHGIMRV RGFTQDDAHI -FCTEEQVKK EAADFIKLTL 
+SYT_XANAC        357   EFGACHRNEP SGALHGILRV RGFTQDDGHV -FCLEPQIES EVTAFHQQAL 
+SYT_HAEIN        357   EFGSCHRNEP SGSLHGLMRV RGFTQDDAHI -FCTEDQIES EVTSCIKMVY 
+SYT_VIBCH        358   EFGSCHRNEP SGSLHGIMRV RGFTQDDAHI -FCTEDQIQQ EVTSCIKMVY 
+SYT_RICCN        356   EFGLCHRNEA SGALHGLMRV RSLVQDDAHI -FCAAEQITD ETVSFCKLLT 
+SYT_CAUCR        363   EFGACHRYEP SGAMHGIMRV RAFTQDDAHI -FCREEQVTE ESARFIELLR 
+SYT_BRUME        366   EFGNVHRYEP SGALHGLMRV RGFTQDDAHI -FCTEEQMAA ECLQINDLIL 
+SYT_AGRT5        370   EFGNVHRYEA SGALHGLMRV RGFTQDDAHV -FCTEEQMAA ECLRINDLIL 
+SYT_TREPA        307   EFGSCTRNEP SGSLHGVMRV RGFVQDDAHI -FCTEAQIAS EVTRFCRLLA 
+SYT_BUCAI        357   EFGSCHRNEP SGSLHGLMRV RNFTQDDAHI -FCTREQVRS EINDCIKMIY 
+SYT_BUCAP        357   EFGSCHRNES SGSLHGLMRI RNFTQDDAHI -FCTQEQLRY EINNCIKMIY 
+SYT_BUCBP        358   EFGSCHRNEP SGALHGLMRI RNFTQDDAHI -FCREDQICS EVSNCIRMVY 
+SYT_WIGBR        356   EFGSCHRNEP SGSLHGLMRI RNFTQDDAHI -FCMHDQILS EVSSCIKMIY 
+SYT_ARATH        430   DFGVLHRNEA SGALSGLTRV RRFQQDDAHI -FCTTEQVKG EVQGVLEFID 
+SYT_HUMAN        424   DFGVLHRNEL SGALTGLTRV RRFQQDDAHI -FCAMEQIED EIKGCLDFLR 
+SYT_CAEEL        435   DFGVLHRNEM SGALTGLTRV RRFQQDDAHI -FCRQDQISE EIKQCLDFLE 
+                                                                 
+                       8887788787 8877777777 7777777777 0666666655 5433333332 
+ 
+1evk_A           165   DMY-S----- -------TF- --GF--EKIV VKL--STRP- ---EK-RIGS 
+1nj8_A           177   KFF-D----- -------TL- --GI--P-YL ISK--RPEW- ---DK-FPGA 
+SYTC_YEAST       492   YIY-G----- -------VF- --GF--E-FK MEL--STRP- ---EK-YVGK 
+SYTC_SCHPO       453   EVY-G----- -------TF- --GF--T-FH LEL--STRP- ---EEKYLGD 
+SYT_THETN        414   YFY-K----- -------IF- --GF--E-YH VEL--STRP- ---EN-SMGT 
+SYT_CLOAB        405   SFY-K----- -------VF- --GF--E-YY VEL--STRP- ---ED-SMGS 
+SYT_THEMA        404   TIY-S----- -------QF- --GF--T-YR VEL--STMP- ---ED-HMGD 
+SYT2_BACSU       408   EVY-R----- -------TF- --GF--E-YS VEL--STRP- ---ED-SLGD 
+SYT_CHLMU        400   ELY-G----- -------TF- --GL--D-YH LEL--STRP- ---EQGTIGS 
+SYT_CHLCV        400   ELY-S----- -------TF- --GL--E-YH LEL--STRP- ---EKDTIGS 
+SYT_CHLPN        400   TLY-G----- -------TF- --GL--E-YH LEL--STRP- ---EKDTIGD 
+SYT_HELPJ        382   KIM-Q----- -------AF- --GF--S-YE MEL--STRP- ---AK-SIGD 
+SYT_THETH        421   KVF-A----- -------TL- --GL--K-DY RARIGVRDPK S--DK-YVGD 
+SYT_DEIRA        413   LVL-K----- -------TF- --GM--T-DV RFRVGVRDPE S--DK-YVGD 
+SYT_CHLTE        423   FVF-N----- -------TL- --GF--D-EV ETRLSLHDPE NQ-SK-YGGT 
+SYT_SYNY3        368   TVF-K----- -------SL- --QL--K-NF KARLSFRDPE S--DK-YIGS 
+SYT_AQUAE        408   STL-K----- -------DF- --GF--NEFK IYL--STRP- ---EY-SIGS 
+SYT_BORBU        350   YMW-S----- -------KF- --GF--SNPK AYL--STKP- ---DK-SVGN 
+SYT_STRCO        425   NLL-R----- -------DY- --GL--N-DF YLELSTKDP- ---EK-FVGS 
+SYT_MYCLE        456   DLL-G----- -------DY- --GL--E-DF YLELSTKDP- ---EK-FVGS 
+SYT1_BACSU       410   DVY-E----- -------DF- --GL--S-DY TFRLSYRDPE DT-EK-YFDD 
+SYT_BACHD        412   AVY-E----- -------DF- --GL--K-NY SFRLSYRDPE DK-EK-YFDD 
+SYT_LISIN        406   EVY-K----- -------DF- --DI--K-DY SFRLSYRDPK NT-EK-YFDD 
+SYT_UREPA        344   EAQ-E----- -------GL- --GI--K-TF EIHLSLNDPN DK-EK-YYDD 
+SYT_MYCPU        356   ETL-K----- -------IF- --KI--K-ID HVALSLRD-N DK-EK-FFDD 
+SYT_MYCPN        332   TVN-N----- -------KF- --GF--S-FD RIDLALHDPN NK-AK-FIDN 
+SYT_MYCGE        332   KVN-K----- -------KF- --GF--I-FD RIDLSLHDPK NQ-SK-FIDN 
+SYT_SULTO        298   DVL-S----- -------IFG FKGD--D-VR INL--STRP- ---DE-SIGS 
+SYT_SULSO        303   EVW-H----- -------KFG FKDD--D-IK PYL--STRP- ---DE-SIGS 
+SYT_FUSNN        387   KFY-Sk---- -------LF- --GF--E-YE IEL--STKP- ---EK-AIGS 
+SYT_STAAM        408   DVY-K----- -------DF- --GF--E-DY SFRLSYRDPE DK-EK-YFDD 
+SYT_STRP3        406   DVY-A----- -------DF- --NL--T-DY RFRLSYRDPN DT-HK-YYDN 
+SYT_LACPL        414   EVY-E----- -------DF- --DI--S-DY RFRLSYRDPE NK-EK-YFDD 
+SYT_LACLA        408   DMY-R----- -------DF- --GI--N-DY SFRLSYRDPK DT-VK-YFPD 
+SYT_NEIMA        405   RIY-K----- -------QF- --GF--HDVS VKL--SLRP- ---EQ-RAGS 
+SYT_CLOPE        407   YVM-E----- -------TL- --GIa-D-DI TYRFSKWDPN NT-EK-YIND 
+SYT1_AERPE       193   DVF-Eemklv lerlfklGV- --SS--E-TF KVRLSMSDks ligKE-FMGS 
+SYT_HALN1        416   EVL-D----- -------TF- --DL--D-YE VAL--ATRP- ---EK-SVGS 
+SYT_RALSO        405   SIY-E----- -------DF- --GF--ENVA VKL--ALRP- ---DK-RAGT 
+SYT_PSEAE        405   QVY-R----- -------DF- --GF--TDIA MKL--STRP- ---AK-RVGS 
+SYT_XANAC        406   AVY-T----- -------AF- --GF--DDIQ IKI--ALRP- ---EK-RLGD 
+SYT_HAEIN        406   DIY-S----- -------TF- --GF--TNIA VKL--STRP- ---EN-RIGS 
+SYT_VIBCH        407   DTY-T----- -------TF- --GF--QNIV VKL--STRP- ---EK-RVGS 
+SYT_RICCN        405   EVY-K----- -------DF- --GF--TDIK VKF--SDRP- ---EI-RAGS 
+SYT_CAUCR        412   SVY-N----- -------DL- --GM--TLAD TKF--STRP- ---EL-RAGT 
+SYT_BRUME        415   SVY-K----- -------DF- --GF--EEIT IKL--STRP- ---EK-RVGS 
+SYT_AGRT5        419   SVY-E----- -------DF- --GF--SEIV VKL--STRP- ---EK-RVGS 
+SYT_TREPA        356   RVY-A----- -------DF- --GFaqEQIR VKF--STRP- ---EQ-RIGD 
+SYT_BUCAI        406   DLY-S----- -------TF- --HF--KKIL VKL--STRP- ---EK-RIGT 
+SYT_BUCAP        406   DLY-S----- -------TF- --NF--KKIL VKF--STRP- ---KK-RIGD 
+SYT_BUCBP        407   EIY-K----- -------IF- --GF--KKIL VRL--STRP- ---KN-RIGN 
+SYT_WIGBR        405   EVY-S----- -------CF- --GF--KKIL VKL--STRP- ---EN-RIGS 
+SYT_ARATH        479   YVY-K----- -------VF- --GF--T-YE LKL--STRP- ---EK-YLGD 
+SYT_HUMAN        473   TVY-S----- -------VF- --GF--S-FK LNL--STRP- ---EK-FLGD 
+SYT_CAEEL        484   YAYeK----- -------VF- --GF--T-FK LNL--STRP- ---EG-FLGN 
+                                                                 
+                       2220200000 0000000220 0022001011 2220022220 0002202223 
+ 
+1evk_A           190   DEMWDRAEAD LAVAL----E ENNIPF---- --EYQLGEGA FYGPKIEFTL 
+1nj8_A           201   EYTMA----- ---------- ---------- ---------- -------FDT 
+SYTC_YEAST       516   IETWDAAESK LESAL----K KWGGNW---- --EINAGDGA FYGPKIDIMI 
+SYTC_SCHPO       478   LATWDKAEAQ LKAAL----D ASGYKW---- --ELNAGDGA FYGPKIDITV 
+SYT_THETN        438   DEEWELATNA LISAL----K RANLPY---- --KVNEGEGA FYGPKIDFHL 
+SYT_CLOAB        429   DEDWEAATNG LINAL----N AANLEY---- --IVNEGDGA FYGPKIDFHL 
+SYT_THEMA        428   EAIWEKATTA LKNAL----E RAGLSY---- --KVNEGEGA FYGPKIDFHI 
+SYT2_BACSU       432   DSLWEASERA LARVL----E ELGLSY---- --EINEGDGA FYGPKIDFHI 
+SYT_CHLMU        425   DDLWELATEA LKNAL----V KSQKPF---- --IISPGEGA FYGPKIDIHV 
+SYT_CHLCV        425   DELWELATSA LERAL----I NSNTPF---- --IINPGDGA FYGPKIDIHV 
+SYT_CHLPN        425   DSLWELATDA LNRAL----V QSGTPF---- --IVRPGEGA FYGPKIDIHV 
+SYT_HELPJ        406   DKVWEKATNA LKEAL----K EHRIDY---- --KIDEGGGA FYGPKIDIKI 
+SYT_THETH        449   EAKWALAERQ IEEAA----A EAGLRY---- --TVEEGDAA FYGPKLDFVV 
+SYT_DEIRA        441   EQNWALAERQ IIEAV----E EVGLPY---- --TIEPGDAA FYGPKLDFVV 
+SYT_CHLTE        452   AEVWGQAEKD VKEAA----D RMGIKY---- --FIGIGEAS FYGPKIDFIV 
+SYT_SYNY3        396   DEAWEKAQGA IRRAV----Q ELEMDY---- --FEAPGEAA FYGPKLDFIF 
+SYT_AQUAE        433   DEQWEVSQNA LKKAI----E DLGYEY---- --EIDEGGGA FYGPKIDVKI 
+SYT_BORBU        375   DSDWEMSLKV LEETL----S DFEVPY---- --EIDKGGGA FYGPKIDLKI 
+SYT_STRCO        451   DEAWEEATET LRQVA----E KQNLEL---- --VADPGGAA FYGPKISVQA 
+SYT_MYCLE        482   EEIWEEATAA LAEVA----E NSTLPL---- --VPDPGGAA FYGPKISVQV 
+SYT1_BACSU       439   DEMWNKAQSM LKEAM----D EIGHDY---- --YEAEGEAA FYGPKLDVQV 
+SYT_BACHD        441   DNMWNKAQGM LKEAM----D ELELEY---- --FEAEGEAA FYGPKLDVQV 
+SYT_LISIN        435   DAMWEKAQAM LKSAM----D EMNMDY---- --FEAEGEAA FYGPKLDVQV 
+SYT_UREPA        373   PQMWEQSQNV LRKML----K DHNIPY---- --KEMVGEAA FYGPKIDFQV 
+SYT_MYCPU        384   DQMWDQAESA LKEIL----D QNKIDY---- --IVEKGEAA FYGPKIDFQV 
+SYT_MYCPN        361   DQLWANSESQ IESVF----K ELNVPY---- --KIDVGAAA FYGPKIDFQF 
+SYT_MYCGE        361   PGLWRESESQ MENVL----K DLNIQY---- --QKEIGAAA FYGPKIDFQF 
+SYT_SULTO        325   DELWEKATNA LVSAL----N ELGIKY---- --IVKEKEGA FYGPKIDFDI 
+SYT_SULSO        330   DELWEKATNA LISAL----Q ESGLKF---- --GIKEKEGA FYGPKIDFEI 
+SYT_FUSNN        412   QEIWDMAEAA LAGAL----D KLGRKY---- --KINPGDGA FYGPKLDFKI 
+SYT_STAAM        437   DDMWNKAENM LKEAA----D ELGLSY---- --EEAIGEAA FYGPKLDVQV 
+SYT_STRP3        435   DEMWENAQSM LKAAL----D EMGVDY---- --FEAEGEAA FYGPKLDIQV 
+SYT_LACPL        443   DAMWERSQKM LKSAM----D DMGLDY---- --FEAEGEAA FYGPKLDVQT 
+SYT_LACLA        437   DEMWEKSQAM LKATM----D DMNLDY---- --VEAEGEAA FYGPKLDIQV 
+SYT_NEIMA        430   DDVWDKAEQG LREAL----T ACGVEW---- --GELPGEGA FYGPKIEYHV 
+SYT_CLOPE        437   PEAWENTQNI MREIL----N HLNIDF---- --TEADDEAA FYGPKLDIQF 
+SYT1_AERPE       235   KEEWEGAEEA LREAAsrinE KYGIDI---- --VELEGEAA FYGPKLDFIM 
+SYT_HALN1        440   DDIWEQSERQ LREVL----D QQGVDY---- --DVEPGDGA FYGPKIDFGF 
+SYT_RALSO        430   DEIWDHAEEG LRTAL----R ACGVEW---- --EELPGEGA FYGPKVEYHI 
+SYT_PSEAE        430   DELWDRAEGA LADAL----N ESGLAW---- --EYQPGEGA FYGPKIEFTL 
+SYT_XANAC        431   DATWDKAEAA LRSAL----G VCGVEW---- --QELPGEGA FYGPKIEYHL 
+SYT_HAEIN        431   DEMWDRAEAG LAAAL----A HNGLEY---- --EIQEGEGA FYGPKIEFAL 
+SYT_VIBCH        432   DEIWDKSEQA LIDSL----K AMDIPF---- --EIQEGEGA FYGPKIEFTL 
+SYT_RICCN        430   NEVWDKAENA LKEAV----E QAGFNY---- --TLNPGEGA FYGPKLEFVL 
+SYT_CAUCR        437   DETWDKAEAA LAAAA----E AAGETL---- --TLQPGEGA FYGPKLEFSL 
+SYT_BRUME        440   DELWDRAESV MMTVL----E QIRQQsnn-I KTGILPGEGA FYGPKFEYTL 
+SYT_AGRT5        444   DDLWDRAESV MLEVL----K TIEEQsggrI KTGILPGEGA FYGPKFEYTL 
+SYT_TREPA        383   DATWDRAERA LAEAC----E AAGLSY---- --EHAPGEGA FYGPKLEFAL 
+SYT_BUCAI        431   DSLWNESEKD LSDML----I ENHLSF---- --EYQSGEGA FYGPKIEFIL 
+SYT_BUCAP        431   ESVWDQAEKD LSDVL----I ENNLKF---- --EHQEGEGA FYGPKIEFVL 
+SYT_BUCBP        432   DNIWDKAEND LATSL----R ESKIEF---- --EYQHGEGA FYGPKIELSL 
+SYT_WIGBR        430   DEIWDFAEKQ LELSL----K KNKILF---- --KIDLNEGA FYGPKIEFTL 
+SYT_ARATH        503   LETWDKAEAD LKEAI----E AFGKPL---- --VLNEGDGA FYGPKIDITV 
+SYT_HUMAN        497   IEVWDQAEKQ LENSL----N EFGEKW---- --ELNSGDGA FYGPKIDIQI 
+SYT_CAEEL        509   IETWDKAEAD LTNAL----N ASGRKW---- --VLNPGDGA FYGPKIDITI 
+                                                                 
+                       3334333333 3333300003 3333330000 0033346677 8888888777 
+ 
+1evk_A           230   ---YDCLDRA WQCGTV-QLD FSLPS--RLS ASYV------ -----G-EDN 
+1nj8_A           209   ---IFPDGRT MQIATVhNLG QNFSK--TFE IIFE------ -----T-PTG 
+SYTC_YEAST       556   ---SDALRRW HQCATI-QLD FQLPN--RFE LEFK------ -----S-KDQ 
+SYTC_SCHPO       518   ---FDALKRQ HQCATI-QLD FQLPE--RFQ LEFhapasae eakesG-NNN 
+SYT_THETN        478   ---KDSIGRT WQCGTI-QLD FQMPE--RFE LEYI------ -----G-PDG 
+SYT_CLOAB        469   ---KDCIGRT WQCGTI-QLD FQMPE--RFD INYI------ -----G-ADG 
+SYT_THEMA        468   ---RDSIGRE WQCATI-QLD FMMPE--KFN VTYI------ -----G-PDN 
+SYT2_BACSU       472   ---KDALKRS HQCATI-QLD FQMPE--KFD LTYI------ -----N-ELN 
+SYT_CHLMU        465   ---KDAINRT WQCGTI-QLD MFLPE--RFD LKYT------ -----N-PQG 
+SYT_CHLCV        465   ---KDAIQRT WQCGTI-QLD MFLPE--RFE LEYT------ -----N-AQG 
+SYT_CHLPN        465   ---KDAIQRT WQCGTI-QLD MFLPE--RFE LEYT------ -----T-AQG 
+SYT_HELPJ        446   ---TDALKRK WQCGTI-QVD MNLPE--RFK LAFT------ -----N-EYN 
+SYT_THETH        489   ---KDALGRE WQLGTI-QVD YNLPE--RFG LTYV------ -----G-KDG 
+SYT_DEIRA        481   ---KDVLGRE WQLGTI-QVD YNLPE--RFD ISYT------ -----G-EDG 
+SYT_CHLTE        492   ---RDAIGRK WQLGTV-QVD YVMPE--RFD LSYI------ -----G-SDG 
+SYT_SYNY3        436   ---QDALERE WQLGTV-QVD YNLPE--RFD LEYI------ -----A-ADG 
+SYT_AQUAE        473   ---RDAIGRM WQLSTI-QFD FNLPE--RFD MTYV------ -----G-PDN 
+SYT_BORBU        415   ---VDSLERE WQMSTI-QFD FNLPE--RFN MTYT------ -----A-EDG 
+SYT_STRCO        491   ---RDAIGRT WQMSTI-QLD FNLPE--RFS LEYT------ -----A-ADG 
+SYT_MYCLE        522   ---RDALGRS WQMSTI-QVD FNFPE--RFA LEYT------ -----S-ADG 
+SYT1_BACSU       479   ---KTAIGKE ETLSTV-QLD FLLPE--RFD LTYI------ -----G-EDG 
+SYT_BACHD        481   ---RTALGKD ETLSTV-QLD FLLPE--RFD LTYV------ -----G-EDG 
+SYT_LISIN        475   ---KTAIGKE ETLSTV-QLD FLLPE--RFD LTYI------ -----G-EDG 
+SYT_UREPA        413   ---KTVLNRI ITVSTI-QLD FLLPN--RFN LTYI------ -----N-ESN 
+SYT_MYCPU        424   ---KTVLNNI ITMSTI-QLD FLLPR--KFN ISYI------ -----A-PDG 
+SYT_MYCPN        401   ---KTALNKM ITIATI-QLD FLLPE--RFE LRYF------ -----D-EQS 
+SYT_MYCGE        401   ---KTIFKKM ITIATI-QLD FLLPE--KFD LTYI------ -----D-KKN 
+SYT_SULTO        365   ---RDSLGRW WQLSTI-QVD FNLPE--RFK LEYI------ -----D-KDG 
+SYT_SULSO        370   ---RDSLGRW WQLSTI-QVD FNLPE--RFK LEYI------ -----D-KDG 
+SYT_FUSNN        452   ---KDAIGRM WQCGTI-QLD FNLPE--RFD VTYI------ -----G-EDG 
+SYT_STAAM        477   ---KTAMGKE ETLSTA-QLD FLLPE--RFD LTYI------ -----G-QDG 
+SYT_STRP3        475   ---KTALGNE ETLSTI-QLD FLLPE--RFD LKYI------ -----G-ADG 
+SYT_LACPL        483   ---KTALGGE ETLSTI-QLD FLLPE--RFD LKYV------ -----G-ADG 
+SYT_LACLA        477   ---KTALGNE ETLSTI-QLD FLNPE--NFD ISYI------ -----G-ADG 
+SYT_NEIMA        470   ---RDALGRS WQCGTL-QLD FVLPE--RLD AEYV------ -----T-ENN 
+SYT_CLOPE        477   ---KNVHGKE DTIITI-QID FALAE--RFG MYYI------ -----D-KDG 
+SYT1_AERPE       279   mveESGVSKE WQMGTI-QFD FNLPR--RFR LYDV------ -----VREEf 
+SYT_HALN1        480   ---EDALGRS WDGPTV-QLD FNMPD--RFD LEYT------ -----G-SDN 
+SYT_RALSO        470   ---KDAIGRS WQCGTL-QLD LVLPE--RLG AEYV------ -----A-EDN 
+SYT_PSEAE        470   ---KDCLGRN WQCGTL-QYD PNLPE--RLD ASYI------ -----A-EDN 
+SYT_XANAC        471   ---KDAIGRT WQLGTM-QVD FMMPG--RLG AEYV------ -----D-ENS 
+SYT_HAEIN        471   ---RDCLGRE WQCGTV-QLD FALPG--RLD ATYV------ -----A-EDN 
+SYT_VIBCH        472   ---YDCLDRA WQCGTV-QLD FNLPT--RLG ATYV------ -----G-ESN 
+SYT_RICCN        470   ---TDAIGRQ WQCGTL-QMD FVLPE--RLD ASYV------ -----A-ASG 
+SYT_CAUCR        477   ---KDAIGRV WQCGTL-QLD FVLPE--RLD AEYV------ -----S-EDG 
+SYT_BRUME        485   ---KDAIGRE WQCGTT-QVD FNLPE--RFG AFYI------ -----G-ADS 
+SYT_AGRT5        490   ---KDAIGRE WQCGTT-QVD FNLPE--RFG AFYI------ -----D-QNS 
+SYT_TREPA        423   ---IDTLERE WQCGTI-QVD YQLPSceRLN AEYV------ -----G-EDN 
+SYT_BUCAI        471   ---QDSLDRN WQCGTI-QLD FYLPL--RLS SFYI------ -----N-EKN 
+SYT_BUCAP        471   ---QDSLDRN WQCGTI-QLD FYLPI--RLR SFYI------ -----D-EHN 
+SYT_BUCBP        472   ---FDSLGRV WQCATI-QLD FCLPI--NLK AFYI------ -----D-HNN 
+SYT_WIGBR        470   ---LDSLNRK WQCGTI-QLD LCLAN--KLQ AYYI------ -----N-NKN 
+SYT_ARATH        543   ---SDAMNRK FQCATL-QLD FQLPI--RFN LEYA------ -----AEDEA 
+SYT_HUMAN        537   ---KDAIGRY HQCATI-QLD FQLPI--RFN LTYV------ -----S-HDG 
+SYT_CAEEL        549   ---QDALKRN FQCATI-QLD FQLPN--QFD LSYF------ -----D-EKG 
+                                                                 
+                       0007777777 7777880888 8888700776 6554000000 0000040444 
+ 
+1evk_A           262   ---ERKVPVM IHRAILG-SM ERFIGILTEE FAGFFPTWLA PVQVVIMNIT 
+1nj8_A           242   ---DKDYAYQ TCYGIsdrVI ASIIAIHGDE KGLILPPIVA PIQVVIVPLI 
+SYTC_YEAST       588   DseSYERPVM IHRAILG-SV ERMTAILTEH FAGKWPFWLS PRQVLVVPVG 
+SYTC_SCHPO       561   ---KYTRPVM VHRAILG-SL ERMIAILTEH YAGKWPFWMS PRQVCIIPVS 
+SYT_THETN        510   ---EKHRPIM LHRVIYG-SI ERFIGILTEH FAGAFPTWLA PVQVRVLPIS 
+SYT_CLOAB        501   ---EKHRPVM VHRVVFG-SI ERFIGILIEH YAGAFPTWLA PVQVKVMNIT 
+SYT_THEMA        500   ---KEHRAVM IHRAIYG-SL ERFFGILIEH FAGAFPTWLA PIQVAVIPIS 
+SYT2_BACSU       504   ---EKVRPVV IHRAVFG-SI DRFFGILIEH YGGAFPVWLA PIQVQIIPVS 
+SYT_CHLMU        497   ---EKSTPIM LHRALFG-SI ERFLGILIEH FKGRFPLWLS PEHVRIITVA 
+SYT_CHLCV        497   ---EKSTPIM LHRALFG-SI ERFLGILIEH FKGKFPLWLS PEHIRLITVA 
+SYT_CHLPN        497   ---TKSVPVM LHRALFG-SI ERFLGILIEN FKGRFPLWLS PEQVRIITVA 
+SYT_HELPJ        478   ---HAEQPVM IHRAILG-SF ERFIAILSEH FGGNFPFFVA PTQIALIPIN 
+SYT_THETH        521   ---EEHRPVM LHRAPFG-SL ERFIGILIEH FAGDFPLWLA PVQAVVVPVS 
+SYT_DEIRA        513   ---QEHRPIM IHRAPFG-SI ERFTGILIEH YAGDFPLWLA PRQVMIIPIA 
+SYT_CHLTE        524   ---QKHRPVV IHRAPFG-SM ERFIGVLIEH TAGNFPLWLA PVQAVVLPIA 
+SYT_SYNY3        468   ---SRQRPVM IHRAPFG-SL ERLIGILIEE YAGDFPLWLA PIQVRLLAVS 
+SYT_AQUAE        505   ---KKHRPYM IHRALLG-SI ERFTGILLEH YAGLLPIWLS PTQVMIIPIA 
+SYT_BORBU        447   ---KEKRPFM IHRALLG-SI ERFFGILVEH YGGAFPLWLS PVQVVIIPVN 
+SYT_STRCO        523   ---AKTRPVM IHRALFG-SI ERFFAVLLEH YAGAMPPWLA PVQAVGIPVG 
+SYT_MYCLE        554   ---TRQRPVM IHRALFG-SI ERFFGILTEH YAGAFPAWLA PIQVVGIPVT 
+SYT1_BACSU       511   ---KQHRPVV IHRGVVS-TM ERFVAFLIEE HKGALPTWLA PVQFQVIPVS 
+SYT_BACHD        513   ---QPHRPVV VHRGVVS-TM ERFVAFLLEE YKGAFPTWLA PVQVQVIPVS 
+SYT_LISIN        507   ---EKHRPVV IHRGVVS-TM ERFVAYLIEE YKGAFPTWLA PVQMELIPVN 
+SYT_UREPA        445   ---EQSVPVM IHIGIIG-TY ERLLAILLEQ TKGILPLWLS PIQVVIIPVN 
+SYT_MYCPU        456   ---SKQTPLM IHRGLIG-TY ERFVSILLEQ TKGNFPFWLS PSQVIVLPIA 
+SYT_MYCPN        433   ---NAQTPVI IHVGIVG-TY ERFIAALLEK THGNLPLWMA PVQVVVIPVN 
+SYT_MYCGE        433   ---TLKKPVI IHVGIIG-TY ERFIAALLEK TSGNFPLWLA PVQAVIIPVN 
+SYT_SULTO        397   ---SRKRPVM IHRAIYG-SI ERFMAILLEH FRGKLPTWLS PVQVRILPIS 
+SYT_SULSO        402   ---IKKRPVM VHRAIYG-SI DRFVAILLEH FKGKLPTWLS SVQVRVLPIT 
+SYT_FUSNN        484   ---EKHRPVM LHRVIYG-SI ERFIGILIEH YAGAFPMWLA PVQVKVLTLN 
+SYT_STAAM        509   ---EHHRPVV IHRGVVS-TM ERFVAFLTEE TKGAFPTWLA PKQVQIIPVN 
+SYT_STRP3        507   ---EEHRPVM IHRGVIS-TM ERFTAILIET YKGAFPTWLA PHQVTVIPIS 
+SYT_LACPL        515   ---EEHRPVM IHRGLVS-TM ERFVAYLTEI YKGAFPTWLA PKQVTIIPVN 
+SYT_LACLA        509   ---EKHRPVM IHRGVIS-TL ERFIAYLIEV YKGAFPTWLA PTQATIIPVN 
+SYT_NEIMA        502   ---DRARPVM LHRAILG-SL ERFIGILIEN HAGSFPLWLA PVQLVIMNIT 
+SYT_CLOPE        509   ---EKKRPYI IHRSSIG-CY ERTLAMLIEK YAGALPTWIA PVQAKVLPLS 
+SYT1_AERPE       315   gieev---YI IHRALLG-SI ERFLGVYLEH RRGRMPFTLA PIQFAVIAVK 
+SYT_HALN1        512   ---DAHQPVM IHRALYG-SY ERFFMVLIEH YNGRFPTWLA PEQVRILPVT 
+SYT_RALSO        502   ---SRKRPVM LHRAILG-SF ERFLGILLEN HAGALPLWLA PEQVVIMSIA 
+SYT_PSEAE        502   ---NRKRPVM LHRAILG-SF ERFIGMLIEH YAGAFPAWLA PTQAVVMNIT 
+SYT_XANAC        503   ---QKKHPVM LHRAIVG-SM ERFIGILIEH HAGAFPSWLA PVQVVVANIT 
+SYT_HAEIN        503   ---SRKTPVM IHRAILG-SI ERFIGIITEE YAGFFPAWLA PTQAVVMNIT 
+SYT_VIBCH        504   ---ERLIPVM IHRAILG-SL ERFIGILIEE YAGFFPTWLA PEQAVVVNIT 
+SYT_RICCN        502   ---EKKRPVM LHRAILG-SL ERFIGILIEE YAGRFPLWLA PVQVAIATIT 
+SYT_CAUCR        509   ---SKKRPVM LHRAILG-SF ERFIGILLEN FAGALPVWLA PTQVVVATIT 
+SYT_BRUME        517   ---EKKQPVM IHRAICG-SM ERFLGILIEN FAGHMPLWFA PVQVVVATIT 
+SYT_AGRT5        522   ---EKTQPVM IHRAICG-SM ERFLGILIEN FAGHMPLWFA PLQVVVATIT 
+SYT_TREPA        457   ---QRHMPVI LHRTVIG-SL ERFIGILIEH YGGAFPPWLA PVQAVVIPVA 
+SYT_BUCAI        503   ---EKKVPVI IHRAILG-SI ERFIGILIEE CSGNLPTWLS PVQVVIISIT 
+SYT_BUCAP        503   ---HQKIPII IHRAILG-SI ERFIGILIEE FSGKLPTWLS PIQVVILSIT 
+SYT_BUCBP        504   ---ERKVPII VHRAVLG-SI ERFIGILIEE YIGNFPTWLA PIQVVLANVN 
+SYT_WIGBR        502   ---EKTNPVI IHRAILG-SM ERFIGIITEE FSGKYPLWIS PIQVGVINVS 
+SYT_ARATH        576   ---KKSRPVM IHRAVLG-SV ERMFAILLEH YKGKWPFWIS PRQAIVCPIS 
+SYT_HUMAN        569   D--DKKRPVI VHRAILG-SV ERMIAILTEN YGGKWPFWLS PRQVMVVPVG 
+SYT_CAEEL        581   ---EKQRPVM IHRAVLG-SV ERMTAILTES YGGKWPFWLS PRQCKIITVH 
+                                                                 
+                       0005556888 8988888088 8888888888 8888888877 7665544322 
+ 
+1evk_A           308   DS-----QS- EY-VNELTQK L---SNAGIR VKA-DLR-NE KIGFKI--RE 
+1nj8_A           289   FK-----GKE DI-VMEKAKE IyekLKGKFR VHI-DDR-DI RPGRKF--ND 
+SYTC_YEAST       637   V------KYQ GY-AEDVRNK L---HDAGFY ADV-DLT-GN TLQKKV--RN 
+SYTC_SCHPO       607   A------AAY NY-ADKVHNI L---SEADIF VDT-DKS-DN TLPKKI--RN 
+SYT_THETN        556   E------KHH EY-ARKVYER L---QEHDIR VEL-DDR-NE KIGYKI--RE 
+SYT_CLOAB        547   DS-----QV- EY-VDAISEK L---KEAGIR VEK-DVR-NE KIGYKI--RE 
+SYT_THEMA        546   E------KHN DG-AEKVARR I---SQEGFR VFF-DNR-RE TLGYRI--RQ 
+SYT2_BACSU       550   H------VHL DY-CRKVQAE L---KQAGIR AGI-DER-NE KLGYKI--RE 
+SYT_CHLMU        543   D------RHE AR-AQELAKY F---TQQGIL ATV-DQA-SE SVSKKI--RN 
+SYT_CHLCV        543   D------RHQ PH-AKELAAA W---QKLGLV VTV-DDS-NE SVSKKI--RN 
+SYT_CHLPN        543   D------RHI PR-AKELEEA W---KRLGLV VTL-DDS-SE SVSKKI--RN 
+SYT_HELPJ        524   EE-----HHV -F-ALKLKEA L---KKCDIF VEV-LDK-ND SLNKKV--RL 
+SYT_THETH        567   E------KQE DY-AREVAGR L---KEAGLR AEA-DTR-PE RMQARI--RD 
+SYT_DEIRA        559   D------RHN AY-AEELREE L---HRAGLR AEV-DDS-SN RMQAKV--RD 
+SYT_CHLTE        570   E------EVH DY-AREVYAK L---HEAGIR TEL-DLR-SE KIGKKI--RE 
+SYT_SYNY3        514   D------EFL PF-AQSIVQQ M---QSLGLR AEV-DTS-GD RLGKMI--RN 
+SYT_AQUAE        551   D------RHH EY-AKKVYEF L---KENGIR AEM-DLR-EE RMNAKI--RD 
+SYT_BORBU        493   N------IVE DY-AIKVFNK F---KNEGIR IKL-DNS-SS RMNAKI--RE 
+SYT_STRCO        569   D------AHV QY-LEEFAAE A---RRKGLR VDV-DAS-SD RMQKKI--RT 
+SYT_MYCLE        600   G------EHV SY-LEEVAAQ L---KSCGVR TEV-DVS-DD RMAKKI--VR 
+SYT1_BACSU       557   PA-----VHL DY-AKKVQER L---QCEGLR VEV-DSR-DE KIGYKI--RE 
+SYT_BACHD        559   PE-----AHL EY-AKNVQET L---QQAGIR VEI-DER-DE KIGYKI--RE 
+SYT_LISIN        553   AD-----AHL DY-AKGVQDK L---QRAGLR AEV-DDR-NE KLGYKI--RE 
+SYT_UREPA        491   EN-----LHT DY-VKELNIK L---RKHLIR SNV-DLR-NE RLSKKI--RE 
+SYT_MYCPU        502   K------EFK EY-AFEIYSK I---FKQNFN VEI-DNR-DE TINKKI--RE 
+SYT_MYCPN        479   ID-----KH- EKAAKKLYQK L---LKENIR VSL-DES-ED RLGKKV--RT 
+SYT_MYCGE        479   IQ-----KHL -KAAKKLYNK L---LKENIR VNL-DDN-QD RLAKKV--RQ 
+SYT_SULTO        443   K------DVE DY-ALNLLSK L---KENKIR VEL-DMS-DE TLSKRI--KK 
+SYT_SULSO        448   DE-----VN- EY-AEKVLND M---RKRRIR AEI-DYA-GE TLSKRI--KN 
+SYT_FUSNN        530   D------ECI PY-AKEIMNK L---EELGIR AEL-DDR-NE TIGYKI--RE 
+SYT_STAAM        555   VD-----LHY DY-ARQLQDE L---KSQGVR VSI-DDR-NE KMGYKI--RE 
+SYT_STRP3        553   NE-----AHI DY-AWEVAKT L---RDRGVR ADV-DDR-NE KMQYKI--RA 
+SYT_LACPL        561   NG-----AHG AY-AETVRRR L---AAEGVR VSI-DDR-NE KMGYKI--RE 
+SYT_LACLA        555   NE-----IHA DY-AWKIQRE L---QDKGFR VVV-DEA-NE KMGWKI--RQ 
+SYT_NEIMA        548   EN-----QA- DY-CREVAAK L---QAAGFR VEL-DLR-NE KIGYKI--RD 
+SYT_CLOPE        555   DK-----YA- DY-ANEVVEE L---RRRGVR VEA-DHR-AE KIGYKI--RE 
+SYT1_AERPE       361   TGgevdrEIE DL-ASSIAKG L---LDKGFR VAV-KGS-SK TglssdvrHI 
+SYT_HALN1        558   D------DNL GY-AHRVKNE L-----GDYR VEV-EDR-DW TVGKKI--QQ 
+SYT_RALSO        548   DA-----HA- EY-AESVAQS L---QKQGFR ASA-DLR-NE KITYKI--RE 
+SYT_PSEAE        548   DK-----QA- DF-AAEVVRI L---GESGFR AKS-DLR-NE KIGFKI--RE 
+SYT_XANAC        549   DA-----QA- EY-VDSVRKT L---ANQGFR VSA-DLR-NE KIGYKI--RE 
+SYT_HAEIN        549   DS-----QA- DY-VQKVAKQ L---SDVGLR VKT-DLR-NE KVGFKI--RE 
+SYT_VIBCH        550   DK-----QA- DY-AHEVAQK L---QKCGIR AKA-DLR-NE KIGFKI--RE 
+SYT_RICCN        548   S------DLN DY-ALEVQKA L---IDNGVR TDF-NIS-PD KINYKI--RE 
+SYT_CAUCR        555   S------DAD DY-AREVVEK L---TKLGMR AEL-DLR-NE KINYKI--RE 
+SYT_BRUME        563   S------DAD EY-AKEAAAK L---KAAGLQ VVT-DLR-NE KINYKV--RE 
+SYT_AGRT5        568   S------DAD DY-GREVAEA L---REAGMA VET-DFR-NE KINYKV--RE 
+SYT_TREPA        503   P------AFL EY-AQHVARE L---CARSLR VQA-DVS-AE RMNAKI--RT 
+SYT_BUCAI        549   DI-----SS- GY-VKELFKK F---SDVNIR IEC-DLR-NE KIGFKI--RE 
+SYT_BUCAP        549   DS-----HI- NY-VKKIVQH F---SDINIR VES-DLR-NE KIGFKI--RE 
+SYT_BUCBP        550   SN-----HL- QY-IKLLYKE F---YALGIR SEI-DSR-NE TISYKI--RE 
+SYT_WIGBR        548   VD-----QI- DY-VKKITKF F---LQKKIR IIS-DLR-NE KISFKI--RE 
+SYT_ARATH        622   E------KSQ QY-AEKVQKQ I---KDAGFY VDA-DLT-DR KIDKKV--RE 
+SYT_HUMAN        616   P------TCD EY-AQKVRQQ F---HDAKFM ADI-DLDpGC TLNKKI--RN 
+SYT_CAEEL        627   ES-----VR- DY-ANDVKKQ I---FEAGFE IEYeENC-GD TMNKQV--RK 
+                                                                 
+                       1000000110 1202111111 2000222222 2230333033 3434440044 
+ 
+1evk_A           344   HTLR-RVPYM LVCGDKEVES GKVAVRT--R RGKDLGSMDV NEVIEKLQQE 
+1nj8_A           329   WEIK-GVPLR IEVGPKDIEN KKITLFR--R DTMEKFQVDE TQLMEVVEKT 
+SYTC_YEAST       673   GQML-KYNFI FIVGEQEMNE KSVNIRN--R DVMEQQGKNA TVSVEEVLKQ 
+SYTC_SCHPO       643   AQLA-QYNFI FVVGAEEEST NSVNVRN--R DDPKKQSKGS TVAVEEVVKK 
+SYT_THETN        592   AQLQ-KIPYM LIVGDREVEE GNVSLRS--R KDGDLGPISL DNFIEKILKE 
+SYT_CLOAB        583   AQLK-KVPYM IVIGDKEIKE GIISVRS--R KEGDLGSMNI EDFIFRINAE 
+SYT_THEMA        582   AQTQ-KIPYM IIIGDKELES GKISVRT--R TGKEIKDVDP EHFVETLRNE 
+SYT2_BACSU       586   SQVQ-KIPYV LVLGDHEEQE NAVNVRR--F GHQQNEHVPF QTFKDKLVKQ 
+SYT_CHLMU        579   AQNM-QVNYM ITIGDKELET QLLAVRT--R DNRVLNDISV EHFTNTILEE 
+SYT_CHLCV        579   AQNM-QVNYM VTLGDREIEE NTLAIRT--R DNRVLNAMTV ETFINTILEE 
+SYT_CHLPN        579   AQNM-QVNYM ITLGDHEINE NVLAVRT--R DNRVINDVSV ERFLNTILEE 
+SYT_HELPJ        560   AEKQ-KIPMI LVLGNEEVET EILSIRD--R EKQAQYKMPL KEFLNMVESK 
+SYT_THETH        603   AEVQ-KVPYI LVVGEREKAE GAVSVRR--R KKGNLGTMPL AAFLEGALRE 
+SYT_DEIRA        595   AELH-KIPVM LIVGDKEQEA REVSVRE--R TGEGTKERKG VKFDELKAEL 
+SYT_CHLTE        606   AELS-KIPAM LVIGRNEQEK GEVSLRR--H RKGDEGSFGV DELIARLCEE 
+SYT_SYNY3        550   AEKQ-KIPVM AVIGAKEVEA NALNIRT--R ASGELGEIPV TEVLEKLQAT 
+SYT_AQUAE        587   AELK-KIPVI LVVGDREAQN NTVSVRT--K KEGNLGSMEL NKFLDWIKEK 
+SYT_BORBU        529   YQAK-KIPYM FIIGEREATE ERISIRT--R TNEQINGMKL DEALKFILFK 
+SYT_STRCO        605   QQKQ-KVPFM IIVGDEDMHG GTVSFRY--R DGSQENGIPR DQALAKLVDV 
+SYT_MYCLE        636   HTNQ-KVPFM LLAGDRDVRT GSVSFRF--G DRTQINGVAR DSAVEAIVCW 
+SYT1_BACSU       594   AQMQ-KIPYM LVVGDQEAEN GAVNVRK--Y GEQNSETISL DEFVKKAVAE 
+SYT_BACHD        596   AQMQ-KIPYM LVLGDKEVEA NGVNVRK--Y GEKDSSSMGL DEFVRHVARE 
+SYT_LISIN        590   AQTK-KIPYA LVLGDQEVEA GSVNVRR--Y GSKDSETMDL DAFIAQVVAE 
+SYT_UREPA        528   AQIQ-KIPYQ IVIGDEEIKN NKMVTYRCYG SE-KTTTVSI TDFINMLENK 
+SYT_MYCPU        538   AQIN-KYKYQ IIIGKQEMEN KTIAIRE--Y GKVQTITMDL ESFIEKIKSQ 
+SYT_MYCPN        516   AIVN-KIPLQ IIVGDKEMQD LTRITCRGFK GE-KVQKLYW ANFVKKVRKD 
+SYT_MYCGE        516   AIIE-KIPLQ LIVGDKEIEN LEKLTCRGFK GE-KITRISF NNFVKRVRRD 
+SYT_SULTO        479   AYDE-GVPYM IIVGKKEREE GKVTVRG--R NNVEIRGVKF DDFLKALLEE 
+SYT_SULSO        484   AYDQ-GVPYI LIVGKKEASE GTVTVRA--R GNIEVRNVKF EKFLELLITE 
+SYT_FUSNN        566   ANGKyKIPMQ LIIGKNEVEN KEVNIRR--F GSKDQFSKLL DEFYTYVVDE 
+SYT_STAAM        592   AQMQ-KIPYQ IVVGDKEVEN NQVNVRQ--Y GSQDQETVEK DEFIWNLVDE 
+SYT_STRP3        590   SQTS-KIPYQ LIVGDKEMEE KSVNVRR--Y GSKATHTESV EEFVENILAD 
+SYT_LACPL        598   SQTK-KVPYL LVVGDQEVAN GSVSVRK--Y GEERTESEAV DMFIGAITQE 
+SYT_LACLA        592   SQTH-KIPYQ IVIGDQEQAD GTVNIRR--Y GSKETKVIPL EEFIENISAD 
+SYT_NEIMA        584   NSQY-RFPYQ IVVGDKEKQE NKVAVRR--K AE-DLGSLDL DDFIAQLQQE 
+SYT_CLOPE        591   ARLE-RTPYI LVVGEKEAEN KEVSVRS--R KNGEEGAMPL ADFVNRIVLE 
+SYT1_AERPE       405   ESTA-KPAVN VFIGAKEVRE KVLDVRV--F DLESMKRRRL AIAYGDAADA 
+SYT_HALN1        592   AHDD-NVPYM LVVGDDEEDA DAVSVRD--R QEREGKGVDL AEFRAHLDSE 
+SYT_RALSO        584   HSLQ-KVPYL VVVGDKERDG NQVAVRA--R GNVDLGSMPV STFVERLQND 
+SYT_PSEAE        584   HTLL-KVPYL LVIGDREVES KAVAVRT--R EGEDLGSMPV TQFAELLAQA 
+SYT_XANAC        585   HTLQ-RVPYL LVVGDREKEN GAVAVRT--R SGEDLGTMTV SAFIERLQAE 
+SYT_HAEIN        585   HTLR-RVPYM LVCGDKEIAE GKVAVRT--R KGADLGTFTV EEFAEILKNQ 
+SYT_VIBCH        586   HTLK-RVPYM LVCGDQEMEA GEIAVRT--R KGKDLGKFKL DDFIAHIQAE 
+SYT_RICCN        584   FSNQ-KIPMI AVIGKQEQEN KQVAIRR--L GTTDQEVLSV EQLIAVVKEE 
+SYT_CAUCR        591   HSLA-KVPVI AVVGRKEAET GQLALRR--L GGEGQSVLSL EEALRVLKSD 
+SYT_BRUME        599   HSLQ-KVPVI LVCGKREAEE KTVNMRR--L GSRDQESMTL DEAIARLCEE 
+SYT_AGRT5        604   HSVT-KVPVI IVCGRKEAEE RTVNIRR--L GSQNQTSMSL EEAITSLVDE 
+SYT_TREPA        539   AQTQ-KVPYL LIVGERELRA QQVAVRP--R TGPQHSMg-L SAFSTFLLAK 
+SYT_BUCAI        585   HTLR-RIPYI LICGEKESSS KKISVRN--R QGHNFGMIDV DFFIKKLQKE 
+SYT_BUCAP        585   HTLR-QIPYI LICGEKEIKS KKISVRT--R NGYNLGIIDI DCFIKKLQKE 
+SYT_BUCBP        586   HIAR-KIPYI IICGDKEVKN NTITLRT--R SGKNFYCIDV QFFISKLCKE 
+SYT_WIGBR        584   YTLR-FIPYI IICGKKEMES NSISVRN--K YGKQLKYSSL EKFYNVIYEE 
+SYT_ARATH        658   AQLA-QYNYI LVVGETEAAT GQVSVRV--R DNAAHSVKSI EDLLEEFKAK 
+SYT_HUMAN        653   AQLA-QYNFI LVVGEKEKIS GTVNIRT--R DNKVHGERTI SETIERLQQL 
+SYT_CAEEL        664   AQLA-QFNFI LVIGAKEKEN GTVNVRT--R DNAVRGEVAL DKLISKFRRF 
+                                                                 
+                       3334044444 4444444333 3222222001 1111111111 1110000000 
+ 
+1evk_A           391   IRSRSLKQLE E--------- ---------- ---------- ---------- 
+1nj8_A           376   LNNImenikn rawekfenfi tiledinpde iknilsEKRG vilvpfkeei 
+SYTC_YEAST       720   LRNLKD---- ---------- ---------- ------EKRG dnvla----- 
+SYTC_SCHPO       690   LLKLKE---- ---------- ---------- ------SKsl indl------ 
+SYT_THETN        639   IATKAL---- ---------- ---------- ---------- ---------- 
+SYT_CLOAB        630   VKEKIssi-- ---------- ---------- ---------- ---------- 
+SYT_THEMA        629   VLSRKLELSM Eg-------- ---------- ---------- ---------- 
+SYT2_BACSU       633   VENRGM---- ---------- ---------- ---------- ---------- 
+SYT_CHLMU        626   LRSLSLTSSL ---------- ---------- ---------- ---------- 
+SYT_CHLCV        626   KNSLSLTPLL ---------- ---------- ---------- ---------- 
+SYT_CHLPN        626   KNSLSLTALL ---------- ---------- ---------- ---------- 
+SYT_HELPJ        607   MQEVSF---- ---------- ---------- ---------- ---------- 
+SYT_THETH        650   YRERRLEPVF ---------- ---------- ---------- ---------- 
+SYT_DEIRA        642   LERRknrs-- ---------- ---------- ---------- ---------- 
+SYT_CHLTE        653   RDRRF----- ---------- ---------- ---------- ---------- 
+SYT_SYNY3        597   VTNHDTw--- ---------- ---------- ---------- ---------- 
+SYT_AQUAE        634   IKNKE----- ---------- ---------- ---------- ---------- 
+SYT_BORBU        576   IRDKEi---- ---------- ---------- ---------- ---------- 
+SYT_STRCO        652   VERRIqv--- ---------- ---------- ---------- ---------- 
+SYT_MYCLE        683   IVDRENdfpt aelvkvtgge ---------- ---------- ---------- 
+SYT1_BACSU       641   AKK------- ---------- ---------- ---------- ---------- 
+SYT_BACHD        643   AKK------- ---------- ---------- ---------- ---------- 
+SYT_LISIN        637   VSKY------ ---------- ---------- ---------- ---------- 
+SYT_UREPA        576   IRLKK----- ---------- ---------- ---------- ---------- 
+SYT_MYCPU        585   RDSKE----- ---------- ---------- ---------- ---------- 
+SYT_MYCPN        564   G--------- ---------- ---------- ---------- ---------- 
+SYT_MYCGE        564   G--------- ---------- ---------- ---------- ---------- 
+SYT_SULTO        526   IRNRDLNQSA INKLK----- ---------- ---------- ---------- 
+SYT_SULSO        531   IAQRDVEQTT VKALK----- ---------- ---------- ---------- 
+SYT_FUSNN        614   ATikfdk--- ---------- ---------- ---------- ---------- 
+SYT_STAAM        639   IRLKKhr--- ---------- ---------- ---------- ---------- 
+SYT_STRP3        637   IARKSRPDAQ a--------- ---------- ---------- ---------- 
+SYT_LACPL        645   IKHYSRGASk ---------- ---------- ---------- ---------- 
+SYT_LACLA        639   VANFSRVD-- ---------- ---------- ---------- ---------- 
+SYT_NEIMA        630   ITDALVNH-- ---------- ---------- ---------- ---------- 
+SYT_CLOPE        638   IANREN---- ---------- ---------- ---------- ---------- 
+SYT1_AERPE       452   VENLaava-- ---------- ---------- ---------- ---------- 
+SYT_HALN1        639   VDGKRTEPDF ld-------- ---------- ---------- ---------- 
+SYT_RALSO        631   FANKS----- ---------- ---------- ---------- ---------- 
+SYT_PSEAE        631   VSRRGRQDSE ---------- ---------- ---------- ---------- 
+SYT_XANAC        632   QAA------- ---------- ---------- ---------- ---------- 
+SYT_HAEIN        632   VRSRELKLLN Ee-------- ---------- ---------- ---------- 
+SYT_VIBCH        633   IASRKLNLEE ---------- ---------- ---------- ---------- 
+SYT_RICCN        631   NEKYl----- ---------- ---------- ---------- ---------- 
+SYT_CAUCR        638   ATPPDVARAL AVQEavta-- ---------- ---------- ---------- 
+SYT_BRUME        646   ATPPDLLRLK Nag------- ---------- ---------- ---------- 
+SYT_AGRT5        651   ATPPDVKRKL AAKKqla--- ---------- ---------- ---------- 
+SYT_TREPA        585   LETRALha-- ---------- ---------- ---------- ---------- 
+SYT_BUCAI        632   IITRNFYQME E--------- ---------- ---------- ---------- 
+SYT_BUCAP        632   IFTRSFYQME E--------- ---------- ---------- ---------- 
+SYT_BUCBP        633   INSYSCSLME E--------- ---------- ---------- ---------- 
+SYT_WIGBR        631   IKQKKt---- ---------- ---------- ---------- ---------- 
+SYT_ARATH        705   TAEFV----- ---------- ---------- ---------- ---------- 
+SYT_HUMAN        700   KEFRSKQAEE ef-------- ---------- ---------- ---------- 
+SYT_CAEEL        711   ADEYVadtek seewa----- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A           402   ---------- ---------- ---------- - 
+1nj8_A           426   ynEELEEKVE Atilgeteyk gnkyiaiakt y 
+SYTC_YEAST       735   ---------- ---------- ---------- - 
+SYTC_SCHPO       704   ---------- ---------- ---------- - 
+SYT_THETN        645   ---------- ---------- ---------- - 
+SYT_CLOAB        638   ---------- ---------- ---------- - 
+SYT_THEMA        641   ---------- ---------- ---------- - 
+SYT2_BACSU       639   ---------- ---------- ---------- - 
+SYT_CHLMU        636   ---------- ---------- ---------- - 
+SYT_CHLCV        636   ---------- ---------- ---------- - 
+SYT_CHLPN        636   ---------- ---------- ---------- - 
+SYT_HELPJ        613   ---------- ---------- ---------- - 
+SYT_THETH        660   ---------- ---------- ---------- - 
+SYT_DEIRA        650   ---------- ---------- ---------- - 
+SYT_CHLTE        658   ---------- ---------- ---------- - 
+SYT_SYNY3        604   ---------- ---------- ---------- - 
+SYT_AQUAE        639   ---------- ---------- ---------- - 
+SYT_BORBU        582   ---------- ---------- ---------- - 
+SYT_STRCO        659   ---------- ---------- ---------- - 
+SYT_MYCLE        703   ---------- ---------- ---------- - 
+SYT1_BACSU       644   ---------- ---------- ---------- - 
+SYT_BACHD        646   ---------- ---------- ---------- - 
+SYT_LISIN        641   ---------- ---------- ---------- - 
+SYT_UREPA        581   ---------- ---------- ---------- - 
+SYT_MYCPU        590   ---------- ---------- ---------- - 
+SYT_MYCPN        565   ---------- ---------- ---------- - 
+SYT_MYCGE        565   ---------- ---------- ---------- - 
+SYT_SULTO        541   ---------- ---------- ---------- - 
+SYT_SULSO        546   ---------- ---------- ---------- - 
+SYT_FUSNN        621   ---------- ---------- ---------- - 
+SYT_STAAM        646   ---------- ---------- ---------- - 
+SYT_STRP3        648   ---------- ---------- ---------- - 
+SYT_LACPL        655   ---------- ---------- ---------- - 
+SYT_LACLA        647   ---------- ---------- ---------- - 
+SYT_NEIMA        638   ---------- ---------- ---------- - 
+SYT_CLOPE        644   ---------- ---------- ---------- - 
+SYT1_AERPE       460   --EELESPVR Slsgqaprip adfsfml--- - 
+SYT_HALN1        651   ---------- ---------- ---------- - 
+SYT_RALSO        636   ---------- ---------- ---------- - 
+SYT_PSEAE        641   ---------- ---------- ---------- - 
+SYT_XANAC        635   ---------- ---------- ---------- - 
+SYT_HAEIN        644   ---------- ---------- ---------- - 
+SYT_VIBCH        643   ---------- ---------- ---------- - 
+SYT_RICCN        636   ---------- ---------- ---------- - 
+SYT_CAUCR        656   ---------- ---------- ---------- - 
+SYT_BRUME        659   ---------- ---------- ---------- - 
+SYT_AGRT5        668   ---------- ---------- ---------- - 
+SYT_TREPA        593   ---------- ---------- ---------- - 
+SYT_BUCAI        643   ---------- ---------- ---------- - 
+SYT_BUCAP        643   ---------- ---------- ---------- - 
+SYT_BUCBP        644   ---------- ---------- ---------- - 
+SYT_WIGBR        637   ---------- ---------- ---------- - 
+SYT_ARATH        710   ---------- ---------- ---------- - 
+SYT_HUMAN        712   ---------- ---------- ---------- - 
+SYT_CAEEL        726   ---------- ---------- ---------- - 
+                                             
+                       0000000000 0000000000 0000000000 0 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((((1evk_A      :0.002620(((SYT_BUCAI   :0.001395SYT_BUCAP   :0.001395):0.000854SYT_BUCBP   :0.002249):0.000181SYT_WIGBR   :0.002429):0.000190):0.000285((((SYT_NEIMA   :0.001597(SYT_PSEAE   :0.001553SYT_XANAC   :0.001553):0.000044):0.000140SYT_RALSO   :0.001738):0.000178(SYT_HAEIN   :0.001400SYT_VIBCH   :0.001400):0.000516):0.000526(SYT_RICCN   :0.002119(SYT_CAUCR   :0.001993(SYT_BRUME   :0.001274SYT_AGRT5   :0.001274):0.000719):0.000126):0.000323):0.000464):0.000259SYT_TREPA   :0.003164):0.000823(((((((((SYT_THETN   :0.001641SYT_CLOAB   :0.001641):0.000452SYT_FUSNN   :0.002092):0.000195SYT_THEMA   :0.002287):0.000019SYT2_BACSU  :0.002306):0.000569(SYT_CHLMU   :0.001385(SYT_CHLCV   :0.001341SYT_CHLPN   :0.001341):0.000044):0.001490):0.000614SYT_HELPJ   :0.003489):0.000086SYT_HALN1   :0.003575):0.000042((((SYT_THETH   :0.001843SYT_DEIRA   :0.001843):0.000737SYT_CHLTE   :0.002580):0.000443SYT_SYNY3   :0.003023):0.000417((((((SYT1_BACSU  :0.001354SYT_BACHD   :0.001354):0.000101SYT_LISIN   :0.001455):0.000124SYT_STAAM   :0.001579):0.000298(SYT_STRP3   :0.001548SYT_LACLA   :0.001548):0.000329):0.000134SYT_LACPL   :0.002012):0.001253SYT_CLOPE   :0.003265):0.000175):0.000177):0.000176((SYT_AQUAE   :0.002729SYT_BORBU   :0.002729):0.000572(SYT_STRCO   :0.001773SYT_MYCLE   :0.001773):0.001527):0.000492):0.000195):0.000675(((SYTC_YEAST  :0.001628SYTC_SCHPO  :0.001628):0.000388(SYT_HUMAN   :0.001653SYT_CAEEL   :0.001653):0.000363):0.000153SYT_ARATH   :0.002169):0.002494):0.000795(SYT_SULTO   :0.001986SYT_SULSO   :0.001986):0.003472):0.000439((SYT_UREPA   :0.003135SYT_MYCPU   :0.003135):0.001166(SYT_MYCPN   :0.001914SYT_MYCGE   :0.001914):0.002387):0.001596):0.004376SYT1_AERPE  :0.010273):0.0685311nj8_A      :0.078804);
+ 
+ 

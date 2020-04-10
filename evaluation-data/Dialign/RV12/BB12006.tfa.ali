@@ -1,0 +1,53 @@
+1al2_ad            1   G-LPVMNTPG SNQYLTADnf qSPCALPEFD VTPPIDIPGE VKNMMELAEI 
+1bbt_ac            1   giFPVACSDG YGGLVTTDPK TADPVYGKVF NPPRNQLPGR FTNLLDVAEa 
+1bev_ac            1   G-LPTKPGPG SYQFMTTDED CSPCILPDFQ PTPEIFIPGK VNNLLEIAQV 
+1mec_ac            1   spipvtireh aGTWYSTLPD STVPIYGKTP VAPANYMVGE YKDFLEIAQI 
+                                                                 
+                       0000000000 0001111100 0222222222 2222222222 2222222221 
+ 
+1al2_ad           50   -DTMIpfdl- ---------- SATKKNTMEM YRVRLSDKPH TDDPILCLSL 
+1bbt_ac           51   cPTFLrfegg --VPYVttkt dsdrv--LAQ FDMSLAAK-- ---------- 
+1bev_ac           50   -ESILEANNR EGVEGVEr-- ---------- YVIPVSVQDA LDAQIYALRL 
+1mec_ac           51   -PTFIGNKMP NAVPYIEasn TAVKTQPLAV YQVTLSCS-- ---------- 
+                                                                 
+                       0111100000 0000000000 0000000111 1111110000 0000000000 
+ 
+1al2_ad           88   SpasdpRLSH TMLGEILNYY THWAGSLKFT FLFCGSMMAT GKLLVSYAPP 
+1bbt_ac           85   ------HMSN TFLAGLAQYY TQYSGTINLH FMFTGPTDAK ARYMVAYAPP 
+1bev_ac           87   ElggsgpLSS SLLGTLAKHY TQWSGSVEIT CMFTGTFMTT GKVLLAYTPP 
+1mec_ac           88   ------CLAN TFLAALSRNF AQYRGSLVYT FVFTGTAMMK GKFLIAYTPP 
+                                                                 
+                       0000000444 4444455566 6666666666 6666655556 6666677499 
+ 
+1al2_ad          138   GADPPKKRKE AMLGTHVIWD IGLQSSCTMV VPWISNTTYR QTIDDsfteg 
+1bbt_ac          129   GMEPPKTPEA AAHCIHAEWD TGLNSKFTFS IPYLSAADYT YTASDVAETT 
+1bev_ac          137   GGDMPRNREE AMLGTHVIWD FGLQSSITLV IPWISASHFR GVSNDdvlny 
+1mec_ac          132   GAGKPTSRDQ AMQATYAIWD LGLNSSYSFT VPFISPTHFR MVGTDQANIT 
+                                                                 
+                       9999977777 7777788888 8888878888 8888844333 3333300000 
+ 
+1al2_ad          188   -----GYISV FYQTRIVVPL STPREMDILG FVSACNDFSV RLLRDTthie 
+1bbt_ac          179   NVQ--GWVCL FQITH----- GKADGDALVV LASAGKDFEL RLPVDArae- 
+1bev_ac          187   qyyaaGHVTI WYQTNMVIPP GFPNTAGIIM MIAAQPNFSF RIQKDredmt 
+1mec_ac          182   NVD--GWVTV WQLTPLTYPP GCPTSAKILT MVSAGKDFSL KMPIspapws 
+                                                                 
+                       0000033333 3333222222 2222222222 2222222222 2211000000 
+ 
+1al2_ad          233   qka--- 
+1bbt_ac          221   ------ 
+1bev_ac          237   qtailq 
+1mec_ac          230   pq---- 
+                 
+                       000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1al2_ad     :0.0087661bev_ac     :0.008766):0.010691(1bbt_ac     :0.0142041mec_ac     :0.014204):0.005253);
+ 
+ 

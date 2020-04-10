@@ -1,0 +1,203 @@
+1tvx_A             1   ---------- ---------- ---------- ---------- ---------- 
+GRO1_RABIT         1   ---------- ---------- ---------- ---------- ---------- 
+GRO_HUMAN          1   MARAAL---- ---------- ---------- ---------- -----SAAPS 
+GRO2_RABIT         1   MAPAAT---- ---------- ---------- ---------- -----AAAP- 
+MI2A_RAT           1   ---------- ---------- ---------- ---------- ---------- 
+MIP2_MOUSE         1   M--------- ---------- ---------- ---------- -------APP 
+GRO_CRIGR          1   M--------- ---------- ---------- ---------- -------APA 
+GRO_CAVPO          1   MAGAAPKTL- ---------R FAp----LL- ---------- ---------- 
+SZ07_PIG           1   M--------- ----SLRLGA --------Is scttS----- -----SPFPV 
+AMC_RABIT          1   ---------- ---------- ---------- ---------- ---------- 
+SZ06_HUMAN         1   MSLPSSRAAR VPGPSGSLCA --------L- ---------- ---------- 
+AMC2_PIG           1   MRLLTSRATR VPSPSGLLCA --------V- ---------- ---------- 
+SZ05_MOUSE         1   MSLQLRSSAH IPSGSSSPFM RMA------- ---------- ---------- 
+SZ05_RAT           1   MSFQLRSSAR IPSRSCSSFT --------L- ---------- ---------- 
+PLF4_PIG           1   q--------- ---------- ---------- ----E----- -----WSLPG 
+PLF4_BOVIN         1   ---------- ---------- ---------- ----E----- -----SSFPA 
+PLF4_MOUSE         1   MSVAAVFRG- ---------L RPS------- ---------- ---------- 
+PF4V_HUMAN         1   MSSAARSRL- ---------T RATrqemLF- ---------- ---------- 
+EMF1_CHICK         1   M--------- ----NGKLGA --------V- ---------- ---------- 
+IL8_CERTO          1   M--------- ---TSKLAVA --------L- ---------- ---------- 
+IL8_BOVIN          1   M--------- ---TSKLAVA --------L- ---------- ---------- 
+IL8_CAVPO          1   M--------- ---PSQLRVA --------V- ---------- ---------- 
+SZ15_MOUSE         1   M--------- ----AAQGWS --------M- ---------- ---------- 
+SZ09_MOUSE         1   ---------- ---------M KSA------- ---------- ---------- 
+SZ09_HUMAN         1   mk-------- ---------- KSG------- ---------- ---------- 
+SZ10_HUMAN         1   ---------- ---------M NQT------- ---------- ---------- 
+1prt_F             1   ---------- LPTHLYKNFT --------Vq ELALKLKGKN QEfclTAFMS 
+1sap_              1   mv-------- ---------- ---------- KVKFKYKGEE KE-------- 
+1lt5_D             1   ----APQTI- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1tvx_A             1   ---------- ---------- ---------- ---------- ---------- 
+GRO1_RABIT         1   ---------- ---------- ---------- ---------- ---------- 
+GRO_HUMAN         12   NPRLLRV-AL LLLL------ ---L-----V AAGR------ -RAA---GAS 
+GRO2_RABIT        11   --RLLRA-AL LLLL------ ---L-----V AAGR------ -RAA---GAP 
+MI2A_RAT           1   ---------- ---------- ---------- ---------- ---------- 
+MIP2_MOUSE         5   TCRLLSA-AL VLLL------ ---L-----L ATNH------ -QAT---GAV 
+GRO_CRIGR          5   TRSLLRA-PL LLLL------ ---Ll----L ATSR------ -LAT---GAP 
+GRO_CAVPO         16   --------LL LLLL------ ---V-----L GTSR------ -RAA---GAP 
+SZ07_PIG          20   LQVLLPL-SL LLTT------ ---L-----V PATM------ -GAAkieGRM 
+AMC_RABIT          1   ---------- ---------- ---------- --------GP -------VAA 
+SZ06_HUMAN        22   --------LA LLLL------ ---L-----T PPGPLASAGP V-------SA 
+AMC2_PIG          22   --------LA M-LL------ ---L-----T PSGPLASASP IEAA---EAA 
+SZ05_MOUSE        24   ------P-LA F-LL------ ---LFTLPQH LAEA------ -APS---SVI 
+SZ05_RAT          22   --------LA F-LL------ ---LFTLPQH RAQA------ -APF---SAM 
+PLF4_PIG           8   TRVPPP---- ---------- ---------- ---------- -ADP---EGG 
+PLF4_BOVIN         7   TFVPLP---- ---------- ---------- ---------- -ADS---EGG 
+PLF4_MOUSE        14   ------PeLL L-LG------ ---LLFLPAV VAVT------ -SAG---PEE 
+PF4V_HUMAN        20   --------LA LLLL------ ---P-----V VVAF------ -ARA---EAE 
+EMF1_CHICK         9   --------LA LLLV------ ---S-----A ALSQ------ -GRT---LVK 
+IL8_CERTO         10   --------LA AFLL------ ---S-----A ALCE------ -GAV---LPR 
+IL8_BOVIN         10   --------LA AFLL------ ---S-----A ALCE------ -AAV---LSR 
+IL8_CAVPO         10   --------LA AFLL------ ---S-----A VLCE------ -GMV---VTK 
+SZ15_MOUSE         9   --------LL LAVL------ ---N-----L GI-------- --FV---RPC 
+SZ09_MOUSE         5   ------V-LF LLGI------ ---I-----F LEQC------ -GVR---GTL 
+SZ09_HUMAN         6   ------V-LF LLGI------ ---I-----L LVLI------ -GVQ---GTP 
+SZ10_HUMAN         5   ------A-IL ICCL------ ---I-----F LTLS------ -GIQ---GVP 
+1prt_F            33   GRSLVRA-CL sdaghehdtw fdtM-----L GF-------- --AI---SAY 
+1sap_             15   ---------- ---------- ---------- ---------- ---------- 
+1lt5_D             6   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000111 
+ 
+1tvx_A             1   ----LRCLCI -KTTSGIHPK NIQSLEVIGK GTHCNQVEVI ATL----KDG 
+GRO1_RABIT         1   ALTELRCQCL -QTVQGIHLK NIQNLKVLSP GPHCAQTEVI ATL----KSG 
+GRO_HUMAN         37   VATELRCQCL -QTLQGIHPK NIQSVNVKSP GPHCAQTEVI ATL----KNG 
+GRO2_RABIT        34   VVNELRCQCL -QTLQGIHLK NIQSVKVTTP GPHCDQTEVI ASL----KTG 
+MI2A_RAT           1   --RELRCQCL -KTLPRVDFE NIQSLTVTPP GPHCTQTEVI ATL----KDG 
+MIP2_MOUSE        30   VASELRCQCL -KTLPRVDFK NIQSLSVTPP GPHCAQTEVI ATL----KGG 
+GRO_CRIGR         31   VANELRCQCL -QTMTGVHLK NIQSLKVTPP GPHCTQTEVI ATL----KNG 
+GRO_CAVPO         34   AASELRCRCL -RPVRGLHPK NIQSVAVTAP GPHCHQTEVL ATL----KDG 
+SZ07_PIG          48   AHVELRCLCL -NTVSGIHPS NIQSLEVIRA GAHCAKVEVI ATL----KND 
+AMC_RABIT          6   VVRELRCVCL -S-TTAIHPK MIARLQVIAA GPQCSKVEVV ASL----KNG 
+SZ06_HUMAN        43   VLTELRCTCL -RVTLRVNPK TIGKLQVFPA GPQCSKVEVV ASL----KNG 
+AMC2_PIG          46   VVRELRCMCL -TTTPGIHPK MISDLQVIPA GPQCSKAEVI ATL----KNG 
+SZ05_MOUSE        47   AATELRCVCL -TVTPKINPK LIANLEVIPA GPQCPTVEVI AKL----KNQ 
+SZ05_RAT          44   VATELRCVCL -TLAPRINPK MIANLEVIPA GPHCPKVEVI AKL----KNQ 
+PLF4_PIG          20   -DANLRCVCV -KTISGVSPK HISSLEVIGA GPHCPSPQLI ATL----KKG 
+PLF4_BOVIN        19   EDEDLQCVCL -KTTSGINPR HISSLEVIGA GTHCPSPQLL ATK----KTG 
+PLF4_MOUSE        38   SDGDLSCVCV KTISSGIHLK HITSLEVIKA GRHCAVPQLI ATL----KNG 
+PF4V_HUMAN        38   EDGDLQCLCV -KTTSQVRPR HITSLEVIKA GPHCPTAQLI ATL----KNG 
+EMF1_CHICK        27   MGNELRCQCI STHSKFIHPK SIQDVKLTPS GPHCKNVEII ATL----KDG 
+IL8_CERTO         28   SAKELRCLCI KTYSKPFHPK FIKELRVIES GPHCVNTEII VKL----SDG 
+IL8_BOVIN         28   MSTELRCQCI KTHSTPFHPK FIKELRVIES GPHCENSEII VKL----TNG 
+IL8_CAVPO         28   LVSELRCQCI KIHTTPFHPK FIKELKVIES GPRCANSEII VKL----SDN 
+SZ15_MOUSE        24   DTQELRCLCI QEHSEFIPLK LIKNIMVIFE TIYCNRKEVI AVP----KNG 
+SZ09_MOUSE        24   VIRNARCSCI STSRGTIHYK SLKDLKQFAP SPNCNKTEII ATL----KNG 
+SZ09_HUMAN        25   VVRKGRCSCI STNQGTIHLQ SLKDLKQFAP SPSCEKIEII ATL----KNG 
+SZ10_HUMAN        24   LSRTVRCTCI SISNQPVNPR SLEKLEIIPA SQFCPRVEII ATM----KKK 
+1prt_F            64   ALKSRIALTV EDSPYPGTPG DLLELQICPL NGYCE----- ---------- 
+1sap_             15   ---------- ------VDTS KIKKVWRVGK -------MVS FTYddngKTG 
+1lt5_D             6   --TE---LC- SEYRNTQIYT INDKILSYTE SMAGKREMVI ITF----KSG 
+                                                                 
+                       1113444444 0333334556 5666666556 8888778899 9880000887 
+ 
+1tvx_A            42   RK-ICLDPDA PRIKKIVQKK LAGD------ ---------- ---------- 
+GRO1_RABIT        46   QE-ACRNPAA PMVKKFLQKR LSNGNSS--- ---------- ---------- 
+GRO_HUMAN         82   RK-ACLNPAS PIVKKIIEKM LNSDKSN--- ---------- ---------- 
+GRO2_RABIT        79   QE-VCLNPTA PVVKKIIDKM LNKASAN--- ---------- ---------- 
+MI2A_RAT          44   QE-VCLNPQA PRLQKIIQKL LKSDKS---- ---------- ---------- 
+MIP2_MOUSE        75   QK-VCLDPEA PLVQKIIQKI LNKGKAN--- ---------- ---------- 
+GRO_CRIGR         76   QE-ACLNPEA PMVQKIVQKM LKSGIRK--- ---------- ---------- 
+GRO_CAVPO         79   RE-ACLDPEA PMVQKVLQRM LKGSKAT--- ---------- ---------- 
+SZ07_PIG          93   KK-ICLDPEA PRIKKIVQKI MEDGGSAa-- ---------- ---------- 
+AMC_RABIT         50   KE-ICLDPEA PLIKKAIQKI LESGNKEN-- ---------- ---------- 
+SZ06_HUMAN        88   KQ-VCLDPEA PFLKKVIQKI LDSGNKKN-- ---------- ---------- 
+AMC2_PIG          91   KE-VCLDPKA PLIKKIVQKM LDSGKKKN-- ---------- ---------- 
+SZ05_MOUSE        92   KE-VCLDPEA PVIKKIIQKI LGSDKKKAK- ---------- ---------- 
+SZ05_RAT          89   KDNVCLDPQA PLIKKVIQKI LGSENKKTK- ---------- ---------- 
+PLF4_PIG          64   HK-ICLDPQN LLYKKIIKKL LKSQLLTA-- ---------- ---------- 
+PLF4_BOVIN        64   RK-ICLDQQR PLYKKILKKL LDGDES---- ---------- ---------- 
+PLF4_MOUSE        84   RK-ICLDRQA PLYKKVIKKI LES------- ---------- ---------- 
+PF4V_HUMAN        83   RK-ICLDLQA LLYKKIIKEH LES------- ---------- ---------- 
+EMF1_CHICK        73   RE-VCLDPTA PWVQLIVKAL MAKAQLNSDa pl-------- ---------- 
+IL8_CERTO         74   RE-LCLDPKE PWVQRVVEKF LKRAESQNS- ---------- ---------- 
+IL8_BOVIN         74   NE-VCLNPKE KWVQKVVQVF VKRAEKQDP- ---------- ---------- 
+IL8_CAVPO         74   RQ-LCLDPKK KWVQDVVSMF LKRTESQDS- ---------- ---------- 
+SZ15_MOUSE        70   SM-ICLDPDA PWVKATVGPI TNRFLPEDlk qkefppamkl lysvehekpl 
+SZ09_MOUSE        70   DQ-TCLDPDS ANVKKLMKEW EKKINQKKK- ---------- ---------- 
+SZ09_HUMAN        71   VQ-TCLNPDS ADVKELIKKW EKQVSQKKK- ---------- ---------- 
+SZ10_HUMAN        70   GEKRCLNPES KAIKNLLKAV SKERSKRSP- ---------- ---------- 
+1prt_F            99   ---------- ---------- ---------- ---------- ---------- 
+1sap_             42   RG-AVSEKDA PKELld---M LARAEREKK- ---------- ---------- 
+1lt5_D            46   ET-FQVEVPG SQHIDSQKKA IERMKDTLR- ---------- ---------- 
+                                                                 
+                       7708888877 7666666555 5432110000 0000000000 0000000000 
+ 
+1tvx_A            65   ---------- ---------- ---------- ---------- ---------- 
+GRO1_RABIT        72   ---------- ---------- ---------- ---------- ---------- 
+GRO_HUMAN        108   ---------- ---------- ---------- ---------- ---------- 
+GRO2_RABIT       105   ---------- ---------- ---------- ---------- ---------- 
+MI2A_RAT          69   ---------- ---------- ---------- ---------- ---------- 
+MIP2_MOUSE       101   ---------- ---------- ---------- ---------- ---------- 
+GRO_CRIGR        102   ---------- ---------- ---------- ---------- ---------- 
+GRO_CAVPO        105   ---------- ---------- ---------- ---------- ---------- 
+SZ07_PIG         120   ---------- ---------- ---------- ---------- ---------- 
+AMC_RABIT         77   ---------- ---------- ---------- ---------- ---------- 
+SZ06_HUMAN       115   ---------- ---------- ---------- ---------- ---------- 
+AMC2_PIG         118   ---------- ---------- ---------- ---------- ---------- 
+SZ05_MOUSE       120   ---------- ---------- ---------- ------RNAL AVERTASVQ- 
+SZ05_RAT         118   ---------- ---------- ---------- ------RNAL ALVRSASTQ- 
+PLF4_PIG          91   ---------- ---------- ---------- ---------- ---------- 
+PLF4_BOVIN        89   ---------- ---------- ---------- ---------- ---------- 
+PLF4_MOUSE       106   ---------- ---------- ---------- ---------- ---------- 
+PF4V_HUMAN       105   ---------- ---------- ---------- ---------- ---------- 
+EMF1_CHICK       104   ---------- ---------- ---------- ---------- ---------- 
+IL8_CERTO        102   ---------- ---------- ---------- ---------- ---------- 
+IL8_BOVIN        102   ---------- ---------- ---------- ---------- ---------- 
+IL8_CAVPO        102   ---------- ---------- ---------- ---------- ---------- 
+SZ15_MOUSE       119   ylsfgrpenk rifpfpiret srhfadlahn sdrnflRDSS EVSLTGSda- 
+SZ09_MOUSE        98   ---------- ---------- ---------- ------QKRG KKHQKnmknr 
+SZ09_HUMAN        99   ---------- ---------- ---------- ------QKNG KKHQKkkvlk 
+SZ10_HUMAN        99   ---------- ---------- ---------- ---------- ---------- 
+1prt_F            99   ---------- ---------- ---------- ---------- ---------- 
+1sap_             67   ---------- ---------- ---------- ---------- ---------- 
+1lt5_D            74   ---------- ---------- ---------- ------ITYL tetkidklcv 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1tvx_A            65   ---------- ------ 
+GRO1_RABIT        72   ---------- ------ 
+GRO_HUMAN        108   ---------- ------ 
+GRO2_RABIT       105   ---------- ------ 
+MI2A_RAT          69   ---------- ------ 
+MIP2_MOUSE       101   ---------- ------ 
+GRO_CRIGR        102   ---------- ------ 
+GRO_CAVPO        105   ---------- ------ 
+SZ07_PIG         120   ---------- ------ 
+AMC_RABIT         77   ---------- ------ 
+SZ06_HUMAN       115   ---------- ------ 
+AMC2_PIG         118   ---------- ------ 
+SZ05_MOUSE       133   ---------- ------ 
+SZ05_RAT         131   ---------- ------ 
+PLF4_PIG          91   ---------- ------ 
+PLF4_BOVIN        89   ---------- ------ 
+PLF4_MOUSE       106   ---------- ------ 
+PF4V_HUMAN       105   ---------- ------ 
+EMF1_CHICK       104   ---------- ------ 
+IL8_CERTO        102   ---------- ------ 
+IL8_BOVIN        102   ---------- ------ 
+IL8_CAVPO        102   ---------- ------ 
+SZ15_MOUSE       168   ---------- ------ 
+SZ09_MOUSE       112   kp-KTPQSRR RSRKTT 
+SZ09_HUMAN       113   vrksq---RS RQKKTT 
+SZ10_HUMAN        99   ---------- ------ 
+1prt_F            99   ---------- ------ 
+1sap_             67   ---------- ------ 
+1lt5_D            88   wnnKTPNSia aismkn 
+                            
+                       0000000000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((((1tvx_A      :0.014243SZ07_PIG    :0.014243):0.004905((GRO1_RABIT  :0.014390(((GRO_HUMAN   :0.009496GRO2_RABIT  :0.009496):0.002084(MIP2_MOUSE  :0.010765GRO_CRIGR   :0.010765):0.000815):0.001453GRO_CAVPO   :0.013034):0.001357):0.000456MI2A_RAT    :0.014846):0.004301):0.002382((AMC_RABIT   :0.013137(SZ06_HUMAN  :0.009515AMC2_PIG    :0.009515):0.003623):0.001885(SZ05_MOUSE  :0.007310SZ05_RAT    :0.007310):0.007712):0.006507):0.005277(((PLF4_PIG    :0.012077PLF4_BOVIN  :0.012077):0.003255PF4V_HUMAN  :0.015332):0.002128PLF4_MOUSE  :0.017460):0.009347):0.003261(EMF1_CHICK  :0.016910((IL8_CERTO   :0.008587IL8_BOVIN   :0.008587):0.001252IL8_CAVPO   :0.009839):0.007071):0.013157):0.012026((SZ09_MOUSE  :0.008560SZ09_HUMAN  :0.008560):0.024296SZ10_HUMAN  :0.032856):0.009237):0.004335SZ15_MOUSE  :0.046429):0.4825331lt5_D      :0.528962):0.055455(1prt_F      :0.4781021sap_       :0.478102):0.106316);
+ 
+ 

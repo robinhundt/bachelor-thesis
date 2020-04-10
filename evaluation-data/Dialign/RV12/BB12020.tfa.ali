@@ -1,0 +1,39 @@
+1vvc_              1   -VKCQSPPS- ---------- ---------- ---------- ---------- 
+1ghq_B             1   aISCGSPPP- ---------- ---------- ---------- ---------- 
+1ckl_A             1   ---CEEPPTF EAMELigkpk p--YYEIGER VDYKCKKGYF YIPPLATHTI 
+1nwv_A             1   frSCEVPTRL NSASLkqpyi tqnYFPVGTV VEYECRPGYR REPSLSPKLT 
+                                                                 
+                       0111111110 0000000000 0001111111 1111111111 1111111111 
+ 
+1vvc_              9   ---------- ---------- -----ISNGR HNGYEDFYTD GSVVTYSCNS 
+1ghq_B            10   ---------- ---------- -----ILNGR ISYYSTPIAV GTVIRYSCSG 
+1ckl_A            46   CDRNHTWlpv sddaCYRETC PYIRDPLNGQ AVPANGTYEF GYQMHFICNE 
+1nwv_A            51   CLQNLKWsta vef-CKKKSC PNPGEIRNGQ Idvpgg-ILF GATISFSCNT 
+                                                                 
+                       1111111000 0000000000 0000012333 3333222335 9999999999 
+ 
+1vvc_             34   GYSLIGNSGV LCSg-----G EWSDP-PTCQ IVk----CPH PTISNGYlss 
+1ghq_B            35   TFRLIGEKSL LCITKDKvdG TWDKPAPKCE yfnkyssCPE PIVPGGYkir 
+1ckl_A            96   GYYLIGEEIL YCELKGSVA- IWSGKPPICE KV-------- ---------- 
+1nwv_A            99   GYKLFGSTSS FCLISGSSV- QWSDPLPECR eh-------- ---------- 
+                                                                 
+                       9999999999 9954433220 2333322220 0000000000 0000000000 
+ 
+1vvc_             74   gfkrsYSYND NVDFKCKYGY KLSGSSSSTC SPGNTWKPe- LPKCVr 
+1ghq_B            85   gstp-YRHGD SVTFACKTNF SMNGNKSVWC QANNMWGPtr LPTCVs 
+1ckl_A           127   ---------- ---------- ---------- ---------- ------ 
+1nwv_A           130   ---------- ---------- ---------- ---------- ------ 
+                                                             
+                       0000022222 2222222222 2222222222 2222222200 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1vvc_       :0.0238661ghq_B      :0.023866):0.054354(1ckl_A      :0.0295121nwv_A      :0.029512):0.048709);
+ 
+ 

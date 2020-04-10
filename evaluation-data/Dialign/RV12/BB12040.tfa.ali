@@ -1,0 +1,43 @@
+1hrb_              1   gfp-IPDPYV WDPSFRTFYS IIDDEHKTLF NGIFHLaid- -----DNA-- 
+HEML_NAEFO         1   mattIPSPFN WDSSFCVGNN ELNEQHKKLF ALINALdanr ssasa----- 
+HEMT_METJA         1   mkkeii---K WSKDFETGIK AFDDEHKILV KTLNDIYNLL negkrDEA-- 
+HEMT_CLOAB         1   m-------FV WKDEFELGID KIDNEHRKLF EIANKGYELL knefyvdkyd 
+HEMT_PSEAE         1   mahl-----V WQDDLNTGIQ VIDNQHKRIV EMINHLHDaq qgkehaa--- 
+                                                                 
+                       0000000013 6666666666 6666666666 5444331100 0000000000 
+ 
+1hrb_             42   ---DNL--GE LRRCTGKHFL NQEVLMEASQ YQFYDEHKKE HDGFINALDN 
+HEML_NAEFO        46   -----L--KE LLDFVVMHFK AEEDLFAKVN FSDSTSHKET HDKFVQdalg 
+HEMT_METJA        46   ---KELlkRR VVNYAAKHFK HEEEVMEKYG YPDLERHRKT HEIFVKTVIE 
+HEMT_CLOAB        44   kIMDII--VE LKEYAEFHFS EEEDYLASIG YKKLFTHKLE HDSFIKKVES 
+HEMT_PSEAE        43   -IAEVI--EE LVDYTLSHFA FEETLMEDAG YQFSRAHKKI HELFIRRVSE 
+                                                                 
+                       0001120034 6667889999 9999999999 9988888888 8888884422 
+ 
+1hrb_             87   WKg------- ------DVKW AKAWLVNHIK TIDFKY---- --KGki---- 
+HEML_NAEFO        89   lkt------- VGD--AEIQF IKQWLVNHIK GSDMKY---- --KGVL---- 
+HEMT_METJA        93   kllpKIEEGS ENDFRSALSF LVGWLTMHIA KPDKKYgewf keKGIViede 
+HEMT_CLOAB        92   FNIKEIDYDQ DKYIQEMLDF VVTWIKEHIL EKDREYID-- ---------- 
+HEMT_PSEAE        90   YRVRfqaged VGD--ELKGL LSRWLFNHIR NDDAGYVDav rhsmselvkd 
+                                                                 
+                       1100000000 1110013333 3334444444 4444440000 0011000000 
+ 
+1hrb_            114   ---------- ------ 
+HEML_NAEFO       120   ---------- ------ 
+HEMT_METJA       143   avkid----- ------ 
+HEMT_CLOAB       130   ---------- ------ 
+HEMT_PSEAE       138   kseggwlsrs mkrffg 
+                            
+                       0000000000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((1hrb_       :0.026808HEML_NAEFO  :0.026808):0.009799((HEMT_METJA  :0.027810HEMT_CLOAB  :0.027810):0.000575HEMT_PSEAE  :0.028385):0.008222);
+ 
+ 

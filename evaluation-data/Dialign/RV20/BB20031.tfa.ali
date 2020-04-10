@@ -1,0 +1,956 @@
+4tmk_A             1   ---------- --RSKYIVIE GLEGAGKTT- ---ARNVVVE TLEQLG--I- 
+KTHY_THETN         1   ---------- -MRGKFISFE GIDGCGKTT- ---QVKLLEE HL-KKE--G- 
+KTHY_CHLTE         1   ---------- ----MLISFE GIDGAGKST- ---QVMKLKR YL-QER--G- 
+KTHY_ANASP         1   ---------- -MGGRFIVFE GVEGCGKTS- ---QMQLCAE WL-QSL--G- 
+KTHY_PSESM         1   ---------- -MTGLFITLE GPEGAGKST- ---NRDYLAA QL-RAQ--G- 
+KTHY_PSEAE         1   ---------- -MTGLFVTLE GPEGAGKST- ---NRDYLAE RL-RER--G- 
+KTHY_RALSO         1   ---------- -MTGKFITFE GIDGAGKSTh lawFAQQLEA RL-APQ--G- 
+KTHY_NEIMA         1   ---------- -MKPQFITLD GIDGAGKST- ---NLAVIKA WF-ERR--G- 
+KTHY_DEIRA         1   ---------- MSQGLFITLE GPEGAGKTT- ---QLARLEA RL-RAA--G- 
+KTHY_CAUCR         1   ---------- MTQGFFISFE GGEGAGKST- ---QIRRLAD RL-KAA--G- 
+KTHY_BRUME         1   ---------- -MSGLFITFE GGEGAGKST- ---QIALLAS HL-RNH--G- 
+KTHY_AGRT5         1   ma-------E -KTGLFISFE GGEGAGKST- ---QIRTLAE AL-RGR--G- 
+KTHY_RHIME         1   mhadpgievS LAKGFFITFE GGEGTGKST- ---QMRLLAE AL-SAR--G- 
+KTHY_RHILO         1   ---------- MARGFFITFE GGEGAGKST- ---QIERLAR KM-HAK--K- 
+KTHY_CHLMU         1   ---------- ----MFIVVE GGEGAGKTQ- ---FTQALSK RL-MEE--G- 
+KTHY_CHLTR         1   ---------- ----MFIVVE GGEGAGKTQ- ---FIQALSK RL-IEE--G- 
+KTHY_CHLCV         1   ---------- ----MFIVIE GCEGSGKSS- ---LTELLKD RL-IAE--G- 
+KTHY_CHLPN         1   ---------- ----MFIVIE GGEGSGKSS- ---LAKALGD QL-VAQ--D- 
+KTHY_LACLA         1   ---------- -MNGILISLE GPDGAGKTT- ---VLKEILP EI-QKM--K- 
+KTHY_STRP3         1   ---------- MITGKLITVE GPDGAGKTT- ---VLEQLIP LLKQKV--A- 
+KTHY_STRPN         1   ---------- MSKGFLVSLE GPEGAGKTS- ---VLEALLP IL-EEK--G- 
+KTHY_BACSU         1   ---------- -MSGLFITFE GPEGAGKTT- ---VLQEIKN IL-TAE--G- 
+KTHY_BACHD         1   ---------- MTKGCFITVE GGEGAGKTS- ---ALDAIEE ML-REN--G- 
+KTHY_LACPL         1   ---------- MLTGKLVTFE GPDGAGKTS- ---ALNAIVA KLQPQL--G- 
+KTHY_STAEP         1   ---------- --MSTFITFE GPEGAGKTS- ---VIKKVSE RL--AK--E- 
+KTHY_STAAM         1   ---------- --MSAFITFE GPEGSGKTT- ---VINEVYH RL--VK--D- 
+KTHY_LISIN         1   ---------- -MKAIFITLE GPDGSGKTT- ---VGTLLNQ KM-EEA--G- 
+KTHY_RICCN         1   mn-------N LKQGKFITFE GGEGIGKST- ---QSQMLYE YL-QSQ--N- 
+KTHY_THEMA         1   ---------- ----MFITFE GIDGSGKST- ---QIQLLAQ YL-EKR--G- 
+KTHY_METAC         1   ---------- -MRGKLITLE GIDGSGKST- ---VAKKLQE NS-ELR--V- 
+KTHY_HALN1         1   ---------- ----MLVTLE GLDGSGKTT- ---VWESLRA ----SH--D- 
+KTHY_MYCGE         1   ---------- MNKGVFVVIE GVDGAGKTA- ---LIEGFKK LY-PTKFLN- 
+KTHY_MYCPN         1   ---------- MKQGVFVAIE GVDGAGKTV- ---LLEAFKQ RF-PQSFLG- 
+KTHY_MYCPU         1   mkienksdkE -EDQMFITFE GIDASGKTS- ---LLAKLKA HV-VQKNLQ- 
+KTHY_HELPJ         1   ---------- ----MYVVLE GVDGAGKST- ---QVG---- -LLKDR--F- 
+KTHY_CAMJE         1   ---------- ----MYVVFE GIDCVGKST- ---QIS---- -LLKEI--Y- 
+KTHY_VIBCH         1   ---------- -MNAKFIVIE GLEGAGKST- ---AIQVVVE TLQQNG--I- 
+KTHY_VIBPA         1   ---------- MMKANFIVVE GLEGAGKST- ---AIKTVLD TLKQAG--I- 
+KTHY_YERPE         1   ---------- -MNSKFIVIE GLEGAGKTT- ---TRDTVVA VLRAQG--I- 
+KTHY_HAEIN         1   ---------- -MKGKFIVIE GLEGAGKSS- ---AHQSVVR VLHELG--I- 
+KTHY_PASMU         1   ---------- MTTGKFIVLE GIEGAGKTT- ---ARDSIVR ALHAHG--I- 
+KTHY_WIGBR         1   ---------- MIKSKFIVIE GLEGSGKTN- ---AISKIVN LLNKQG--I- 
+KTHY_BUCBP         1   ---------- MLKGKFIVIE GIEGSGKTT- ---ICKTLKN ILYEHG--I- 
+KTHY_BUCAI         1   ---------- MIKSKFIVIE GLEGAGKTN- ---ACICIKN LLKKNS--I- 
+KTHY_BUCAP         1   ---------- MIKSKFIVIE GLEGAGKTH- ---ACICVQR ILKENN--I- 
+KTHY_PYRHO         1   ---------- -MRGYFIVLE GIDGSGKTT- ---QAKLLAE WF-EDK--G- 
+KTHY_PYRAB         1   ---------- -MRGYFVVLE GIDGSGKTT- ---QAKLLAE WF-EEQ--G- 
+KTHY_PYRFU         1   ---------- MKRGLFIVLE GIDGSGKTT- ---QARLLAR WF-EDN--G- 
+KTHY_AQUAE         1   ---------- ----MLIAFE GIDGSGKTT- ---QAKKLYE YL-KQK--G- 
+KTHY_ARCFU         1   ---------- ----MLIAVE GIDGAGKTT- ---IAAYIAE LL-KEK--G- 
+KTHY_THEVO         1   ---------- ----MFIAVE GIDGAGKTT- ---LAKSLSS LL-EKE--G- 
+KTH1_SULSO         1   ---------- --MQKLIAIE GIDGSGKTT- ---LANLLKE HLESKM--K- 
+KTH1_SULTO         1   ---------- --MPRFISFE GIDGAGKTT- ---LAKKVYE VL-KKK--G- 
+KTHY_XYLFA         1   ---------- ----MLVAIE GIDGAGKTT- ---LARSLAL KL-RGV--G- 
+KTHY_PYRAE         1   m--------- ----AFVAIE GIDGSGKST- ---VIS---- -LLEKK--L- 
+KTHY_METTH         1   ---------- ----MYICFE GIDGSGKTT- ---HAALTAS WL-REN--G- 
+KTHY_TREPA         1   mn-------- -ILHNFVVFE GIDGTGTST- ---QLRALER HF-QAR--K- 
+1bif_              1   c--------- ---PTLIVMV GLPARGKTY- ---ISKKLTR YL-NFI--G- 
+1kgd_A             1   h--------- --MRKTLVLL GAHGVGRRH- ---IKNTLIT KHPDRF--A- 
+1dvr_A             1   ---------S -SESIRMVLI GPPGAGKGT- ---QAPNLQE RF-HAAHLAt 
+                                                                 
+                       0000000000 0112355556 6666666650 0004443433 3303330030 
+ 
+4tmk_A            32   ---------- ---------- ---------- ---------- --------RD 
+KTHY_THETN        32   ---------- ---------- ---------- ---------- --------YD 
+KTHY_CHLTE        29   ---------- ---------- ---------- ---------- --------RE 
+KTHY_ANASP        32   ---------- ---------- ---------- ---------- --------IS 
+KTHY_PSESM        32   ---------- ---------- ---------- ---------- --------VQ 
+KTHY_PSEAE        32   ---------- ---------- ---------- ---------- --------IE 
+KTHY_RALSO        36   ---------- ---------- ---------- ---------- --------RK 
+KTHY_NEIMA        32   ---------- ---------- ---------- ---------- --------LP 
+KTHY_DEIRA        33   ---------- ---------- ---------- ---------- --------HA 
+KTHY_CAUCR        33   ---------- ---------- ---------- ---------- --------HD 
+KTHY_BRUME        32   ---------- ---------- ---------- ---------- --------FD 
+KTHY_AGRT5        35   ---------- ---------- ---------- ---------- --------FE 
+KTHY_RHIME        43   ---------- ---------- ---------- ---------- --------YR 
+KTHY_RHILO        33   ---------- ---------- ---------- ---------- --------YD 
+KTHY_CHLMU        29   ---------- ---------- ---------- ---------- --------KE 
+KTHY_CHLTR        29   ---------- ---------- ---------- ---------- --------RE 
+KTHY_CHLCV        29   ---------- ---------- ---------- ---------- --------KA 
+KTHY_CHLPN        29   ---------- ---------- ---------- ---------- --------RK 
+KTHY_LACLA        32   ---------- ---------- ---------- ---------- --------RE 
+KTHY_STRP3        34   ---------- ---------- ---------- ---------- --------QE 
+KTHY_STRPN        33   ---------- ---------- ---------- ---------- --------VE 
+KTHY_BACSU        32   ---------- ---------- ---------- ---------- --------LQ 
+KTHY_BACHD        33   ---------- ---------- ---------- ---------- --------LS 
+KTHY_LACPL        34   ---------- ---------- ---------- ---------- --------DR 
+KTHY_STAEP        30   ---------- ---------- ---------- ---------- --------YD 
+KTHY_STAAM        30   ---------- ---------- ---------- ---------- --------YD 
+KTHY_LISIN        32   ---------- ---------- ---------- ---------- --------ID 
+KTHY_RICCN        36   ---------- ---------- ---------- ---------- --------TP 
+KTHY_THEMA        29   ---------- ---------- ---------- ---------- --------KK 
+KTHY_METAC        32   ---------- ---------- ---------- ---------- --------FE 
+KTHY_HALN1        26   ---------- ---------- ---------- ---------- --------DG 
+KTHY_MYCGE        35   ---------- ---------- ---------- ---------- --------YQ 
+KTHY_MYCPN        35   ---------- ---------- ---------- ---------- --------FK 
+KTHY_MYCPU        44   ---------- ---------- ---------- ---------- --------GK 
+KTHY_HELPJ        25   ---------- ---------- ---------- ---------- --------KN 
+KTHY_CAMJE        25   ---------- ---------- ---------- ---------- --------KD 
+KTHY_VIBCH        33   ---------- ---------- ---------- ---------- --------DH 
+KTHY_VIBPA        34   ---------- ---------- ---------- ---------- --------EN 
+KTHY_YERPE        33   ---------- ---------- ---------- ---------- --------ND 
+KTHY_HAEIN        33   ---------- ---------- ---------- ---------- --------QD 
+KTHY_PASMU        34   ---------- ---------- ---------- ---------- --------HD 
+KTHY_WIGBR        34   ---------- ---------- ---------- ---------- --------KN 
+KTHY_BUCBP        34   ---------- ---------- ---------- ---------- --------KN 
+KTHY_BUCAI        34   ---------- ---------- ---------- ---------- --------KN 
+KTHY_BUCAP        34   ---------- ---------- ---------- ---------- --------KN 
+KTHY_PYRHO        32   ---------- ---------- ---------- ---------- --------YE 
+KTHY_PYRAB        32   ---------- ---------- ---------- ---------- --------WD 
+KTHY_PYRFU        33   ---------- ---------- ---------- ---------- --------FK 
+KTHY_AQUAE        29   ---------- ---------- ---------- ---------- --------YF 
+KTHY_ARCFU        29   ---------- ---------- ---------- ---------- --------YK 
+KTHY_THEVO        29   ---------- ---------- ---------- ---------- --------FR 
+KTH1_SULSO        32   ---------- ---------- ---------- ---------- --------LN 
+KTH1_SULTO        31   ---------- ---------- ---------- ---------- --------YN 
+KTHY_XYLFA        29   ---------- ---------- ---------- ---------- --------LE 
+KTHY_PYRAE        26   ---------- ---------- ---------- ---------- --------PR 
+KTHY_METTH        29   ---------- ---------- ---------- ---------- --------YM 
+KTHY_TREPA        34   ---------- ---------- ---------- ---------- --------DM 
+1bif_             31   ---------- ---------- ---------- ---------- --------VP 
+1kgd_A            33   ---------- ---------- ---------- ---------- --------YP 
+1dvr_A            36   gdmlrsqiak gtqlgleakk imdqgglvsd dimvnmikde ltnnpackNG 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000044 
+ 
+4tmk_A            34   MVFTREPG-- ---------- ---------- ---------G --TQLA---E 
+KTHY_THETN        34   LLVLREPG-- ---------- ---------- ---------G --TRVG---E 
+KTHY_CHLTE        31   VLALREPG-- ---------- ---------- ---------G --TPVA---E 
+KTHY_ANASP        34   VVLTREPG-- ---------- ---------- ---------G --TELG---L 
+KTHY_PSESM        34   VLLTREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_PSEAE        34   VQLTREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_RALSO        38   VVVTREPG-- ---------- ---------- ---------G --TPLG---E 
+KTHY_NEIMA        34   VLFTREPG-- ---------- ---------- ---------G --TPVG---E 
+KTHY_DEIRA        35   VTVTREPG-- ---------- ---------- ---------G --TPLG---T 
+KTHY_CAUCR        35   VIVTREPG-- ---------- ---------- ---------G --SPGA---E 
+KTHY_BRUME        34   PVITREPG-- ---------- ---------- ---------G --SPGA---E 
+KTHY_AGRT5        37   VVVTREPG-- ---------- ---------- ---------G --SPGA---E 
+KTHY_RHIME        45   VLTTREPG-- ---------- ---------- ---------G --SVGA---E 
+KTHY_RHILO        35   VLLTREPG-- ---------- ---------- ---------G --SPGA---E 
+KTHY_CHLMU        31   VVLTREPG-- ---------- ---------- ---------G --SALG---E 
+KTHY_CHLTR        31   IVTTREPG-- ---------- ---------- ---------G --CSLG---D 
+KTHY_CHLCV        31   VVATREPG-- ---------- ---------- ---------G --SPLG---E 
+KTHY_CHLPN        31   VLLTREPG-- ---------- ---------- ---------G --CLIG---E 
+KTHY_LACLA        34   IVPTREPG-- ---------- ---------- ---------G --VRVA---E 
+KTHY_STRP3        36   ILTTREPG-- ---------- ---------- ---------G --VAIS---E 
+KTHY_STRPN        35   VLTTREPG-- ---------- ---------- ---------G --VLIG---E 
+KTHY_BACSU        34   VMATREPG-- ---------- ---------- ---------G --IDIA---E 
+KTHY_BACHD        35   VVRTREPG-- ---------- ---------- ---------G --IPIA---E 
+KTHY_LACPL        36   LVVTREPG-- ---------- ---------- ---------G --NQIS---E 
+KTHY_STAEP        32   IVTTREPG-- ---------- ---------- ---------G --VLTS---E 
+KTHY_STAAM        32   VIMTREPG-- ---------- ---------- ---------G --VPTG---E 
+KTHY_LISIN        34   FIKTREPG-- ---------- ---------- ---------G --SPIS---E 
+KTHY_RICCN        38   VILTREVG-- ---------- ---------- ---------G --TIVA---E 
+KTHY_THEMA        31   VILKREPG-- ---------- ---------- ---------G --TETG---E 
+KTHY_METAC        34   PVFTREPT-- ---------- ---------- ---------R --GTLT---G 
+KTHY_HALN1        28   VTFTAEPT-- ---------- ---------- ---------D --SQYG---Q 
+KTHY_MYCGE        37   LTYTREPG-- ---------- ---------- ---------G --TLLA---E 
+KTHY_MYCPN        37   TLFSREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_MYCPU        46   CTFTWEPG-- ---------- ---------- ---------G rkSPEI---Q 
+KTHY_HELPJ        27   ALFTKEPG-- ---------- ---------- ---------G --TRMG---E 
+KTHY_CAMJE        27   AIFTLEPG-- ---------- ---------- ---------G --TELG---K 
+KTHY_VIBCH        35   ITRTREPG-- ---------- ---------- ---------G --TLLA---E 
+KTHY_VIBPA        36   IVNTREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_YERPE        35   IVFTREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_HAEIN        35   VVFTREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_PASMU        36   IVFTREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_WIGBR        36   VIFTREPG-- ---------- ---------- ---------G --TPLA---E 
+KTHY_BUCBP        36   VICVRDPG-- ---------- ---------- ---------S --TPLA---E 
+KTHY_BUCAI        36   VLLVRQPG-- ---------- ---------- ---------S --TPIA---E 
+KTHY_BUCAP        36   VILVRQPG-- ---------- ---------- ---------S --TPVA---E 
+KTHY_PYRHO        34   VLLTKEPT-- ---------- ---------- ---------D --SELG---K 
+KTHY_PYRAB        34   VLLTKEPT-- ---------- ---------- ---------D --TEFG---R 
+KTHY_PYRFU        35   VVLTKEPT-- ---------- ---------- ---------D --TEFG---K 
+KTHY_AQUAE        31   VSLYREPG-- ---------- ---------- ---------G --TKVG---E 
+KTHY_ARCFU        31   VKVLKEPG-- ---------- ---------- ---------D --SKFG---K 
+KTHY_THEVO        31   VFLTREPT-- ---------- ---------- ---------D ---------- 
+KTH1_SULSO        34   VIVTREPF-- ---------- ---------- ---------S --EDII---K 
+KTH1_SULTO        33   VILTQEPF-- ---------- ---------- ---------T --REIT---E 
+KTHY_XYLFA        31   TVVSKEPT-- ---------- ---------- ---------N --GPWG---M 
+KTHY_PYRAE        28   VYATREPS-- ---------- ---------- ---------S --GPIG---R 
+KTHY_METTH        31   VHEVREPT-- ---------- ---------- ---------D --SNIG---S 
+KTHY_TREPA        36   VFTQEPTG-- ---------- ---------- ---------G --EI-G---T 
+1bif_             33   TR-------- ---------- ---------- ---------E --FNVG---Q 
+1kgd_A            35   IPHTTRPpee ngknyyfvsh dqmmqdisnn eyleygsheD --AMYGtklE 
+1dvr_A            86   FILVGFPR-- ---------- ---------- ---------T --IPQA---E 
+                                                                 
+                       5555555500 0000000000 0000000000 0000000004 0044330003 
+ 
+4tmk_A            48   KLRSLL---- -LDIksv--- GD-EVITDKA EVL------- ---------- 
+KTHY_THETN        48   KVREIL---- -LDR------ EN-L-IFPVT EML------- ---------- 
+KTHY_CHLTE        45   EIRELL---- -LER------ RN-D-ITPVG ELL------- ---------- 
+KTHY_ANASP        48   DLRRLL---- -LQKA----- ED-KPIAEVT ELL------- ---------- 
+KTHY_PSESM        48   RIRELL---- -LAP------ SD-EGMSADT ELL------- ---------- 
+KTHY_PSEAE        48   RIRELL---- -LAP------ SD-EPMAADT ELL------- ---------- 
+KTHY_RALSO        52   RLREVL---- -LHE------ RM-H-LE--T EAL------- ---------- 
+KTHY_NEIMA        48   ALREIL---- -LNP------ ETka--GLRA ETL------- ---------- 
+KTHY_DEIRA        49   RVREVV---- -LDP------ AV-E-IEPLG EFL------- ---------- 
+KTHY_CAUCR        49   AIRELL---- -VNG------ AA-DRWSPVT ESL------- ---------- 
+KTHY_BRUME        48   AIRHVI---- -LSG------ NA-ETYGPAM EAL------- ---------- 
+KTHY_AGRT5        51   AVRHVI---- -LSG------ AA-ESFGVRM EAI------- ---------- 
+KTHY_RHIME        59   AVRHVL---- -LSG------ AA-ESFGVRM EAI------- ---------- 
+KTHY_RHILO        49   AVRHVL---- -LSG------ AA-EPFGPKM EAL------- ---------- 
+KTHY_CHLMU        45   QLRDLV---- -LDV------ -T-QEISSYA ELL------- ---------- 
+KTHY_CHLTR        45   SVRGLL---- -LDP------ -E-QKISPYA ELL------- ---------- 
+KTHY_CHLCV        45   RVRDLI---- -LEP------ ST-PSISPYT ELF------- ---------- 
+KTHY_CHLPN        45   RLRDLI---- -LEP------ PH-LELSRCC ELF------- ---------- 
+KTHY_LACLA        48   EIRQII---- -LDP------ KN-TDIDSKT ELM------- ---------- 
+KTHY_STRP3        50   YIRELI---- -LDI------ NH-TTMDPKT ELL------- ---------- 
+KTHY_STRPN        49   KIREVI---- -LDP------ SH-TQMDAKT ELL------- ---------- 
+KTHY_BACSU        48   QIREVI---- -LNE------ NN-ILMDPKT EAL------- ---------- 
+KTHY_BACHD        49   QIRSII---- -LDV------ DH-TRMDPRT EAL------- ---------- 
+KTHY_LACPL        50   AIRKII---- -LDR------ HN-TAMDDRT EAL------- ---------- 
+KTHY_STAEP        46   EIRRIV---- -LDG------ ---DSIDIRT EAM------- ---------- 
+KTHY_STAAM        46   EIRKIV---- -LEG------ ---NDMDIRT EAM------- ---------- 
+KTHY_LISIN        48   KVRNIV---- -LGI------ GN-EEMDPKT EVL------- ---------- 
+KTHY_RICCN        52   KMREIL---- -V-------- -H-EELLPMS ELL------- ---------- 
+KTHY_THEMA        45   KIRKIL---- -L-------- -E-EEVTPKA ELF------- ---------- 
+KTHY_METAC        48   NAVENA---- -I-------- -Q-SDTDQLA ELF------- ---------- 
+KTHY_HALN1        42   AVRRSE---- -S-------- -A-ADADPIA ELF------- ---------- 
+KTHY_MYCGE        51   KIRQLL---- -L-------- -N-ETMEPLT EAY------- ---------- 
+KTHY_MYCPN        51   KIRALL---- -L-------- -H-EAMEPLT EAY------- ---------- 
+KTHY_MYCPU        62   TIRHLI---- -LNK------ -E-SNLSPIA EAF------- ---------- 
+KTHY_HELPJ        41   SLRRIA---- -L-------- -N-ENISELA RAF------- ---------- 
+KTHY_CAMJE        41   HLREIL---- -LNK------ -T-HPINKRA ELL------- ---------- 
+KTHY_VIBCH        49   KLRALV---- -KEE------ HPGEELQDIT ELL------- ---------- 
+KTHY_VIBPA        50   KMRALV---- -KEE------ HEGEELKDMT ELL------- ---------- 
+KTHY_YERPE        49   KLRDLI---- -KQG------ IDGEVLTDKA EVL------- ---------- 
+KTHY_HAEIN        49   KLRHLI---- -KHE------ TE-EPVTDKA ELL------- ---------- 
+KTHY_PASMU        50   KLRQLI---- -KHE------ TE-EPVTDKA ELL------- ---------- 
+KTHY_WIGBR        50   SLRTLI---- -KEG------ VGYEKITDNA ELL------- ---------- 
+KTHY_BUCBP        50   KIRSLL---- -ITKD----- KN-EYMVNET ELL------- ---------- 
+KTHY_BUCAI        50   DIRRLI---- -KKKF----- ND-DNLIKET ELL------- ---------- 
+KTHY_BUCAP        50   KIRKLI---- -KNN------ TYIEDFEKET ELL------- ---------- 
+KTHY_PYRHO        48   LIRRII---- -LEESVIDGS KI-S-YE--A EAL------- ---------- 
+KTHY_PYRAB        48   LIRELV---- -LKNSIIDGS RI-S-YE--A EAL------- ---------- 
+KTHY_PYRFU        49   IIRKLV---- -LEGSIIDGG RI-S-LE--A EAL------- ---------- 
+KTHY_AQUAE        45   VLREIL---- -L-------- -T-EELDERT ELL------- ---------- 
+KTHY_ARCFU        45   KIKSS----- --EE------ RL-S-PE--E ELE------- ---------- 
+KTHY_THEVO        40   ---------- ----D----- IR-NYEGDDV ELF------- ---------- 
+KTH1_SULSO        48   LIEKIG---- -WN------- ------DPIL LVL------- ---------- 
+KTH1_SULTO        47   LIKKAG---- -WN------- ------DPVL LTL------- ---------- 
+KTHY_XYLFA        45   LLRQSA---- -AT------G RF-S-PE--E EVD------- ---------- 
+KTHY_PYRAE        42   LIKEWA---- -LKG------ ---GSVDPHV DAL------- ---------- 
+KTHY_METTH        45   LIRSML---- -SSPD----- AR-TPDVQRM LAL------- ---------- 
+KTHY_TREPA        49   LIRDVL---- -QKR------ ---VIMSSKA LGL------- ---------- 
+1bif_             41   YRRDMV---- -K-------- -T-YKSFE-- ---------- ---------- 
+1kgd_A            83   TIRKIheqgl iA-------- -I-LDVEPQA LKV------- ---------- 
+1dvr_A           100   KLDQML---- -KEQ------ GT-P-LEKAI ELkvddellv aritgrlihp 
+                                                                 
+                       3333330000 0311000000 1101111222 4560000000 0000000000 
+ 
+4tmk_A            72   --------MF YAAR--VQLV ETVIKPALAN GTWVIGDRHD LSTQAYQGGG 
+KTHY_THETN        68   --------LY ASSR--AQLV EEKILPALSK GQMVIVDRFI DSSYVYQGYA 
+KTHY_CHLTE        65   --------LF AASR--AELV QQVIQPALEN DSDVILDRFF DSTTAYQGYG 
+KTHY_ANASP        70   --------LY AADR--AQHV AQELKPKLAQ GKYILCDRYV DSTIAYQGYG 
+KTHY_PSESM        69   --------LV FAAR--AQHL AEVIRPALAR GEVVLCDRFT DATYAYQGGG 
+KTHY_PSEAE        69   --------LM FAAR--AQHL AGVIRPALAR GAVVLCDRFT DATYAYQGGG 
+KTHY_RALSO        70   --------LM FASR--REHI AEVIQPALER GDWVISDRFT DATFAYQGGG 
+KTHY_NEIMA        68   --------MM FAAR--MQHI EDVILPALSD GIHVVSDRFT DATFAYQGGG 
+KTHY_DEIRA        69   --------LY SASR--AQLV REVLRPALER GETVLCDRYA DSSLAYQGAG 
+KTHY_CAUCR        70   --------LM YAAR--RDHI ERVIRPGLAR GAVVLCDRFA DSTRAYQGAG 
+KTHY_BRUME        69   --------LF AAAR--ADHV DQLIRPTLAE GRIVLCDRFI DSSRAYQGVT 
+KTHY_AGRT5        72   --------LF AAAR--NDHV EEVIRPALAR GEIVLCDRFL DSSRVYQGTT 
+KTHY_RHIME        80   --------LF AAAR--SDHV EEVIRPALEQ GTIVLCDRFM DSSRVYQGVT 
+KTHY_RHILO        70   --------LF AAAR--SDHV EQVIRPAVER GSIVLCDRFL DSSRVYQGVT 
+KTHY_CHLMU        65   --------LF LAAR--AQHI QEKILPALES GKTVICDRFH DSTIVYQGIA 
+KTHY_CHLTR        65   --------LF LAAR--AQHI QEKIIPALKS GKTVISDRFH DSTIVYQGIA 
+KTHY_CHLCV        66   --------LF LAAR--AEHI TKKIFPALES GNIVICDRFH DSTIVYQGIA 
+KTHY_CHLPN        66   --------LF LGSR--AQHI QEVIIPALRD GYIVICERFH DSTIVYQGIA 
+KTHY_LACLA        69   --------LF AAAR--RLHM QEKMLPALQA GKVVIVDRFI DSSVAYQGYG 
+KTHY_STRP3        71   --------LY IAAR--RQHL VEKVLPALEA GQLVFIDRFI DSSVAYQGAG 
+KTHY_STRPN        70   --------LY IASR--RQHL VEKVLPALEA GKLVIMDRFI DSSVAYQGFG 
+KTHY_BACSU        69   --------LY AAAR--RQHL VEKVKPALEQ GFIVLCDRFI DSPLAYQGYA 
+KTHY_BACHD        70   --------LY AAAR--RQHL VEKVLPALEA GHVVLCDRFI DSSLAYQGYA 
+KTHY_LACPL        71   --------LY AAAR--RQHI VQTIQPALQN DQLVLCDRYI DSSVAYQGAG 
+KTHY_STAEP        65   --------LF AASR--REHL VEKIIPSLQA GKIVLCDRYI DSSLAYQGYA 
+KTHY_STAAM        65   --------LF AASR--REHL VLKVIPALKE GKVVLCDRYI DSSLAYQGYA 
+KTHY_LISIN        69   --------LI AGAR--RQHV VETIRPALAA GKTVLCDRFM DSSLAYQGAG 
+KTHY_RICCN        70   --------QA MAAR--YDHM ARKIIPALQE GHIVICDRFI ESTVCYQGLE 
+KTHY_THEMA        63   --------LF LASR--NLLV TE-IKQYLSE GYAVLLDRYT DSSVAYQGFG 
+KTHY_METAC        66   --------LF TADH--AEHL AKLVKPALED GKTVISDRYS DSRYAYQGIT 
+KTHY_HALN1        60   --------LF TADH--ADHL SRVVSPALDR GDVVISDRYS DSRYAYQGAT 
+KTHY_MYCGE        69   --------LF AAAR--TEHI SKLIKPAIEK EQLVISDRFV FSSFAYQGLS 
+KTHY_MYCPN        69   --------LF AASR--TEHV RQLIQPALQQ KQLVIVDRFV WSSYAYQGLI 
+KTHY_MYCPU        82   --------LY SSAR--RIHL DKVILPNLAK NKVVFCDRFV DSSFAYQAFG 
+KTHY_HELPJ        59   --------LF LSDR--AEHI ESVIKPALKE KKLIISDRSL ISGMAYSQFS 
+KTHY_CAMJE        61   --------LF LADR--AQHF EE--ILKTNQ NKLIISDRSF ISGMAYAK-- 
+KTHY_VIBCH        71   --------LV YAAR--VQLV ENVIKPALAR GEWVVGDRHD MSSQAYQGGG 
+KTHY_VIBPA        72   --------LL YAAR--VQLV ENVIKPALAN GQWVVGDRHD LSSQAYQGGG 
+KTHY_YERPE        71   --------ML YAAR--VQLV ENVIKPALAR GSWVVGDRHD LSSQAYQGGG 
+KTHY_HAEIN        70   --------ML YAAR--IQLV ENVIKPALMQ GKWVVGDRHD MSSQAYQGGG 
+KTHY_PASMU        71   --------ML YAAR--IQLV ENVIKPALAQ GKWVIGDRHD MSSQAYQGGG 
+KTHY_WIGBR        72   --------MI YAAR--IQLV ESVIKPALEN GSWVVGDRHD LSSLAYQGGG 
+KTHY_BUCBP        72   --------LF YAAR--IQLI KNIIQPALNK GVWVISDRYF LSSLAYQCAG 
+KTHY_BUCAI        72   --------LM YAAR--IQLV EKKIKPALKN GIWVISDRHD LSSLAYQGGG 
+KTHY_BUCAP        72   --------LM YAAR--IQLV KKIIQPALKK GTWVISDRHD LSSLAYQGGG 
+KTHY_PYRHO        72   --------LF AADR--AEHV KKIILPALSE GKVVICDRYF YSSLAYQWAR 
+KTHY_PYRAB        72   --------LF AADR--AEHV KKVILPALEK GKVVICDRYL YSSLAYQWAR 
+KTHY_PYRFU        73   --------LF AADR--AEHV KKIIEPALRE GKVVISDRYF YSSLAYQWAR 
+KTHY_AQUAE        63   --------LF EASR--SKLI EEKIIPDLKR DKVVILDRFV LSTIAYQGYG 
+KTHY_ARCFU        61   --------LF LKDR--EIDA RENILPALQS GYAVVMDRYY FSNIAYQSAR 
+KTHY_THEVO        53   --------IK FTLD--RYKH QKEIRKKLNE GFVVISDRYI RSSYAYEMKG 
+KTH1_SULSO        63   --------LF AADR--EIHV NW--LSKIKD ADLIILDRYY FSSIAYQGAL 
+KTH1_SULTO        62   --------LF SADR--AFHI KWIME---QK PEIVLMDRYF HSTIAYQSVL 
+KTHY_XYLFA        63   --------VL LRDR--RQHV EDLIVPMIGR GAVVILDRYF PSMVAYQGAA 
+KTHY_PYRAE        61   --------LF AADR--IEHY KREIEPRVRE GYIVISERYI ESSIAYQGAA 
+KTHY_METTH        67   --------LF AADR--LTLR SK--IEGDWA EDVVVSDRCY YSSMVYQG-- 
+KTHY_TREPA        68   --------LF AADRheHLEG AGGINDCLAE GKIVLCDRYV FSSLVYQGMA 
+1bif_             54   ---------- ---------- ---------- ---------- ---------- 
+1kgd_A           106   --------LR TAEF--APFV VFIAAPTITP GL-------- ---------- 
+1dvr_A           137   asgrsyhkIF NPPK--EDMK DDVTGEALVQ ISDDNADALK KRLAAYHAQT 
+                                                                 
+                       0000000066 6777007777 7778888888 8888889988 8888888644 
+ 
+4tmk_A           112   RGIDQHM-LA TLRD-AVL-- ---G-D--FR PDLTLYLDVT PEVGLKRARA 
+KTHY_THETN       108   RGLGLEK-VK IVNE-IAT-- ---K-G--LF PDITVYIDIT PEEAIK---R 
+KTHY_CHLTE       105   RGLDLDM-LA EINR-IAS-- ---C-R--LV PDVTFYLDLT PEDALMRKFS 
+KTHY_ANASP       110   RNLDMNL-IH QLND-IAT-- ---G-G--LT SDITIWLDVD VEVGLARK-- 
+KTHY_PSESM       109   RGLSHER-IA ALEQ-FVQ-- ---G-D--LR PDLTLVFDLP VEIGLSRAAA 
+KTHY_PSEAE       109   RGLPEAR-IA ALES-FVQ-- ---G-D--LR PDLTLVFDLP VEIGLARAAA 
+KTHY_RALSO       110   RGLAIER-LE ALEQ-WVQ-- ---Q-G--LQ PTRTLLFDLA PEVAAARLAD 
+KTHY_NEIMA       108   RGMPSED-IE ILEH-WVQ-- ---G-G--LR PDLTLLLDVP LEVSMARIGQ 
+KTHY_DEIRA       109   RGLSLPL-LR QITA-EVT-- ---G-G--LT PGLTVLLDLD PALGLQRAAR 
+KTHY_CAUCR       110   GDAPASL-IA ALEE-HVL-- ---G-G--TV PVLTLILDLP AEVGLQRAEA 
+KTHY_BRUME       109   GNLDATY-MA AIER-IAI-- ---D-G--AM PDLTLVLDIC AERGLSRAGK 
+KTHY_AGRT5       112   GNLEPDF-IE TLQR-IAI-- ---D-G--VV PELTLIFDIA AEKGLARARK 
+KTHY_RHIME       120   GNLEPAF-VE TLER-VAV-- ---N-G--VI PDCTIIFDLP ASVGLERARR 
+KTHY_RHILO       110   GGIDPAF-MA TLEQ-IAI-- ---N-G--MM PDMTLIFDID PAEGLRRATL 
+KTHY_CHLMU       105   GGLGEAF-VT DLCY-RVV-- ---G-DEPFL PDITFLLDLP EKEGLLRKTR 
+KTHY_CHLTR       105   GGLGESF-VT NLCY-HVV-- ---G-DKPFL PDITFLLDIP AREGLLRKAR 
+KTHY_CHLCV       106   EGLGKEY-VT SLCH-HVV-- ---G-EKKFL PDLTCLLDIP ADEGLRRKQQ 
+KTHY_CHLPN       106   EGLGADF-VA DLCS-KVV-- ---G-PTPFL PNFVLLLDIP ADIGLQRKHR 
+KTHY_LACLA       109   RDLGVEV-VD WLNY-FAT-- ---D-G--LK PDLTLYFDVD TDVALERIMK 
+KTHY_STRP3       111   RGLIKAD-IQ WLNE-FAT-- ---D-G--LE PDLTLYFDVP SEIGLARINA 
+KTHY_STRPN       110   RGLDIEA-ID WLNQ-FAT-- ---D-G--LK PDLTLYFDIE VEEGLARIAA 
+KTHY_BACSU       109   RGLGIDE-VL SINE-FAI-- ---G-D--MM PHVTVYFSID PEEGLKRIYA 
+KTHY_BACHD       110   RGIGFED-IL AINE-FAI-- ---E-G--RY PDLTLLFRVD PDVGLSRIHR 
+KTHY_LACPL       111   RGIGEQA-VY DMNQ-FAT-- ---A-G--LT ADLTLYFDVD AAVGLNRIQQ 
+KTHY_STAEP       105   RGIGIKE-VK LLNE-FAI-- ---N-G--LY PDLTIYLDVD AEIGRQRILK 
+KTHY_STAAM       105   RGIGVEE-VR ALNE-FAI-- ---N-G--LY PDLTIYLNVS AEVGRERIIK 
+KTHY_LISIN       109   RDMNMEQ-VL QVNL-YAI-- ---E-D--TI PDRTYYLDVP AEVGLARIAA 
+KTHY_RICCN       110   LENGIDL-VY NLHK-TLM-- ---P-S--LM PDITFFIDVE PDTAIKRVNS 
+KTHY_THEMA       102   RNLGKEI-VE ELND-FAT-- ---D-G--LI PDLTFYIDVD VETALKRKGE 
+KTHY_METAC       106   LKNRLDNPLE WVRDLHRG-- ---W-T--VI PDLTFLFDIE PEIAVKRCGK 
+KTHY_HALN1       100   LADTVPRAME YVRGIHQP-- ---W-T--RP PDVTLYFDVD PDTGAARSGA 
+KTHY_MYCGE       109   KKIGIDT-VK QINH-HAL-- ---R-N--MM PNFTFILDCN FKEALQRMQK 
+KTHY_MYCPN       109   KKVGLDV-VK KLNA-DAV-- ---G-D--SM PDFTFIVDCD FETALNRMAK 
+KTHY_MYCPU       122   RDLGFEK-IK LLNE-LAT-- ---D-K--KY PDITFILKIS YEESMERRKA 
+KTHY_HELPJ        99   s--------L ELNL-LAT-- ---Q-S--VL PEKIILLLIN KENLKQRLSL 
+KTHY_CAMJE        97   -DFENDL-LF ALNS-FAL-- ---E-N--FF PQKIIFLKGD ANLIQERLSQ 
+KTHY_VIBCH       111   RQIAPST-MQ SLKQ-TAL-- ---G-D--FK PDLTLYLDID PKLGLERARG 
+KTHY_VIBPA       112   RQIDASL-MK NLRD-TTL-- ---G-D--FK PAFTLYMDID PRIGLERARG 
+KTHY_YERPE       111   RGIDSQL-MA SLRD-TVL-- ---G-E--FR PDLTLYLDLP PAVGLARARA 
+KTHY_HAEIN       110   RQLDPHF-ML TLKE-TVL-- ---G-N--FE PDLTIYLDID PSVGLARARG 
+KTHY_PASMU       111   RQLDQHL-LH TLKQ-TIL-- ---G-E--FE PDLTLYLDID PVLGLSRAKG 
+KTHY_WIGBR       112   RKIDTKI-LK MLRE-VFL-- ---R-D--FY PDLTFYLDIP PIMGLARIRA 
+KTHY_BUCBP       112   RKIKEEI-VL LLQS-LFL-- ---K-N--FN PNITFYLDVT PEIGLNRIKN 
+KTHY_BUCAI       112   LGIPKKI-IY QLQS-LFL-- ---N-N--FI PDLTIYLDVS PEIGLARALK 
+KTHY_BUCAP       112   LGIKRKL-IN KLKY-LFL-- ---Q-D--FI PDLTIYLDVY PEIGLKRASK 
+KTHY_PYRHO       112   GLDL------ ---N-WL-IQ VNSF-A--PR PDLAILLDLP VKESLRRIKL 
+KTHY_PYRAB       112   GLSL------ ---E-WL-MQ INSF-A--PR PDLAILLDLP VKESIRRTKA 
+KTHY_PYRFU       113   GLNL------ ---E-WL-IE INKF-A--PH PDIAILLDIP PREGIKRIKK 
+KTHY_AQUAE       103   KGLDVEF-IK NLNE-FAT-- ---R-G--VK PDITLLLDIP VDIALRRLKE 
+KTHY_ARCFU       101   GIDA------ ---R-LI-RE MNEKiA--PK PDLTILLDVE PEIALERVRK 
+KTHY_THEVO        93   AAAALGS-EE KAKE-WMDCV SNII-T--IR PDINILVQVD VQVGLDRISK 
+KTH1_SULSO       101   GVDE------ ---Q-WI-KM VNSY-F--PK PDMVILLDLP IEVAISRI-K 
+KTH1_SULTO        99   GLDE------ ---K-WI-EE VNSK-F--PK PDIVFLLDIK VNEAIKRIRK 
+KTHY_XYLFA       103   GLPV------ ---D-AL-LE ANAF-A--PR PDVLLLLDVP PAIGLQRIWE 
+KTHY_PYRAE       101   GVSR------ ---E-FV-KY INSL-V--PK PDLTIILDVD PSIAEARIRQ 
+KTHY_METTH       103   --PE------ ---E-WV-CE INRF-A--PR PDVVILLDID VEVAMERCGG 
+KTHY_TREPA       110   VSGSFay--- ---------E LNKE-F--PL PEVVFYFDAP IEVCVERITA 
+1bif_             54   ---------- ---------- ---------- -----FFLPD NEEGLKIRKQ 
+1kgd_A           128   ---------- ---------- ---------- ---------N EDESLQRL-- 
+1dvr_A           185   EPI------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       3332222022 2222022200 0003030033 4444444444 4444333222 
+ 
+4tmk_A           152   ---------- ---------- --------R- ---------- ---------- 
+KTHY_THETN       145   ---------- ---------- --------R- ------Q--- ---------- 
+KTHY_CHLTE       145   ---------- ---------- --------Ek slplafE--- ---------- 
+KTHY_ANASP       148   ---------- ---------- ---------- ------R--- ---------- 
+KTHY_PSESM       149   ---------- ---------- --------R- ---------- ---------- 
+KTHY_PSEAE       149   ---------- ---------- --------R- ---------- ---------- 
+KTHY_RALSO       150   ---------- ---------- --------A- ---------- ---------- 
+KTHY_NEIMA       148   ---------- ---------- --------T- ---------- ---------- 
+KTHY_DEIRA       149   ---------- ---------- --------R- ---------- ---------- 
+KTHY_CAUCR       150   ---------- ---------- --------R- ---------- ---------- 
+KTHY_BRUME       149   ---------- ---------- --------R- ------R--- ---------- 
+KTHY_AGRT5       152   ---------- ---------- --------R- ------A--- ---------- 
+KTHY_RHIME       160   ---------- ---------- --------R- ------A--- ---------- 
+KTHY_RHILO       150   ---------- ---------- --------R- ------R--- ---------- 
+KTHY_CHLMU       147   ---------- ---------- --------Q- ---------- ---------- 
+KTHY_CHLTR       147   ---------- ---------- --------Q- ---------- ---------- 
+KTHY_CHLCV       148   ---------- ---------- --------Q- ---------- ---------- 
+KTHY_CHLPN       148   ---------- ---------- --------Q- ---------- ---------- 
+KTHY_LACLA       149   ---------- ---------- --------N- ------R--- ---------- 
+KTHY_STRP3       151   ---------- ---------- --------N- ------Q--- ---------- 
+KTHY_STRPN       150   ---------- ---------- --------N- ------S--- ---------- 
+KTHY_BACSU       149   ---------- ---------- --------N- ------G--- ---------- 
+KTHY_BACHD       150   ---------- ---------- --------D- ------Q--- ---------- 
+KTHY_LACPL       151   ---------- ---------- --------H- ------R--- ---------- 
+KTHY_STAEP       145   ---------- ---------- --------N- ---------- ---------- 
+KTHY_STAAM       145   ---------- ---------- --------N- ---------- ---------- 
+KTHY_LISIN       149   ---------- ---------- --------N- ------K--- ---------- 
+KTHY_RICCN       150   ---------- ---------- --------R- ---------- ---------- 
+KTHY_THEMA       142   ---------- ---------- --------L- ---------- ---------- 
+KTHY_METAC       148   ---------- ---------- --------R- ---------- ---------- 
+KTHY_HALN1       142   ---------- ---------- --------T- ---------- ---------- 
+KTHY_MYCGE       149   ---------- ---------- --------R- ---------- ---------- 
+KTHY_MYCPN       149   ---------- ---------- --------R- ---------- ---------- 
+KTHY_MYCPU       162   ---------- ---------- --------R- ------Q--- ---------- 
+KTHY_HELPJ       132   ---------- ---------- --------K- ---------- ---------- 
+KTHY_CAMJE       136   ---------- ---------- --------K- ---------- ---------- 
+KTHY_VIBCH       151   ---------- ---------- --------R- ---------- ---------- 
+KTHY_VIBPA       152   ---------- ---------- --------R- ---------- ---------- 
+KTHY_YERPE       151   ---------- ---------- --------R- ---------- ---------- 
+KTHY_HAEIN       150   ---------- ---------- --------R- ---------- ---------- 
+KTHY_PASMU       151   ---------- ---------- --------R- ---------- ---------- 
+KTHY_WIGBR       152   ---------- ---------- --------R- ------Atvr aqirdkvnki 
+KTHY_BUCBP       152   ---------- ---------- --------R- ---------- ---------- 
+KTHY_BUCAI       152   ---------- ---------- --------R- ---------- ---------- 
+KTHY_BUCAP       152   ---------- ---------- --------R- ---------- ---------- 
+KTHY_PYRHO       148   ---------- ---------- --------R- ---------- ---------- 
+KTHY_PYRAB       148   ---------- ---------- --------R- ---------- ---------- 
+KTHY_PYRFU       149   ---------- ---------- --------R- ---------- ---------- 
+KTHY_AQUAE       143   ---------- ---------- --------K- ---------- ---------- 
+KTHY_ARCFU       138   ---------- ---------- --------R- ---------- ---------- 
+KTHY_THEVO       138   ---------- ---------- --------R- ---------- ---------- 
+KTH1_SULSO       136   ---------- ---------- --------N- ---------- ---------- 
+KTH1_SULTO       135   ---------- ---------- --------D- ---------- ---------- 
+KTHY_XYLFA       139   ---------- ---------- --------R- ---------- ---------- 
+KTHY_PYRAE       137   ---------- ---------- --------R- ---------- ---------- 
+KTHY_METTH       137   ---------- ---------- --------T- ---------- ---------- 
+KTHY_TREPA       145   ---------- ---------- --------R- ---------- ---------- 
+1bif_             69   calaalndvr kflseegghv avfdatntT- ---------- ---------- 
+1kgd_A           137   ---------- ---------- ---------- ---------- ---------- 
+1dvr_A           188   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000020 0000000000 0000000000 
+ 
+4tmk_A           153   ---------G -----ELDR- -IEQE-S--- ---------- ---------- 
+KTHY_THETN       147   ---------G KK--ADRLE- -GEDY-E--- ---------- ---------- 
+KTHY_CHLTE       154   ---------S EE--LDRME- -NSGL-D--- ---------- ---------- 
+KTHY_ANASP       149   ---------G DN--VGLDR- -IEQE-T--- ---------- ---------- 
+KTHY_PSESM       150   ---------G -----RLDR- -FEQE-G--- ---------- ---------- 
+KTHY_PSEAE       150   ---------G -----RLDR- -FEQE-D--- ---------- ---------- 
+KTHY_RALSO       151   ---------R -----TPDK- -FEAE-S--- ---------- ---------- 
+KTHY_NEIMA       149   ---------R -----EKDR- -FEQE-Q--- ---------- ---------- 
+KTHY_DEIRA       150   ---------G -----QPDR- -LEQA-D--- ---------- ---------- 
+KTHY_CAUCR       151   ---------G -----GAAR- -FESK-G--- ---------- ---------- 
+KTHY_BRUME       151   ---------G SD--T-ADR- -FEKE-D--- ---------- ---------- 
+KTHY_AGRT5       154   ---------D -EgaT-PDR- -FEKE-E--- ---------- ---------- 
+KTHY_RHIME       162   ---------A ND--S-PDR- -FEKE-Q--- ---------- ---------- 
+KTHY_RHILO       152   ---------G SD--AGADR- -FEKE-T--- ---------- ---------- 
+KTHY_CHLMU       148   ---------K -----NLDR- -FEQK-P--- ---------- ---------- 
+KTHY_CHLTR       148   ---------K -----HLDK- -FEQK-P--- ---------- ---------- 
+KTHY_CHLCV       149   ---------K -----SLDK- -FEDK-P--- ---------- ---------- 
+KTHY_CHLPN       149   ---------K -----VFDK- -FEKK-P--- ---------- ---------- 
+KTHY_LACLA       151   ---------A DE--VNRLD- -LERA-E--- ---------- ---------- 
+KTHY_STRP3       153   ---------Q RE--VNRLD- -LETI-E--- ---------- ---------- 
+KTHY_STRPN       152   ---------D RE--VNRLD- -LEGL-D--- ---------- ---------- 
+KTHY_BACSU       151   ---------S RE--KNRLD- -LEKL-D--- ---------- ---------- 
+KTHY_BACHD       152   ---------S RE--QNRLD- -QEAL-T--- ---------- ---------- 
+KTHY_LACPL       153   ---------Q NE--INRLD- -VEAL-S--- ---------- ---------- 
+KTHY_STAEP       146   ---------N RE--QNRLD- -KEEK-A--- ---------- ---------- 
+KTHY_STAAM       146   ---------S RD--QNRLD- -QEDL-K--- ---------- ---------- 
+KTHY_LISIN       151   ---------G RE--VNRLD- -KEDI-T--- ---------- ---------- 
+KTHY_RICCN       151   ---------N -----MNNK- -FDIR-G--- ---------- ---------- 
+KTHY_THEMA       143   ---------N --------R- -FEKR-E--- ---------- ---------- 
+KTHY_METAC       149   ---------G -----EQTK- -FEKI-E--- ---------- ---------- 
+KTHY_HALN1       143   ---------N --------K- -FETA-A--- ---------- ---------- 
+KTHY_MYCGE       150   ---------G -----NDNL- -LDEFIK--- ---------- ---------- 
+KTHY_MYCPN       150   ---------G -----QDNL- -LDNTVK--- ---------- ---------- 
+KTHY_MYCPU       164   ---------E -D--EDRLE- -KEEN-S--- ---------- ---------- 
+KTHY_HELPJ       133   ---------S LD--KIENQG -IEKLLT--- ---------- ---------- 
+KTHY_CAMJE       137   ---------E LD--SIEKRG -IEYFLS--- ---------- ---------- 
+KTHY_VIBCH       152   ---------G -----ELDR- -IEKM-D--- ---------- ---------- 
+KTHY_VIBPA       153   ---------G -----ELDR- -IEKM-D--- ---------- ---------- 
+KTHY_YERPE       152   ---------G -----ELDR- -IEQE-S--- ---------- ---------- 
+KTHY_HAEIN       151   ---------G -----ELDR- -IEQM-D--- ---------- ---------- 
+KTHY_PASMU       152   ---------G -----ALDR- -IEQQ-N--- ---------- ---------- 
+KTHY_WIGBR       167   krnhshdikN -----ALDR- -IEVE-P--- ---------- ---------- 
+KTHY_BUCBP       153   ---------N -----EIDR- -IEQN-T--- ---------- ---------- 
+KTHY_BUCAI       153   ---------N -----PLDL- -IESR-S--- ---------- ---------- 
+KTHY_BUCAP       153   ---------N -----HLDR- -IEHR-S--- ---------- ---------- 
+KTHY_PYRHO       149   ---------G -----TLTE- -FDKIVE--- ---------- ---------- 
+KTHY_PYRAB       149   ---------G -----NMSE- -FDKLLE--- ---------- ---------- 
+KTHY_PYRFU       150   ---------S -----SQTE- -FDKLFK--- ---------- ---------- 
+KTHY_AQUAE       144   ---------N --------R- -FENK-E--- ---------- ---------- 
+KTHY_ARCFU       139   ---------G -----KLSP- -FEKL-D--- ---------- ---------- 
+KTHY_THEVO       139   ---------N -----GTIT- -HFEQRE--- ---------- ---------- 
+KTH1_SULSO       137   ---------D --------K- -FNFE-EK-- ---------- ---------- 
+KTH1_SULTO       136   ---------D --------Q- -FNFE-EK-- ---------- ---------- 
+KTHY_XYLFA       140   ---------G -----STPN- -HFETTE--- ---------- ---------- 
+KTHY_PYRAE       138   ---------G -----GAEK- -YEYL-S--- ---------- ---------- 
+KTHY_METTH       138   ---------D --------E- -FEDP-L--- ---------- ---------- 
+KTHY_TREPA       146   ---------G -----LQTE- -LYEYTS--- ---------- ---------- 
+1bif_             98   ---------R -----ERram iFNFG-EQng yktffvesic vdpeviaani 
+1kgd_A           137   ---------- ---------- ---QK-E--- ---------- ---------- 
+1dvr_A           188   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000001 0000011220 0222202000 0000000000 0000000000 
+ 
+4tmk_A           163   ---------- -FDFF---NR TRARYLELA- --AQDK---- --SIHTIDAT 
+KTHY_THETN       160   ---------- ---FH---KK VREGYLRLV- --KDFP---- --ERFILIDG 
+KTHY_CHLTE       167   ---------- ---FY---RR VREGYHKIG- --GENP---- --NRIIIIDA 
+KTHY_ANASP       162   ---------- -IAFH---RR VQQGYADLA- --ASSP---- --KRIIRVDG 
+KTHY_PSESM       160   ---------- -RAFF---DA VRSTYLNRA- --KAEP---- --ARYRLVDA 
+KTHY_PSEAE       160   ---------- -RRFF---EA VRQTYLQRA- --AQAP---- --ERYQVLDA 
+KTHY_RALSO       161   ---------- -AQFF---VR TRAEYLRRA- --AAEP---- --GRFVVIDA 
+KTHY_NEIMA       159   ---------- -ADFF---MR VRSVYLNRA- --AACP---- --ERYAVIDS 
+KTHY_DEIRA       160   ---------- -LTFH---RR VRQGFLDLA- --HAEP---- --QRFLVLDA 
+KTHY_CAUCR       161   ---------- -LAFH---ER LRAGYLEIA- --RREP---- --DRCVVIDA 
+KTHY_BRUME       163   ---------- -IAVH---EA RRQAFLEIA- --RQEP---- --ARCKVIDA 
+KTHY_AGRT5       167   ---------- -IETH---EK RREAYLDIA- --LAEP---- --RRCRIVNA 
+KTHY_RHIME       174   ---------- -LETH---EK RREAFLDIA- --AADP---- --ERCRVVDA 
+KTHY_RHILO       165   ---------- -LAIH---QA RRAAFLAIA- --AAEP---- --ERCIVVDA 
+KTHY_CHLMU       158   ---------- -TSFH---RA AREGFISLA- --ERSP---- --DRYKILDA 
+KTHY_CHLTR       158   ---------- -QIFH---RS VREGFLALA- --EKAP---- --DRYKVLDA 
+KTHY_CHLCV       159   ---------- -LAYH---TK IREGFLSLA- --EAHP---- --NSYLILDG 
+KTHY_CHLPN       159   ---------- -LSYH---NR IREGFLSLA- --SADP---- --SRYLVLDA 
+KTHY_LACLA       164   ---------- ---MH---RK VREGYLEIV- --VKEP---- --ERFVKIDA 
+KTHY_STRP3       166   ---------- ---IH---QR VRKGYLALA- --KEHP---- --KRIVTIDA 
+KTHY_STRPN       165   ---------- ---LH---KK VRQGYLSLL- --DKEG---- --NRIVKIDA 
+KTHY_BACSU       164   ---------- ---FH---TK VQEGYQELM- --KRFP---- --ERFHSVDA 
+KTHY_BACHD       165   ---------- ---FH---QK VKEGYERIV- --ETYP---- --ERVVEIDA 
+KTHY_LACPL       166   ---------- ---FH---HR VQAAYLRLL- --ADHP---- --DRIKRVDA 
+KTHY_STAEP       159   ---------- ---FH---EK VIEGYQKVI- --SDNP---- --HRFIKVNA 
+KTHY_STAAM       159   ---------- ---FH---EK VIEGYQEII- --HNES---- --QRFKSVNA 
+KTHY_LISIN       164   ---------- ---YH---EK VQNGYEKII- --QMFP---- --DRFMRVDA 
+KTHY_RICCN       161   ---------- -IDFY---KK IYYCFKELS- --NRFP---- --ERIKTIKA 
+KTHY_THEMA       150   ---------- ---FL---ER VREGYLVLA- --REHP---- --ERIVVLDG 
+KTHY_METAC       159   ---------- ---FL---RG VRELFLGLA- --AEEP---- --ERFVIVDA 
+KTHY_HALN1       150   ---------- ---FL---AD VRANYEQLI- --DYTP---- --ERFVRIDA 
+KTHY_MYCGE       161   ---------- ---GKNDFDT VRSYYLSLV- ---DKK---- --NCFLINGD 
+KTHY_MYCPN       161   ---------- ---KQADFNT MRQYYHSLV- ---DNK---- --RVFLLDGQ 
+KTHY_MYCPU       176   ---------- ---FY---QK VIKGYDFLAs ypEFQK---- --RIFVIDAS 
+KTHY_HELPJ       148   ---------- ---IQ---QK LKTHAYALQ- --EKFG---- --CEVLELDA 
+KTHY_CAMJE       152   ---------- ---VQ---DK LEKVLHFLK- --EKIS---- --VEILTLDA 
+KTHY_VIBCH       162   ---------- -ISFF---ER ARERYLELA- --NSDD---- --SVVMIDAA 
+KTHY_VIBPA       163   ---------- -ISFF---ER TRERYLEIA- --NADP---- --SIVVINAE 
+KTHY_YERPE       162   ---------- -LAFF---ER TRARYLELA- --ASDA---- --SIKTIDAS 
+KTHY_HAEIN       161   ---------- -LDFF---HR TRARYLELV- --KDNP---- --KAVVINAE 
+KTHY_PASMU       162   ---------- -LDFF---HR TRQRYQELV- --RHNP---- --KAVTIDAS 
+KTHY_WIGBR       186   ---------- -ISFF---DR TRKKYKELA- --SKNE---- --KIITIDAS 
+KTHY_BUCBP       163   ---------- -KFFF---NN VRNKYLNLI- --KTKP---- --GIIKINAN 
+KTHY_BUCAI       163   ---------- -LFFF---KK TRRCYLEKS- --KLDK---- --KTIIINAN 
+KTHY_BUCAP       163   ---------- -LTFF---KK TRASYLKNI- --KLDK---- --KIIKINAN 
+KTHY_PYRHO       160   ---------- ---LQ---RK VRHNYLKLA- --EMFP---- --EMRIVNAL 
+KTHY_PYRAB       160   ---------- ---LQ---RK VRMNYLKLA- --EMFK---- --EMRIVNAM 
+KTHY_PYRFU       161   ---------- ---LQ---EK VRENYIKLA- --KMFD---- --EIKIIDAT 
+KTHY_AQUAE       151   ---------- ---FL---EK VRKGFLELA- --KEEE---- --NVVVIDAS 
+KTHY_ARCFU       149   ---------- ---YL---RK VRKCF--LE- --NADE---- --TTVVVDAS 
+KTHY_THEVO       150   ---------- --------RL nealk---I- --YNSF---- --DWDIKVDG 
+KTH1_SULSO       145   ---------- -IKSL---AK VREKYLKLA- ---KEY---- --NFYVVDAS 
+KTH1_SULTO       144   ---------- -IATL---EA VRKKYLELA- ---RKY---- --NFIVLDAM 
+KTHY_XYLFA       151   ---------- --------NL SRCRDIFLA- --LELP---- --SKRVIDAT 
+KTHY_PYRAE       148   ---------- ---FL---RK VREIYLARA- ---AEE---- --GYPVIDAS 
+KTHY_METTH       145   ---------- ---YL---AG VRERYLELA- ---DKN---- --GFYTVNAE 
+KTHY_TREPA       157   ---------- ---FQ---EK ARKGYETIF- --RKCrhlyp amKVIEIDAR 
+1bif_            133   vqvklgspdy vNRDS---DE ATEDFMRRI- --ECYE---- --NSYESLDE 
+1kgd_A           140   ---------- -SDIL---QR TYAHYFDLT- --IINN---- --EI-----D 
+1dvr_A           188   ---------- -VDFY---KK T--------- ---------- --GIWAGVDA 
+                                                                 
+                       0000000000 0112200022 2222222220 0022220000 0022222221 
+ 
+4tmk_A           190   Q-PLEAVMDA IRT-TVT-HW V--------- ---------- ---------- 
+KTHY_THETN       185   MQEVLAVHKM VVK-AVE-EY ---------- ---------- ---------- 
+KTHY_CHLTE       192   LLSPSEIHRK IIS-SID-AL ---------- ---------- ---------- 
+KTHY_ANASP       189   QLSKETVHKT IQE-ILS-VH L--------- ---------- ---------- 
+KTHY_PSESM       187   AQSLADVQAS LDK-LLP-EL ---------- ---------- ---------- 
+KTHY_PSEAE       187   GLPLAEVQAG LDR-LLP-NL ---------- ---------- ---------- 
+KTHY_RALSO       188   ARARDDIRKD LEK-LLA-SL ---------- ---------- ---------- 
+KTHY_NEIMA       186   NLGLDEVRNS IEK-VLD-RH ---------- ---------- ---------- 
+KTHY_DEIRA       187   TRPEDELEAE IWA-AVS-ER gh-------- ---------- ---------- 
+KTHY_CAUCR       188   DAELDAVTAA ISD-VVV-QR ---------- ---------- ---------- 
+KTHY_BRUME       190   DRSQEKIADE IRS-VVD-TI ---------- ---------- ---------- 
+KTHY_AGRT5       194   DQPEDKVTED VMS-FVE-PL ---------- ---------- ---------- 
+KTHY_RHIME       201   NRPPTAIAAE VLS-LVE-AL ---------- ---------- ---------- 
+KTHY_RHILO       192   SADPNTVEDV VTA-AVF-AA ---------- ---------- ---------- 
+KTHY_CHLMU       185   LLPTEVSVDQ ALL-QIR-AL ---------- ---------- ---------- 
+KTHY_CHLTR       185   LLPTEASVDQ ALL-QIR-AL ---------- ---------- ---------- 
+KTHY_CHLCV       186   RQPLEESLNK VMTaYTELAL ---------- ---------- ---------- 
+KTHY_CHLPN       186   RESLASLIDK VML-HTQLGL ---------- ---------- ---------- 
+KTHY_LACLA       189   SQPLEKVVAD TLS-VLK-KR ---------- ---------- ---------- 
+KTHY_STRP3       191   TKPLKEVVSV ALE-HVL-TL ---------- ---------- ---------- 
+KTHY_STRPN       190   SLPLEQVVET TKA-VLF-DG ---------- ---------- ---------- 
+KTHY_BACSU       189   GQSKDLVVQD VLK-VID-EA ---------- ---------- ---------- 
+KTHY_BACHD       190   NQSFDQVVAD AVR-MIK-QR ---------- ---------- ---------- 
+KTHY_LACPL       191   SQPLDQVVTQ ALE-IMA-SQ ---------- ---------- ---------- 
+KTHY_STAEP       184   NHSLDKVVEE TYQ-SII-KY ---------- ---------- ---------- 
+KTHY_STAAM       184   DQPLENVVED TYQ-TII-KY ---------- ---------- ---------- 
+KTHY_LISIN       189   TKTPEEITTI ILA-DIL-KQ ---------- ---------- ---------- 
+KTHY_RICCN       188   S-DLSPL--E VHE-LIK-KH ---------- ---------- ---------- 
+KTHY_THEMA       175   KRSIEEIHRD VVR-EVK-RR W--------- ---------- ---------- 
+KTHY_METAC       184   SGSPEDVEKA VVQ-KIL-DF ---------- ---------- ---------- 
+KTHY_HALN1       175   TQSPEAVIAD AEA-ALA-DA ---------- ---------- ---------- 
+KTHY_MYCGE       188   N-KQEHLEKF IEL-LTR-CL Q--------- ---------- ---------- 
+KTHY_MYCPN       188   N-QTGCLEQF IEQ-LSQ-CL T--------- ---------- ---------- 
+KTHY_MYCPU       204   K-NQEEIFES VLK-ILK-DH K--------- ---------- ---------- 
+KTHY_HELPJ       173   QKSAKNLHEK IAT-FIE-CV ---------- ---------- ---------- 
+KTHY_CAMJE       177   KESKEKLHQQ IKE-FLQ--- ---------- ---------- ---------- 
+KTHY_VIBCH       189   Q-SIEQVTAD IRR-ALQ-DW L--------- ---------- ---------- 
+KTHY_VIBPA       190   Q-SIEEVSRD IQD-ALN-EW L--------- ---------- ---------- 
+KTHY_YERPE       189   Q-PIEQVSAS ISQ-ALA-QW L--------- ---------- ---------- 
+KTHY_HAEIN       188   Q-SIELVQAD IES-AVK-NW W--------- ---------- ---------- 
+KTHY_PASMU       189   Q-TMSKVAED VES-AIE-TW L--------- ---------- ---------- 
+KTHY_WIGBR       213   K-SLELVNKE IKH-QLL-KW L--------- ---------- ---------- 
+KTHY_BUCBP       190   R-KIDKVKHS CKQ-QML-SW L--------- ---------- ---------- 
+KTHY_BUCAI       190   L-NIKKVTQN ITK-KML-NW L--------- ---------- ---------- 
+KTHY_BUCAP       190   L-NIKIVTQN IKN-QIL-KW L--------- ---------- ---------- 
+KTHY_PYRHO       185   S-SIEDIHSD IVA-LVK-HE LLGL------ ---------- ---------- 
+KTHY_PYRAB       185   A-SVEEVHED IVA-LVK-HE LLGL------ ---------- ---------- 
+KTHY_PYRFU       186   K-SVEEVHRE IIS-SIK-EI W--------- ---------- ---------- 
+KTHY_AQUAE       176   G-EEEEVFKE ILR-ALS-GV L--------- ---------- ---------- 
+KTHY_ARCFU       172   K-PLEEVKEE VRK-VIE-SF L--------- ---------- ---------- 
+KTHY_THEVO       170   TDPLDKITNE VYL-YLK-NK ---------- ---------- ---------- 
+KTH1_SULSO       171   K-DKNEVLEQ AIK-IIQ-KN LF-------- ---------- ---------- 
+KTH1_SULTO       170   S-KIEELTEK TVQ-IIC-SL V--------- ---------- ---------- 
+KTHY_XYLFA       174   A-NAETVLSA ALA-LVM-EV L--------- ---------- ---------- 
+KTHY_PYRAE       172   R-RPEEVAAD VAE-LIK-RV V--------- ---------- ---------- 
+KTHY_METTH       169   R-GVNLIQRD IRR-ILA-PH F--------- ---------- ---------- 
+KTHY_TREPA       188   E-EIEVVHER ILH-HLR-EY R--------- ---------- ---------- 
+1bif_            171   EQDRDLSYIK IMD-VGQ-SY vvnrvadhiq srivyylmni hvtprsiylc 
+1kgd_A           162   E-TIRHLEEA VEL-Vc---- ---------- ---------- ---------- 
+1dvr_A           203   SQPPATVWAD ILN-KLG-KN ---------- ---------- ---------- 
+                                                                 
+                       1111111111 0000000000 0000000000 0000000000 0000000000 
+ 
+4tmk_A           208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THETN       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLTE       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_ANASP       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PSESM       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PSEAE       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RALSO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_NEIMA       204   ---------- ---------- ---------- ---------- ---------- 
+KTHY_DEIRA       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CAUCR       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BRUME       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_AGRT5       212   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RHIME       219   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RHILO       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLMU       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLTR       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLCV       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLPN       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LACLA       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STRP3       209   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STRPN       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BACSU       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BACHD       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LACPL       209   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STAEP       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STAAM       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LISIN       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RICCN       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THEMA       194   ---------- ---------- ---------- ---------- ---------- 
+KTHY_METAC       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HALN1       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCGE       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCPN       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCPU       222   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HELPJ       191   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CAMJE       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_VIBCH       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_VIBPA       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_YERPE       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HAEIN       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PASMU       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_WIGBR       231   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCBP       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCAI       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCAP       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRHO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRAB       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRFU       204   ---------- ---------- ---------- ---------- ---------- 
+KTHY_AQUAE       194   ---------- ---------- ---------- ---------- ---------- 
+KTHY_ARCFU       190   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THEVO       188   ---------- ---------- ---------- ---------- ---------- 
+KTH1_SULSO       190   ---------- ---------- ---------- ---------- ---------- 
+KTH1_SULTO       188   ---------- ---------- ---------- ---------- ---------- 
+KTHY_XYLFA       192   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRAE       190   ---------- ---------- ---------- ---------- ---------- 
+KTHY_METTH       187   ---------- ---------- ---------- ---------- ---------- 
+KTHY_TREPA       206   ---------- ---------- ---------- ---------- ---------- 
+1bif_            219   rhgeselnlk griggdpgls prgrefskhl aqfisdqnik dlkvftsqmk 
+1kgd_A           176   ---------- ---------- ---------- ---------- ---------- 
+1dvr_A           221   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+4tmk_A           208   ---------- ---------- ----KEl--- ---------- ---------- 
+KTHY_THETN       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLTE       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_ANASP       208   ---------- ---------- ----KQWL-- ---------- ---------- 
+KTHY_PSESM       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PSEAE       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RALSO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_NEIMA       204   ---------- ---------- ---------- ---------- ---------- 
+KTHY_DEIRA       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CAUCR       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BRUME       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_AGRT5       212   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RHIME       219   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RHILO       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLMU       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLTR       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLCV       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLPN       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LACLA       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STRP3       209   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STRPN       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BACSU       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BACHD       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LACPL       209   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STAEP       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STAAM       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LISIN       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RICCN       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THEMA       194   ---------- ---------- ----KLDV-- ---------- ---------- 
+KTHY_METAC       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HALN1       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCGE       206   ---------- ---------- ----QPT--- -------HY- ---------- 
+KTHY_MYCPN       206   ---------- ---------- ----QPTls- ---------- ---------- 
+KTHY_MYCPU       222   ---------- ---------- ----TFQthp iykdffs--- ---------- 
+KTHY_HELPJ       191   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CAMJE       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_VIBCH       207   ---------- ---------- ----SQvnrv ---------- ---------- 
+KTHY_VIBPA       208   ---------- ---------- ----SRQ--- ---------- ---------- 
+KTHY_YERPE       207   ---------- ---------- ----TNQEpv ---------- ---------- 
+KTHY_HAEIN       206   ---------- ---------- ----KSNEk- ---------- ---------- 
+KTHY_PASMU       207   ---------- ---------- ----TTR--- ---------- ---------- 
+KTHY_WIGBR       231   ---------- ---------- ----KKQI-- ---------- ---------- 
+KTHY_BUCBP       208   ---------- ---------- ----NTENl- ---------- ---------- 
+KTHY_BUCAI       208   ---------- ---------- ----NKQVI- ---------- ---------- 
+KTHY_BUCAP       208   ---------- ---------- ----QQKVV- ---------- ---------- 
+KTHY_PYRHO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRAB       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRFU       204   ---------- ---------- ----GKNYGS r--------- ---------- 
+KTHY_AQUAE       194   ---------- ---------- ----RV---- ---------- ---------- 
+KTHY_ARCFU       190   ---------- ---------- ----NLKKNS n--------- ---------- 
+KTHY_THEVO       188   ---------- ---------- ---------- ---------- ---------- 
+KTH1_SULSO       190   ---------- ---------- ---------- ---------- ---------- 
+KTH1_SULTO       188   ---------- ---------- ----KCS--- ---------- ---------- 
+KTHY_XYLFA       192   ---------- ---------- ----RVRLGA lgavv----- ---------- 
+KTHY_PYRAE       190   ---------- ---------- ----RFK--- ---------- ---------- 
+KTHY_METTH       187   ---------- ---------- ----GICSGG im-------- ---------- 
+KTHY_TREPA       206   ---------- ---------- ----RLK--- ---------- ---------- 
+1bif_            269   rtiqtaeals vpyeqfkvln eidaGVCeem tyeeiqdHYp lefalrdqdk 
+1kgd_A           176   ---------- ---------- ---------- ---------- ---------- 
+1dvr_A           221   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+4tmk_A           211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THETN       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLTE       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_ANASP       212   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PSESM       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PSEAE       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RALSO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_NEIMA       204   ---------- ---------- ---------- ---------- ---------- 
+KTHY_DEIRA       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CAUCR       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BRUME       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_AGRT5       212   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RHIME       219   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RHILO       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLMU       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLTR       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLCV       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CHLPN       205   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LACLA       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STRP3       209   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STRPN       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BACSU       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BACHD       208   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LACPL       209   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STAEP       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_STAAM       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_LISIN       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_RICCN       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THEMA       198   ---------- ---------- ---------- ---------- ---------- 
+KTHY_METAC       202   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HALN1       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCGE       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCPN       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCPU       235   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HELPJ       191   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CAMJE       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_VIBCH       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_VIBPA       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_YERPE       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HAEIN       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PASMU       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_WIGBR       235   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCBP       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCAI       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCAP       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRHO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRAB       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRFU       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_AQUAE       196   ---------- ---------- ---------- ---------- ---------- 
+KTHY_ARCFU       197   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THEVO       188   ---------- ---------- ---------- ---------- ---------- 
+KTH1_SULSO       190   ---------- ---------- ---------- ---------- ---------- 
+KTH1_SULTO       191   ---------- ---------- ---------- ---------- ---------- 
+KTHY_XYLFA       203   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRAE       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_METTH       195   ---------- ---------- ---------- ---------- ---------- 
+KTHY_TREPA       209   ---------- ---------- ---------- ---------- ---------- 
+1bif_            319   yryrypkges yedlvqrlep vimelerqen vlvichqavm rcllayfldk 
+1kgd_A           176   ---------- ---------- ---------- ---------- ---------- 
+1dvr_A           221   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+4tmk_A           211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THETN       203   ---------- ---------- --LKGAkv-- ---------- ---------- 
+KTHY_CHLTE       210   ---------- ---------- --CTKta--- ---------- ---------- 
+KTHY_ANASP       212   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PSESM       205   ---------- ---------- --LELQRG-- ---------- ---------- 
+KTHY_PSEAE       205   ---------- ---------- --LERLNG-- ---------- ---------- 
+KTHY_RALSO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_NEIMA       204   ---------- ---------- --FGC----- ---------- ---------- 
+KTHY_DEIRA       207   ---------- ---------- ---------- ---------- ---------- 
+KTHY_CAUCR       206   ---------- ---------- --LGL----- ---------- ---------- 
+KTHY_BRUME       208   ---------- ---------- --LTEKGLl- ---------- ---------- 
+KTHY_AGRT5       212   ---------- ---------- --LERAGNAA DAAHE----- ---------- 
+KTHY_RHIME       219   ---------- ---------- --LPLEGKPQ PSNAEATs-- ---------- 
+KTHY_RHILO       210   ---------- ---------- --LEARAPAR NRQAAPV--- ---------- 
+KTHY_CHLMU       203   ---------- ---------- --I------- ---------- ---------- 
+KTHY_CHLTR       203   ---------- ---------- --I------- ---------- ---------- 
+KTHY_CHLCV       206   ---------- ---------- --Ck------ ---------- ---------- 
+KTHY_CHLPN       205   ---------- ---------- --CT------ ---------- ---------- 
+KTHY_LACLA       207   ---------- ---------- --Fvsef--- ---------- ---------- 
+KTHY_STRP3       209   ---------- ---------- --Lla----- ---------- ---------- 
+KTHY_STRPN       208   ---------- ---------- --MGLak--- ---------- ---------- 
+KTHY_BACSU       207   ---------- ---------- --LKKIQL-- ---------- ---------- 
+KTHY_BACHD       208   ---------- ---------- --LSL----- ---------- ---------- 
+KTHY_LACPL       209   ---------- ---------- --LPtyvask ggedq----- ---------- 
+KTHY_STAEP       202   ---------- ---------- --LK------ ---------- ---------- 
+KTHY_STAAM       202   ---------- ---------- --LEKI---- ---------- ---------- 
+KTHY_LISIN       207   ---------- ---------- --Lt------ ---------- ---------- 
+KTHY_RICCN       203   ---------- ---------- --L------- ---------- ---------- 
+KTHY_THEMA       198   ---------- ---------- ---------- ---------- ---------- 
+KTHY_METAC       202   ---------- ---------- --VQRIE--- ---------- ---------- 
+KTHY_HALN1       193   ---------- ---------- --LPddawa- ---------- ---------- 
+KTHY_MYCGE       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCPN       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_MYCPU       235   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HELPJ       191   ---------- ---------- --V------- ---------- ---------- 
+KTHY_CAMJE       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_VIBCH       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_VIBPA       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_YERPE       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_HAEIN       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PASMU       210   ---------- ---------- ---------- ---------- ---------- 
+KTHY_WIGBR       235   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCBP       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCAI       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_BUCAP       213   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRHO       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRAB       206   ---------- ---------- ---------- ---------- ---------- 
+KTHY_PYRFU       211   ---------- ---------- ---------- ---------- ---------- 
+KTHY_AQUAE       196   ---------- ---------- ---------- ---------- ---------- 
+KTHY_ARCFU       197   ---------- ---------- ---------- ---------- ---------- 
+KTHY_THEVO       188   ---------- ---------- --IGL----- ---------- ---------- 
+KTH1_SULSO       190   ---------- ---------- ---------- ---------- ---------- 
+KTH1_SULTO       191   ---------- ---------- ---------- ---------- ---------- 
+KTHY_XYLFA       203   ---------- ---------- --LRRLAG-- ---------- ---------- 
+KTHY_PYRAE       193   ---------- ---------- ---------- ---------- ---------- 
+KTHY_METTH       195   ---------- ---------- ---------- ---------- ---------- 
+KTHY_TREPA       209   ---------- ---------- ---------- ---------- ---------- 
+1bif_            369   aaeelpylkc plhtvlkltp vaYGCkvesi flnvaavnth rdrpqnvdis 
+1kgd_A           176   ---------- ---------- ---------- ---------- ---------- 
+1dvr_A           221   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+4tmk_A           211   ---------- ---- 
+KTHY_THETN       209   ---------- ---- 
+KTHY_CHLTE       215   ---------- ---- 
+KTHY_ANASP       212   ---------- ---- 
+KTHY_PSESM       211   ---------- ---- 
+KTHY_PSEAE       211   ---------- ---- 
+KTHY_RALSO       206   ---------- ---- 
+KTHY_NEIMA       207   ---------- ---- 
+KTHY_DEIRA       207   ---------- ---- 
+KTHY_CAUCR       209   ---------- ---- 
+KTHY_BRUME       215   ---------- ---- 
+KTHY_AGRT5       225   ---------- ---- 
+KTHY_RHIME       235   ---------- ---- 
+KTHY_RHILO       225   ---------- ---- 
+KTHY_CHLMU       204   ---------- ---- 
+KTHY_CHLTR       204   ---------- ---- 
+KTHY_CHLCV       208   ---------- ---- 
+KTHY_CHLPN       207   ---------- ---- 
+KTHY_LACLA       212   ---------- ---- 
+KTHY_STRP3       212   ---------- ---- 
+KTHY_STRPN       213   ---------- ---- 
+KTHY_BACSU       213   ---------- ---- 
+KTHY_BACHD       211   ---------- ---- 
+KTHY_LACPL       222   ---------- ---- 
+KTHY_STAEP       204   ---------- ---- 
+KTHY_STAAM       206   ---------- ---- 
+KTHY_LISIN       209   ---------- ---- 
+KTHY_RICCN       204   ---------- ---- 
+KTHY_THEMA       198   ---------- ---- 
+KTHY_METAC       207   ---------- ---- 
+KTHY_HALN1       200   ---------- ---- 
+KTHY_MYCGE       211   ---------- ---- 
+KTHY_MYCPN       211   ---------- ---- 
+KTHY_MYCPU       235   ---------- ---- 
+KTHY_HELPJ       192   ---------- ---- 
+KTHY_CAMJE       193   ---------- ---- 
+KTHY_VIBCH       213   ---------- ---- 
+KTHY_VIBPA       211   ---------- ---- 
+KTHY_YERPE       213   ---------- ---- 
+KTHY_HAEIN       211   ---------- ---- 
+KTHY_PASMU       210   ---------- ---- 
+KTHY_WIGBR       235   ---------- ---- 
+KTHY_BUCBP       213   ---------- ---- 
+KTHY_BUCAI       213   ---------- ---- 
+KTHY_BUCAP       213   ---------- ---- 
+KTHY_PYRHO       206   ---------- ---- 
+KTHY_PYRAB       206   ---------- ---- 
+KTHY_PYRFU       211   ---------- ---- 
+KTHY_AQUAE       196   ---------- ---- 
+KTHY_ARCFU       197   ---------- ---- 
+KTHY_THEVO       191   ---------- ---- 
+KTH1_SULSO       190   ---------- ---- 
+KTH1_SULTO       191   ---------- ---- 
+KTHY_XYLFA       209   ---------- ---- 
+KTHY_PYRAE       193   ---------- ---- 
+KTHY_METTH       195   ---------- ---- 
+KTHY_TREPA       209   ---------- ---- 
+1bif_            419   rpseealvtv pahq 
+1kgd_A           176   ---------- ---- 
+1dvr_A           221   ---------- ---- 
+                          
+                       0000000000 0000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((((((((((((((4tmk_A      :0.005070KTHY_YERPE  :0.005070):0.000649(KTHY_HAEIN  :0.004351KTHY_PASMU  :0.004351):0.001368):0.000337(KTHY_VIBCH  :0.004493KTHY_VIBPA  :0.004493):0.001563):0.000854KTHY_WIGBR  :0.006911):0.002123(KTHY_BUCBP  :0.007640(KTHY_BUCAI  :0.004930KTHY_BUCAP  :0.004930):0.002710):0.001394):0.010669((((((KTHY_THETN  :0.009310KTHY_CHLTE  :0.009310):0.001603(KTHY_THEMA  :0.009900KTHY_AQUAE  :0.009900):0.001014):0.001601KTHY_ANASP  :0.012515):0.000958((((KTHY_LACLA  :0.006300(KTHY_STRP3  :0.005605KTHY_STRPN  :0.005605):0.000695):0.001696KTHY_LACPL  :0.007996):0.000717((KTHY_BACSU  :0.006344KTHY_BACHD  :0.006344):0.001472(KTHY_STAEP  :0.004682KTHY_STAAM  :0.004682):0.003133):0.000897):0.000624KTHY_LISIN  :0.009337):0.004136):0.001559(((((KTHY_PSESM  :0.004216KTHY_PSEAE  :0.004216):0.004236(KTHY_RALSO  :0.008147KTHY_NEIMA  :0.008147):0.000305):0.002260KTHY_DEIRA  :0.010712):0.001527(KTHY_CAUCR  :0.007861(KTHY_BRUME  :0.005954((KTHY_AGRT5  :0.004777KTHY_RHIME  :0.004777):0.001038KTHY_RHILO  :0.005815):0.000139):0.001907):0.004378):0.001834((KTHY_CHLMU  :0.004133KTHY_CHLTR  :0.004133):0.002760(KTHY_CHLCV  :0.006324KTHY_CHLPN  :0.006324):0.000569):0.007181):0.000958):0.002837KTHY_RICCN  :0.017868):0.001835):0.002409((KTHY_MYCGE  :0.005697KTHY_MYCPN  :0.005697):0.014428KTHY_MYCPU  :0.020125):0.001987):0.000791(KTHY_METAC  :0.010275KTHY_HALN1  :0.010275):0.012629):0.004096((((((((KTHY_PYRHO  :0.003964KTHY_PYRAB  :0.003964):0.001021KTHY_PYRFU  :0.004985):0.009037KTHY_ARCFU  :0.014022):0.000818KTHY_PYRAE  :0.014840):0.000929KTHY_XYLFA  :0.015769):0.001436(KTH1_SULSO  :0.008107KTH1_SULTO  :0.008107):0.009098):0.001432KTHY_METTH  :0.018637):0.005365KTHY_THEVO  :0.024002):0.002998):0.009817(KTHY_HELPJ  :0.011043KTHY_CAMJE  :0.011043):0.025773):0.002379KTHY_TREPA  :0.039195):0.1774901dvr_A      :0.216686):0.1930001bif_       :0.409686):0.1037591kgd_A      :0.513445);
+ 
+ 

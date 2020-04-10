@@ -1,0 +1,759 @@
+1ldg_              1   ---------- ---------- ---------- ---------- ---------- 
+1a5z_              1   ---------- ---------- ---------- ---------- ---------- 
+1i0z_A             1   -A-------- ---------- ---------- ---------- ---------- 
+1ez4_A             1   ---------- ---------- ---------- ---------- ---------- 
+1guy_A             1   ---------- ---------- ---------- ---------- ---------- 
+LDH_PETMA          1   -A-------- ---------- ---------- ---------- ---------- 
+LDHA_BRARE         1   -A-------- ---------- ---------- ---------- ---------- 
+LDHA_SQUAC         1   -A-------- ---------- ---------- ---------- ---------- 
+LDHA_ALLMI         1   ---------- ---------- ---------- ---------- ---------- 
+LDHB_ANGRO         1   -A-------- ---------- ---------- ---------- ---------- 
+LDHC_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+LDHC_MOUSE         1   ---------- ---------- ---------- ---------- ---------- 
+LDHL_HUMAN         1   mswtvpvvra sqrvssvgan flclgmal-- ---------- ---------- 
+LDH_CAEEL          1   MA-------- ---------- ---------- ---------- ---------- 
+LDH_DROME          1   MA-------- ---------- ---------- ---------- ---------- 
+LDH2_LACPL         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_CLOAB          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_CLOPE          1   ---------- ---------- ---------- ---------- ---------- 
+LDHA_HORVU         1   MHK------- ---------- -----ASSLS ELGFDAGGAS SGFFRPVAdG 
+LDH_MAIZE          1   MKK------- ---------- -----ATSLS ELGFDAGDAS SGFFRPVS-G 
+LDH_THEAQ          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_DEIRA          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_BACSU          1   ---------- ---------- ---------- ---------- ---------- 
+LDHP_BACPS         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_BACCA          1   mkn------- ---------- ---------- ---------- ---------- 
+LDH_BACHD          1   ---------- ---------- ---------- ---------- ---------- 
+LDH2_STAAM         1   ---------- ---------- ---------- ---------- ---------- 
+LDH1_STAAM         1   m--------- ---------- ---------- ---------- ---------- 
+LDH_CORGL          1   mk-------- ---------- ---------- ---------- ---------- 
+LDH_BACME          1   m--------- ---------- ---------- ---------- ---------- 
+LDH2_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_LACCA          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_LISIN          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_STRBO          1   mt-------- ---------- ---------- ---------- ---------- 
+LDH1_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_LACHE          1   mar------- ---------- ---------- ---------- ---------- 
+LDH_LACRE          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_SCHPO          1   m--------- ---------- ---------- ---------- ---------- 
+LDH_BORBU          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCHY          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCGE          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCPU          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCGA          1   ---------- ---------- ---------- ---------- ---------- 
+LDH1_BIFLO         1   ---------- ---------- ---------- ---------- ---------- 
+MDH_ARCFU          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_BACSU          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_BACHD          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_CHLTE          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_RICCN          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_RHILV          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_BOTBR          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_TOXGO          1   m--------- ---------- ---------- ---------- ---------- 
+MDH_AQUAE          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_AERPE          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_METKA          1   ---------- ---------- ---------- ---------- ---------- 
+1b8p_A             1   ---------- ---------- ---------- ---------- ---------- 
+MDH_THETH          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_MYCLE          1   ---------- ---------- ---------- ---------- ---------- 
+MDHC_ARATH         1   ---------- ---------- ---------- ---------- ---------- 
+MDHC_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+MDHC_ECHGR         1   ---------- ---------- ---------- ---------- ---------- 
+MDHP_SPIOL         1   ---------- ---MAVAELS PCYQT----- ---------- ---------- 
+MDHP_FLABI         1   ---------- ---MAVVKLS PwanySSSKS EIKSSSSSSS Sksslsayvi 
+MDHP_MAIZE         1   mglstvyspa gprLVPAPLG RCRSA----- ---------- ---------- 
+MDHP_MEDSA         1   maltqln--- ---------N TCSKT----- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ldg_              1   ---------- ---------- ---------- ---------- ---------- 
+1a5z_              1   ---------- ---------- ---------- ---------- ---------- 
+1i0z_A             2   ---------- ---------- ---------- ---------- --TLKEKLI- 
+1ez4_A             1   ---------- ---------- ---------- ---------- ---------- 
+1guy_A             1   ---------- ---------- ---------- ---------- ---------- 
+LDH_PETMA          2   ---------- ---------- ---------- ---------- --STKGKLI- 
+LDHA_BRARE         2   ---------- ---------- ---------- ---------- --STKEKLI- 
+LDHA_SQUAC         2   ---------- ---------- ---------- ---------- --TLKDKLI- 
+LDHA_ALLMI         1   ---------- ---------- ---------- ---------- --SVKEHLI- 
+LDHB_ANGRO         2   ---------- ---------- ---------- ---------- --SVMQKLI- 
+LDHC_HUMAN         1   ---------- ---------- ---------- ---------- --STVKEQL- 
+LDHC_MOUSE         1   ---------- ---------- ---------- ---------- --STVKEQL- 
+LDHL_HUMAN        29   CPRQATRIPL ---------- ------NGTW ----LFTPVS KMATVKSEL- 
+LDH_CAEEL          3   ---------- ---------- ---------- ---------- --STIKEVF- 
+LDH_DROME          3   ---------- ---------- ---------- ---------- --AIKDSLL- 
+LDH2_LACPL         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_CLOAB          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_CLOPE          1   ---------- ---------- ---------- ---------- ---------- 
+LDHA_HORVU        29   CPAT------ ----PTSsav ---------- ---------- ---------- 
+LDH_MAIZE         28   DSST------ ----PTSQHH ---------- ---------- ---------- 
+LDH_THEAQ          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_DEIRA          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_BACSU          1   ---------- ---------- ---------- ---------- ---------- 
+LDHP_BACPS         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_BACCA          4   ---------- ---------- ---------- ---------- ---------- 
+LDH_BACHD          1   ---------- ---------- ---------- ---------- ---------- 
+LDH2_STAAM         1   ---------- ---------- ---------- ---------- ---------- 
+LDH1_STAAM         2   ---------- ---------- ---------- ---------- ---------- 
+LDH_CORGL          3   ---------- ---------- ---------- ---------- ---------- 
+LDH_BACME          2   ---------- ---------- ---------- ---------- ---------- 
+LDH2_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_LACCA          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_LISIN          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_STRBO          3   ---------- ---------- ---------- ---------- ---------- 
+LDH1_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+LDH_LACHE          4   ---------- ---------- ---------- ---------- ---------- 
+LDH_LACRE          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_SCHPO          2   ---------- ---------- ---------- ---------- --TAGSKVF- 
+LDH_BORBU          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCHY          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCGE          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCPU          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_MYCGA          1   ---------- ---------- ---------- ---------- ---------- 
+LDH1_BIFLO         1   ---------- ---------- ---------- ---------- ---------- 
+MDH_ARCFU          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_BACSU          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_BACHD          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_CHLTE          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_RICCN          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_RHILV          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_BOTBR          1   ---------- ---------- ---------- ---------- ---------- 
+LDH_TOXGO          2   ---------- ---------- ---------- ---------- ---------- 
+MDH_AQUAE          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_AERPE          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_METKA          1   ---------- ---------- ---------- ---------- ---------- 
+1b8p_A             1   ---------- ---------- ---------- ---------- ---------- 
+MDH_THETH          1   ---------- ---------- ---------- ---------- ---------- 
+MDH_MYCLE          1   ---------- ---------- ---------- ---------- ---------- 
+MDHC_ARATH         1   ---------- ---------- ---------- ---------- ---------- 
+MDHC_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+MDHC_ECHGR         1   ---------- ---------- ---------- ---------- ---------- 
+MDHP_SPIOL        13   QIVKPPHLSW LSNNhklnll glpkasrite ---ICCSLAP NQVQ---TPV 
+MDHP_FLABI        38   NVSSSPRLSF YNPYPRRLHH QRLSspASIR ----CSVTSS DQIQ---APL 
+MDHP_MAIZE        26   QPRRPRRAPL ---------- ------ATVR ----CSVDAT KQAQdgvATA 
+MDHP_MEDSA        14   QLHSSSQLSF LSRTLPRHHH CTLAplhrtq harISCSVAP NQVQ---APA 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1ldg_              1   ---------- ---------- ---------- ----APKAKI VLVGSGMIGG 
+1a5z_              1   ---------- ---------- ---------- -------MKI GIVGLGRVGS 
+1i0z_A             9   ---------- ---------- ----APVAEE EA-TVPNNKI TVVGVGQVGM 
+1ez4_A             1   ---------- ---------- ---------- -S-MPNHQKV VLVGDGAVGS 
+1guy_A             1   ---------- ---------- ---------- -----MRKKI SIIGAGFVGS 
+LDH_PETMA          9   ---------- ---------- ----HEMVPS KErDPPHSKV TIVGVGQVGM 
+LDHA_BRARE         9   ---------- ---------- ----AHVSKE QP-AGPTNKV TVVGVGMVGM 
+LDHA_SQUAC         9   ---------- ---------- ----GHLATS QE-PRSYNKI TVVGVGAVGM 
+LDHA_ALLMI         8   ---------- ---------- ----HNVHKE EH-GHAHNKI TVVGVGAVGM 
+LDHB_ANGRO         9   ---------- ---------- ----TPLCSG -P-QRPRNKV TVVGVGQVGM 
+LDHC_HUMAN         8   ---------- ---------- ----IEKLIE DD-ENSQCKI TIVGTGAVGM 
+LDHC_MOUSE         8   ---------- ---------- ----IQNLVP ED-KLSRCKI TVVGVGNVGM 
+LDHL_HUMAN        58   ---------- ---------- ----IERFTS EK-PVHHSKV SIIGTGSVGM 
+LDH_CAEEL         10   ---------- ---------- ----AEIAAP -V-ENSHGKV TVVGVGQVGM 
+LDH_DROME         10   ---------- ---------- ----AQVAEV -L-PSSGHKV TIVGIGQVGM 
+LDH2_LACPL         1   ---------- ---------- ---------- -M-DKKQRKV VIVGDGSVGS 
+LDH_CLOAB          1   ---------- ---------- ---------- ---MKKNTKI SVIGAGFVGS 
+LDH_CLOPE          1   ---------- ---------- ---------- MI-REKTNKI SIIGAGFVGS 
+LDHA_HORVU        39   ---------- ---------- ---------- -P-HRRLTKI SVIGAGNVGM 
+LDH_MAIZE         38   ---------- ---------- ---------- ---RRRLTKV SVIGAGNVGM 
+LDH_THEAQ          1   ---------- ---------- ---------- -------MKV GIVGSGFVGS 
+LDH_DEIRA          1   ---------- ---------- ---------- -------MKV GVVGTGFVGS 
+LDH_BACSU          1   ---------- ---------- ---------- -M-NKHVNKV ALIGAGFVGS 
+LDHP_BACPS         1   ---------- ---------- ---------- MK-QRNVNRV ALIGAGSVGS 
+LDH_BACCA          4   ---------- ---------- ---------- ----GRGNRV AVVGTGFVGA 
+LDH_BACHD          1   ---------- ---------- ---------- MA-ITKGNKI VLVGTGAVGS 
+LDH2_STAAM         1   ---------- ---------- ---------- -M-KTFGKKV VLIGDGSVGS 
+LDH1_STAAM         2   ---------- ---------- ---------- -N-KFKGNKV VLIGNGAVGS 
+LDH_CORGL          3   ---------- ---------- ---------- ---ETVGNKI VLIGAGDVGV 
+LDH_BACME          2   ---------- ---------- --------KT QF-TPKTRKV AVIGTGFVGS 
+LDH2_LACLA         1   ---------- ---------- ---------- -M-KITSRKV VVIGTGFVGT 
+LDH_LACCA          1   ---------- ---------- -------ASI -T-DKDHQKV ILVGDGAVGS 
+LDH_LISIN          1   ---------- ---------- ---------- ---MKDHQKI ILVGDGAVGS 
+LDH_STRBO          3   ---------- ---------- ---------- -A-TKQHKKV ILVGDGAVGS 
+LDH1_LACLA         1   ---------- ---------- ---------- -A-DKQRKKV ILVGDGAVGS 
+LDH_LACHE          4   ---------- ---------- ---------- ---EEKPRKV ILVGDGAVGS 
+LDH_LACRE          1   ---------- ---------- ---------- -M-SKNHQKV VLVGDGQVGS 
+LDH_SCHPO          9   ---------- ---------- ----SNDSVR SS-SFKSIKI VIVGAGNVGS 
+LDH_BORBU          1   ---------- ---------- ---------- ---MLKSNKV VLIGAGGVGS 
+LDH_MYCHY          1   ---------- ---------- ---------- ----MKPIKI ALIGAGNVGN 
+LDH_MYCGE          1   ---------- ---------- ---------- ----MKGPKI AIVGSGAVGT 
+LDH_MYCPU          1   ---------- ---------- ---------- ------MKKV VLIGTGNVGV 
+LDH_MYCGA          1   ---------- ---------- ---------- ------MKKI AVIGCGFVGS 
+LDH1_BIFLO         1   ---------- ---------- ---------- MV-TMNRNKV VIVGTGQVGA 
+MDH_ARCFU          1   ---------- ---------- ---------- -------MKL GFVGAGRVGS 
+MDH_BACSU          1   ---------- ---------- ---------- ---GNTRKKV SVIGAGFTGA 
+MDH_BACHD          1   ---------- ---------- ---------- -M-AIKRRKV SVIGAGFTGA 
+MDH_CHLTE          1   ---------- ---------- ---------- -------MKI TVIGAGNVGA 
+MDH_RICCN          1   ---------- ---------- ---------- ---MKQNAKI SLIGSGNIGG 
+MDH_RHILV          1   ---------- ---------- ---------- ----MARNKI ALIGSGMIGG 
+LDH_BOTBR          1   ---------- ---------- ---------- ----MARKKY ALIGAGNIGG 
+LDH_TOXGO          2   ---------- ---------- --------TG -T-VSRRKKI AMIGSGMIGG 
+MDH_AQUAE          1   ---------- ---------- ---------- ---MRMKKTV AVIGAGNVGE 
+MDH_AERPE          1   ---------- ---------- ---------- ---MVGQPLI TILGAGKVGM 
+MDH_METKA          1   ---------- ---------- ---------- -----MSKVA VIGATGRVGS 
+1b8p_A             1   ---------- ---------- ---------- ---KTPMRVA VTGAAGQICY 
+MDH_THETH          1   ---------- ---------- ---------- -M-KAPVRVA VTGAAGQIGY 
+MDH_MYCLE          1   ---------- ---------- ---------- MS-PRPLKVA VTGAAGQIGY 
+MDHC_ARATH         1   ---------- ---------- ---------- MA-KEPVRVL VTGAAGQIGY 
+MDHC_HUMAN         1   ---------- ---------- ---------- ---SEPIRVL VTGAAGQIAY 
+MDHC_ECHGR         1   ---------- ---------- ---------- -M-PGPLRVL ITGAAGQIAY 
+MDHP_SPIOL        57   avptgaqsiK PECYGVFCWT YDLKKEEETR SW-KKMITIA ISGAAGTISN 
+MDHP_FLABI        81   pakq-----K PECFGVFCLT YDLKAEEETK SW-KKIINVA VSGAAGMISN 
+MDHP_MAIZE        56   VATEAPAS-R KECFGVFCTT YDLKAEDKTK SW-RKLVNVA VSGAAGMISN 
+MDHP_MEDSA        61   VQTQDPKS-K PDCYGVFCLT YDLKAEEETK SW-KKLITIA VSGAAGMISN 
+                                                                 
+                       0000000000 0000000000 0000000000 0000001133 3344444444 
+ 
+1ldg_             17   VMATLI-VQK NLG-D----- VVLFD--I-- V---K--NMP HGKAL--DTS 
+1a5z_             14   STAFAL-LMK GFARE----- MVLID--V-- D---K--KRA EGDAL--DLI 
+1i0z_A            34   ACAISI-LGK SLADE----- LALVD--V-- L---E--DKL KGEMM--DLQ 
+1ez4_A            19   SYAFAM-AQQ GIAEE----- FVIVD--V-- V---K--DRT KGDAL--DLE 
+1guy_A            16   TTAHWL-AAK ELG-D----- IVLLD--I-- V---E--GVP QGKAL--DLY 
+LDH_PETMA         35   AAAISV-LLR DLADE----- LALVD--V-- V---E--DRL KGEMM--DLL 
+LDHA_BRARE        34   AAAVSI-LLK DLTDE----- LALVD--V-- M---E--DKL KGEAM--DLQ 
+LDHA_SQUAC        34   ACAISI-LMK DLADE----- VALVD--V-- M---E--DKL KGEMM--DLQ 
+LDHA_ALLMI        33   ACAISI-LMK DLADE----- LALVD--V-- V---E--DKL RGEML--DLQ 
+LDHB_ANGRO        33   ACAVSI-LMR ELADE----- LALVD--V-- I---E--DKL KGEMM--DLQ 
+LDHC_HUMAN        33   ACAISI-LLK DLADE----- LALVD--V-- A---L--DKL KGEMM--DLQ 
+LDHC_MOUSE        33   ACAISI-LLK GLADE----- LALVD--A-- D---T--NKL RGEAL--DLL 
+LDHL_HUMAN        83   ACAISI-LLK GLSDE----- LALVD--L-- D---E--DKL KGETM--DLQ 
+LDH_CAEEL         34   ACAYSI-LQQ NLANE----- LCLVD--V-- V---A--DKL KGEMM--DLQ 
+LDH_DROME         34   ASAFSI-LAQ NVSKE----- VCLID--V-- C---A--DKL QGELM--DLQ 
+LDH2_LACPL        19   SFAFSL-VQN CALDE----- LVIVD--L-- V---K--THA EGDVK--DLE 
+LDH_CLOAB         18   STVFAL-MNG GLASE----- IVIVD--V-- N---K--DKA EGEAM--DLS 
+LDH_CLOPE         20   TTAFAL-MQD GLASE----- IVIVD--I-- N---K--DKA HAEAM--DLA 
+LDHA_HORVU        57   AIAQTI-LTQ NLADE----- IALVD--A-- L---P--DKL RGEAL--DLQ 
+LDH_MAIZE         55   AIAQTI-LTR DLADE----- IALVD--A-- V---P--DKL RGEML--DLQ 
+LDH_THEAQ         14   ATAYAL-VLQ GVARE----- VVLVD--L-- D---R--KLA QAHAE--DIL 
+LDH_DEIRA         14   TAAFAL-VLR GSCSE----- LVLVD--R-- D---E--DRA QAEAE--DIA 
+LDH_BACSU         19   SYAFAL-INQ GITDE----- LVVID--V-- N---K--EKA MGDVM--DLP 
+LDHP_BACPS        20   SYAFAL-LNQ SITEE----- LVIID--L-- N---E--NKA MGDAM--DLN 
+LDH_BACCA         20   SYAFAL-MNQ GIADE----- IVLID--A-- N---E--NKA EGDAM--DLN 
+LDH_BACHD         20   SYAYAL-MNQ GISDE----- LILVD--L-- N---E--EKA KGDVL--DLN 
+LDH2_STAAM        19   SYAFAM-VTQ GVADE----- FVIID--I-- A---K--DKV KADVQ--DLN 
+LDH1_STAAM        20   SYAFSL-VNQ SIVDE----- LVIID--L-- D---T--EKV RGDVM--DLK 
+LDH_CORGL         20   AYAYAL-INQ GMADH----- LAIID--I-- D---E--KKL EGNVM--DLN 
+LDH_BACME         23   SYAFSM-VNQ GIANE----- LVLID--M-- N---K--EKA EGEAR--DIN 
+LDH2_LACLA        19   SIAYSM-INQ GLVNE----- LVLID--V-- N---Q--DKA EGEAL--DLL 
+LDH_LACCA         22   SYAYAM-VLQ GIAQE----- IGIVD--I-- F---K--DKT KGDAI--DLS 
+LDH_LISIN         18   SYAFAC-VNL SIGQE----- FGIID--I-- D---K--DRT IGDAM--DLS 
+LDH_STRBO         21   SYAFAL-VNQ GIAQE----- LGIIE--I-- P---QLFNKA VGDAE--DLS 
+LDH1_LACLA        19   SYAFAL-VNQ GIAQE----- LGIVD--L-- F---K--EKT QGDAE--DLS 
+LDH_LACHE         21   TFAFSM-VQQ GIAEE----- LGIID--I-- A---K--EHV EGDAI--DLA 
+LDH_LACRE         19   AYAYAL-VQQ GLAEE----- LAIVN--L-- S---K--EQA EGDAL--DLE 
+LDH_SCHPO         34   TTAFTL-LLS GLAAE----- IVIID--L-- N---K--KKA EGEAM--DLN 
+LDH_BORBU         18   SFAYALtIDN SLVHE----- LVIID--V-- N---E--NKA KGEVM--DLN 
+LDH_MYCHY         17   SFLYAA-MNQ GLASE----- YGIID--I-- N---P--DFA DGNAF--DFE 
+LDH_MYCGE         17   SFLYAA-MTR ALGSE----- YMIID--I-- N---E--KAK VGNVF--DLQ 
+LDH_MYCPU         15   TVVYTM-ITK GIDAE----- YVLID--I-- N---T--EFA KGHAM--DMS 
+LDH_MYCGA         15   TYILDL-LQQ GVQAD----- YLLVD--K-- N---T--NLA DGHVR--DLR 
+LDH1_BIFLO        20   TAAFGI-VTH GLCNE----- LVLID--C-- S---A--AKA LGEAR--DLD 
+MDH_ARCFU         14   TSAFTC-LLN LDVDE----- IALVD--I-- A---E--DLA VGEAM--DLA 
+MDH_BACSU         18   TTAFLI-AQK ELA-D----- VVLVD--IPQ L---E--NPT KGKAL--DML 
+MDH_BACHD         19   TTALMV-AQK ELG-D----- VVLVD--IPQ M---E--GPT KGKAL--DML 
+MDH_CHLTE         14   TTAFRL-AEK QLARE----- LVLLD--V-- V---E--GIP QGKAL--DMY 
+MDH_RICCN         18   TLAHLI-SLR ELG-D----- IVLFD--V-- T---E--GVP QGKAL--DLM 
+MDH_RHILV         17   TLAHLA-GLK ELG-D----- IVLFD--I-- A---D--GIP QGKGL--DIS 
+LDH_BOTBR         17   TLAHLA-ALK GLG-D----- IVLFD--V-- V---E--GVP QGKAL--DLS 
+LDH_TOXGO         22   TMGYLC-VLR ELA-D----- VVLFD--V-- V---T--GMP EGKAL--DDS 
+MDH_AQUAE         18   HVASLI-LLK NLA-N----- VKMFD--LPR kteeKVFEPV KGKAL--DMK 
+MDH_AERPE         18   ATAVML-MMR GYD-D----- LLLIA--R-- T---P--GKP QGEAL--DLA 
+MDH_METKA         16   TAAARL-ALL DCVNE----- VTLIA--R-- P---K--SVD KLRGLRRDIL 
+1b8p_A            18   SLLFRI-ANG DMLGKDQPVI LQLLEIpN-- E---K--AQK ALQGVMMEID 
+MDH_THETH         19   SLLFRI-AAG EMLGKDQPVI LQLLEI---- P---Q--AMK ALEGVVMELE 
+MDH_MYCLE         20   SLLFRL-ASG SLLGLDRPIE LRLLEI---- E---P--ALK ALEGVVMELD 
+MDHC_ARATH        20   ALVPMI-ARG IMLGADQPVI LHMLDI---- P---P--AAE ALNGVKMELI 
+MDHC_HUMAN        18   SLLYSI-GNG SVFGKDQPII LVLLDI---- T---P--MMG VLDGVLMELQ 
+MDHC_ECHGR        19   NLSNMV-ANG NLFGKDQQII LHLLDI---- P---E--AKT VLDGVVMELQ 
+MDHP_SPIOL       106   HLLFKL-ASG VVFGPDQPIA LKLLG--S-- E---K--SFH ALEGVAMELE 
+MDHP_FLABI       125   HLLFKL-ASG EVFGPDQPIS LKLLG--S-- E---R--SFA ALEGVAMELE 
+MDHP_MAIZE       104   HLLFKL-ASG EVFGQDQPIA LKLLG--S-- E---R--SFQ ALEGVAMELE 
+MDHP_MEDSA       109   HLLFKL-ASG EVFGPNQPIA LKLLG--S-- E---R--SLQ ALEGVAMELE 
+                                                                 
+                       4444440444 4443400000 4444400300 3000300333 3332200222 
+ 
+1ldg_             49   HTN-VM--S- -NCKVS---- --GS-NTYDD LAGSDVVIVT AGFTKE---- 
+1a5z_             47   HGT-PF--T- -RRANI---- --YA-GDYAD LKGSDVVIVA AGVPQKP-GE 
+1i0z_A            67   HGS-LF--L- QTPKIV---- --AD-KDYSV TANSKIVVVT AGVRQQE-GE 
+1ez4_A            52   DAQ-AF--T- -APKKI---- --YS-GEYSD CKDADLVVIT AGA------- 
+1guy_A            48   EAS-PIEGF- -DVRVT---- --GT-NNYAD TANSDVIVVT SGA------- 
+LDH_PETMA         68   HGS-LF--L- KTAKIV---- --AD-KDYSV TAGSRLVVVT AGARQQE-GE 
+LDHA_BRARE        67   HGS-LF--L- KTHKIV---- --AD-KDYSV TANSKVVVVT AGARQQE-GE 
+LDHA_SQUAC        67   HGS-LF--L- HTAKIV---- --SG-KDYSV SAGSKLVVIT AGARQQE-GE 
+LDHA_ALLMI        66   HGS-LF--L- RTPKIV---- --SG-KDYSV TANSKLVIIT AGARQQE-GE 
+LDHB_ANGRO        66   HGS-LF--L- KTSKIV---- --AD-KDYSV SANSRIVVVT AGVRHRE-GE 
+LDHC_HUMAN        66   HGS-LF--F- STSKVT---- --SG-KDYSV SANSRIVIVT AGARQQE-GE 
+LDHC_MOUSE        66   HGS-LF--L- STPKIV---- --FG-KDYNV SANSKLVIIT AGARMVS-GE 
+LDHL_HUMAN       116   HGS-PF--T- KMPNIV---- --CS-KDYFV TANSNLVIIT AGARQEK-GE 
+LDH_CAEEL         67   HGL-AF--T- RHCTVK---- --AD-TDYSI TAGSKLCVVT AGARQRE-GE 
+LDH_DROME         67   HGS-NF--L- KNPQIT---- --AS-TDFAA SANSRLCIVT AGVRQKE-GE 
+LDH2_LACPL        52   DVA-AF--T- -NATNI---- --HT-GEYAD ARDADIVVIT AGVPRKP-GE 
+LDH_CLOAB         51   HGA-AF--V- -KPVVV---- --KS-GDYKD TEGSDIVIIT AGAAQKP-GE 
+LDH_CLOPE         53   QGA-AF--V- -KSVDI---- --KS-GDYAD TKDSDIVIIT AGVGPKP-GE 
+LDHA_HORVU        90   HAA-AF--L- PRVR-I---- --SG-TDAAV TKNSDLVIVT AGARQIP-GE 
+LDH_MAIZE         88   HAA-AF--L- PRTRLV---- --SG-TDMSV TRGSDLVIVT AGARQIQ-GE 
+LDH_THEAQ         47   HAT-PF--A- -HPVWV---- --RS-GWYED LEGARVVIVA AGVAQRP-GE 
+LDH_DEIRA         47   HAA-PV--S- -HGTRV---- --WH-GGHSE LADAQVVILT AGANQKP-GE 
+LDH_BACSU         52   HGK-AF--G- LQPVKT---- --SY-GTYED CKDADIVCIC AGANQKP-GE 
+LDHP_BACPS        53   HGK-VF--A- PNPTKT---- --WY-GTYSD CKDADIVCIC AGANQKP-GE 
+LDH_BACCA         53   HGK-VF--A- PKPADI---- --WH-GDYDD CRDADLVVIC AGANQKP-GE 
+LDH_BACHD         53   HSI-VY--A- PSPMEI---- --KF-GSYED CKDAALVVIC AGAAQKP-GE 
+LDH2_STAAM        52   HGT-VH--S- PSPVDV---- --KA-GEYED CKDADLVVIT AGAPQKP-GE 
+LDH1_STAAM        53   HAT-PY--S- PTTVRV---- --KA-GEYSD CHDADLVVIC AGAAQKP-GE 
+LDH_CORGL         53   HGV-VW--A- DSRTRV---- --TK-GTYAD CEDAAMVVIC AGAAQKP-GE 
+LDH_BACME         56   HGM-PF--A- -TPMKI---- --WA-GDYKD CADADLAVIT AGANQAP-GE 
+LDH2_LACLA        52   DGV-SW--G- QENVIV---- --RA-GDYKD CKNADIVVVT AGVNQKP-GQ 
+LDH_LACCA         55   NAL-PF--T- -SPKKI---- --YS-AEYSD AKDADLVVIT AGAPQKP-GE 
+LDH_LISIN         51   HAV-PF--S- -TPKKI---- --YS-ANYSD CHDADLVVVT AGTAQKP-GE 
+LDH_STRBO         56   HAL-AF--T- -SPKKI---- --YA-AKYED CADADLVVIT AGAPQKP-GE 
+LDH1_LACLA        52   HAL-AF--T- -SPKKI---- --YS-ADYSD ASDADLVVLT SGAPQKP-GE 
+LDH_LACHE         54   DAT-PW--T- -SPKNI---- --YA-ADYPD CKDADLVVIT AGAPQKP-GE 
+LDH_LACRE         52   DAT-VF--T- -APKQV---- --YQ-ADHHA CADADLVVIC AGAAQKP-GE 
+LDH_SCHPO         67   HAA-PL--S- -HETRV---- --YL-GDYKD CKDATAVVIT AGKNQKP-GE 
+LDH_BORBU         52   HGQ-MF--L- KKNINV---- --LF-GTYKD CANADIVVIT AGLNQKP-GE 
+LDH_MYCHY         50   DAS-AS--L- PFPISV---- --SR-YEYKD LKDADFIVIT AGRPQKP-GE 
+LDH_MYCGE         50   DAS-SS--C- PNFGKV---- --VA-GEYSQ LKDYDFIFIS AGRPQKQgGE 
+LDH_MYCPU         48   DAI-ALNST- -TGSKI---- --RT-GTYAD AKGADLLIVA AGRPQKQ-GE 
+LDH_MYCGA         48   DSK-SLKSH- -NGSTF---- --NV-GTYDD LKDADVVAIT ASIPTVPtad 
+LDH1_BIFLO        53   DGS-EF--Q- DRHVKV---- --RA-GDYAD CKDADIVVIT VGRKPPA-NS 
+MDH_ARCFU         47   HAA-AG--Id KYPKIV---- --GG-ADYSL LKGSEIIVVT AGLARKP-GM 
+MDH_BACSU         52   EAS-PVQGF- -DAKIT---- --GT-SNYED TAGSDIVVIT AGIARKP-GM 
+MDH_BACHD         53   EST-PVQGV- -DVNIT---- --GT-SSYEY TKDSDVVVIT AGIARKP-GM 
+MDH_CHLTE         47   ESG-PVGLF- -DTKVT---- --GS-NDYAD TANSDIVVIT AGLPRKP-GM 
+MDH_RICCN         50   QAG-TIAGS- -DIKIK---- --GT-NDYKD IEGSDAIIIT AGLPRKP-GM 
+MDH_RHILV         49   QSS-PVEGF- -DVNLT---- --GA-SDYSA IEGADVCIVT AGVARKP-GM 
+LDH_BOTBR         49   QCG-PVEGF- -DANIK---- --GS-NDYAD IAGADVIIVT AGVARKP-GM 
+LDH_TOXGO         54   QAT-SIADT- -NVSVT---- --SA-NQYEK IAGSDVVIIT AGLTKVP-GK 
+MDH_AQUAE         57   QML-AAMDI- -DARVEgytv tpEG-EGYEP LEGSDIVVIT AGFPRRP-GM 
+MDH_AERPE         50   HAA-AELGV- -DIRIS---- --GS-NSYED MRGSDIVLVT AGIGRKP-GM 
+MDH_METKA         51   DSLAAA--Q- -KDAEI---- --TIgCERDD YVDADVIVMT AGIPRKP-GQ 
+1b8p_A            60   DCAFPL--L- -AGMTA---- --HA-DPMTA FKDADVALLV GARPRGP-GM 
+MDH_THETH         59   DCAFPL--L- -AGLEA---- --TD-DPKVA FKDADYALLV GAAPRKA-GM 
+MDH_MYCLE         60   DCAFLL--L- -AGVEI---- --GA-DPNKV FDGVNLALLV GARPRGP-GM 
+MDHC_ARATH        60   DAAFPL--L- -KGVVA---- --TT-DAVEG CTGVNVAVMV GGFPRKE-GM 
+MDHC_HUMAN        58   DCALPL--L- -KDVIA---- --TD-KEDVA FKDLDVAILV GSMPRRE-GM 
+MDHC_ECHGR        59   DCAFTV--L- -AGIVP---- --TH-CLKEA FTDIDVALMV GAMPRKQ-GM 
+MDHP_SPIOL       146   DSLYPL--L- -REVSI---- --GI-DPYEV FEDAEWALLI GAKPRGP-GM 
+MDHP_FLABI       165   DSLYPL--L- -RQVSI---- --GI-DPYEI FQDAEWALLI GAKPRGP-GM 
+MDHP_MAIZE       144   DSLYPL--L- -REVSI---- --GI-DPYVV FQDVDWALLI GAKPRGP-GM 
+MDHP_MEDSA       149   DSLFPL--L- -REVVI---- --SI-DPYEV FQDAEWALLI GAKPRGP-GM 
+                                                                 
+                       2210110010 0111120000 0022023444 4555666666 6666666066 
+ 
+1ldg_             83   ----WNRLDL LPLNNKIMIE IGGHIKKNC- -AFIIVVTN- PVDVMVQ-LL 
+1a5z_             84   -----TRLQL LGRNARVMKE IARNVSKYA- -SIVIVVTN- PVDVLTY-FF 
+1i0z_A           105   -----SRLNL VQRNVNVFKF IIPQIVKYSP DCIIIVVSN- PVDILTY-VT 
+1ez4_A            83   ---------L VNKNLNILSS IVKPVVDSGF DGIFLVAAN- PVDILTY-AT 
+1guy_A            81   ---------L IKVNADITRA CISQAAPLSP NAVIIMVNN- PLDAMTY-LA 
+LDH_PETMA        106   -----SRLNL VQRNVNIFKF IIPNIVKYSP NCILLVVSN- PVDILTY-VA 
+LDHA_BRARE       105   -----SRLNL VQRNVNIFKF IIPNIIKYSP NCILLVVSN- PVDILTY-VA 
+LDHA_SQUAC       105   -----SRLNL VQRNVNIFKF IIPDIVKHSP DCIILVVSN- PVDVLTY-VA 
+LDHA_ALLMI       104   -----SRLNL VQRNVNIFKF IIPNVVKHSP DCKLLVVSN- PVDIWTY-VA 
+LDHB_ANGRO       104   -----SRLNL VQRNVNIFKH IIPQIVKYSP DCILVVVSN- PVDVLTY-VT 
+LDHC_HUMAN       104   -----TRLAL VQRNVAIMKS IIPAIVHYSP DCKILVVSN- PVDILTY-IV 
+LDHC_MOUSE       104   -----TRLDL LQRNVAIMKA IVPGIVQNSP DCKIIIVTN- PVDILTY-VV 
+LDHL_HUMAN       154   -----TRLNL VQRNVAIFKL MISSIVQYSP HCKLIIVSN- PVDILTY-VA 
+LDH_CAEEL        105   -----TRLSL VQRNVEIFKG IIPQLVKYSP DTCILVVSN- PVDVLTY-VT 
+LDH_DROME        105   -----SRLSL VQRNTDILKN IIPKLVEYSP DTILLMVSN- PVDIMTY-VA 
+LDH2_LACPL        89   -----SRLDL INRNTKILES IVKPVVASGF NGCFVISSN- PVDILTS-MT 
+LDH_CLOAB         88   -----TRLEL INKNYNIFKS IVPEVVKYNP NAILLVVSN- PVDILTY-IT 
+LDH_CLOPE         90   -----TRLDI INKNLKIFQS IVPEVVKYSP NSILLVVSN- PVDILTY-IT 
+LDHA_HORVU       127   -----TRLNL LQRNVALYRK IVPPVAEHSP DALLLVVSN- PVDVLTY-VA 
+LDH_MAIZE        126   -----TRLDL LQRNVALFRK IVPPLAEQSH DALLLVVSN- PVDVLTY-VA 
+LDH_THEAQ         84   -----TRLQL LDRNAQVFAD VVPKILKAAP EAVLLIATN- PVDVMTQ-VA 
+LDH_DEIRA         84   -----SRLDL LEKNADIFRE LVPQITRAAP DAVLLVTSN- PVDLLTD-LA 
+LDH_BACSU         90   -----TRLEL VEKNLKIFKG IVSEVMASGF DGIFLVATN- PVDILTY-AT 
+LDHP_BACPS        91   -----TRLDL VEKNLRIFKG IVEEIMASGF DGIFLIATN- PVDILTY-AT 
+LDH_BACCA         91   -----TRLDL VDKNIAIFRS IVESVMASGF QGLFLVATN- PVDILTY-AT 
+LDH_BACHD         91   -----TRLDL VHKNVGIFES IVGNIMKSGF NGIFLVATN- PVDILAY-AT 
+LDH2_STAAM        90   -----TRLQL VEKNTKIMKS IVKSVMDSGF DGYFLIAAN- PVDILTR-FV 
+LDH1_STAAM        91   -----TRLDL VSKNLKIFKS IVGEVMASKF DGIFLVATN- PVDILAY-AT 
+LDH_CORGL         91   -----TRLQL VDKNVKIMKS IVGDVMDSGF DGIFLVASN- PVDILTY-AV 
+LDH_BACME         93   -----TRLDL VEKNVKIFEC IVKDIMNSGF DGIILVATN- PVDILAH-VT 
+LDH2_LACLA        90   -----SRLDL VNTNAKIMRS IVTQVMDSGF DGIFVIASN- PVDILTY-VA 
+LDH_LACCA         92   -----TRLDL VNKNLKILKS IVDPIVDSGF NGIFLVAAN- PVDILTY-AT 
+LDH_LISIN         88   -----TRLDL VNRNIKIMKG IVDEVMASGF DGIFLIASN- PVDILTY-AT 
+LDH_STRBO         93   -----TRLDL VGKNLAINKS IVTEVVKSGF KGIFLVAAN- PVDVLTY-ST 
+LDH1_LACLA        89   -----TRLDL VEKNLRITKD VVTKIVASGF KGIFLVAAN- PVDILTY-AT 
+LDH_LACHE         91   -----TRLDL VNKNLKILSS IVEPVVESGF EGIFLVVAN- PVDILTH-AT 
+LDH_LACRE         89   -----TRLDL VGKNLEIMKQ ITKSIMATGF DGILLLATN- PVDVLTY-AV 
+LDH_SCHPO        104   -----TRMDL LKANISIFKE ILREVTKYTK DAILLVATN- PVDVLTY-AT 
+LDH_BORBU         90   -----TRLDL VDKNSKIFKD IITNVVSSGF DGIFVVASN- PVDIMTY-VT 
+LDH_MYCHY         88   -----TRLEL VADNIRIIRE IALKVKESGF SGISIIVAN- PVDIITR-AY 
+LDH_MYCGE         89   -----TRLQL LEGNVEIMKS IAKEIKKSGF NGVTLIASN- PVDIMSY-TY 
+LDH_MYCPU         87   -----TRLEM IADNSKIMKD IALEIKKSGF NGFTIVISN- PVDILAT-VF 
+LDH_MYCGA         88   gevftDRLQL MTANVKILNE IALELKRVGF KGLSIIPTN- PCDVMAG-VY 
+LDH1_BIFLO        91   -----NRMAE LGFTVGLVGE VVDNVMASGF DGVIVMVSN- PVDVMAW-YA 
+MDH_ARCFU         86   -----TRLDL AHKNAGIIKD IAKKIVENAP ESKILVVTN- PMDVMTY-IM 
+MDH_BACSU         91   -----SRDDL VSTNEKIMRS VTQEIVKYSP DSIIVVLTN- PVDAMTY-AV 
+MDH_BACHD         92   -----SRDDL VSTNAGIMKA VTKEVVKHSP NAYIIVLTN- PADAMTY-TV 
+MDH_CHLTE         86   -----TREDL LSMNAGIVRE VTGRIMEHSK NPIIVVVSN- PLDIMTH-VA 
+MDH_RICCN         89   -----SREDL ISINTGIMKT VAANVKKYAP DAFVIVITN- PLDVMVY-VM 
+MDH_RHILV         88   -----SRDDL LGINLKVMEQ VGAGIKKYAP NAFVICITN- PLDAMVW-AL 
+LDH_BOTBR         88   -----SRDDL LGINLKVMKA VGEGIRDNAP DAFVICITN- PLDAMVW-AL 
+LDH_TOXGO         93   sdkeWSRNDL LPFNAKIIRE VAQGVKKYCP LAFVIVVTN- PLDCMVK-CF 
+MDH_AQUAE        102   -----SREDL LEANIRIISV IADRIKRYAP DAIVIVVTN- PVDVMTY-VA 
+MDH_AERPE         89   -----TREQL LEANANTMAD LAEKIKAYAK DAIVVITTN- PVDAMTY-VM 
+MDH_METKA         90   -----TRLDL TKDNAAIIKK YLEGVAEENP EAIVLVVTN- PVDVLTY-VA 
+1b8p_A            98   -----ERKDL LEANAQIFTV QGKAIDAVAS RNIKVLVVGN PANTNAYIAM 
+MDH_THETH         97   -----ERRDL LQVNGKIFTE QGRALAEVAK KDVKVLVVGN PANTNALIAY 
+MDH_MYCLE         98   -----ERGDL LEANGAIFTA QGKALNAVAA ADIRVGVTGN PANTNALIAM 
+MDHC_ARATH        98   -----ERKDV MSKNVSIYKS QAAALEKHAA PNCKVLVVAN PANTNALILK 
+MDHC_HUMAN        96   -----ERKDL LKANVKIFKS QGAALDKYAK KSVKVIVVGN PANTNCLTAS 
+MDHC_ECHGR        97   -----ERRDL LSSNVKIFKE QGEALDKYAK KTVKVLVVGN PANTNCLIMS 
+MDHP_SPIOL       184   -----ERADL LDINGKIYAE QGKALNAVAS PNVKVIVVGN PCNTNALICL 
+MDHP_FLABI       203   -----ERADL LDINGQIFAE QGKALNAVAS PNVKVMVVGN PCNTNALICL 
+MDHP_MAIZE       182   -----ERAAL LDINGQIFAD QGKALNAVAS RNDEVLVVGN PCNTNALICL 
+MDHP_MEDSA       187   -----ERAAL LDINGQIFAE QGKALNAVAS RNVKVIVVGN PCNTNALICL 
+                                                                 
+                       0000066666 6666666655 5433443343 4467888880 8888888088 
+ 
+1ldg_            125   HQHSGVPKNK IIGLGGVLDT SRLKYYISQK LNVCPRDV-N AHIVGAHGNK 
+1a5z_            125   LKESGMDPRK VFGSGTVLDT ARLRTLIAQH CGFSPRSV-H VYVIGEHGDS 
+1i0z_A           148   WKLSGLPKHR VIGSGCNLDS ARFRYLMAEK LGIHPSSC-H GWILGEHGDS 
+1ez4_A           122   WKFSGFPKER VIGSGTSLDS SRLRVALGKQ FNVDPRSV-D AYIMGEHGDS 
+1guy_A           120   AEVSGFPKER VIGQAGVLDA ARYRTFIAME AGVSVEDV-Q AMLMGGHGDE 
+LDH_PETMA        149   WKLSGLPKHR VIGSGCNLDS ARFRYLMSER LGVNSASC-H GWIIGEHGDS 
+LDHA_BRARE       148   WKLSGLPRNR VIGSGTNLDS ARFRYLMGEK LGIHPSSC-H GWVVGEHGDS 
+LDHA_SQUAC       148   WKLSGLPMHR IIGSGCNLDS ARFRYLMGER LGVHSSSC-H GWVIGEHGDS 
+LDHA_ALLMI       147   WKISGFPKHR VIGSGCNLDS ARFRYLMGER LGIHSLSC-H GWIVGEHGDS 
+LDHB_ANGRO       147   WKLSGLPKHR VIGSGTNLDS ARFRYLMAEK LGIHSSSF-N GWILGEHGDS 
+LDHC_HUMAN       147   WKISGLPVTR VIGSGCNLDS ARFRYLIGEK LGVHPTSC-H GWIIGEHGDS 
+LDHC_MOUSE       147   WKISGFPVGR VIGSGCNLDS ARFRYLIGEK LGVNPTSC-H GWVLGEHGDS 
+LDHL_HUMAN       197   WKLSAFPKNR IIGSGCNLDT ARFRFLIGQK LGIHSESC-H GWILGEHGDS 
+LDH_CAEEL        148   WKLSGLPRER VFGSGTNLDS ARFRFLLSEK LNIAPSSC-H GWIIGEHGDS 
+LDH_DROME        148   WKLSGLPKNR VIGSGTNLDS SRFRFLMSQR LGVAPTSC-H GWIIGEHGDS 
+LDH2_LACPL       132   QRLSGFPRHR VIGTGTSLDT ARLRVALAQK LNVATTAV-D AAVLGEHGDS 
+LDH_CLOAB        131   YKLSGFPKSR VIGSGTVLDT SRFRYMLSEH FEIDVRNI-H TYIMGEHGDS 
+LDH_CLOPE        133   YKLSGFPKER VIGSGTVLDT SRLKYMLSEH FDIDARNV-H TYIIGEHGDS 
+LDHA_HORVU       170   WKLSGFPASR VIGSGTNLDS SRFRFLIAEH LDVNAQDV-Q AYMVGEHGDS 
+LDH_MAIZE        169   WKLSGFPASR VIGSGTNLDS SRFRFLLAEH LDVNAQDV-Q AYMVGEHGDS 
+LDH_THEAQ        127   YRLSGLPPER VVGSGTILDT ARFRALLAQH LLVAPQSV-H AYVVGEHGDS 
+LDH_DEIRA        127   TQLA--PGQP VIGSGTVLDS ARFRHLMAQH AGVDGTHA-H GYVLGEHGDS 
+LDH_BACSU        133   WKFSGLPKER VIGSGTTLDS ARFRFMLSEY FGAAPQNV-H AHIIGEHGDT 
+LDHP_BACPS       134   WKFSGLPKER IIGSGTILDT GRFRFLLGEY FDIAPANV-H AYIIGEHGDT 
+LDH_BACCA        134   WKFSSLPQER VIGSGTILDT ARFRFLLGDY FAVAPTNV-H AYIIGEHGDT 
+LDH_BACHD        134   WKFSGLPKER VIGSGTVLDT ARFRYLLGEE MNAAPTSV-H GYIIGEHGDS 
+LDH2_STAAM       133   KEYTGLPAER VIGSGTVLDS ARLQYLISQE LGVAPSSV-D ASIIGEHGDT 
+LDH1_STAAM       134   WKFSGLPKER VIGSGTILDS ARFRLLLSEA FDVAPRSV-D AQIIGEHGDT 
+LDH_CORGL        134   WKFSGLEWNR VIGSGTVLDS ARFRYMLGEL YEVAPSSV-H AYIIGEHGDT 
+LDH_BACME        136   QKVSGLPNGR VIGSGTILDT ARFRYLLSDY FEVDSRNV-H AYIMGEHGDT 
+LDH2_LACLA       133   WETSGLDQSR IVGTGTTLDT TRFRKELATK LEIDPRSV-H GYIIGEHGDS 
+LDH_LACCA        135   WKLSGFPKNR VVGSGTSLDT ARFRQSIAEM VNVDARSV-H AYIMGEHGDT 
+LDH_LISIN        131   WKFSGLPKER VIGSGTSLDT ARFRMSIADY LKVDARNV-H GYILGEHGDT 
+LDH_STRBO        136   WKFSGFPKER VIGSGTSLDS ARFRQALAEK LDVDARSV-H AYIMGEHGDS 
+LDH1_LACLA       132   WKFSGFPKNR VVGSGTSLDT ARFRQALAEK VDVDARSI-H AYIMGEHGDS 
+LDH_LACHE        134   WRMSGFPKDR VIGSGTSLDT GRLQKVIGKM ENVDPSSV-N AYMLGEHGDT 
+LDH_LACRE        132   QKISGLPASR VISSGTSLDS ARLRIALAKK LGVSPLDI-S ANVMAEHGDS 
+LDH_SCHPO        147   LKLTGFPAER VIGSGTIIDT ARFQYLIGKL YGLDPQSV-N ADIIGEHGDS 
+LDH_BORBU        133   MKYSKFPIHK VIGTGTILDT SRLRYFLSDH FNVNTQNI-H SYIMGEHGDS 
+LDH_MYCHY        131   RDASGFSDQK VIGSGTVLDT ARLQFAIAKR AKVSPNSV-Q AYVMGEHGDS 
+LDH_MYCGE        132   LKVTGFEPNK VIGSGTLLDS ARLRYAIATK YQMSSKDV-Q AYVIGEHGDS 
+LDH_MYCPU        130   QKVTNFPKEK VMSSGTFLDT SRFRKFLSEK TGVPTNSV-H GFVIGEHGDK 
+LDH_MYCGA        136   QKVTGFDPHK IISTGCQLET MRTRKMISEA LGVNSDSV-E GFVVGEHGSG 
+LDH1_BIFLO       134   WKRSGLPRTQ VLGTGTALDT SRLKTIIGEE TGLDPRNV-G GFVMGEHGDS 
+MDH_ARCFU        129   WKESGKPRNE VFGMGNQLDS QRLKERLyna gar--NIR-R AWIIGEHGDS 
+MDH_BACSU        134   YKESGFPKER VIGQSGVLDT ARFRTFVAEE LNLSVKDV-T GFVLGGHGDD 
+MDH_BACHD        135   YKESGFPKNR VIGQSGVLDT ARFRTFVAQE LNLSVEDI-T GFVLGGHGDD 
+MDH_CHLTE        129   WQKSGLPKER VIGMAGVLDS ARFRSFIAME LGVSMQDV-T ACVLGGHGDA 
+MDH_RICCN        132   LKESGLPHNK VIGMAGVLDS SRFNLFLAEE FKVSVNNV-N SMVLGGHGDA 
+MDH_RHILV        131   QKFSGLPANK VVGMAGVLDS SRFRLFLAKE FNVSVQDV-T AFVLGGHGDT 
+LDH_BOTBR        131   REFSGLPANK VVGMAGVLDS GRFSHFLAEE FGVSVNSV-- ---LGGHGDN 
+LDH_TOXGO        141   HEASGLPKNM VCGMANVLDS ARFRRFIADQ LEISPRDI-Q ATVIGTHGDH 
+MDH_AQUAE        145   YKLLNFPKNR VMGMAGVLDS ARFKTFISEE LMVSPKDI-H AYVIGGHGDE 
+MDH_AERPE        132   YKKTGFPRER VIGFSGILDS ARMAYYISQK LGVSFKSV-N AIVLGMHGQK 
+MDH_METKA        133   LKVSGLPKNR VIGLGTHLDS MRFKVLIAKH FNVHMSEV-H TRIIGEHGDT 
+1b8p_A           143   KSAPSLP-AK NFTAMLRLDH NRALSQIAAK TGKPVSSIEK LFVWGNHSPT 
+MDH_THETH        142   KNAPGLN-PR NFTAMTRLDH NRAKAQLAKK TGTGVDRIRR MTVWGNHSST 
+MDH_MYCLE        143   TNAPDIP-RE RFSALTRLDH NRAIAQLATK TGSAVTDIRK MTIWGNHSAT 
+MDHC_ARATH       143   EFAPSIP-EK NISCLTRLDH NRALGQISER LSVPVSDVKN VIIWGNHSSS 
+MDHC_HUMAN       141   KSAPSIP-KE NFSCLTRLDH NRAKAQIALK LGVTANDVKN VIIWGNHSST 
+MDHC_ECHGR       142   KYAPSIP-KE NFTALTRLDH NRAIYQVAAK AGVPNTCVKN VCIWGNHSNK 
+MDHP_SPIOL       229   KNPPNIP-AK NFHSLTRLDE NRAKCQLALK AGVFYDKVSN VTIWGNHSTT 
+MDHP_FLABI       248   KNAPNIP-PK NFHALTRLDE NRAKCQLALK AGVFYDKVSN VTIWGNHSTT 
+MDHP_MAIZE       227   KNAPNIP-AK NFHALTRLDE NRAKCQLALK AGVFYDKVSN VTIWGNHSTT 
+MDHP_MEDSA       232   KNAPNIP-AK NFHALTRLDE NRAKCQLALK AGVFYDKVSN MTIWGNHSTT 
+                                                                 
+                       8888888888 9888887888 8877555555 5555555505 6666666666 
+ 
+1ldg_            174   MVLLKRYITV ----EFINNK l--------- --------I- --SDAE-L-E 
+1a5z_            174   EVPVWSGAMI ----NMcq-- ---------- ---VCQKC-- ----DSKILE 
+1i0z_A           197   SVAVWSGVNV ----AGVSLQ EL-----NPE MGTD---N-- --D-SENWK- 
+1ez4_A           171   EFAAYSTATI ----GTRPVR DV-----AK- --EQ---GV- --SDDD-L-A 
+1guy_A           169   MVPLPRFSTI ----SGIPVS EFIAP----- ---D---RL- --AQ-I-V-E 
+LDH_PETMA        198   SVPVWSGVNV ----AGVGLQ SL-----NPD IGTP---K-- --D-GEDWK- 
+LDHA_BRARE       197   SVPVWSGVNV ----AGVSLQ AL-----NPD LGTD---K-- --D-KEDWK- 
+LDHA_SQUAC       197   SVPVWSGMNV ----AGVSLK EL-----HPE LGTD---K-- --D-KENWK- 
+LDHA_ALLMI       196   SVPVWSGVNV ----AGVSLK AL-----HPE LGTD---A-- --D-KEHWK- 
+LDHB_ANGRO       196   SVPVWSGANV ----AGVNLQ KL-----NPD IGTD---A-- --D-KENWK- 
+LDHC_HUMAN       196   SVPLWSGVNV ----AGVALK TL-----DPK LGTD---S-- --D-KEHWK- 
+LDHC_MOUSE       196   SVPIWSGVNV ----AGVTLK SL-----NPA IGTD---S-- --D-KEHWK- 
+LDHL_HUMAN       246   SVPVWSGVNI ----AGVPLK DL-----NSD IGTD---K-- --D-PEQWK- 
+LDH_CAEEL        197   SVAVWSGVNV ----AGVTLH EI-----KPD IGEK---T-- --D-NEHWEA 
+LDH_DROME        197   SVPVWSGVNI ----AGVRLR EL-----NPI LGTG---E-- --D-PEKWN- 
+LDH2_LACPL       181   SIVNFDEIMI ----NAQPLK TVt------- -------T-- --V-DDQFKA 
+LDH_CLOAB        180   EIATWSLTNI ----AGMDVN EY-----CE- --ASCKKC-- ----DGSLKY 
+LDH_CLOPE        182   EITAWSLTNI ----AGANVE EY-----CK- --TVCANC-- ----DGSFKK 
+LDHA_HORVU       219   SVAIWSSISV ----GGMPAF KS-----LR- --DS---HRS F-D-EAALE- 
+LDH_MAIZE        218   SVAVWSSVSV ----AGMPVL KS-----LQ- --ES---HRC F-D-EEALE- 
+LDH_THEAQ        176   EVLVWSSAQV ----GGVDLE AF-----AQA RG-R---AL- --TPDD-R-L 
+LDH_DEIRA        174   EVLAWSSAMV ----AGMPVA DF-----MQA QNLp-WNE-- --Q-V---RA 
+LDH_BACSU        182   ELPVWSHANV ----GGVPVS EL-----VE- --KNDAYK-- --Q-EE-L-D 
+LDHP_BACPS       183   ELPVWSHADI ----GGISIT EL-----IK- --RNPEYT-- --M-KD-L-D 
+LDH_BACCA        183   ELPVWSQADI ----GGVPIR KL-----VES KGEE---A-- --Q-KE-L-E 
+LDH_BACHD        183   QLPVWSSATI ----AGTPIA pr-------- --------L- --TDEK-K-Q 
+LDH2_STAAM       182   ELAVWSQANV ----AGISVY DT-----LK- --EQTg---- -SE-AK-A-E 
+LDH1_STAAM       183   ELPVWSHANI ----AGQPLK TL-----LE- --QRPE--G- --K-AQ-I-E 
+LDH_CORGL        183   ELPVLSSATI ----AGVSLS RM-----LD- --KDPE--L- --E-GR-L-E 
+LDH_BACME        185   EFPVWSHAQI ----GGVKLE HF-----INT AAIE---K-- --E-PD-M-Q 
+LDH2_LACLA       182   EVAVWSHTTV ----GGKPIL EF-----IV- --KN---Kki gved----LS 
+LDH_LACCA        184   EFPVWSHANI ----GGVTIA EW-----VK- --AHPE--I- --KEDK-L-V 
+LDH_LISIN        180   QFPAWSHTTV ----GGLPIT EW-----IN- --ED---E-- --Q-GA-M-D 
+LDH_STRBO        185   EFAVWSHANV ----AGVNLE SY-----LK- --DVQNVE-- --E-AE-L-V 
+LDH1_LACLA       181   EFAVWSHANV ----AGVKLE QW-----FQ- --EN---Dyl -NE-AE-I-V 
+LDH_LACHE        183   EFPAWSYNNV ----AGVKVA DW-----VK- --AHNMp--- ---ESK-L-E 
+LDH_LACRE        181   EFAAYSSATV ----GGKPLL QI-----CE- --EQ---GI- --SNDE-L-L 
+LDH_SCHPO        196   ELAVWSHASI ----AGLSLA DF-----CE- --ES---ETK Y-D-EQAL-N 
+LDH_BORBU        182   SFATWDETKI ----AMKPLS EY-----LA- --EG---KI- --TELE-LD- 
+LDH_MYCHY        180   SFVAYSNIKI ----AGECFC AY-----SKL TGID---Ssn y-------EK 
+LDH_MYCGE        181   SVSIISSAKI ----AGLSLK HF-----SKA SDIE---K-- --Efg----- 
+LDH_MYCPU        179   SVVVFSRMQI ----GFSRLD DF-----LKS ---K---AL- --TEDD-L-K 
+LDH_MYCGA        185   AIVPWSVFRV ----GNVPMK QL-----IA- --EG---KI- --KEEY-VK- 
+LDH1_BIFLO       183   QFTAWSTVSL ----GGKPFA RF-----LA- --DN---Qdr fAS-VS-T-T 
+MDH_ARCFU        176   MFVAKSLADF ----DGE--- ---------- ---------- ----VD-W-E 
+MDH_BACSU        183   MVPLVRYSYA ----GGIPLE TL-----IP- --KE---RI- --DA-I-V-E 
+MDH_BACHD        184   MVPLIRYSYA ----GGIPLE KL-----LP- --QE---RI- --DA-I-V-E 
+MDH_CHLTE        178   MVPVVKYTTV ----AGIPVA DLISA----- ---E---RI- --AE-L-V-E 
+MDH_RICCN        181   MVPLARYSTI ----SGVPIP DLIKMGLSS- --NE---NI- --EK-I-I-D 
+MDH_RHILV        180   MVPLARYSTV ----GGIPLT DLVTMGWVT- --KE---RL- --EE-I-I-Q 
+LDH_BOTBR        176   MVPVLEYSTV ----SGIPVS ELIEMGFST- --KE---KV- --DE-I-I-K 
+LDH_TOXGO        190   MLPLARYVTV ----SGFPLR EFIKKGKMT- --EA---KL- --AE-I-V-E 
+MDH_AQUAE        194   MVPLISISNV ----GGIPLK DL-----LP- --KE---KL- --EK-I-I-E 
+MDH_AERPE        181   MFPVPRLSSV ----GGVPLE HL-----MS- --KE---EI- --EE-V-V-S 
+MDH_METKA        182   MVPVISSTSV ----GGIPVT RM-----P-- --GWEDFD-- -------V-E 
+1b8p_A           192   MYADYRYAQI ----DGASVK DM-----IN- --DDAWNR-- --D-TF-L-P 
+MDH_THETH        191   MFPDLFHAEV ----DGRPAL EL-----V-- --DMEWYE-- --K-VF-I-P 
+MDH_MYCLE        192   QYPDVFHAEI ----GGKNAA EV-----VG- --DQAWIE-- --D-YF-I-P 
+MDHC_ARATH       192   QYPDVNHAKV QtssGEKPVR EL-----VK- --DDAWLD-- --G-EF-I-S 
+MDHC_HUMAN       190   QYPDVNHAKV KLQGKeVGVY EA-----LK- --DDSWLK-- --G-EF-V-T 
+MDHC_ECHGR       191   QFPDLSHAVV TKDGKQHPAK EL-----IN- --DEKWVK-- --E-VF-I-P 
+MDHP_SPIOL       278   QVPDFVNAQI ----GGVPVK EV-----IK- --AQKWLE-- --E-EF-T-E 
+MDHP_FLABI       297   QVPDFLNAKI ----HGIPVT EV-----IR- --DRKWLE-- --D-EF-T-N 
+MDHP_MAIZE       276   QVPDFLNAKI ----DGRPVK EV-----IK- --DTKWLE-- --E-EF-T-L 
+MDHP_MEDSA       281   QVPDFLNARI ----DGLPVK EV-----IK- --DHKWLE-- --E-EF-T-E 
+                                                                 
+                       5555555444 0000443332 2100000110 0011000000 0010010100 
+ 
+1ldg_            198   AIFDRTVNTA LE--IVNLHA SPYVAPAAAI IEMAESYLK- -DLKKVLICS 
+1a5z_            199   NFAEKTKRAA YE--IIERKG ATHYAIALAV ADIVESIFF- -DEKRVLTLS 
+1i0z_A           229   EVHKMVVESA YE--VIKLKG YTNWAIGLSV ADLIESMLK- -NLSRIHPVS 
+1ez4_A           201   KLEDGVRNKA YD--IINLKG ATFYGIGTAL MRISKAILR- -DENAVLPVG 
+1guy_A           198   RT----RKGG GEIVNLLKTG SAYYAPAAAT AQMVEAVLK- -DKKRVMPVA 
+LDH_PETMA        230   SVHKQVVDSA YE--VIKLKG YTSWAIGLSV ADLAETILK- -NLRRVHPVS 
+LDHA_BRARE       229   SVHKMVVDSA YE--VIKLKG YTSWAIGMSV ADLCESILK- -NMHKCHPVS 
+LDHA_SQUAC       229   KLHKDVVDSA YE--VIKLKG YTSWAIGLSV ADLAETIMK- -NLCRVHPVS 
+LDHA_ALLMI       228   EVHKQVVDSA YE--VIKLKG YTSWAIGLSV ADLAETVMK- -NLRRVHPIS 
+LDHB_ANGRO       228   DAHKMVVESA YE--VIRLKG YTNWAIGLSV ADLAETLIK- -NLNRIHPVS 
+LDHC_HUMAN       228   NIHKQVIQSA YE--IIKLKG YTSWAIGLSV MDLVGSILK- -NLRRVHPVS 
+LDHC_MOUSE       228   NVHKQVVEGG YE--VLNMKG YTSWAIGLSV TDLARSILK- -NLKRVHPVT 
+LDHL_HUMAN       278   NVHKEVTATA YE--IIKMKG YTSWAIGLSV ADLTESILK- -NLRRIHPVS 
+LDH_CAEEL        230   EIHKKVVDSA YE--IIKLKG YTSWAIGLSV AKIAQGIFS- -NSRNVFALS 
+LDH_DROME        229   ELHKQVVDSA YE--VIKLKG YTSWAIGLST ASLASAILR- -NTSSVAAVS 
+LDH2_LACPL       208   EIEQAVRGKG GQ--IISQKG ATFYGVAVSL MQICRAILN- -DENAELIVS 
+LDH_CLOAB        212   KIYDDVKNAA YH--VIEKKG ATYYAVALAV KRIVEAILR- -DENSILTVS 
+LDH_CLOPE        214   ELPEKVKNAA YE--IINSKG YTNYAVALAV TRIVEAILR- -DENAILTVS 
+LDHA_HORVU       251   GIRRAVVGGA YE--VIGLKG YTSWAIGYSV ASLAASLLR- -DQRRVHPVS 
+LDH_MAIZE        250   GIRRAVVDSA YE--VISLKG YTSWAIGYSV ASLAASLLR- -DQRRIHPVS 
+LDH_THEAQ        208   RIDEGVRRAA YR--IIEGKG ATYYGIGAGL ARLTRAILT- -DEKGVFTVS 
+LDH_DEIRA        206   KIDEGTRNAA AS--IIEGKR ATYYGIGAAL ARITEAVLR- -DRRAVLTVS 
+LDH_BACSU        213   QIVDDVKNAA YH--IIEKKG ATYYGVAMSL ARITKAILH- -NENSILTVS 
+LDHP_BACPS       214   ELFINVRDAA YQ--IIEKKG ATFYGIAMGL ARITKAILN- -NENSVLTVS 
+LDH_BACCA        214   RIFVNVRDAA YQ--IIEKKG ATYYGIAMGL ARVTRAILH- -HENAILTVS 
+LDH_BACHD        208   EIAENVRDAA YK--IIEAKG ATYYGIATGL ARITRAILK- -NENVVLPVG 
+LDH2_STAAM       212   EIYVNTRDAA YE--IIQAKG STYYGIALAL MRISKAILN- -NENNVLNVS 
+LDH1_STAAM       213   QIFVQTRDAA YD--IIQAKG ATYYGVAMGL ARITEAIFR- -NEDAVLTVS 
+LDH_CORGL        213   KIFEDTRDAA YH--IIDAKG STSYGIGMGL ARITRAILQ- -NQDVAVPVS 
+LDH_BACME        216   HLFEQTRDAA YH--IINRKG ATYYGIAMGL VRITKAILD- -DENSILTVS 
+LDH2_LACLA       213   NLSNKVKNAA YE--IIDKKQ ATYYGIGMST ARIVKAILN- -NEQAILPVS 
+LDH_LACCA        215   KMFEDVRDAA YE--IIKLKG ATFYGIATAL ARISKAILN- -DENAVLPLS 
+LDH_LISIN        208   TIFVSVRDAA YE--IINKKG ATFYGVAAAL ARITKAILN- -NENAILPLS 
+LDH_STRBO        216   ELFEGVRDAA YS--IINKKG ATFYGIAVAL ARITKAILN- -DENAVLPLS 
+LDH1_LACLA       212   ELFESVRDAA YS--IIAKKG ATFYGVAVAL ARITKAILD- -DEHAVLPVS 
+LDH_LACHE        213   DIHQEVKDMA YD--IINKKG ATFYGIGTAS AMIAKAILN- -DEHRVLPLS 
+LDH_LACRE        211   KIEDDVRHKA YE--IINRKG FTAYGVATCL MRITRAILR- -DENAVLPVG 
+LDH_SCHPO        228   ECFKETKNAA YD--IIQRKG STEYGVAAGL VRILAAIIR- -DENALLTVS 
+LDH_BORBU        212   EIHKKVVNAA YE--VIKLKG ATYYAIGLGI KNIVNAIIG- -DQNVILPIS 
+LDH_MYCHY        211   ELEYPVSRRA YE--IINRKR ATFYGIGAAI AKIVSNIIK- -DTKNIMIAG 
+LDH_MYCGE        210   EIDQFIRRRA YE--IIERKG ATFYGIGEAS ADVAEQILK- -DTKEVRVVA 
+LDH_MYCPU        209   WISEKTYKEA YE--IINRKR STYFGIGASV AEMAESVLY- -NQRRIFPIG 
+LDH_MYCGA        215   DIFSRVVKEA FE--IIKFKK ATYFGIAESM SLITRAYIY- -NLNTVLGVG 
+LDH1_BIFLO       215   EIEEKTRTRG NE--IVAAKG GTNFGIASTV AGIVQTILW- -DERRIVPVS 
+MDH_ARCFU        193   AVENDVRFVA AE--VIKRKG ATIFGPAVAI YRMVKAVVE- -DTGEIIPTS 
+MDH_BACSU        212   RT----RKGG GEIVNLLGNG SAYYAPAASL TEMVEAILK- -DQRRVLPTI 
+MDH_BACHD        213   RT----RKGG GEIVGLLGNG SAYYAPAASL AEMVEAILK- -DKKRVLPTI 
+MDH_CHLTE        207   RT----RTGG AEIVNHLKQG SAFYAPATSV VEMVESIVL- -DRKRVLTCA 
+MDH_RICCN        215   RT----RNGG GEIVALLKTG SAYYAPAASA IEMLESYLK- -DKRQILTCA 
+MDH_RHILV        214   RT----RDGG AEIVGLLKTG SAYYAPAASA IEMAESYLK- -DKKRVLPCA 
+LDH_BOTBR        210   RT----RGGG GEIVALLKTG SAYYAPATSG IAMAEAYLY- -DQKRILPAA 
+LDH_TOXGO        224   RT----KKAG GEIVRLLGQG SAYYAPALSA ITMAQAFLK- -DEKRVLPCS 
+MDH_AQUAE        223   RT----RFGG GEIVNLMGT- SAYYAPAAAI VDMIEALVQ- -NSKRILPCS 
+MDH_AERPE        210   ET----VNAG AKITELRGY- SSNYGPAAGL VLTVEAIKR- -DSKRIYPYS 
+MDH_METKA        209   EAVREVKEAG QR--IIETWG GSQFGPAQAI TNLVRTILQ- -DERRVLTVS 
+1b8p_A           223   TV----GKRG AAIIDARGV- SSAASAANAA IDHIHDWVLG Ta-GKWTTMG 
+MDH_THETH        221   TV----AQRG AAIIQARGA- SSAASAANAA IEHIRDWALG TPEGDWVSMA 
+MDH_MYCLE        223   TV----AKRG AAIIDARGA- SSAASAASAT IDAARDWLLG TPEGNWVSMA 
+MDHC_ARATH       227   TV----QQRG AAIIKARKL- SSALSAASSA CDHIRDWVLG TPEGTFVSMG 
+MDHC_HUMAN       225   TV----QQRG AAVIKARKL- SSAMSAAKAI CDHVRDIWFG TPEGEFVSMG 
+MDHC_ECHGR       226   CV----QNRG AAVIGLRKL- SRAASAAKAI VDQMRDWWFG TKEGEWVSMS 
+MDHP_SPIOL       309   KV----RKRG GVLIQKWGR- SSAASTAVSI VDAINPLITP TPPGDWFPSG 
+MDHP_FLABI       328   MV----QTRG GVLIKKWGR- SSAASTAVSI VDAIRSLVTP TPEGDWFSTG 
+MDHP_MAIZE       307   TV----QKRG GVLIQKWGR- SSAASTAVSI VDAIRSLVTP TPEGDWFSTG 
+MDHP_MEDSA       312   KV----QKRG GALIQKWGR- SSAASTSVSI VDAIRSLIIP TPEGDWFSTG 
+                                                                 
+                       1111122233 3300333344 4444444444 4444444440 0444444443 
+ 
+1ldg_            244   TLLEG-QY-G -H----S--D IFGGTPVVLG -ANGVEQVIE LQLNSEEKAK 
+1a5z_            245   VYLED-YL-G -V----K--D LCISVPVTLG -KHGVERILE LNLNEEELEA 
+1i0z_A           275   TMVKG-MY-G IE----N--E VFLSLPCILN -ARGLTSVIN QKLKDDEVAQ 
+1ez4_A           247   AYMDG-QY-G -L----N--D IYIGTPAIIG -GTGLKQIIE SPLSADELKK 
+1guy_A           242   AYLTG-QY-G -L----N--D IYFGVPVILG -AGGVEKILE LPLNEEEMAL 
+LDH_PETMA        276   THCKG-QH-G VH----D--D VFLSLPCVLG -SEGITDIIN QTLKKEEEAQ 
+LDHA_BRARE       275   TLVKG-MH-G VN----E--E VFLSVPCILG -NNGLTDVVH MTLKPEEEKQ 
+LDHA_SQUAC       275   TMVKD-FY-G IK----N--D VFLSLPCVLD -NHGISNIVK MKLKPDEEQQ 
+LDHA_ALLMI       274   TMVKG-MY-G IK----D--D VFLSVPCVLG -YHGITDVVM MTLKSEEEEK 
+LDHB_ANGRO       274   TMVKG-MY-G IG----D--E VYLSLPCVLN -NGGVNSVVN MTLTDEEIAQ 
+LDHC_HUMAN       274   TMVKG-LY-G IK----E--E LFLSIPCVLG -RNGVSDVVK INLNSEEEAL 
+LDHC_MOUSE       274   TLVKG-FH-G IK----E--E VFLSIPCVLG -QSGITDFVK VNMTAEEEGL 
+LDHL_HUMAN       324   TIIKG-LY-G ID----E--E VFLSIPCILG -ENGITNLIK IKLTPEEEAH 
+LDH_CAEEL        276   TNVKG-FH-G IN----D--D VYLSLPVVLG -SAGLTHVVK QQLTEAEVQK 
+LDH_DROME        275   TSVLG-EH-G ID----K--D VFLSLPCVLN -ANGVTSVVK QILTPTEVEQ 
+LDH2_LACPL       254   AALSG-QY-G -I----N--D LYLGSPAIIN -RNGLQKVIE AELSDDERAR 
+LDH_CLOAB        258   SLLEG-QY-G -I----K--D VYMGVPSIVG -INGVKDIIE VPLNDEEKNN 
+LDH_CLOPE        260   SLFEG-QY-G -I----D--N VYLAMPTIVD -RSGARQILD VPISNEEKEN 
+LDHA_HORVU       297   VLASG-FH-G IS----DGHE VFLSLPARLG -RGGILGVAE MDLTEAEAAQ 
+LDH_MAIZE        296   VLARG-FH-G IP----DGtt sssacpprrp rrrp--GRRE MELTEEEAKR 
+LDH_THEAQ        254   LFTP--EVEG -V----E--E VALSLPRILG -ARGVEATLY PRLNEEERQA 
+LDH_DEIRA        252   APTP--E--- --------YG VSLSLPRVVG -RQGVLSTLH PKLTGDEQQK 
+LDH_BACSU        259   TYLDG-QY-G -A----D--D VYIGVPAVVN -RGGIAGITE LNLNEKEKEQ 
+LDHP_BACPS       260   TYLDG-EY-G -T----E--D VYMGVPAVVN -RNGIREIVE LTLNEQERQQ 
+LDH_BACCA        260   AYLDG-PY-G -E----R--D VYIGVPAVIN -RNGIREVIE IELDEEEKKW 
+LDH_BACHD        254   TLLEG-EN-G -H----D--D VYIGVPAIIN -REGVRQVVE LSLNDEEKEK 
+LDH2_STAAM       258   IQLDG-QY-G -G----Hk-G VYLGVPTLVN -QHGAVKIYE MPLSAEEQAL 
+LDH1_STAAM       259   ALLEG-EY-D -E----E--D VYIGVPAVIN -RNGIRNVVE IPLNDEEQSK 
+LDH_CORGL        259   ALLHG-EY-G -E----E--D IYIGTPAVVN -RRGIRRVVE LEITDHEMER 
+LDH_BACME        262   ALLEG-QY-G -I----S--D VYIGVPAIIN -KNGVRQIIE LNLTPHEQQQ 
+LDH2_LACLA       259   AYLRG-EY-G -Q----E--G VFTGVPSIVN -QNGVREIIE LNIDAYEKKQ 
+LDH_LACCA        261   VYMDG-QY-G -L----N--D IYIGTPAVIN -RNGIQNILE IPLTDHEEES 
+LDH_LISIN        254   VYLDG-HY-G -M----N--D IYIGAPAVVN -RQGVRHIVE MNLNDKEKEQ 
+LDH_STRBO        262   VFQEG-QYAN -V----T--D CYIGQPAIVG -AHGIVRPVN IPLNDAEQQK 
+LDH1_LACLA       258   VFQDG-QY-G -V----S--D CYLGQPAVVG -AEGVVNPIH IPLNDAEMQK 
+LDH_LACHE        259   VPMDG-EY-G -L----H--D LHIGTPAVVG -RKGLEQVIE MPLSDKEQEL 
+LDH_LACRE        257   AYIDG-EY-G -I----K--D NYLGTPAVIN -ASGISKVIE VPLNERESEA 
+LDH_SCHPO        274   G-LDS-YS-N -I----G--D VCFSMPRKLN -KDGAHRIIN AKLSKDEDAK 
+LDH_BORBU        258   SYING-QY-G -Gli--K--D IYIGAPAIVC -KEGVKEVLN FKISPKELDK 
+LDH_MYCHY        257   ANLRG-EY-G -F----H--G VNIGVPVVLG -ANGIEKIIE ISLNDKEKEK 
+LDH_MYCGE        256   PLLTG-QY-G -A----K--D MMFGTPCVLS -RKGIEKILE IELSNTEKVA 
+LDH_MYCPU        255   IYLDE-Skp- -G----G--G IYISRPAILG -ENGWEEVKN YDLSPAEQKA 
+LDH_MYCGA        261   VQLDD-KY-V -A----S--G IYFTVPAVVG -KHGWKLHSK LQLSQEEQAA 
+LDH1_BIFLO       261   TLLDG-EY-G -E----H--D VFLGVPTELR -ANGANEIVE LDLSEDERAK 
+MDH_ARCFU        239   MILQG-EY-G -I----E--N VAVGVPAKLG -KNGAE-VAD IKLSDEEIEK 
+MDH_BACSU        256   AYLEG-EY-G -Y----E--G IYLGVPTIVG -GNGLEQIIE LELTDYERAQ 
+MDH_BACHD        257   AYLEG-EY-G -Y----E--D IYVGVPTILG -GDGIEKVIE LDLTDEEKAT 
+MDH_CHLTE        251   VSLDG-QY-G -I----D--G TFVGVPVKLG -KNGVEHIYE IKLDQSDLDL 
+MDH_RICCN        259   AHLQG-EY-G -V----H--D LYVGVPIMIG -KEGVLRVIE LQLTAEEKAL 
+MDH_RHILV        258   AHLSG-QY-G -V----K--D MYVGVPTVIG -AGGVERIIE IDLNKTEKEA 
+LDH_BOTBR        254   AHLSG-EY-G -I----D--N LYVGVPVVIG -ANGVEKVVE VKLSDEAKAN 
+LDH_TOXGO        268   VYCQG-EY-G -L----H--D MFIGLPAVIG -GGGIEQVIE LELTHEEQEC 
+MDH_AQUAE        266   VYLDG-EA-G -EyygvQ--G FCVGVPVKLG -SNGVEEIIK VPMIEEEREM 
+MDH_AERPE        253   LYLQG-EY-G -Y----N--D IVAEVPAVIG -KSGIERIIE LPLTEDEKRK 
+MDH_METKA        255   AYLDG-EIDG -I----R--D VCIGVPARLG -REGVLEIVP IELEEDEMRA 
+1b8p_A           267   IPSDG-SY-G IP----E--G VIFGFPVTTE -NGEYKIVQG LSIDAFSQER 
+MDH_THETH        266   VPSQG-EY-G IP----E--G IVYSFPVTAK -DGAYRVVEG LEINEFARKR 
+MDH_MYCLE        268   VVSDG-SY-G VP----E--G LISSFPVTTT -DGDWTIVRG LGIDDFSRGR 
+MDHC_ARATH       272   VYSDG-SY-S VP----S--G LIYSFPVTCR -NGDWSIVQG LPIDEVSRKK 
+MDHC_HUMAN       270   VISDGNSY-G VP----D--D LLYSFPVVIK -NKTWKFVEG LPINDFSREK 
+MDHC_ECHGR       271   VYSTGDHY-G AP----K--D IYFSFPVTIK -DGHYKVVDG LSMDEWSRSL 
+MDHP_SPIOL       354   VYTNGNPY-G IA----E--D LIYSMPCRSK GDGDYELVKD VIFDDYLRKR 
+MDHP_FLABI       373   VYTNGNPY-G IA----E--D IVFSMPCRSK GDGDYEFVKD VIFDDYLSKK 
+MDHP_MAIZE       352   VYTTGNPY-G IA----E--D IVFSMPCRSK GDGDYELASD VLMDDFLWER 
+MDHP_MEDSA       357   VYTTGNPY-G IA----E--D IVFSMPCRSK GDGDYELVKD VIFDDYLRQK 
+                                                                 
+                       3333303303 0200003003 4444444444 0444444444 4444444333 
+ 
+1ldg_            284   FDEAIAETKR MKALA----- ---------- --------- 
+1a5z_            285   FRKSASILKN AINEIEEN-- ---------- --------- 
+1i0z_A           316   LKKSADTLWD IQKDLKD--- ---------- --------- 
+1ez4_A           287   MQDSAATLKK VLNDGLAELE n--------- --------- 
+1guy_A           282   LNASAKAVRA TLDTL----- ---------- --------- 
+LDH_PETMA        317   VQKSAETLWN VQKELTF--- ---------- --------- 
+LDHA_BRARE       316   LVKSAETLWG VQKELTL--- ---------- --------- 
+LDHA_SQUAC       316   LQKSATTLWD IQKDLKF--- ---------- --------- 
+LDHA_ALLMI       315   LRKSADTLWG IQKELQF--- ---------- --------- 
+LDHB_ANGRO       315   LKKSADTLWG IQKDLKDL-- ---------- --------- 
+LDHC_HUMAN       315   FKKSAETLWN IQKDLIF--- ---------- --------- 
+LDHC_MOUSE       315   LKKSADTLWN MQKDLQL--- ---------- --------- 
+LDHL_HUMAN       365   LKKSAKTLWE IQNKLKL--- ---------- --------- 
+LDH_CAEEL        317   LHNSAKALLE VQNGIVM--- ---------- --------- 
+LDH_DROME        316   LQKSANIMSD VQAGLKF--- ---------- --------- 
+LDH2_LACPL       294   MQHFAAKMLT MMNvas---- ---------- --------- 
+LDH_CLOAB        298   LTDSAKTLKE SLDSIF---- ---------- --------- 
+LDH_CLOPE        300   LIKSAEILKG HIANSELd-- ---------- --------- 
+LDHA_HORVU       340   LRRSAKTLWE NCQLLDL--- ---------- --------- 
+LDH_MAIZE        338   LRRSAKTIWE NCQLLGL--- ---------- --------- 
+LDH_THEAQ        294   LRRSAEILKG AASALGF--- ---------- --------- 
+LDH_DEIRA        288   LEQSAGVLRG FKQQLGL--- ---------- --------- 
+LDH_BACSU        299   FLHSAGVLKN ILKPHFAEQK VN-------- --------- 
+LDHP_BACPS       300   FKHSANVLKE ILAPNFKEQ- ---------- --------- 
+LDH_BACCA        300   FHRSAATLKG VLARYFAQ-- ---------- --------- 
+LDH_BACHD        294   FARSVETLKD IQAAIWS--- ---------- --------- 
+LDH2_STAAM       299   FDKSVKILED TFDSIKYLLE d--------- --------- 
+LDH1_STAAM       299   FAHSAKTLKD IMAEAEELk- ---------- --------- 
+LDH_CORGL        299   FKHSANTLRE IQKQFF---- ---------- --------- 
+LDH_BACME        302   LEHSASILKQ TRDRAFV--- ---------- --------- 
+LDH2_LACLA       299   FEKSVSQLKE VIESIK---- ---------- --------- 
+LDH_LACCA        301   MQKSASQLKK VLTDAFAKND IETRQ----- --------- 
+LDH_LISIN        294   MKNSADTLKK VLDDAMKQID ---------- --------- 
+LDH_STRBO        303   MEASAKELKA IIDEAFSKEE FASACKN--- --------- 
+LDH1_LACLA       298   MEASGAQLKA IIDEAFAKEE FASAVKN--- --------- 
+LDH_LACHE        299   MTASADQLKK VMDKAFKETG VKVRQ----- --------- 
+LDH_LACRE        297   MTKSAEALKK IATDGMTKVG LVNylik--- --------- 
+LDH_SCHPO        313   LVESVKSIKH AIESIGLN-- ---------- --------- 
+LDH_BORBU        300   FNSSANQLKS YIDKMEF--- ---------- --------- 
+LDH_MYCHY        297   FAKSVAIIDK IYQDAIKNI- ---------- --------- 
+LDH_MYCGE        296   LENSIKVLKD NIKLAKL--- ---------- --------- 
+LDH_MYCPU        295   FDESAINLKK HWDDVQKEIs f--------- --------- 
+LDH_MYCGA        301   FDKSALNIQK VTKDALDLIG FKN------- --------- 
+LDH1_BIFLO       301   LHHSAELVRE HCEGLl---- ---------- --------- 
+MDH_ARCFU        278   LRNSAKILRE RLEELGY--- ---------- --------- 
+MDH_BACSU        296   LNKSVESVKN VMKVLS---- ---------- --------- 
+MDH_BACHD        297   FAKSIESVRN VMSALPKe-- ---------- --------- 
+MDH_CHLTE        291   LQKSAKIVDE NCKMLDAsqg ---------- --------- 
+MDH_RICCN        299   FDKSVEGVKK LIETIK---- ---------- --------- 
+MDH_RHILV        298   FDKSVGAVAG LCEACINIAP ALk------- --------- 
+LDH_BOTBR        294   LQVSVDAVKE LLVACKGIDE SLa------- --------- 
+LDH_TOXGO        308   FRKSVDDVVE LNKSLAALG- ---------- --------- 
+MDH_AQUAE        310   WRRSVESVKK TVEVAEGILS agssrq---- --------- 
+MDH_AERPE        293   FDEAVQAVKK LVETLPpqlr e--------- --------- 
+MDH_METKA        296   FRRSVKVVKE ATREAMEAIS Er-------- --------- 
+1b8p_A           308   INVTLNELLE EQNGVQHLLG ---------- --------- 
+MDH_THETH        307   MEITAQELLD EMEQVKALGL I--------- --------- 
+MDH_MYCLE        309   IDKSTAELAD ERMAVKQLGL I--------- --------- 
+MDHC_ARATH       313   MDLTAEELKE EKDLAYSCLS ---------- --------- 
+MDHC_HUMAN       312   MDLTAKELTE EKESAFEFLS Sa-------- --------- 
+MDHC_ECHGR       313   FNLSADELVD EREVAlasfk ---------- --------- 
+MDHP_SPIOL       397   IKTSEEELLA EKRCTAHLTG EGIAVCDLPa GDTMLPGEM 
+MDHP_FLABI       416   IKKSEDELLA EKKCVAHLTG EGIAVCDLP- EDTMLPGEM 
+MDHP_MAIZE       395   IKKSEAELLA EKKCVAHLTG EGNAFCDLP- EDTMLPGEV 
+MDHP_MEDSA       400   LAKTEAELLA EKKCVAHLTG EGIAVCDLP- GDTMLPGEM 
+                                                     
+                       3333222211 1000000000 0000000000 000000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1ldg_       :0.008461((((((1guy_A      :0.004842(MDH_BACSU   :0.002786MDH_BACHD   :0.002786):0.002056):0.000387(MDH_RICCN   :0.003891(MDH_RHILV   :0.003491LDH_BOTBR   :0.003491):0.000400):0.001338):0.000262MDH_CHLTE   :0.005491):0.000498LDH_TOXGO   :0.005990):0.000556MDH_AQUAE   :0.006545):0.001194MDH_AERPE   :0.007739):0.000722):0.005326(((((((1a5z_       :0.007228(LDH_THEAQ   :0.005427LDH_DEIRA   :0.005427):0.001802):0.000645(((((((1ez4_A      :0.004227LDH_LACRE   :0.004227):0.000456(((LDH_LACCA   :0.003328LDH_LISIN   :0.003328):0.000310(LDH_STRBO   :0.002704LDH1_LACLA  :0.002704):0.000935):0.000390LDH_LACHE   :0.004029):0.000654):0.000538((((((LDH_BACSU   :0.002871LDHP_BACPS  :0.002871):0.000336LDH_BACCA   :0.003207):0.000574(LDH_BACHD   :0.003708LDH1_STAAM  :0.003708):0.000073):0.000393LDH_CORGL   :0.004174):0.000169LDH_BACME   :0.004343):0.000656LDH2_STAAM  :0.004999):0.000221):0.000399LDH2_LACLA  :0.005620):0.000499((LDH_CLOAB   :0.003305LDH_CLOPE   :0.003305):0.002542LDH_SCHPO   :0.005847):0.000272):0.000167LDH_BORBU   :0.006286):0.000483LDH2_LACPL  :0.006769):0.001104):0.000733(LDH_MYCHY   :0.006125LDH_MYCGE   :0.006125):0.002481):0.000463LDH1_BIFLO  :0.009069):0.000083((((((1i0z_A      :0.002542LDHB_ANGRO  :0.002542):0.000262((LDH_PETMA   :0.002632LDHA_BRARE  :0.002632):0.000109(LDHA_SQUAC  :0.002512LDHA_ALLMI  :0.002512):0.000229):0.000062):0.000372(LDHC_HUMAN  :0.002739LDHC_MOUSE  :0.002739):0.000436):0.000097LDHL_HUMAN  :0.003272):0.000680(LDH_CAEEL   :0.003704LDH_DROME   :0.003704):0.000248):0.001528(LDHA_HORVU  :0.002612LDH_MAIZE   :0.002612):0.002869):0.003671):0.002372(MDH_ARCFU   :0.010656MDH_METKA   :0.010656):0.000868):0.001150(LDH_MYCPU   :0.008014LDH_MYCGA   :0.008014):0.004660):0.001114):0.095737((((1b8p_A      :0.003818MDH_THETH   :0.003818):0.000181MDH_MYCLE   :0.003999):0.001316((MDHC_ARATH  :0.003878MDHC_HUMAN  :0.003878):0.000632MDHC_ECHGR  :0.004510):0.000806):0.001651(MDHP_SPIOL  :0.002112((MDHP_FLABI  :0.001996MDHP_MEDSA  :0.001996):0.000042MDHP_MAIZE  :0.002037):0.000074):0.004855):0.102559);
+ 
+ 

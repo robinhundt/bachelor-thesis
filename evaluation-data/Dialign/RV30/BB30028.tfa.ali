@@ -1,0 +1,1391 @@
+1fhu_A             1   ---------- ---------- ---------- ---------- --MRSAQVYR 
+MENC_YERPE         1   ---------- ---------- ---------- ---------- --MRTATLYR 
+MENC_HAEIN         1   ma-------- ---------- ---------- ---------- -E-KSFNLYR 
+MENC_PASMU         1   mtm------- ---------- ---------- ---------- --IRKFKLYQ 
+MENC_VIBCH         1   ---------- ---------- ---------- ---------- --MRHATLYR 
+1bqg_              1   g----A---- -------PVI TDLKVVPVA- ---------- ---------- 
+GUDH_STRCO         1   mtrd------ -------LTI TAVHLTPIL- ---------- ---------- 
+GUDH_BACSU         1   msspiqeqvq kekrsniPSI SEMKVIPVA- ---------- ---------- 
+GUDH_ECOLI         1   ssqfTT---- -------PVV TEMQVIPVA- ---------- ---------- 
+GUDX_ECOLI         1   matqSS---- -------PVI TDMKVIPVA- ---------- ---------- 
+4enl_              1   ---------- --------AV SKVYARSVYD SRGNPTVEVE LT-TEKGVFR 
+ENO1_CANAL         1   ---------- --M----SYA TKIHARYVYD SRGNPTVEVD FT-TDKGLFR 
+ENO_ALTAL          1   ---------- -------MTI TKIHARSVYD SRGNPTVEVD IV-TETGLHR 
+ERR1_YEAST         1   ---------- -------MSI TKVHARTVYD SRGNPTVEVE IT-TENGLFR 
+EN11_SCHPO         1   ---------- -------MAI QKVFARQIYD SRGNPTVEVD LT-TETGIHR 
+EN12_SCHPO         1   ---------- --M----TTI QKIYSRSIYD SRGNPTVEVE LT-TELGTFR 
+ENO_NEOFR          1   ---------- -------MAI TKVHARQIFD SRGNPTVEVE VT-TDKGLFR 
+ENO_CUNEL          1   ---------- -------STI TKVHARQIFD SRGNPTVEVE VT-TDKGVFR 
+ENO_CAEEL          1   p--------- ---------I TKIHARQIYD SRGNPTVEVD LF-TEKGVFR 
+ENOA_ALLMI         1   ---------- --------SI LKIHAREIFD SRGNPTVEVD LY-TSKGLFR 
+ENO_LOLPE          1   ---------- -------MVI KKVHSRQIFD SRGNPTVEVD LW-TDKGMFR 
+ENO_FASHE          1   ---------- -------MAI KAIHARQIFD SRGNPTVEVD VT-TAKGLFR 
+ENO_SCHJA          1   ---------- -------MAI IAIHARQIFD SRGNPTVEVD LK-TAKGLFR 
+ENO_DROME          1   ---------- -------MTI KAIKARQIYD SRGNPTVEVD LT-TELGLFR 
+ENO_HOMGA          1   ---------- --------SI TKVFARTIFD SRGNPTVEVD LY-TSKGLFR 
+ENO1_HEVBR         1   ---------- -MA----ITI VSVRARQIFD SRGNPTVEAD VKLSDGYLAR 
+ENO_CHLRE          1   ---------- ---------- ---------- ---------- ---------- 
+ENO_PLAFA          1   ---------- -MA----HVI TRINAREILD SRGNPTVEVD LE-TNLGIFR 
+ENO_MASBA          1   ---------- --M----STI KSVFAREILD SRGNPTVEVD LT-TEKGLFR 
+ENO1_ENTHI         1   ---------- -------MSI QKVHAREILD SRGNPTIEVE IT-TGKGMFR 
+ENO_METJA          1   -----MD--- -ER----FEI KDIVAREVID SRGNPTVEVE VITKGNGYGS 
+ENO_METAC          1   mmsyIGLQQD SGE----YKI QKIHAREILD SRGNPTIEVD VF-TPKGFGR 
+ENO_SULTO          1   -----MN--- -DY----FRI KKIKGYQILD SRGNKTIRVK IETYGGISET 
+ENO_AERPE          1   m--------G VND----FAI ERVWGLQVLD SRGNPTVKAY VKLAGGSLGW 
+ENO_PYRAB          1   -----ME--- -NP----YEI VAVIAREILD SRGNPTVEVD VH-TPISMGR 
+ENO_METKA          1   ---------- --M----PRI VSVKAREVLD SRGEPTVEVE VELEDGTVGR 
+ENO_SYNY3          1   mlsk------ -VP----ATI EEIAAREILD SRGRPTIEAE VRLESGAHGI 
+ENO_THETN          1   ---------- --M----SSI IDIYAREILD SRGNPTIEVE VELDSGAVGR 
+ENO_CLOPE          1   -----MK--- -QY----IEI IDVVARQILD SRCFPTVEVE VYLEDGTVGR 
+ENO_CLOAB          1   -----MK--- -SY----VEI VDVMARQILD SRANPTVEVE VVLEDGTVGR 
+ENO_BACHD          1   ---------- --M----TII TDVYAREVLD SRGNPTVEVE VYLESGAMGR 
+ENO_LISMO          1   ---------- --M----SII TEVYAREVLD SRGNPTVEVE VYTEAGAFGR 
+ENO_ENTFA          1   ---------- --M----SII TDIYAREVLD SRGNPTIEVE VYTESGAFGR 
+ENO_BACFR          1   ---------- -------MKI EKITGREILD SRGNPTVEVD VVLESGIMGR 
+ENO_STAAM          1   ---------- --M----PII TDVYAREVLD SRGNPTVEVE VLTESGAFGR 
+ENOA_LACLA         1   ---------- --M----SII TDIYAREVLD SRGNPTLEVE VYTEDGAFGR 
+ENOA_LACPL         1   ---------- --M----SII TDIYAREVLD SRGNPTVEVE LYTESGAFGR 
+ENO_LEPIN          1   -----MS--- -HH----SQI QKIQAREIMD SRGNPTVEVD VILLDGSFGR 
+ENO_RALSO          1   ---------- --M----SAI VDIIGREVLD SRGNPTVECD VLLESGVMGR 
+ENO_NITEU          1   ---------- --M----SAI VDVIAREIID SRGNPTIEAD VLLESGVLGR 
+ENO_NEIMA          1   ---------- --M----SAI VDIFAREILD SRGNPTVECD VLLESGVMGR 
+ENO_BORBU          1   ---------- -MG----FHI YEIKARQIID SRGNPTVEAD VILEDGTYGR 
+ENO_AGRT5          1   ---------- --M----TAI TDIIAREILD SRGNPTVEVD VYLEDGSMGR 
+ENO_BARHE          1   ---------- --M----TII VDIIGREVLD SRGNPTVEVE VHLENGALGR 
+ENO_CAUCR          1   ---------- --M----TEI VDIIAREILD SRGNPTVEVD VILEDGAFGR 
+ENO_ZYMMO          1   ---------- --M----TAI VSIHGRQVVD SRGNPTVEVD VTLEDGSFGR 
+ENO2_CHLTE         1   ---------- --M----SVI TRIHARQIMD SRGNPTVEVD VH-TESSFGR 
+ENO_XANAC          1   ---------- --M----TTI AKILAREILD SRGNPTLEAE VTLDDGSFGR 
+ENO_FUSNN          1   ---------- --M----TGI VEVIGREILD SRGNPTVEVD VILECGAKGR 
+ENO_AQUAE          1   ---------- --M----SRI KRVHGREVLD SRGNPTVEVE VELESGALGR 
+ENO_THEMA          1   ---------- -MY----VEI VDVRAREVLD SRGNPTVEAE VVLEDGTMGR 
+ENO1_STRCO         1   ---------- --M----PSI DVVVAREILD SRGNPTVEVE VGLDDGSTGR 
+ENO_COREF          1   ---------- --M----AEI MHVFAREIMD SRGNPTVEAE VFLDDGSHGV 
+ENO_MYCLE          1   ---------- --M----PVI EQVGAREILD SRGNPTVEVE VVLIDGTFAR 
+ENO_DESVM          1   ---------- --M----STI VSVWAREILD SRGNPTVEVE VSLESGHTGR 
+ENO_DEIRA          1   ---------- -------MNI EKVIAREVLD SRGNPTVEAE VHLDSGFSGR 
+ENO_SYNEL          1   ---------- MMD----TAI ATIRAREILD SRGRPTVEAE VELECGIVGL 
+ENO_ANASP          1   mn-------N IVD----TAI EAIVAREILD SRGRPTIEAE VHLLSGAVGL 
+ENO2_STRCO         1   msatavep-- --A----AAI ETVTARRIID SRGNPTVEVD VVLEDGSLGR 
+ENO1_PSESM         1   ---------- --M----AKI VDIKGREVLD SRGNPTVEAD VLLDNGIIGS 
+ENO_AERHY          1   ---------- --M----SKI VKVIGREIID SRGNPTVEAE VHLEGGFVGM 
+ENO_BUCAI          1   ---------- --M----SKI TKIIAREIID SRGNPTVESE VHLEGGFVGL 
+ENO_WIGBR          1   ---------- --M----SKI IKVIGREIID SRGYPTVEAE VHLLGGIIGR 
+ENO_BUCBP          1   ---------- --M----SKI KKIISREIID SRGYPTIESE VHLQNGSIGL 
+ENO_BIFLO          1   ---------- --M----AVI ESVYARQILD SRGNPTVQVV LDTEDGAQGL 
+ENO_TREPA          1   ---------- --M----SDI ACIEAREIID SRGNPTVEVD VSLSDGSFGR 
+ENO_CAMJE          1   ---------- --M----LVI EDVRAYEVLD SRGNPTVKAE VTLSDGSVGA 
+ENO_HELPJ          1   ---------- --M----LTI KDIHALEVMD SRGNPTIQAS VILSDNTKAS 
+ENO_CHLCV          1   ---------- MLE----VVI SDIQAREILD SRGYPTLYVK VTTDAGTFGE 
+ENO_CHLTR          1   ---------- MFD----VVI SDIEAREILD SRGYPTLCVK VITNTGTFGE 
+ENO_CHLPN          1   ---------- MFE----AVI ADIQAREILD SRGYPTLHVK VTTSTGSVGE 
+ENO1_CHLTE         1   ---------- -------MKI QNVNAIEILD SRGNPTVEVN LKLEDGTISR 
+ENO2_PSESM         1   ---------- -MK----TQI QAIHAREILD SRGNPTVEVD VTLECGAMGR 
+ENO_MYCPN          1   ----MSAQTG TDL----FKI ADLFAYQVFD SRGFPTVACV VKLASGHTGE 
+ENO_MYCGE          1   mgssnLN--- -IN----SKI TDIFAYQVFD SRGVPTVACV VKLASGHVGE 
+ENO_MYCPE          1   mfgs------ --K----FKI CKIEAYEVID SRGFPTVAAK VYAKNGVFAK 
+ENOB_LACPL         1   m--------- -EK----QVI ETVKAREIFD SRGNPTVEAD VILSDGTLGR 
+ENO_MYCPU          1   ---------- --M----SEI VKIKALEVLD SRGNPTIQVE VHTISGAYGK 
+ENO_UREPA          1   ---------- -------MKI INLLAYQILD SRGQPTVAVK LFLENDQSVI 
+                                                                 
+                       0000000000 0000000112 2333445555 5555555555 5434444446 
+ 
+1fhu_A             9   WQIPMD---- -----LKTRD GLYVCLREGE RE----GWGE ISPLPGFSQE 
+MENC_YERPE         9   YSVPMEAGVI LRHQRLKSRD GLLVKLQQGE LS----GWGE IAPLPEFSQE 
+MENC_HAEIN        11   YSIPVDSQLI LRDRFLKRRE GLIVRVSCs- RD----GWGE IAPLPGFSEE 
+MENC_PASMU        12   YSIPVDSQLI LRNRFLKKRE GLLVQVCCDD AQ----GWGE IAPLPEFSQE 
+MENC_VIBCH         9   YQLPMDSGVI LRNEKLTQRE GFIVELTENG RT----ARGE IAPLPGFSRE 
+1bqg_             15   ---------- --------GH DSMLLNLSGA HG----PLFT RNILILT--D 
+GUDH_STRCO        17   ---------- --------VA DPPLLNTQGV HQ----PYTP RLIVEVE--T 
+GUDH_BACSU        30   ---------- --------GH DSMLLNLSGA HS----PFFT RNIVILT--D 
+GUDH_ECOLI        19   ---------- --------GH DSMLMNLSGA HA----PFFT RNIVIIK--D 
+GUDX_ECOLI        19   ---------- --------GH DSMLLNIGGA HN----AYFT RNIVVLT--D 
+4enl_             32   SIVPSG---- -----ASTGV HEALEMRDGD KS----KWMG KGVLHAV--K 
+ENO1_CANAL        34   SIVPSG---- -----ASTGV HEALELRDGD KS----KWLG KGVLKAV--A 
+ENO_ALTAL         33   AIVPSG---- -----ASTGS HEACELRDGD KS----KWGG KGVTKAV--A 
+ERR1_YEAST        33   AIVPSG---- -----ASTGI HEAVELRDGN KS----EWMG KGVTKAV--S 
+EN11_SCHPO        33   AIVPSG---- -----ASTGI WEALEMRDGD KT----KWGG KGVLKAV--G 
+EN12_SCHPO        34   SMVPSG---- -----ASTGE WEAKELRDND KN----KWGG KGVTIAV--H 
+ENO_NEOFR         33   AAVPSG---- -----ASTGV HEALELRDGI KA----DYVG KGVLKAV--E 
+ENO_CUNEL         33   AGVPSG---- -----ASTGV HEALELRDGV KS----DYLG KGVLKAV--G 
+ENO_CAEEL         32   AAVPSG---- -----ASTGV HEALELRDGD KA----VHLG KGVLKAV--S 
+ENOA_ALLMI        32   AAVPSG---- -----ASTGI YEALELRDND KT----RFMG KGVSKAV--A 
+ENO_LOLPE         33   AAVPSG---- -----ASTGI YEALEMRDKD AK----NYHG KTLFNAV--G 
+ENO_FASHE         33   AAVPSG---- -----ASTGV HEALELRDGP P-----GYMG KGVLKAV--A 
+ENO_SCHJA         33   AAVPSG---- -----ASTGV HEALELRDTN SK----AYMC KGVLTAV--S 
+ENO_DROME         33   AAVPSG---- -----ASTGV HEALELRDND KA----NYHG KSVLKAV--G 
+ENO_HOMGA         32   AAVPSG---- -----ASTGV HEALEMRDGD KS----KYHG KSVFNAV--K 
+ENO1_HEVBR        36   AAVPSG---- -----ASTGI YEALELRDGG S-----DYLG KGVSKAV--E 
+ENO_CHLRE          1   ---------- ---------- ---------- ---------- --VTKAV--E 
+ENO_PLAFA         35   AAVPSG---- -----ASTGI YEALELRDND KS----RYLG KGVQKAI--K 
+ENO_MASBA         34   SAVPSG---- -----ASTGI YEACELRDGD KS----RYLG KGVLKAV--E 
+ENO1_ENTHI        33   SCVPSG---- -----ASTGV HEAVELRDGD KK----RYGG KGVLKAV--E 
+ENO_METJA         38   AIVPSG---- -----ASTGT HEALELRDKE K-----RFGG KGVLMAV--E 
+ENO_METAC         46   ASVPSG---- -----ASTGT NEALELRDAD PN----RYGG KGVLTAV--K 
+ENO_SULTO         38   GDAPAG---- -----ASKGS REAIELRDKD G--------- -GVTRAV--E 
+ENO_AERPE         39   GIAPSG---- -----ASRGE REAVELRDGG G-----KWRG KGVSRAV--S 
+ENO_PYRAB         37   AAVPSG---- -----ASTGT HEAVELRDGG K-----RYHG KGVRRAV--E 
+ENO_METKA         35   AMVPSG---- -----ASTGT YEALELRDGD D-----RYGG KGVRRAV--R 
+ENO_SYNY3         40   AQVPSG---- -----ASTGS FEAHELRDGD PK----RYDG KGVEKAV--R 
+ENO_THETN         35   AAVPSG---- -----ASTGA FEAIELRDGD KS----RYLG KGVLKAV--Q 
+ENO_CLOPE         38   AAVPSG---- -----ASTGI YEAVELRDGD KD----KYLG KGVEKAV--A 
+ENO_CLOAB         38   ASVPSG---- -----ASTGQ FEAVELRDND KA----QYLG KSVLNAV--D 
+ENO_BACHD         35   ALVPSG---- -----ASTGE YEAVELRDGG E-----RFLG KGVLKAV--E 
+ENO_LISMO         35   ALVPSG---- -----ASTGE YEAVELRDGD KA----RYLG KGVLKAV--E 
+ENO_ENTFA         35   GMVPSG---- -----ASTGE YEAVELRDGD KA----RYLG KGVTKAV--D 
+ENO_BACFR         34   ASVPSG---- -----ASTGE HEALELRDGD KH----RYGG KGVQKAV--E 
+ENO_STAAM         35   ALVPSG---- -----ASTGE HEAVELRDGD KS----RYLG KGVTKAV--E 
+ENOA_LACLA        35   GMVPSG---- -----ASTGE HEAVELRDGD KS----RYNG LGTQKAV--D 
+ENOA_LACPL        35   GIVPSG---- -----ASTGE HEAVELRDGD KS----RFMG KGVTKAV--D 
+ENO_LEPIN         38   AAVPSG---- -----ASTGE YEAVELRDGD KH----RYLG KGVLKAV--E 
+ENO_RALSO         35   AAVPSG---- -----ASTGS REAIELRDGD KG----RYLG KGVLKAV--E 
+ENO_NITEU         35   ASVPSG---- -----ASVGT REAVELRDGD AQ----RYYG KGVLKAV--E 
+ENO_NEIMA         35   AAVPSG---- -----ASTGQ KEALELRDGD KS----RYSG KGVLKAV--E 
+ENO_BORBU         36   AAVPSG---- -----ASTGI NEAVELRDGD KS----VYMG KGVLKAI--E 
+ENO_AGRT5         35   AAVPSG---- -----ASTGA HEAVELRDGG K-----RYLG KGVEKAV--E 
+ENO_BARHE         35   ALVPSG---- -----ASTGA HEAVELRDGG T-----RYQG KGVKKAI--A 
+ENO_CAUCR         35   AAVPSG---- -----ASTGA HEANEKRDGD KA----RYLG KGVQQAV--D 
+ENO_ZYMMO         35   AAVPSG---- -----ASTGV HEAVELRDGD KT----RWGG KGVTKAV--H 
+ENO2_CHLTE        34   AAVPSG---- -----ASTGV HEAVELRDKD KS----VFLG KGVLKAV--E 
+ENO_XANAC         35   AAVPSG---- -----ASTGT KEAVELRDGD KT----RYLG KGVRHAV--D 
+ENO_FUSNN         35   AAVPSG---- -----ASTGS HEAVELRDED KG----RYLG KGVLKAV--N 
+ENO_AQUAE         35   AIVPSG---- -----ASTGE REALELRDGD PK----RYLG KGVLKAV--D 
+ENO_THEMA         36   AIVPSG---- -----ASTGK FEALEIRDKD KK----RYLG KGVLKAV--E 
+ENO1_STRCO        35   AAVPSG---- -----ASTGA FEAIELRDGD PS----RYLG KGVEKAV--L 
+ENO_COREF         35   AGVPSG---- -----ASTGV HEAHELRDGG D-----RYLG KGVLKAV--E 
+ENO_MYCLE         35   AAVPSG---- -----ASTGE YEAVELRDGD G-----RYGG KGVKRAV--D 
+ENO_DESVM         35   AAVPSG---- -----ASTGS REALEMRDGD KG----RYKG KGVEKAV--D 
+ENO_DEIRA         34   AIVPSG---- -----ASTGS HEALELRDGG E-----RYMG KGVERAV--Q 
+ENO_SYNEL         37   AQVPSG---- -----ASTGS FEAHELRDGD PK----RYGG KGVLSAV--E 
+ENO_ANASP         40   AQVPSG---- -----ASTGT FEAHELRDKD KS----RYGG KGVLKAV--H 
+ENO2_STRCO        43   AAVPSG---- -----ASTGA REAVELRDED PT----RWHG KGVDRAV--A 
+ENO1_PSESM        35   ACAPSG---- -----ASTGS REALELRDGD KS----RYMG KGVLKAV--A 
+ENO_AERHY         35   AAAPSG---- -----ASTGS REALELRDGD KS----RFLG KGVLKAL--E 
+ENO_BUCAI         35   ASSPSG---- -----ASTGS LEALELRDEN KD----RFMG KGVEKAV--S 
+ENO_WIGBR         35   ASSPSG---- -----ISIGS REAHEVRDRD NS----RFLG EGVTKAV--K 
+ENO_BUCBP         35   ASIPSG---- -----ASTGS REALELRDND PL----RYFG KGVKTAV--S 
+ENO_BIFLO         35   GLVPSG---- -----ASTGE AEAWERRDGD KS----VYGG KGVLNAV--K 
+ENO_TREPA         35   ACVPSG---- -----ASTGE FEALEMRDGD KE----RYNG KGVLKAV--G 
+ENO_CAMJE         35   AIVPSG---- -----ASTGS KEALELRDND E-----RFGG KGVLKAV--A 
+ENO_HELPJ         35   AIVPSG---- -----ASTGK REALELRDND KT----RFLG KGVLRAC--E 
+ENO_CHLCV         37   ACVPSG---- -----ASTGI KEALELRDQD SS----RFQG KGVLQAV--K 
+ENO_CHLTR         37   ACVPSG---- -----ASTGI KEALELRDKD PK----RYQG KGVLQAI--S 
+ENO_CHLPN         37   ARVPSG---- -----ASTGK KEALEFRDTD SP----RYQG KGVLQAV--K 
+ENO1_CHLTE        34   AMVPSG---- -----ASTGE REATELRDGD KK----RYGG KGVLKAV--E 
+ENO2_PSESM        36   ASVPSG---- -----ASTGA HEAVELRDKD TQ----RYSG KGVLKAV--S 
+ENO_MYCPN         43   AMVPSG---- -----ASTGE KEAIELRDGD PK----AYFG KGVSQAV--Q 
+ENO_MYCGE         43   AMVPSG---- -----ASTGE KEAIELRDND PK----NYFG KGVNEAV--D 
+ENO_MYCPE         39   AMVPSG---- -----ASTGE REAVELRDGD KE----RFNG KGVLKAV--N 
+ENOB_LACPL        37   AEVPSG---- -----ASTGE KEAVELRDGG D-----RLAG KGVLKAV--N 
+ENO_MYCPU         35   ALVPSG---- -----ASTGS REALELRDES TKykdnWYAS KGVQKAV--D 
+ENO_UREPA         34   AMVPSG---- -----ASTGA KEALELRDGD VN----YFFN KSVKLAI--Q 
+                                                                 
+                       6677770000 0000077777 7777777765 5400005666 6666666006 
+ 
+1fhu_A            46   TWEEAQSVLL --A--W--VN --N------- ---------- ---------W 
+MENC_YERPE        55   TLDQAQVAAE --C--W--LQ --H------- ---------- ---------W 
+MENC_HAEIN        56   TLDQAQEQAI --E--W--LT --T------- ---------- ---------W 
+MENC_PASMU        58   TLEQAREQAL --A--W--LE --E------- ---------- ---------W 
+MENC_VIBCH        55   TLEDAGLQAQ --A--L--LE --Q------- ---------- ---------W 
+1bqg_             41   SSGHVGVGEV --P--G--GE --G------- ---------- ---------I 
+GUDH_STRCO        43   ADGVTGVGET --Y--G--DA --Kylelarp faaklvgrqv sdlnglftlA 
+GUDH_BACSU        56   SSGNQGVGEV --P--G--GE --H------- ---------- ---------I 
+GUDH_ECOLI        45   NSGHTGVGEI --P--G--GE --K------- ---------- ---------I 
+GUDX_ECOLI        45   NAGHTGIGEA --P--G--GD --V------- ---------- ---------I 
+4enl_             67   NVNDVIAPAF --VKAN--ID --V------- ---------- ---------S 
+ENO1_CANAL        69   NVNDIIAPAL --IKAK--ID --V------- ---------- ---------V 
+ENO_ALTAL         68   NVNDTIAPAL --IKEK--LD --V------- ---------- ---------K 
+ERR1_YEAST        68   NVNSIIGPAL --IKSD--LC --V------- ---------- ---------T 
+EN11_SCHPO        68   NVNNIIAPAV --VKAN--LD --V------- ---------- ---------T 
+EN12_SCHPO        69   NVNNIIGPAL --VKSD--IK --I------- ---------- ---------T 
+ENO_NEOFR         68   NVNKTIAPAL --VAAN--LD --V------- ---------- ---------K 
+ENO_CUNEL         68   NVNTIINEEL --VKAN--LS --V------- ---------- ---------V 
+ENO_CAEEL         67   NINEKIAPAL --IAKG--FD --V------- ---------- ---------T 
+ENOA_ALLMI        67   HVNKTIAPAL --I--S--KN isV------- ---------- ---------V 
+ENO_LOLPE         68   NVNKIIAPAL --VDKK--MD --E------- ---------- ---------K 
+ENO_FASHE         67   NVNSQIAPNL ikS--G--IN --V------- ---------- ---------T 
+ENO_SCHJA         68   NVNNIIAPAL --LKKQ--IP --V------- ---------- ---------T 
+ENO_DROME         68   HVNDTLGPEL --IKAN--LD --V------- ---------- ---------V 
+ENO_HOMGA         67   NVNDVIVPEI --IKSG--LK --V------- ---------- ---------T 
+ENO1_HEVBR        70   NVNIIIGPAL --V--G--KD --P------- ---------- ---------T 
+ENO_CHLRE          7   NINAIIAPAL --K--G--MD --P------- ---------- ---------V 
+ENO_PLAFA         70   NINEIIAPKL --I--G--MN --C------- ---------- ---------T 
+ENO_MASBA         69   NVNKILAPKL --I--G--LD --V------- ---------- ---------T 
+ENO1_ENTHI        68   NVNTIIGPAL --L--G--KN --V------- ---------- ---------L 
+ENO_METJA         72   NVNSIIRPEI --L--G--YD --A------- ---------- ---------R 
+ENO_METAC         81   NVNTIIQKEL --L--G--LD --V------- ---------- ---------R 
+ENO_SULTO         67   LVNTLINDSL --R--D--FD --V------- ---------- ---------R 
+ENO_AERPE         73   LLNTVVAPRL --E--G--VD --A------- ---------- ---------R 
+ENO_PYRAB         71   NVNKIIAPEL --V--G--MD --V------- ---------- ---------R 
+ENO_METKA         69   NVEEIIAPEI --E--G--LD --A------- ---------- ---------T 
+ENO_SYNY3         75   NVTEKIAPVV --E--G--LD --A------- ---------- ---------F 
+ENO_THETN         70   NVNDIIAPEL --I--G--ME --A------- ---------- ---------Q 
+ENO_CLOPE         73   NVNDTIAEEI --I--G--LN --V------- ---------- ---------L 
+ENO_CLOAB         73   NVNETIATEL --I--G--MN --V------- ---------- ---------F 
+ENO_BACHD         69   NVNEVIAPEL --I--G--FD --A------- ---------- ---------L 
+ENO_LISMO         70   NVNDIIADKI --I--G--FD --V------- ---------- ---------T 
+ENO_ENTFA         70   NVNNIIAEAI --I--G--YD --V------- ---------- ---------R 
+ENO_BACFR         69   NVNKVIAPHL --I--G--MS --A------- ---------- ---------L 
+ENO_STAAM         70   NVNEIIAPEI --I--EgeFS --V------- ---------- ---------L 
+ENOA_LACLA        70   NVNNIIAEAI --I--G--YE --V------- ---------- ---------T 
+ENOA_LACPL        70   NVNKLIAKEI --V--G--YD --V------- ---------- ---------T 
+ENO_LEPIN         73   HVNLKIQEVL --K--G--EN --A------- ---------- ---------I 
+ENO_RALSO         70   HINTEISEAI --M--G--LD --A------- ---------- ---------S 
+ENO_NITEU         70   SVNGEISETI --M--G--LD --A------- ---------- ---------M 
+ENO_NEIMA         70   HVNNQIAQAL --I--G--ID --A------- ---------- ---------N 
+ENO_BORBU         71   NIKNIIAPEL --E--G--MS --A------- ---------- ---------L 
+ENO_AGRT5         69   AVNTEIFDAI --G--G--FD --A------- ---------- ---------E 
+ENO_BARHE         69   AINGEILEEL --G--G--RD --A------- ---------- ---------R 
+ENO_CAUCR         70   AVNGEIFDAL --S--G--VD --A------- ---------- ---------E 
+ENO_ZYMMO         70   AVNNEIANAI --I--G--LE --A------- ---------- ---------E 
+ENO2_CHLTE        69   NVNTLINDAL --L--G--MD --V------- ---------- ---------T 
+ENO_XANAC         70   NVNGTIAETL --K--N--FD --A------- ---------- ---------A 
+ENO_FUSNN         70   NVNTEIREAL --L--G--MD --A------- ---------- ---------L 
+ENO_AQUAE         70   NVNGVIAKAL --V--G--LE --P------- ---------- ---------Y 
+ENO_THEMA         71   NVNETIAPAL --I--G--MN --A------- ---------- ---------F 
+ENO1_STRCO        70   AVIEQIGPEL --V--G--YD --A------- ---------- ---------T 
+ENO_COREF         69   NVNEEIGDEL --A--G--LE --A------- ---------- ---------D 
+ENO_MYCLE         69   AVLDEIGPVV --I--G--LN --A------- ---------- ---------N 
+ENO_DESVM         70   NVMGEIAEAI --V--G--LD --S------- ---------- ---------L 
+ENO_DEIRA         68   NVREALGPAL --I--G--MD --A------- ---------- ---------S 
+ENO_SYNEL         72   NIETRILSAL --V--D--LN --A------- ---------- ---------L 
+ENO_ANASP         75   NVNEILAPKL --I--D--LD --A------- ---------- ---------L 
+ENO2_STRCO        78   HVNGEIAASV --R--G--RD --A------- ---------- ---------A 
+ENO1_PSESM        70   NINGPIRDLL --L--G--KD --P------- ---------- ---------V 
+ENO_AERHY         70   AVNGPIAQAL --L--G--KD --A------- ---------- ---------K 
+ENO_BUCAI         70   LINEKISIAL --K--N--KN --A------- ---------- ---------R 
+ENO_WIGBR         70   SINNKISKSL --I--S--KN --A------- ---------- ---------Q 
+ENO_BUCBP         70   IVNTSISSAI --Y--N--QD --A------- ---------- ---------Y 
+ENO_BIFLO         70   AVNEVIAPKV --I--G--MD --A------- ---------- ---------A 
+ENO_TREPA         70   TVNTLIADTL --E--G--MD --A------- ---------- ---------L 
+ENO_CAMJE         69   NVNETIADEI --L--G--LD --A------- ---------- ---------F 
+ENO_HELPJ         70   NVNSVIKHHL --I--G--LE --A------- ---------- ---------T 
+ENO_CHLCV         72   NVKEVLLPVL --Q--G--IS --I------- ---------- ---------F 
+ENO_CHLTR         72   NVEKVLMPAL --Q--G--FS --V------- ---------- ---------F 
+ENO_CHLPN         72   NVKEILFPLV --K--G--CS --V------- ---------- ---------Y 
+ENO1_CHLTE        69   NVNSAIAKAI --E--N--KH --F------- ---------- ---------T 
+ENO2_PSESM        71   NVNTEILESV --R--G--MN --A------- ---------- ---------I 
+ENO_MYCPN         78   NVNQTIAPKL --I--G--LN --A------- ---------- ---------T 
+ENO_MYCGE         78   NVNKVIAPKL --I--G--LN --A------- ---------- ---------F 
+ENO_MYCPE         74   NVNTIIAPKV --V--G--MD --C------- ---------- ---------R 
+ENOB_LACPL        71   NVNTVINHAL --H--G--AD --P------- ---------- ---------F 
+ENO_MYCPU         74   NVNNKIADLL --I--G--QN --V------- ---------- ---------L 
+ENO_UREPA         69   NINNIIRPHL --I--N--KN --V------- ---------- ---------L 
+                                                                 
+                       6654444333 0030030033 0030000000 0000000000 0000000003 
+ 
+1fhu_A            62   LAGDCELP-- ---------- -Q-------- --------MP ---------- 
+MENC_YERPE        71   VSGve----- -------SDD SV-------- --------LP ---------- 
+MENC_HAEIN        72   CNASCDAPRV -------PLD GT-------- --------YP ---------- 
+MENC_PASMU        74   SASDGSAGKL -------PLE HL-------- --------FP ---------- 
+MENC_VIBCH        71   VKG----HAI -------EWD AQ-------- --------HP ---------- 
+1bqg_             57   RKTLEDARHL -------LIN QSIGNYQSLL NKVRN--AFA ---------- 
+GUDH_STRCO        85   DEVAVDSSRV fgqvdvgGLR GV-------- --------QT ---------- 
+GUDH_BACSU        72   RRTLELSEPL -------VVG KSIGAYQAIL QTVRK--QFG DQDRGGRGNQ 
+GUDH_ECOLI        61   RKTLEDAIPL -------VVG KTLGEYKNVL TLVRN--TFA DRDAGGRGLQ 
+GUDX_ECOLI        61   YQTLVDAIPM -------VLG QEVARLNKVV QQVHKgnQAA DFDTFGKGAW 
+4enl_             85   DQKAVDDFLI -------SLD GT-------- --------AN ---------- 
+ENO1_CANAL        87   DQAKIDEFLL -------SLD GT-------- --------PN ---------- 
+ENO_ALTAL         86   DQSAVDAFLN -------KLD GT-------- --------TN ---------- 
+ERR1_YEAST        86   NQKGIDELMI -------SLD GT-------- --------SN ---------- 
+EN11_SCHPO        86   DQKAADEFLL -------KLD GT-------- --------EN ---------- 
+EN12_SCHPO        87   DQRGIDEFMI -------KLD GT-------- --------ND ---------- 
+ENO_NEOFR         86   NQKAVDDFLL -------KLD GT-------- --------PN ---------- 
+ENO_CUNEL         86   DQKAVDDFLI -------QLD GT-------- --------EN ---------- 
+ENO_CAEEL         85   AQKDIDDFMM -------ALD GS-------- --------EN ---------- 
+ENOA_ALLMI        85   EQEKIDRLML -------EMD GS-------- --------EN ---------- 
+ENO_LOLPE         86   DQTAVDNFLL -------ALD GT-------- --------EN ---------- 
+ENO_FASHE         85   DQAAVDKFML -------DLD GT-------- --------PN ---------- 
+ENO_SCHJA         86   NQSEVDQFMI -------ELD GK-------- --------EN ---------- 
+ENO_DROME         86   DQASIDNFMI -------KLD GT-------- --------EN ---------- 
+ENO_HOMGA         85   QQKECDEFMC -------KLD GT-------- --------EN ---------- 
+ENO1_HEVBR        86   DQVGIDNFMV -------QQL DG-------- TVNEW--GWC ---------- 
+ENO_CHLRE         23   KQAEIDQKMK -------DLD GT-------- --------DN ---------- 
+ENO_PLAFA         86   EQKKIDNLMV -------EEL DG-------- SKNEW--GWS ---------- 
+ENO_MASBA         85   KQGEIDRLML -------QID GT-------- --------EN ---------- 
+ENO1_ENTHI        84   NQAELDEMMI -------KLD GT-------- --------NN ---------- 
+ENO_METJA         88   MQREIDTIMI -------ELD GT-------- --------PN ---------- 
+ENO_METAC         97   NQREIDELMI -------ELD ET-------- --------EN ---------- 
+ENO_SULTO         83   NQLGIDQTLI -------RMD GT-------- --------PN ---------- 
+ENO_AERPE         89   RQAQIDRLLI -------ELD GT-------- --------PN ---------- 
+ENO_PYRAB         87   WQREIDRLLI -------ELD GT-------- --------EN ---------- 
+ENO_METKA         85   AQPDIDRTMI -------ELD GT-------- --------EN ---------- 
+ENO_SYNY3         91   DQMAVDQAMI -------DRD GT-------- --------DN ---------- 
+ENO_THETN         86   DQVAIDKAMI -------ELD GT-------- --------PN ---------- 
+ENO_CLOPE         89   DQAYIDKTLI -------ELD GT-------- --------NN ---------- 
+ENO_CLOAB         89   DQTLIDQTML -------EID GT-------- --------EN ---------- 
+ENO_BACHD         85   DQIGIDQHMI -------ELD GT-------- --------EN ---------- 
+ENO_LISMO         86   DQIGIDKAMI -------ELD GT-------- --------PN ---------- 
+ENO_ENTFA         86   DQMAIDKAMI -------DLD GT-------- --------PN ---------- 
+ENO_BACFR         85   DQIGIDHAML -------ALD GT-------- --------KT ---------- 
+ENO_STAAM         88   DQVSIDKMMI -------ALD GT-------- --------PN ---------- 
+ENOA_LACLA        86   DQQAIDRAMI -------ALD GT-------- --------EN ---------- 
+ENOA_LACPL        86   DQRAIDQAMI -------KLD GT-------- --------PN ---------- 
+ENO_LEPIN         89   DQNRIDQLML -------DAD GT-------- --------KN ---------- 
+ENO_RALSO         86   EQAFLDRTLI -------DLD GT-------- --------EN ---------- 
+ENO_NITEU         86   EQCFIDKTLI -------ELD GS-------- --------EN ---------- 
+ENO_NEIMA         86   EQSYIDQIMI -------ELD GT-------- --------EN ---------- 
+ENO_BORBU         87   NQVAIDRKML -------ELD GT-------- --------PT ---------- 
+ENO_AGRT5         85   NQIQIDQMMI -------ALD GT-------- --------PN ---------- 
+ENO_BARHE         85   NQIGIDQAMI -------ALD GT-------- --------PN ---------- 
+ENO_CAUCR         86   DQRRVDNLMI -------ELD GT-------- --------PN ---------- 
+ENO_ZYMMO         86   DQELIDQTMI -------KLD GT-------- --------PN ---------- 
+ENO2_CHLTE        85   EQEAIDAKLI -------ELD GT-------- --------PN ---------- 
+ENO_XANAC         86   DQQGLDRRLI -------DLD GT-------- --------EN ---------- 
+ENO_FUSNN         86   NQVEIDKVML -------ELD RT-------- --------PN ---------- 
+ENO_AQUAE         86   NQREIDQILI -------ELD GT-------- --------EN ---------- 
+ENO_THEMA         87   DQPLVDKTLI -------ELD GT-------- --------EN ---------- 
+ENO1_STRCO        86   EQRLIDQAMF -------DLD AT-------- --------DN ---------- 
+ENO_COREF         85   DQRLIDAAMI -------KLD GT-------- --------EN ---------- 
+ENO_MYCLE         85   DQRLIDQELL -------DLD GT-------- --------PD ---------- 
+ENO_DESVM         86   RQVQVDNTLL -------DLD GT-------- --------DN ---------- 
+ENO_DEIRA         84   EQAAIDKALM -------DVD GT-------- --------SN ---------- 
+ENO_SYNEL         88   DQTVIDQCLL -------ELD GS-------- --------EN ---------- 
+ENO_ANASP         91   NQELIDRTMI -------ALD GS-------- --------GN ---------- 
+ENO2_STRCO        94   DQAGLDAALI -------ALD GT-------- --------AA ---------- 
+ENO1_PSESM        86   DQKALDHAMI -------ALD AT-------- --------EN ---------- 
+ENO_AERHY         86   DQATVDQIMI -------DLD GT-------- --------EN ---------- 
+ENO_BUCAI         86   NQSDIDHIMI -------DLD GT-------- --------IN ---------- 
+ENO_WIGBR         86   KQKDIDQIMI -------NLD GT-------- --------KN ---------- 
+ENO_BUCBP         86   DQENIDKIMI -------NLD GT-------- --------KN ---------- 
+ENO_BIFLO         86   DQRALDDLMI -------ELD GT-------- --------PN ---------- 
+ENO_TREPA         86   NQGEIDHAMR -------NLD GT-------- --------DN ---------- 
+ENO_CAMJE         85   NQTQLDDTLR -------ELD GT-------- --------NN ---------- 
+ENO_HELPJ         86   NQAFVDERLR -------ALD GT-------- --------PN ---------- 
+ENO_CHLCV         88   DQILIDSIMV -------EAD GT-------- --------PN ---------- 
+ENO_CHLTR         88   DQITADAIMI -------DAD GT-------- --------PN ---------- 
+ENO_CHLPN         88   EQSLIDSLMM -------DSD GS-------- --------PN ---------- 
+ENO1_CHLTE        85   NQRELDYFLI -------ELD ET-------- --------NN ---------- 
+ENO2_PSESM        87   DQEQIDHLMI -------KLD GT-------- --------SD ---------- 
+ENO_MYCPN         94   DQAAIDALMI -------QLD GT-------- --------PN ---------- 
+ENO_MYCGE         94   DQLTVDQAMI -------KLD NT-------- --------PN ---------- 
+ENO_MYCPE         90   QQTKIDELMI -------SLD GT-------- --------PN ---------- 
+ENOB_LACPL        87   NQAHIDQIMI -------DLD GT-------- --------PN ---------- 
+ENO_MYCPU         90   DQRNIDNIMI -------EAD GT-------- --------EN ---------- 
+ENO_UREPA         85   NFFELDNLLI -------NLD GT-------- --------EN ---------- 
+                                                                 
+                       4444444455 0000000577 7700000000 0000000078 0000000000 
+ 
+1fhu_A            73   --SVAFGVSC ALAELTDTLP QAANYRAAPL CN-------- ---------- 
+MENC_YERPE        83   --SVAFGLSC AQAELKQTLP LSADYRKAPL CT-------- ---------- 
+MENC_HAEIN        89   --SVAFGISC AMDEMKGYLQ AEGNYHTAPL CY-------- ---------- 
+MENC_PASMU        91   --SVAFGLSC ALAEMKGLLH EEGNYQVAPL CY-------- ---------- 
+MENC_VIBCH        84   --SVAFGLSM AHYELEQALP EQGNYYVAPL CT-------- ---------- 
+1bqg_             88   --DLRIAVHA VTAVESALLD LLGQHLQVPV AALL----GE G------Q-- 
+GUDH_STRCO       109   --ADKLRLSV VSGFEVACLD ALGKALGLPV HALL----G- G------K-- 
+GUDH_BACSU       113   TFDLRTTVHA VTALEAALLD FLGKFLQEPV AALL----GE G------K-- 
+GUDH_ECOLI       102   TFDLRTTIHV VTGIEAAMLD LLGQHLGVNV ASLL----GD G------Q-- 
+GUDX_ECOLI       104   TF--ELRVNA VAALEAALLD LLGKALNVPV CELL----GP G------K-- 
+4enl_            102   --KSKLGANA ILGVSLAASR AAAAEKNVPL YKHL----A- D------L-- 
+ENO1_CANAL       104   --KSKLGANA ILGVSLAAAN AAAAAQGIPL YKHI----A- N------I-- 
+ENO_ALTAL        103   --KTNLGANA ILGVSMAIAK AAAAEKGVPL YAHI----S- D------L-- 
+ERR1_YEAST       103   --KSRLGANA ILGVSLCVAR AAAAQKGITL YKYI----A- E------L-- 
+EN11_SCHPO       103   --KSKLGANA ILGVSMAICR AGAAQKKLPL WKYI----A- E------N-- 
+EN12_SCHPO       104   --KSKLGANS IVGVSMAVAR AAAAFLKIPL YEYI----G- K------L-- 
+ENO_NEOFR        103   --KSKLGANA ILGVSLAVAR AGAADKGVPL YQHL----G- E------L-- 
+ENO_CUNEL        103   --KEKLGANA ILGVSLAVAK AGAAEKGVPF YVHI----A- D------L-- 
+ENO_CAEEL        102   --KGNLGANA ILGVSLAVAK AGAVHKGLPL YKYI----A- E------L-- 
+ENOA_ALLMI       102   --KSKFGANA ILGVSLAVCK AGAAEKGVPL YRHI----A- D------L-- 
+ENO_LOLPE        103   --KNKLGANA ILGVSLAVCK AGAAAKGVPL YRHI----A- D------L-- 
+ENO_FASHE        102   --KEKLGANA ILGVSLAXCK AGAAEKGLPL YKYI----A- T------L-- 
+ENO_SCHJA        103   --KGNLGANA ILGVSLAVCK AGAAELNLPL YRYI----A- K------L-- 
+ENO_DROME        103   --KSKFGANA ILGVSLAVAK AGAAKKGVPL YKHI----A- D------L-- 
+ENO_HOMGA        102   --KSSLGANA ILGVSLAICK AGAAELGIPL YRHI----A- N------L-- 
+ENO1_HEVBR       109   --KQKLGANA ILAVSLAVCK AGAHVKGIPL YEHI----A- N------L-- 
+ENO_CHLRE         40   --KGKLGANA ILAVSMAVCK AGAAEKGVPL YKHI----A- D------L-- 
+ENO_PLAFA        109   --KSKLGANA ILAISMAVCR AGAAPNKVSL YKYL----A- Q------L-- 
+ENO_MASBA        102   --KTHLGANA ILGCSMSVCR AAAAFRGLPL YRYI----A- E------L-- 
+ENO1_ENTHI       101   --KGKLGANA ILGCSMSICR AAAAEKGLPL YKYL----A- E------L-- 
+ENO_METJA        105   --KSRLGANA ILAVSLAVAK AAAATAKIPL YKYL----G- G------F-- 
+ENO_METAC        114   --KSNLGANS ILGVSMAVAK AAADSLNMPL YRYF----G- G------S-- 
+ENO_SULTO        100   --KSRVGGNT TIATSIAVAK TAAKAMGLEI FQYI----G- G------P-- 
+ENO_AERPE        106   --KSRLGGNT TTALSIAVSR AAAAQARLEL FQYL----G- G------A-- 
+ENO_PYRAB        104   --KSNLGANA ILAVSLAVAK AAANALELPL YQYL----G- G------V-- 
+ENO_METKA        102   --KSHLGANA ILGVSLAVAR AAAKSLGIPL YRYL----G- G------P-- 
+ENO_SYNY3        108   --KKELGANA ILGVSLATAK AAAAELAIPL YRYL----G- G------P-- 
+ENO_THETN        103   --KSKLGANA ILGVSLAVAK AAAEELGLPL YQYL----G- G------V-- 
+ENO_CLOPE        106   --KGKLGANA ILGVSLAVAQ AAANYLGMPL YQYI----G- G------V-- 
+ENO_CLOAB        106   --KSKLGANA MLGVSLAVAR AAAEYLGISL YQYL----G- G------V-- 
+ENO_BACHD        102   --KGKLGANA ILGVSMAVAR AAANALDLPL YVYL----G- G------F-- 
+ENO_LISMO        103   --KGKLGANA ILGVSLAAAR AAADELGVHL YEYL----G- G------V-- 
+ENO_ENTFA        103   --KGKLGANA ILGVSIAVAR AAADYLEVPL YHYL----G- G------F-- 
+ENO_BACFR        102   --KAKLGANA ILGVSLAVAK AAANYLDIPL YRYI----G- G------T-- 
+ENO_STAAM        105   --KGKLGANA ILGVSIAVAR AAADLLGQPL YKYL----G- G------F-- 
+ENOA_LACLA       103   --KGKLGANA ILGVSIAAAR AAADELGVPL YNYL----G- G------F-- 
+ENOA_LACPL       103   --KAKLGANA ILGVSIAAAR AAADELEMPL YNYL----G- G------F-- 
+ENO_LEPIN        106   --KGKLGANA ILGTSLAVAK AAAAHSKLPL YRYI----G- G------N-- 
+ENO_RALSO        103   --KGRLGANA TLAVSMAVAK AAAEEAGLPL YRYF----G- G------S-- 
+ENO_NITEU        103   --KSRLGANA ILAVSLAVAK AAAEESGLPL YRYL----G- G------I-- 
+ENO_NEIMA        103   --KGNLGANA TLAVSMAVAR AAAEDSGLPL YRYL----G- G------A-- 
+ENO_BORBU        104   --KEKLGANA ILAVSMATAK AAAKYLGLRP YQYL----G- A------Y-- 
+ENO_AGRT5        102   --KSRLGANA ILGVSLAIAK AAAEASGLPL YRYV----G- G------P-- 
+ENO_BARHE        102   --KARLGANA LLGVSLAVAK AAAESLSLPL YRYI----G- G------T-- 
+ENO_CAUCR        103   --KARLGANA ILGVSLATAK AAAESAGLPL YKYV----G- G------V-- 
+ENO_ZYMMO        103   --KGKFGANA ILGVSLAVAK AAAEARGLPL YRYV----G- G------T-- 
+ENO2_CHLTE       102   --KSKLGANA ILGVSLACAK AGAEYSALPL YRYI----G- G------T-- 
+ENO_XANAC        103   --KGRLGANA LLGVSLAAAH AVAASRKQPL WQYL----S- T------Ite 
+ENO_FUSNN        103   --KGRLGANA ILGVSLAVAK AAAEALGQPL YKYL----G- G------V-- 
+ENO_AQUAE        103   --KSKLGANA ILGTSMAVAR AAANELGIPL YEYL----G- G------K-- 
+ENO_THEMA        104   --KSKLGANA ILAVSMAVAR AAANYLGLPL YKYL----G- G------V-- 
+ENO1_STRCO       103   --KGSLGANA ILGVSLAVAH AASEASDLPL FRYL----G- G------P-- 
+ENO_COREF        102   --KSRLGANA ILGVSMAVAK AAADSAGLPL FRYI----G- G------P-- 
+ENO_MYCLE        102   --KSRLGGNA ILGVSLAVAK AAADSAELPL FRYI----G- G------S-- 
+ENO_DESVM        103   --KSRLGANA MLGVSLATAR AASSFLGLPL YQYL----G- G------V-- 
+ENO_DEIRA        101   --KGNMGGNA ILAVSLATAR AAAAELDIPL YRYL----G- G------S-- 
+ENO_SYNEL        105   --KSNLGANA ILAVSLATAK AAAEYLGQPL YRYL----G- G------P-- 
+ENO_ANASP        108   --KSNLGANA ILAVSLAAAR AGAESLGIPL YRYL----G- G------P-- 
+ENO2_STRCO       111   --KSRLGANA LLGVSLAAAK AAAAARRQPL YRYL----G- G------A-- 
+ENO1_PSESM       103   --KASLGANA ILAVSLAAAK AAAQDQDLPL YAHIANLNG- T------P-- 
+ENO_AERHY        103   --KSKFGANA ILAVSLANAK AAAAAKGMPL YAHIAELNG- T------P-- 
+ENO_BUCAI        103   --KSKLGANA ILSVSLAVAK AAAASKRMPL YAHIAEINE- T------P-- 
+ENO_WIGBR        103   --KSNLGANA ILAVSLANAK AASKIKNIPL YKHISEINN- T------P-- 
+ENO_BUCBP        103   --KSKIGANS ILSVSIATAK AAAQSKKIPL YQYISELHGi -------K-- 
+ENO_BIFLO        103   --KGKLGANA ILGVSLAALY ASAESAGLPL YRYI----G- G------T-- 
+ENO_TREPA        103   --KSKLGANA MLGVSMACAR AAADFLGVPL YRYL----G- G------V-- 
+ENO_CAMJE        102   --YSNLGANA TLGVSMATAR AAAAALGMPL YRYL----G- G------A-- 
+ENO_HELPJ        103   --YANLGANA VLGVSMALAR ASAKALNLPL YRYL----G- G------A-- 
+ENO_CHLCV        105   --KEKLGANA ILGVSLASAK AAAATLGRSF YRYL----G- G------C-- 
+ENO_CHLTR        105   --KEKLGANA ILGVSLALAK AAANTLQRPL YRYL----G- G------S-- 
+ENO_CHLPN        105   --KETLGANA ILGVSLATAH AAAATLRRPL YRYL----G- G------C-- 
+ENO1_CHLTE       102   --KSKLGANA ILGVSMAFAR AKAQSSRTPL YQYL----G- G------S-- 
+ENO2_PSESM       104   --KSRLGGNA ILGVSLAVAR AAASALNLPL FQYL----G- G------E-- 
+ENO_MYCPN        111   --KAKLGANA ILAVSLAVAK AAASAQKTSL FKYL----A- NQVMGLNK-- 
+ENO_MYCGE        111   --KAKLGANA ILSVSLAVSK AAAKAQNSSL FQYI----S- NKLIGLNT-- 
+ENO_MYCPE        107   --KAKLGANA ILAVSLAVAK LAAMIEEKPL YKYI----R- QNIMGDSS-- 
+ENOB_LACPL       104   --KARLGANA ILGVSMATAR AAANALQQPL YRYL----G- G------T-- 
+ENO_MYCPU        107   --KSKFGANA ILGVSLAAAH AGANFLQIPL YRYI----G- G------I-- 
+ENO_UREPA        102   --KSKLGANA LLGVSIAIVK AGAIAASKPL YQYI----K- EDLMhnydv- 
+                                                                 
+                       0088888888 8888888788 8876666667 7776000040 4000000300 
+ 
+1fhu_A           103   ---------- -----GD--- ---------- ----E----- ---------- 
+MENC_YERPE       113   ---------- -----GDP-- D--ELFAVLQ ALPGE----- ---------- 
+MENC_HAEIN       119   ---------- -----GDP-- D--ELYAKLA SMEGE----- ---------- 
+MENC_PASMU       121   ---------- -----GDP-- D--ELYDPLN QMQGE----- ---------- 
+MENC_VIBCH       114   ---------- -----GDP-- D--ELLPVLN NLPGQ----- ---------- 
+1bqg_            124   -QRDAVEMLG YLFYVGDR-- N-KTDLGYRS EHEADNEWFR LRNKEALTPE 
+GUDH_STRCO       144   -VRDAVEYSA YLFYkwadhp egvasekd-- ------DWga -----AVDPA 
+GUDH_BACSU       151   -QRDEVKMLG YLFYIGDR-- N-RTTLPYQS DEQSDCAWFR LRHEEALTPE 
+GUDH_ECOLI       140   -QRSEVEMLG YLFFVGNR-- K-ATPLPYQS QpddsCDWYR LRHEEAMTPD 
+GUDX_ECOLI       140   -QREAITVLG YLFYIGDR-- T-KTDLPYVE NTPGnHEWYQ LRHQKAMNSE 
+4enl_            137   -S-------- -----KSK-- TSPYVLPV-- ---------- ---------- 
+ENO1_CANAL       139   -S-------- -----NAK-- KGKFVLPV-- ---------- ---------- 
+ENO_ALTAL        138   -A-------- -----GTK-- K-PYVLPV-- ---------- ---------- 
+ERR1_YEAST       138   -A-------- -----DAR-- QDPFVIPV-- ---------- ---------- 
+EN11_SCHPO       138   -F-------- -----GTK-- G-PYVLPV-- ---------- ---------- 
+EN12_SCHPO       139   -A-------- -----GSK-- T-TECIPV-- ---------- ---------- 
+ENO_NEOFR        138   -A-------- -----GNK-- G-PWILPV-- ---------- ---------- 
+ENO_CUNEL        138   -A-------- -----GSK-- K-PFVLPV-- ---------- ---------- 
+ENO_CAEEL        137   -A-------- -----GTG-- K--VVLPV-- ---------- ---------- 
+ENOA_ALLMI       137   -A-------- -----GNP-- E--VILPV-- ---------- ---------- 
+ENO_LOLPE        138   -A-------- -----GNK-- E--VILPV-- ---------- ---------- 
+ENO_FASHE        137   -A-------- -----GNK-- E--VIMPV-- ---------- ---------- 
+ENO_SCHJA        138   -A-------- -----GHK-- D--VIMPV-- ---------- ---------- 
+ENO_DROME        138   -A-------- -----GNK-- E--IILPV-- ---------- ---------- 
+ENO_HOMGA        137   -A-------- -----NY--D E--VILPV-- ---------- ---------- 
+ENO1_HEVBR       144   -A-------- -----GNK-- N--LVLPV-- ---------- ---------- 
+ENO_CHLRE         75   -A-------- -----GNS-- K--LILPV-- ---------- ---------- 
+ENO_PLAFA        144   -A-------- -----GKKsD Q--MVLPV-- ---------- ---------- 
+ENO_MASBA        137   -S-------- -----GNK-- S--PMLPL-- ---------- ---------- 
+ENO1_ENTHI       136   -T-------- -----GHK-- E--MTMPV-- ---------- ---------- 
+ENO_METJA        140   -N-------- -----S---- ---YVMPV-- ---------- ---------- 
+ENO_METAC        149   -N-------- -----A---- ---FTLPV-- ---------- ---------- 
+ENO_SULTO        135   -R-------- -----V---- ---RYLPI-- ---------- ---------- 
+ENO_AERPE        141   -G-------- -----A---- ---RRLPI-- ---------- ---------- 
+ENO_PYRAB        139   -N-------- -----A---- ---YVLPV-- ---------- ---------- 
+ENO_METKA        137   -T-------- -----A---- ---RRLPV-- ---------- ---------- 
+ENO_SYNY3        143   -L-------- -----A---- ---NVLPV-- ---------- ---------- 
+ENO_THETN        138   -N-------- -----A---- ---KTLPV-- ---------- ---------- 
+ENO_CLOPE        141   -N-------- -----A---- ---KVLPV-- ---------- ---------- 
+ENO_CLOAB        141   -N-------- -----A---- ---KVLPV-- ---------- ---------- 
+ENO_BACHD        137   -N-------- -----A---- ---KQLPV-- ---------- ---------- 
+ENO_LISMO        138   -N-------- -----G---- ---KVLPV-- ---------- ---------- 
+ENO_ENTFA        138   -N-------- -----T---- ---KVLPT-- ---------- ---------- 
+ENO_BACFR        137   -N-------- -----T---- ---YVLPV-- ---------- ---------- 
+ENO_STAAM        140   -N-------- -----G---- ---KQLPV-- ---------- ---------- 
+ENOA_LACLA       138   -N-------- -----A---- ---KVLPT-- ---------- ---------- 
+ENOA_LACPL       138   -N-------- -----A---- ---HVLPT-- ---------- ---------- 
+ENO_LEPIN        141   -F-------- -----A---- ---RELPV-- ---------- ---------- 
+ENO_RALSO        138   -G-------- -----A---- ---MQMPV-- ---------- ---------- 
+ENO_NITEU        138   -N-------- -----A---- ---KWLPV-- ---------- ---------- 
+ENO_NEIMA        138   -G-------- -----P---- ---MSLPV-- ---------- ---------- 
+ENO_BORBU        139   -K-------- -----A---- ---NILPT-- ---------- ---------- 
+ENO_AGRT5        137   -N-------- -----A---- ---HLLPV-- ---------- ---------- 
+ENO_BARHE        137   -Q-------- -----A---- ---HILPT-- ---------- ---------- 
+ENO_CAUCR        138   -N-------- -----A---- ---RVLPT-- ---------- ---------- 
+ENO_ZYMMO        138   -A-------- -----A---- ---HVLPV-- ---------- ---------- 
+ENO2_CHLTE       137   -T-------- -----A---- ---KTLPV-- ---------- ---------- 
+ENO_XANAC        140   aD-------- ---------- ---VALPV-- ---------- ---------- 
+ENO_FUSNN        138   -N-------- -----S---- ---KELPL-- ---------- ---------- 
+ENO_AQUAE        138   -F-------- -----G---- ---YRLPV-- ---------- ---------- 
+ENO_THEMA        139   -N-------- -----A---- ---KVLPV-- ---------- ---------- 
+ENO1_STRCO       138   -N-------- -----A---- ---HLLPV-- ---------- ---------- 
+ENO_COREF        137   -N-------- -----A---- ---HVLPV-- ---------- ---------- 
+ENO_MYCLE        137   -N-------- -----A---- ---HILPV-- ---------- ---------- 
+ENO_DESVM        138   -N-------- -----A---- ---KVLPV-- ---------- ---------- 
+ENO_DEIRA        136   -N-------- -----A---- ---KTLPV-- ---------- ---------- 
+ENO_SYNEL        140   -L-------- -----A---- ---NVLPV-- ---------- ---------- 
+ENO_ANASP        143   -L-------- -----A---- ---NLLPV-- ---------- ---------- 
+ENO2_STRCO       146   -D-------- -----A---- ---HLLPL-- ---------- ---------- 
+ENO1_PSESM       142   -G-------- -----V---- ---YSMPV-- ---------- ---------- 
+ENO_AERHY        142   -G-------- -----V---- ---YSMPL-- ---------- ---------- 
+ENO_BUCAI        142   -G-------- -----V---- ---FSMPL-- ---------- ---------- 
+ENO_WIGBR        142   -G-------- -----I---- ---FSMPL-- ---------- ---------- 
+ENO_BUCBP        142   -E-------- -----E---- ---LLMPL-- ---------- ---------- 
+ENO_BIFLO        138   -N-------- -----G---- ---HILPV-- ---------- ---------- 
+ENO_TREPA        138   -H-------- -----T---- ---FRMPV-- ---------- ---------- 
+ENO_CAMJE        137   -N-------- -----A---- ---SILPV-- ---------- ---------- 
+ENO_HELPJ        138   -N-------- -----A---- ---LTLPV-- ---------- ---------- 
+ENO_CHLCV        140   -F-------- -----A---- ---HVLPC-- ---------- ---------- 
+ENO_CHLTR        140   -F-------- -----S---- ---HVLPC-- ---------- ---------- 
+ENO_CHLPN        140   -F-------- -----A---- ---CSLPC-- ---------- ---------- 
+ENO1_CHLTE       137   -N-------- -----A---- ---HIMPV-- ---------- ---------- 
+ENO2_PSESM       139   -Q-------- -----A---- ---ARMPV-- ---------- ---------- 
+ENO_MYCPN        152   -T-------- -----E---- ---FILTV-- ---------- ---------- 
+ENO_MYCGE        152   -T-------- -----N---- ---FVLPV-- ---------- ---------- 
+ENO_MYCPE        148   -D-------- -----S---- ---WTMPV-- ---------- ---------- 
+ENOB_LACPL       139   -D-------- ---------- ---LELPQ-- ---------- ---------- 
+ENO_MYCPU        142   -N-------- -----A---- ---NMLPL-- ---------- ---------- 
+ENO_UREPA        144   ---------- -----N---- ---YYAPI-- ---------- ---------- 
+                                                                 
+                       0300000000 0000030000 0003578800 0000000000 0000000000 
+ 
+1fhu_A           106   ---------- -----KVAKV KVGLYEAVRD GMVVNLLLE- AIPDLHLRLD 
+MENC_YERPE       129   ---------- -----KVAKV KVGLYEAVRD GMIVNVLLE- ALPDLTLRLD 
+MENC_HAEIN       135   ---------- -----KVAKM KVGIYEANRD GLIADMFLE- AIPDLQLRLD 
+MENC_PASMU       137   ---------- -----KVAKI KVGMYEANRD GLIADMLLE- AIPDLHLRLD 
+MENC_VIBCH       130   ---------- -----KVAKV KVGLYEPIRD GMLVNLFLE- SMPDLTLRLD 
+1bqg_            170   SVVALAEAAY DRYGFKDFKL KGGVLRGEDE IAAVTALSE- RFPDARITLD 
+GUDH_STRCO       180   GVVAQARAFT ERYGFTSFKL KGGVFPPEEE IAAVKALAE- AFPGHPLRLD 
+GUDH_BACSU       197   AIVRLAESAQ ERYGFQDFKL KGGVLRGEEE IEAVTALSK- RFPEARITLD 
+GUDH_ECOLI       186   AVVRLAEAAY EKYGFNDFKL KGGVLAGEEE AESIVALAQ- RFPQARITLD 
+GUDX_ECOLI       186   AVVRLAEASQ DRYGFKDFKL KGGVLPGEQE IDTVRALKK- RFPDARITVD 
+4enl_            149   ---------- ---------- -----PFLNV LNGGSHAGG- ALALQEFMIA 
+ENO1_CANAL       151   ---------- ---------- -----PFQNV LNGGSHAGG- ALAFQEFMIA 
+ENO_ALTAL        149   ---------- ---------- -----PFQNV LNGGSHAGG- RLAFQEFMIV 
+ERR1_YEAST       150   ---------- ---------- -----PFFNV LNGGAHAGG- SLAMQEFKIA 
+EN11_SCHPO       149   ---------- ---------- -----PSFNV LNGGSHAGG- DLAFQEFMIL 
+EN12_SCHPO       150   ---------- ---------- -----PSFNV LNGGRHAGG- DLAFQEFMIM 
+ENO_NEOFR        149   ---------- ---------- -----PSMNV LNGGSHAGN- KLAMQEFMIL 
+ENO_CUNEL        149   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIM 
+ENO_CAEEL        147   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIL 
+ENOA_ALLMI       147   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIL 
+ENO_LOLPE        148   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIL 
+ENO_FASHE        147   ---------- ---------- -----PSFNV INGGSHAGN- KLAMQEFMIM 
+ENO_SCHJA        148   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIL 
+ENO_DROME        148   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIL 
+ENO_HOMGA        147   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIL 
+ENO1_HEVBR       154   ---------- ---------- -----PAFNV INGGSHAGN- KLAMQEFMIL 
+ENO_CHLRE         85   ---------- ---------- -----PSFNI INGGSHAGN- ALAMQEFMIL 
+ENO_PLAFA        156   ---------- ---------- -----PCLNV INGGSHAGN- KLSFQEFMIV 
+ENO_MASBA        147   ---------- ---------- -----PCFNV INGGEHAGN- KLAMQEFMIC 
+ENO1_ENTHI       146   ---------- ---------- -----PCFNV INGGAHAGN- ALAMQEFMIC 
+ENO_METJA        147   ---------- ---------- -----PMMNV INGGKHAGN- DLDLQEFMIM 
+ENO_METAC        156   ---------- ---------- -----PTMNV LNGGKHAGN- ELAIQEFMIQ 
+ENO_SULTO        142   ---------- ---------- -----PLLNI LNGGLHAGN- ELKIQEFIII 
+ENO_AERPE        148   ---------- ---------- -----PLLNV INGGVHAGN- ELDFQEFMII 
+ENO_PYRAB        146   ---------- ---------- -----PLSNV INGGVHAGN- DLDFQEFMIM 
+ENO_METKA        144   ---------- ---------- -----PFMNV INGGEHAGN- ELDFQEHMIV 
+ENO_SYNY3        150   ---------- ---------- -----PMMNV INGGAHADN- NVDFQEFMIM 
+ENO_THETN        145   ---------- ---------- -----PMMNI LNGGKHADN- NVDIQEFMIM 
+ENO_CLOPE        148   ---------- ---------- -----PMMNI INGGSHADN- SVDIQEFMIM 
+ENO_CLOAB        148   ---------- ---------- -----PMMNI VNGGKHADN- NVDFQEFMIM 
+ENO_BACHD        144   ---------- ---------- -----PMMNI INGGEHADN- NVDIQEFMIM 
+ENO_LISMO        145   ---------- ---------- -----PMMNI LNGGEHADN- NVDVQEFMVM 
+ENO_ENTFA        145   ---------- ---------- -----PMMNI INGGSHADN- SIDFQEFMIM 
+ENO_BACFR        144   ---------- ---------- -----PMMNI INGGSHSDA- PIAFQEFMIR 
+ENO_STAAM        147   ---------- ---------- -----PMMNI VNGGSHSDA- PIAFQEFMIL 
+ENOA_LACLA       145   ---------- ---------- -----PMMNI INGGSHSDA- PIAFQEFMIV 
+ENOA_LACPL       145   ---------- ---------- -----PMMNV INGGAHANN- DVDFQEFMIM 
+ENO_LEPIN        148   ---------- ---------- -----PMMNI INGGAHADN- NVDFQEFMIL 
+ENO_RALSO        145   ---------- ---------- -----PMMNI VNGGAHANN- SLDIQEFMVM 
+ENO_NITEU        145   ---------- ---------- -----PMMNL VNGGVHANN- RLDMQEFMII 
+ENO_NEIMA        145   ---------- ---------- -----PMMNV INGGEHANN- SLNIQEFMIM 
+ENO_BORBU        146   ---------- ---------- -----PMCNI INGGAHSDN- SVDFQEFMIM 
+ENO_AGRT5        144   ---------- ---------- -----PMMNI INGGAHADN- PIDFQEFMIL 
+ENO_BARHE        144   ---------- ---------- -----PMMNI INGGVHADN- PIDFQEFMII 
+ENO_CAUCR        145   ---------- ---------- -----PMMNI INGGAHADN- PIDIQEFMIL 
+ENO_ZYMMO        145   ---------- ---------- -----PMMNI VNGGMHADN- PIDFQEFMIA 
+ENO2_CHLTE       144   ---------- ---------- -----PMMNV LNGGAHADN- TVDFQEFMIM 
+ENO_XANAC        147   ---------- ---------- -----PMMNI INGGAHADN- NVDFQEFMVL 
+ENO_FUSNN        145   ---------- ---------- -----PMMNI LNGGAHADS- AVDLQEFMIQ 
+ENO_AQUAE        145   ---------- ---------- -----PLMNV INGGAHADN- NLDIQEFMIV 
+ENO_THEMA        146   ---------- ---------- -----PLMNV INGGQHADN- NLDLQEFMIV 
+ENO1_STRCO       145   ---------- ---------- -----PMMNI LNGGSHADS- NVDIQEFMIA 
+ENO_COREF        144   ---------- ---------- -----PMMNI INGGAHADS- GVDVQEFMIA 
+ENO_MYCLE        144   ---------- ---------- -----PMMNI LNGGAHADT- AVDVQEFMVA 
+ENO_DESVM        145   ---------- ---------- -----PLMNI INGGAHAPN- NLDIQEFMIM 
+ENO_DEIRA        143   ---------- ---------- -----PMMNV INGGAHADN- SVDFQEFMVM 
+ENO_SYNEL        147   ---------- ---------- -----PMMNV INGGAHAAN- NIDFQEFMIM 
+ENO_ANASP        150   ---------- ---------- -----PLMNV INGGAHASN- NVDFQEFMIV 
+ENO2_STRCO       153   ---------- ---------- -----PMMNI VNGGAHADN- PLDFQEFMIV 
+ENO1_PSESM       149   ---------- ---------- -----PMMNI INGGEHADN- NIDIQEFMIQ 
+ENO_AERHY        149   ---------- ---------- -----PMMNI INGGEHADN- NVDIQEFMIQ 
+ENO_BUCAI        149   ---------- ---------- -----PMINI INGGKHANN- NIDIQEFMIQ 
+ENO_WIGBR        149   ---------- ---------- -----PMINI INGGKHTNN- NIDIQEFMIQ 
+ENO_BUCBP        149   ---------- ---------- -----PMMNI INGGKHADN- NIDIQEFMIQ 
+ENO_BIFLO        145   ---------- ---------- -----PNMNI MNGGAHADF- ATDIQEYMIS 
+ENO_TREPA        145   ---------- ---------- -----PMANI INGGKHSDN- KIDFQEFMVM 
+ENO_CAMJE        144   ---------- ---------- -----PMCNI INGGAHANN- NVDFQEFMIM 
+ENO_HELPJ        145   ---------- ---------- -----PMLNI INGGTHANN- SIDFQEYMIM 
+ENO_CHLCV        147   ---------- ---------- -----PMMNL INGGMHANN- GLQFQEFMIR 
+ENO_CHLTR        147   ---------- ---------- -----PMMNL INGGMHATN- GLQFQEFMIR 
+ENO_CHLPN        147   ---------- ---------- -----PMMNL INGGMHADN- GLGFQEFMIR 
+ENO1_CHLTE       144   ---------- ---------- -----PCMNV INGGKHADN- TIDFQEFMIA 
+ENO2_PSESM       146   ---------- ---------- -----PMFNI LNGGVHANWq GPDFQEFMIA 
+ENO_MYCPN        159   ---------- ---------- -----PMLNV INGGAHADN- NIDFQEFMIM 
+ENO_MYCGE        159   ---------- ---------- -----PMLNV INGGAHADN- YIDFQEFMIM 
+ENO_MYCPE        155   ---------- ---------- -----PMLNV INGGAHADN- TIDFQEFMFM 
+ENOB_LACPL       145   ---------- ---------- -----TFHNV INGGEHADN- GIDIQEFMIT 
+ENO_MYCPU        149   ---------- ---------- -----PMLNV INGGEHASN- TIDFQEFMIM 
+ENO_UREPA        150   ---------- ---------- -----PLMNF INGGAHADN- DLDIQEFMIV 
+                                                                 
+                       0000000000 0000000000 0000088888 8888888770 7778898888 
+ 
+1fhu_A           140   ANRAWTPLKG QQFAKYVNPD Y--------- ---------- ---------- 
+MENC_YERPE       163   ANRSWSRAKA DGFAKYVNPA L--------- ---------- ---------- 
+MENC_HAEIN       169   ANRHWSLEKA LQFAAKVKLQ H--------- ---------- ---------- 
+MENC_PASMU       171   ANRSWTPSKA QMFAKYVKPE H--------- ---------- ---------- 
+MENC_VIBCH       164   ANRAWTPAKA LKFAQYVAPS L--------- ---------- ---------- 
+1bqg_            219   PNGAWSLKEA VALCRDQHHV LAYAEDPC-- G-AENGYS-- ---------- 
+GUDH_STRCO       229   PNGAWSVETS LKVAAELGDV LEYLEDPALG Tp-------- ---------- 
+GUDH_BACSU       246   PNGAWSLEEA IALCKGKQDV LAYAEDPC-- G-DENGYS-- ---------- 
+GUDH_ECOLI       235   PNGAWSLNEA IKIGKYLKGS LAYAEDPC-- G-AEQGFS-- ---------- 
+GUDX_ECOLI       235   PNGAWLLDEA ISLCKGLNDV LTYAEDPC-- G-AEQGFS-- ---------- 
+4enl_            173   PTGAKTFAEA LRIGSEVYHN LKSLTKKRYG A-SAGNVGDE GGVAPN-IQT 
+ENO1_CANAL       175   PTGVSTFSEA LRIGSEVYHN LKSLTKKKYG Q-SAGNVGDE GGVAPD-IKT 
+ENO_ALTAL        173   PCEAPTFSEA MRQGAEVYQK LKALAKKTYG Q-SAGNVGDE GGVAPD-IQT 
+ERR1_YEAST       174   PVGAQSFAEA MRMGSEVYHH LKILAKEQYG P-SAGNVGDE GGVAPD-IDT 
+EN11_SCHPO       173   PTGAPSFSEA MRWGAETYHT LKSIAKKRYG S-SAGNVGDE GGIAPD-LQT 
+EN12_SCHPO       174   PIKAPTFSEG LRWGSEVYHT LKALAKKKYG A-SAGNVGDE GGIAPD-LTT 
+ENO_NEOFR        173   PTGAKSFTEA LKMGSEVYHA LKSVIKAKYG Q-DACNVGDE GGFAPN-IQD 
+ENO_CUNEL        173   PTGAKSFSEA MKLGSEVYHT LKKVINEKYG Q-DATNVGDE GGFAPN-IQD 
+ENO_CAEEL        171   PVGASSFAEA MRMGSEVYHH LKAEIKKRYG L-DATAVGDE GGFAPN-IQD 
+ENOA_ALLMI       171   PVGAESFKEA MRIGAEVYHN LKNVIKEKYG K-DATNVGDE GGFAPN-ILE 
+ENO_LOLPE        172   PTGAKNFTEA MKMGTEVYHH LKSVIKKKYG Q-DACNVGDE GGFAPN-ILD 
+ENO_FASHE        171   PTGASSFTEA MKIGSEVYHN LRAVIKSKYG L-DACNVGDE GGFAPS-IQD 
+ENO_SCHJA        172   PTGASSFTEA MQMGSEVYHN LKAVIKREFG L-DACNVGDE GGFAPN-IQD 
+ENO_DROME        172   PTGATSFTEA MKMGSEVYHH LKNVIKAKFG L-DATAVGDE GGFAPN-IQS 
+ENO_HOMGA        171   PTGATSFTEA MRMGTEVYHH LKAVIKARFG L-DATAVGDE GGFAPN-ILN 
+ENO1_HEVBR       178   PVGASSFKEA MKMGAEVYHH LKSVIKKKYG Q-DATNVGDE GGFAPN-IQE 
+ENO_CHLRE        109   PVGASSFSEA MRMGCEVYHA LKGLIKAKYG Q-DACNVGDE GGFAPN-IGS 
+ENO_PLAFA        180   PVGAPSFKEA LRYGAEVYHT LKSEIKKKYG I-DATNVGDE GGFAPN-ILN 
+ENO_MASBA        171   PTGATSFHEA LRMAAETYHN LKLVIKKRYG M-DATNVGDE GGFAPN-IQA 
+ENO1_ENTHI       170   PTGATNFHEA LRMAAETYQC LKVVIKAKYG Q-DATNVGDE GGFAPN-VSG 
+ENO_METJA        171   PVGATSISEA VRMGSEVYHV LKNVILEKYG K-NAVNVGDE GGFAPP-LKT 
+ENO_METAC        180   PKGAETFYEA LQIGAEIYHV LGKYLEKKYG R-SSTNVGYE GGYAPK-MSE 
+ENO_SULTO        166   PLSFDSFHEA LYAADEVYKQ LKGIITEKYG K-LYTMLGDE GGVAPP-LSK 
+ENO_AERPE        172   PYGFESFTEA MRAAVETYGE LKSLLKDRYG A-SAVNVGDE GGFAPP-MRS 
+ENO_PYRAB        170   PIGANSFREA IRWVSETYHV LKKVIAEKYG K-NAVNVGDE GGFAPP-MKE 
+ENO_METKA        168   PHGFESFSEA LRAGVETYHV LGELLEEEYG P-IATNVGDE GGYAPP-MKD 
+ENO_SYNY3        174   PVGAETFKEA LRWGAEVFAV LGKVLKER-- KlLSGGVGDE GGYAPN-LTS 
+ENO_THETN        169   PVGAPNFKEA LRMCSEVYHS LKNVLHSK-- G-LSTTVGDE GGFAPN-LTS 
+ENO_CLOPE        172   PVGFDCFERA VRACAEVYHA LKKTLNSK-- G-YSTGVGDE GGFAPN-LKS 
+ENO_CLOAB        172   PAGAPSFSEA LRSCAEVYHT LKSLLQSK-- G-LETAVGDE GGFAPN-LNS 
+ENO_BACHD        168   PVGAESFKEA LRTGTEIFHS LKKVLKSK-- G-YNTAVGDE GGFAPN-LSS 
+ENO_LISMO        169   PVGAPNFKEA LRMGAEILHA LKAVLKGK-- G-LNTGVGDE GGFAPN-LKS 
+ENO_ENTFA        169   PVGAPTFKEA LRMGAEVFHA LASILKGR-- G-LATSVGDE GGFAPN-LGS 
+ENO_BACFR        168   PVGASSFKEG LRMGAEVFHA LKKVLKDR-- G-LSTAVGDE GGFAPN-LEG 
+ENO_STAAM        171   PVGATTFKES LRWGTEIFHN LKSILSKR-- G-LETAVGDE GGFAPK-FEG 
+ENOA_LACLA       169   PVGAPTFKEA LRWGAEIFHA LKKILKAR-- G-LETAVGDE GGFAPK-FDG 
+ENOA_LACPL       169   PVGASSVKEA IRMGSETFHN LKAILNER-- G-YSTAVGDE GGFAPD-LKN 
+ENO_LEPIN        172   PVGAKSFREA LRMGAEIFHS LKSVLKGK-- K-LNTAVGDE GGFAPD-LTS 
+ENO_RALSO        169   PVGQQSFREA LRCGAEIFHA LKKIIADK-- G-MSTAVGDE GGFAPN-FAS 
+ENO_NITEU        169   PLGLPNLREA VRCGAEVFST LRTLLNKR-- N-LPTTVGDE GGFAPS-FAR 
+ENO_NEIMA        169   PVGAKSFREA LRCGAEIFHA LKKLCDSK-- G-FPTTVGDE GGFAPN-LNS 
+ENO_BORBU        170   PIGAKTFSEA IRMAAEVFHT LKGILSGK-- G-YATSVGDE GGFAPN-LKS 
+ENO_AGRT5        168   PVGAENIREA VRMGSEVFHT LKKELSAQ-- G-HNTNVGDE GGFAPG-LES 
+ENO_BARHE        168   PVGASTLKEA IRYGAEIFHT LKKRLKDA-- G-YNTNVGDE GGFAPQ-FKS 
+ENO_CAUCR        169   PTGAKDFREG LRMGAEIFHA LKKALKDA-- G-HNTNVGDE GGFAPN-LAS 
+ENO_ZYMMO        169   PVGASSINEA VRIGTEVFHT LKKELSAK-- G-MNTNVGDE GGFAPS-LDS 
+ENO2_CHLTE       168   PIGFERYSDA LRCGAEVFHS LKSLLHDR-- G-LSTAVGDE GGFAPN-VES 
+ENO_XANAC        171   PVGCSSFSEA LRAGTEIFHS LKSVLKGH-- G-LSTAVGDE GGFAPD-FRS 
+ENO_FUSNN        169   PVGAKSFREA MQMGAEVFHH LGKILKAN-- G-DSTNVGNE GGYAPSkIQG 
+ENO_AQUAE        169   PVCGGAFREA LRAGVETFHH LKKILKEK-- G-YSTNVGDE GGFAPN-LNS 
+ENO_THEMA        170   PAGFDSFREA LRAGAEIFHT LKKILHEA-- G-HVTAVGDE GGFAPN-LSS 
+ENO1_STRCO       169   PIGAESFSEA LRWGAEVYHT LKKVLKNK-- G-LATGLGDE GGFAPN-LGS 
+ENO_COREF        168   PIGFDSFSEA LRAGAEVYHA LKKVINEK-- G-LSTGLGDE GGFAPS-VES 
+ENO_MYCLE        168   PIGAPSFVEA LRWGAEVYHA LKSVLKKK-- G-LSTGLGDE GGFAPE-VAG 
+ENO_DESVM        169   PIGAATFRDA LRMGAETFHT LKALLAAD-- G-HVTSVGDE GGFAPN-LKN 
+ENO_DEIRA        167   PVGAPSFREA LRYGAETFHH LKKVLSGR-- G-YNTNVGDE GGFAPD-LKS 
+ENO_SYNEL        171   PIGAPSFREG LRWGAEVFAA LSKVLADK-- G-LLTGVGDE GGFAPN-LDS 
+ENO_ANASP        174   PVGATSFREA LRWGAEVFAT LSEVLHDK-- G-LLTGVGDE GGFAPN-LES 
+ENO2_STRCO       177   PVGADTFAEA VRMGSEVFHT LRRDLLAA-- G-HSTGVGDE GGFAPA-LRT 
+ENO1_PSESM       173   PVGAKSFAEA LRWGTEIFHH LKAVLKAR-- G-LNTAVGDE GGFAPN-LAS 
+ENO_AERHY        173   PVGAKTLKEA VRMGAEVFHN LAKVLKSK-- G-YNTAVGDE GGFAPN-LKS 
+ENO_BUCAI        173   PISAKTVKES IRIGCEIFHA LGELLKEK-- G-MSTTVGDE GGYAPN-LKS 
+ENO_WIGBR        173   PIGAKSIKQA IQMGSEIFHN LGKILNEK-- G-MSTSIGDE GGYSPN-LKS 
+ENO_BUCBP        173   PIKANTIKEA IQIGAEVFYT LGLILKRR-- G-FNTTVGDE GGYAPN-LKS 
+ENO_BIFLO        169   PYGFDTYSEA LRAGVEVYHT LKNVLKKE-- G-LNTGLGDE GGFAPK-MKS 
+ENO_TREPA        169   PIGAASMREA VRMTAEVFHA LKGLLAAD-- G-KATSVGDE GGFAPD-LDN 
+ENO_CAMJE        168   PFGFTSFKEA LRSVCEIYAI LKKELANS-- G-HSTALGDE GGFAPN-LAN 
+ENO_HELPJ        169   PLGFESFKEA LRASAEVYHT LKKLLDEK-- N-QLTSVGDE GGFAPN-FNN 
+ENO_CHLCV        171   PIGATSLKEA VRMGADVFHS LKNILNEK-- N-LATGVGDE GGFAPQ-LKS 
+ENO_CHLTR        171   PISAPSLTEA VRMGAEVFNA LKKILQNR-- Q-LATGVGDE GGFAPN-LAS 
+ENO_CHLPN        171   PIGASSIKEA VNMGADVFHT LKKLLHER-- G-LSTGVGDE GGFAPN-LAS 
+ENO1_CHLTE       168   PHNAPSFRES IRMGEEVFHA LKAVLKLK-- G-LSTGVGDE GGFAPD-LKS 
+ENO2_PSESM       171   PTGAGSFKEA LRWGSEVYHE LKAVLKDA-- G-YSTAVGDE GGFAPA-LKK 
+ENO_MYCPN        183   PLGANSMHQA LKMASETFHA LQKLLKQR-- G-LNTNKGDE GGFAPN-LKL 
+ENO_MYCGE        183   PLGAKKMHEA LKMASETFHA LQNLLKKR-- G-LNTNKGDE GGFAPN-LKL 
+ENO_MYCPE        179   PVGAKSLKEA VRMASECFHS LQSILKSK-- K-LDTNKGDE GGFAPN-LKN 
+ENOB_LACPL       169   PVERTSFRDG FEKIVNTYHT LKKVIEDA-- G-YTSGLGDE GGFAPD-LKN 
+ENO_MYCPU        173   PMGAKTFKES LQMANKVFHN LAKLLKKA-- G-HGTQVGDE GGFAPN-LKN 
+ENO_UREPA        174   PLNAISFSQA IQIGSEIFHQ LDKLLKSN-- H-LSTTKGDE GGFAPM-LKN 
+                                                                 
+                       8777677777 7756666665 5555555500 4044556666 6666660655 
+ 
+1fhu_A           161   -----RDRIA FLEEPCKTRD D--------- -S-RAFAR-- ETGIAIAWDE 
+MENC_YERPE       184   -----RSRIA FLEEPCKTRA E--------- -S-REFAQ-- DTGIAIAWDE 
+MENC_HAEIN       190   -----RKRIQ FLEEPCKTQA L--------- -S-REFAV-- QTDIAIAWDE 
+MENC_PASMU       192   -----RARIQ FLEEPCKTPA E--------- -S-LQFAE-- ETGIAIAWDE 
+MENC_VIBCH       185   -----RSRIA FLEEPCQSPS E--------- -S-IAFSI-- DTGIAIAWDE 
+1bqg_            254   ---GREVMAE FRRSTGLRTA T--------- -N-MIATD-- WRQMGHAI-Q 
+GUDH_STRCO       261   ------AMAE VAAKTGVPLA T--------- -N-MCVTT-- FAEIQEAF-T 
+GUDH_BACSU       281   ---AREVMAE FRRATGLPTA T--------- -N-MIATD-- WREMGHAI-Q 
+GUDH_ECOLI       270   ---GREVMAE FRRATGLPTA T--------- -N-MIATD-- WRQMGHTL-S 
+GUDX_ECOLI       270   ---GREVMAE FRRATGLPVA T--------- -N-MIATN-- WREMGHAV-M 
+4enl_            221   AEEALDLIVD AIKAAGHD-- G--------- -K-VKIGL-- DCASSEFF-K 
+ENO1_CANAL       223   PKEALDLIMD AIDKAGYK-- G--------- -K-VGIAM-- DVASSEFY-K 
+ENO_ALTAL        221   AEEALDLITK AIEEAGYT-- G--------- -K-IKIAM-- DVASSEFY-K 
+ERR1_YEAST       222   AEDALDMIVK AINICGYE-- G--------- -R-VKVGI-- DSAPSVFY-K 
+EN11_SCHPO       221   PQEALDLIVE AINKAGYE-- G--------- -K-IKIGL-- DVASSEFY-V 
+EN12_SCHPO       222   AEEALDLVNE AIKEAGYD-- G--------- -K-VKIGF-- DVAASELY-N 
+ENO_NEOFR        221   NKEGLELLNE AIAKAGYT-- G--------- -K-VKIGM-- DVASSEFY-K 
+ENO_CUNEL        221   NQEGLELLVT AIEKAGYT-- G--------- -K-IKVAM-- DCAASDFY-K 
+ENO_CAEEL        219   NKEGLDLLNT AIDKAGYT-- G--------- -K-ISIGM-- DVAASEFF-K 
+ENOA_ALLMI       219   NKEALELLKN AINKAGYS-- D--------- -K-IVIGM-- DVAASEFY-R 
+ENO_LOLPE        220   NKEGLELLKT AIANAGYT-- A--------- -E-IEIGM-- DVAASEFC-K 
+ENO_FASHE        219   NLEGLELLRT AIDKAGYT-- G--------- -K-VXIAM-- DCAASEFY-K 
+ENO_SCHJA        220   NMKGLQLLEE AIKIAGYT-- G--------- -K-VEIGM-- DCAASEYY-K 
+ENO_DROME        220   NKEALNLISD AIAKAGYT-- G--------- -K-IEIGM-- DVAASEFY-K 
+ENO_HOMGA        219   NKDALDLIQE AIKKAGYT-- G--------- -K-IEIGM-- DVAASEFY-K 
+ENO1_HEVBR       226   NKEGLELLKT AIAKAGYT-- G--------- -K-VVIGM-- DVAASEFY-G 
+ENO_CHLRE        157   NDEGLNLVNE AIEKAGYT-- G--------- -K-VKIGM-- DVASSEFY-T 
+ENO_PLAFA        228   ANEALDLLVT AIKSAGYE-- G--------- -K-VKIAM-- DVAASEFY-N 
+ENO_MASBA        219   NHEGLELIVE AIKQAGYT-- G--------- -K-IEIGM-- DVAASSFW-D 
+ENO1_ENTHI       218   AREALDLLVE AIAKAGYT-- G--------- -K-IEIAM-- DCAASEFY-N 
+ENO_METJA        219   SREALDLLTE SVKKAGYE-- D--------- -E-VVFAL-- DAAASEFY-K 
+ENO_METAC        228   STEALDALVQ AIEEAGYT-- Es-------- -E-VTIGL-- DAAATEFY-E 
+ENO_SULTO        214   TEDALDLVYT AIKNSGYE-- D--------- -K-IVMGI-- DAASSDFF-N 
+ENO_AERPE        220   AEEALKTLVD AVEKAGYQPG S--------- -E-IALGI-- DAAASQLY-S 
+ENO_PYRAB        218   VTEPLDVLIK AIEEAGYKPG E--------- -E-IALAL-- DAASSEFY-K 
+ENO_METKA        216   TVEPLDVLVE AIEEAGYAPG K--------- -E-IALAL-- DAAASEFYDE 
+ENO_SYNY3        221   NQQALDILIE AIEQAGYKPG S--------- -Q-IALAM-- DIAASEFF-K 
+ENO_THETN        215   NEEAIKVILE AIEKAGYVPG E--------- -D-IVLAL-- DPAATEMY-K 
+ENO_CLOPE        218   NAEAIEVILE AIEKAGYEPG K--------- -E-FFIAI-- DAASSEYY-K 
+ENO_CLOAB        218   NEEAIQIILE AVTKAGYEPG K--------- -D-MFIAM-- DPASTEFYEN 
+ENO_BACHD        214   NEEALQTIIE AIEQAGYTPG E--------- -Q-VKLAM-- DVASSELYNK 
+ENO_LISMO        215   NEEALETIMQ AIKDAGYKPG E--------- -E-VKLAM-- DAASSEFYNR 
+ENO_ENTFA        215   NEEGFEVIIE AIEKAGYVPG K--------- -D-VVLAM-- DAASSEFYDK 
+ENO_BACFR        214   TEDALNSILA AIKAAGYEPG K--------- -D-VMIGM-- DCASSEFY-H 
+ENO_STAAM        217   TEDAVETIIQ AIEAAGYKPG E--------- -E-VFLGF-- DCASSEFY-E 
+ENOA_LACLA       215   TEDGVETILK AIEAAGYKAG E--------- -DGVMIGF-- DCASSEFY-E 
+ENOA_LACPL       215   NEEPFEILVE AIERAGYKPG K--------- -D-IAIAF-- DCAASEFYNE 
+ENO_LEPIN        218   NVEAIEVILQ AIEKAGYKPE K--------- -D-VLLGL-- DAASSEFYDK 
+ENO_RALSO        215   NEECLNTILS AIEKAGYRPG E--------- -D-VLLAL-- DCAASEFY-R 
+ENO_NITEU        215   NEEALALIVQ AIDEAGYQPG S--------- -E-VAIGV-- DCASSEFF-R 
+ENO_NEIMA        215   HKEALQLMVE ATEAAGYKAG E--------- -D-VLFAL-- DCASSEFY-K 
+ENO_BORBU        216   NEEACEVIIE AIKKAGYEPG K--------- -D-IAIAL-- DPATSELYDP 
+ENO_AGRT5        214   APAALDFIMK SIEKAGYRPG E--------- -D-MYVGL-- DCASTEFF-K 
+ENO_BARHE        214   AEQAIDFIME SIIACGYKPG E--------- -Q-IALGL-- DCAATEFY-K 
+ENO_CAUCR        215   AEAALDFIVK AGEKAGYKAG D--------- -D-FVLGL-- DVASTEFF-K 
+ENO_ZYMMO        215   ASSALDFIVD SISKAGYKPG E--------- -D-VFIAL-- DAASSEFYNK 
+ENO2_CHLTE       214   NEQAIELVIE AIGMAGYKAG APTDRGglgd gH-VMIAL-- DPASSEFYDA 
+ENO_XANAC        217   NVEALDTILE AIGKAGYTAG E--------- -D-ILLGL-- DVASSEFY-D 
+ENO_FUSNN        216   TEGALALISE AVKAAGYELG K--------- -D-ITFAL-- DAASSEFC-K 
+ENO_AQUAE        215   SEEALDILMQ AIEKAGYKPG E--------- -D-ILLAL-- DVASSEFY-E 
+ENO_THEMA        216   NEEAIKVLIE AIEKAGYKPG E--------- -E-VFIAL-- DCAASSFYDE 
+ENO1_STRCO       215   NREALDLILE AIKEAGYTPG E--------- -Q-IALAL-- DVAASEFY-K 
+ENO_COREF        214   TRAALDLIVE AIKKAGFEPG K--------- -D-IALAL-- DVASSEFF-K 
+ENO_MYCLE        214   TTAALDLVTL AIEAAGFKPG A--------- -D-VALAL-- DAAATEFY-T 
+ENO_DESVM        215   HDEAFRYIMK AIEEAGYIPG A--------- -E-IALAI-- DAAASEFH-K 
+ENO_DEIRA        213   NEEALEVLLE AIQQAGYEPG K--------- -D-ICIAL-- DPAVTELY-K 
+ENO_SYNEL        217   NQAALDILLQ AIETAGYRPG T--------- -D-VALAL-- DVAANEFY-E 
+ENO_ANASP        220   NQVALELLVA AIEKAGYKPG E--------- -Q-VALAL-- DVAASEFY-K 
+ENO2_STRCO       223   AEEALDFVVA AIERTGYRAG P--------- -D-IGLVM-- DPASSEFF-R 
+ENO1_PSESM       219   NKEALEAIAE AVANAGYTLG T--------- -D-VTLAL-- DCAASEFY-K 
+ENO_AERHY        219   NAEALEVIAE AVAAAGYKLG T--------- -D-VTLAM-- DCAASEFYDA 
+ENO_BUCAI        219   NEEALNIIQD AIQKTKYKLG Q--------- -D-IRLAI-- DCAASELYNK 
+ENO_WIGBR        219   NSNAFVLIKE AVKRSKYHIG R--------- -D-ITFAI-- DCAASEFFEE 
+ENO_BUCBP        219   NESAFLILSE AVSQSGYMLG K--------- -D-ITFCI-- DCAASELYNS 
+ENO_BIFLO        215   NEDSLKYIMD AISAAGYEPG K--------- -Q-IGICL-- DVASSEFYNK 
+ENO_TREPA        215   -EQALEYIMK AIAKAGLAPR K--------- -D-VCIAL-- DCASSELF-D 
+ENO_CAMJE        214   NTEPIDLLMT CIKKAGYE-- N--------- -R-VKIAL-- DVASTEFF-K 
+ENO_HELPJ        215   NVEPLEIISQ AIEKAGYKLG E--------- -E-IALAL-- DVASSELVDE 
+ENO_CHLCV        217   NSEALDLLVL AIEKAGFQPG E--------- -D-ISLAL-- DCAASSFYDT 
+ENO_CHLTR        217   NAEALDLLLT AIETAGFTPR E--------- -D-ISLAL-- DCAASSFYNT 
+ENO_CHLPN        217   NEEALELLLL AIEKAGFTPG K--------- -D-ISLAL-- DCAASSFYNV 
+ENO1_CHLTE       214   NEQAVEMILE GITKAGYKPS V--------- -D-VSICL-- DPASSEMWEN 
+ENO2_PSESM       217   NSDAIELIIK AIERAGYTPG S--------- -Q-IEIAI-- DPASSGFY-E 
+ENO_MYCPN        229   AEEALDLMVE AIKAAGYQPG S--------- -D-IAIAL-- DVAASEFYDD 
+ENO_MYCGE        229   AEDALDIMVE AIKLAGYKPW D--------- -D-IAIAI-- DVAASEFYDE 
+ENO_MYCPE        225   ADEALKLMVE AVEKAGYKPG V--------- -D-ADVAFal DPATSELFDA 
+ENOB_LACPL       215   SEEALQMLHD AIIKAGYTPG K--------- -E-IAIAF-- DAAASYFYNR 
+ENO_MYCPU        219   HEEVLDFLMQ AIEVAGFVAS TSKEKG---- ---IAIAI-- DAASSELYDQ 
+ENO_UREPA        220   NYVTLELLVH AIKKAHYLPS Ktq------- --GVCLAL-- DVAASELY-E 
+                                                                 
+                       5555555555 6555566422 3000000000 0303333300 3333333302 
+ 
+1fhu_A           193   SLR--E-P-D F--------- -A-------- ---------- ---------- 
+MENC_YERPE       216   SVR--E-A-D F--------- -Q-------- ---------- ---------- 
+MENC_HAEIN       222   SVR--E-P-N F--------- -C-------- ---------- ---------- 
+MENC_PASMU       224   TVR--D-A-E F--------- -QQNpPHFFT ---------- ---------- 
+MENC_VIBCH       217   TLQ--E-A-V R--------- -DADfal--- ---------- ---------- 
+1bqg_            287   L-Q--S-V-D I--------- -PLADPHFWT -MQGSVRVAQ MCNE---WGL 
+GUDH_STRCO       291   K-G--A-V-Q V--------- -VLSDHHYWg gLRNTQQLAA VCRT---FGV 
+GUDH_BACSU       314   L-H--A-V-D I--------- -PLADPHFWT -MQGSVRVAQ MCHD---WGL 
+GUDH_ECOLI       303   L-Q--S-V-D I--------- -PLADPHFWT -MQGSVRVAQ MCHE---FGL 
+GUDX_ECOLI       303   L-N--A-V-D I--------- -PLADPHFWT -LSGAVRVAQ LCDD---WGL 
+4enl_            255   D-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO1_CANAL       257   D-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_ALTAL        255   A-DEKK-Y-D L--------- ---------- --D------- ---F---K-- 
+ERR1_YEAST       256   D-G--K-Y-D L--------- ---------- --N------- ---F---K-- 
+EN11_SCHPO       255   D-G--K-Y-D L--------- ---------- --D------- ---I---K-- 
+EN12_SCHPO       256   G-K--L-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_NEOFR        255   D-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_CUNEL        255   D-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_CAEEL        253   D-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENOA_ALLMI       253   D-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_LOLPE        254   E-K--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_FASHE        253   E-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_SCHJA        254   K-G--K-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_DROME        254   D-G--Q-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_HOMGA        253   Q-NN-I-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO1_HEVBR       260   S-DQ-T-Y-D L--------- ---------- --N------- ---F---K-- 
+ENO_CHLRE        191   E-DG-M-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_PLAFA        262   S-ENKT-Y-D L--------- ---------- --D------- ---F---K-- 
+ENO_MASBA        253   A-KESK-Y-D L--------- ---------- --G------- ---F---K-- 
+ENO1_ENTHI       252   E-ETKK-Y-D L--------- ---------- --G------- ---K---K-- 
+ENO_METJA        253   D-G--Y-Y-Y V--------- ---------- --E------- ---G---K-- 
+ENO_METAC        263   E-E--F-Y-N I--------- ---------- --D------- ---G---K-- 
+ENO_SULTO        248   G-S--Q-Y-E I--------- ---------- --D------- ---G---K-- 
+ENO_AERPE        256   N-G--R-Y-S V--------- ---------- --E------- ---G---K-- 
+ENO_PYRAB        254   D-G--K-Y-I V--------- ---------- --S------- ---G---K-- 
+ENO_METKA        253   DSG--T-Y-R A--------- ---------- --Y------- ---G---Q-- 
+ENO_SYNY3        257   N-G--Q-Y-E Y--------- ---------- --D------- ---G---G-- 
+ENO_THETN        251   EDG--K-Y-H F--------- -E-G------ --E------- ---G---I-- 
+ENO_CLOPE        254   D-G--K-Y-V L--------- -E-H------ --E------- ---G---K-- 
+ENO_CLOAB        255   GK-----Y-N L--------- -K-G------ --E------- ---G---K-- 
+ENO_BACHD        251   EDG--K-Y-H L--------- -S-G------ --E------- ---G---K-- 
+ENO_LISMO        252   ETG--K-Y-E L--------- -K-G------ --E------- ---G---V-- 
+ENO_ENTFA        252   EKG--V-Y-V L--------- -ADS------ --G------- ---E---G-- 
+ENO_BACFR        250   D-G--I-Y-D YTKFEG---- ---E------ --K------- ---G---K-- 
+ENO_STAAM        253   N-G--V-Y-D YSKFEG---- ---E------ --H------- ---G---A-- 
+ENOA_LACLA       252   N-G--V-Y-D YTKFEG---- ---E------ --G------- ---G---K-- 
+ENOA_LACPL       252   ETG--K-Y-D L--------- -K-G------ --E------- ---GengQ-- 
+ENO_LEPIN        255   SKK--K-Y-V L--------- -GAE------ --N------- ---N---K-- 
+ENO_RALSO        251   D-G--K-Y-H L--------- -D-G------ --E------- ---G---L-- 
+ENO_NITEU        251   E-G--K-Y-H L--------- -D-V------ --D------- ---G---L-- 
+ENO_NEIMA        251   D-G--K-Y-H L--------- -E-A------ --E------- ---G---R-- 
+ENO_BORBU        253   KTK--K-Y-V L--------- -KWS------ --T------- ---K---E-- 
+ENO_AGRT5        250   D-G--K-Y-V L--------- -E-G------ --E------- ---G---R-- 
+ENO_BARHE        250   N-G--S-Y-F Y--------- -E-G------ --E------- ---G---K-- 
+ENO_CAUCR        251   N-G--K-Y-E L--------- -E-G------ --E------- ---G---K-- 
+ENO_ZYMMO        252   DQN--I-Y-D L--------- -K-G------ --E------- ---G---R-- 
+ENO2_CHLTE       261   EKK--K-Y-V F--------- -KKS------ --S------- ---G---R-- 
+ENO_XANAC        253   N-G--K-Y-N L--------- -V-G------ --E------- ---N---K-- 
+ENO_FUSNN        252   E-VNGK-Y-E Yh-FKR---- ---E------ --G------- ---G---V-- 
+ENO_AQUAE        251   N-G--V-Y-K F--------- ---------- --E------- ---G---K-- 
+ENO_THEMA        253   EKG--V-Y-Y V--------- ---------- --D------- ---G---E-- 
+ENO1_STRCO       251   D-G--S-Y-A F--------- ---------- --E------- ---G---K-- 
+ENO_COREF        250   D-G--K-Y-H F--------- ---------- --E------- ---G---G-- 
+ENO_MYCLE        250   D-G--IgY-H F--------- ---------- --E------- ---G---M-- 
+ENO_DESVM        251   D-G--K-Y-V L--------- ---------- --A------- ---Geg-K-- 
+ENO_DEIRA        249   D-G--Q-Y-H L--------- -E-S------ --E------- ---G---R-- 
+ENO_SYNEL        253   D-G--K-Y-V F--------- -D-N------ --T------- ---------- 
+ENO_ANASP        256   E-G--Q-Y-V Y--------- ---------- --D------- ---G---R-- 
+ENO2_STRCO       259   D-G--G-Y-D Y--------- -A-G------ --E------- ---G---V-- 
+ENO1_PSESM       255   N-G--K-Y-T L--------- ---S------ --E------- ---E---G-- 
+ENO_AERHY        256   EKK--E-Y-N L--------- -K-G------ --E------- ---G---R-- 
+ENO_BUCAI        256   NEK--K-Y-N L--------- -K-G------ --E------- ---N---I-- 
+ENO_WIGBR        256   STQ--S-Y-Y L--------- -K-S------ --E------- ---N---N-- 
+ENO_BUCBP        256   KTK--T-Y-K L--------- -T-S------ --E------- ---Q---K-- 
+ENO_BIFLO        252   ETG--K-Y-R F--------- -D-G------ --E------- ---------- 
+ENO_TREPA        250   E-GDRRgykf w--------- ---------- ---------- ---------- 
+ENO_CAMJE        248   D-G--K-Y-H M--------- ---------- --E------- ---G---K-- 
+ENO_HELPJ        252   H-F--N-Y-H L--------- -K-G------ --E------- ---N---K-- 
+ENO_CHLCV        254   KAE--T-Y-D G--------- -K-------- ---------- ---------- 
+ENO_CHLTR        254   QDK--T-Y-D G--------- -K-------- ---------- ---------- 
+ENO_CHLPN        254   KTG--T-Y-D G--------- -R-------- ---------- ---------- 
+ENO1_CHLTE       251   GK-----YkF F--------- -K-S------ --T------- ---Q---K-- 
+ENO2_PSESM       253   N-G--L-Y-H L--------- -R-S------ --E------- ---G---R-- 
+ENO_MYCPN        266   TTK--R-Y-V F--------- -KKGIKAKIL DEK------- ---E---W-- 
+ENO_MYCGE        266   DKK--L-Y-V F--------- -KKGIKANIL NAK------- ---D---W-- 
+ENO_MYCPE        264   DKK--T-Y-T F--------- -EKALKAKIL TAK------- ---D---A-- 
+ENOB_LACPL       252   TTH--N-Y-D F--------- -E-G------ --Ktytpaal gd-------- 
+ENO_MYCPU        260   STG--K-Y-T F--------- -KKLKQAikt kqpgfenvek tk-----L-- 
+ENO_UREPA        258   N-G--K-Y-F FKKssshnit lE-Q------ --T------- ---------- 
+                                                                 
+                       1010010101 1000000000 0000000000 0010000000 0001000100 
+ 
+1fhu_A           201   ---------- ---------- ---------- ---------- ---------- 
+MENC_YERPE       224   ---------- ---------- ---------- ---------- ---------- 
+MENC_HAEIN       230   ---------- ---------- ---------- ---------- ---------- 
+MENC_PASMU       240   ---------- ---------- ---------- ---------- ---------- 
+MENC_VIBCH       230   ---------- ---------- ---------- ---------- ---------- 
+1bqg_            318   TWGSHSNNHF DISLAMFTHV AAAAPGN-IT A--IDTHWI- ---------- 
+GUDH_STRCO       323   gvsmHSNTHL GISLAAMTHV AATVPDL-HH A--CDSHYP- ---------- 
+GUDH_BACSU       345   TWGSHSNNHF DISLAMFTHV AAAAPGR-IT A--IDTHWI- ---------- 
+GUDH_ECOLI       334   TWGSHSNNHF DISLAMFTHV AAAAPGK-IT A--IDTHWI- ---------- 
+GUDX_ECOLI       334   TWGCHSNNHF DISLAMFTHV GAAAPGN-PT A--IDTHWI- ---------- 
+4enl_            264   ---------- ---------- ------N-PN S--DKSKWLT GPQLADLYHS 
+ENO1_CANAL       266   ---------- ---------- ------N-PE S--DPSKWLS GPQLADLYEQ 
+ENO_ALTAL        266   ---------- ---------- ------N-PD S--DKSKWLT YEQLAEMYKS 
+ERR1_YEAST       265   ---------- ---------- ------E-PN S--DPSHWLS PAQLAEYYHS 
+EN11_SCHPO       264   ---------- ---------- ------A-AK P--KPENKLT YQQLTDLYVE 
+EN12_SCHPO       265   ---------- ---------- ------S-EH P--KPENKLD YKKLYEKYSA 
+ENO_NEOFR        264   ---------- ---------- ------N-PN S--DPSKWIS GEELGQFYKE 
+ENO_CUNEL        264   ---------- ---------- ------N-PN S--DPSTYLT GQDLTDLYNS 
+ENO_CAEEL        262   ---------- ---------- ------N-PA S--DSSKWLS GEQLTELYQS 
+ENOA_ALLMI       262   ---------- ---------- ------S-PD ---DPSRYIT PDQLADLYKS 
+ENO_LOLPE        263   ---------- ---------- ------N-PD S--NPNDWLT SDQLADVYKD 
+ENO_FASHE        262   ---------- ---------- ------N-PK S--QASSWIT SDAMADVYKK 
+ENO_SCHJA        263   ---------- ---------- ------N-PQ S--AESHWLS PDEMANVYKE 
+ENO_DROME        263   ---------- ---------- ------N-EK S--DKSQWLP ADKLANLYKE 
+ENO_HOMGA        263   ---------- ---------- ------TaNN ---DGSQKIS GDQLRDMYME 
+ENO1_HEVBR       270   ---------- ---------- ------EENN ---NGSQKIS GEALKDLYKS 
+ENO_CHLRE        201   ---------- ---------- ------NQPN ---DGSQKKT KEQMLELYNE 
+ENO_PLAFA        273   ---------- ---------- ------T-PN N--DKSLVKT GAQLVDLYID 
+ENO_MASBA        264   ---------- ---------- ------V-PA DKKTPDMLVS GEGLIKLYEE 
+ENO1_ENTHI       263   ---------- ---------- ------I-PA DKKDPSLVKD VDGLIAEYVD 
+ENO_METJA        262   ---------- ---------- ------K--- --------LT REELLDYYKA 
+ENO_METAC        272   ---------- ---------- ------K--- --------LA APELLDYYVE 
+ENO_SULTO        257   ---------- ---------- ------K--- --------LS PDEMIDYYIQ 
+ENO_AERPE        265   ---------- ---------- ------S--- --------LS REELLSLYQR 
+ENO_PYRAB        263   ---------- ---------- ------E--- --------YT REELLELYKE 
+ENO_METKA        263   ---------- ---------- ------K--- --------YT RDELIDVYKD 
+ENO_SYNY3        266   ---------- ---------- ------S--- --------HS PQEFIDYQAK 
+ENO_THETN        263   ---------- ---------- ------V--- --------RT SEEMIEFWEQ 
+ENO_CLOPE        265   ---------- ---------- ------T--- --------LT AAEMVDFFED 
+ENO_CLOAB        265   ---------- ---------- ------V--- --------YT SEEMVEVYAN 
+ENO_BACHD        263   ---------- ---------- ------V--- --------LS SEEMVAFYEE 
+ENO_LISMO        264   ---------- ---------- ------T--- --------RT SEEMVTWYEE 
+ENO_ENTFA        265   ---------- ---------- ------E--- --------KT TEEMIAFYEE 
+ENO_BACFR        265   ---------- ---------- ------K--- --------RT ADEQIDYLEK 
+ENO_STAAM        268   ---------- ---------- ------K--- --------RT AAEQVDYLEQ 
+ENOA_LACLA       267   ---------- ---------- ------K--- --------LS ASEQVDYLEE 
+ENOA_LACPL       267   ---------- ---------- ------S--- --------FT AEEFVDLLDS 
+ENO_LEPIN        268   ---------- ---------- ------E--- --------FS SAELVDYYAN 
+ENO_RALSO        262   ---------- ---------- ------Q--- --------LS SVDFANYLAN 
+ENO_NITEU        262   ---------- ---------- ------G--- --------LT SAQFVDYLAT 
+ENO_NEIMA        262   ---------- ---------- ------S--- --------YT NAEFAEYLEG 
+ENO_BORBU        266   ---------- ---------- ------K--- --------LT SEQMVEYWAK 
+ENO_AGRT5        261   ---------- ---------- ------T--- --------LE PGAMAEYLAE 
+ENO_BARHE        261   ---------- ---------- ------Y--- --------RD VGEQVDYLAQ 
+ENO_CAUCR        262   ---------- ---------- ------S--- --------LD PAAMVDYLAG 
+ENO_ZYMMO        264   ---------- ---------- ------K--- --------LT SAQLVDYYVE 
+ENO2_CHLTE       274   ---------- ---------- ------E--- --------LS SEEMASYWAD 
+ENO_XANAC        264   ---------- ---------- ------R--- --------LT SEQFVDFLAD 
+ENO_FUSNN        268   ---------- ---------- ------V--- --------RT TDEMIKWYEE 
+ENO_AQUAE        260   ---------- ---------- ------E--- --------RS AEEMIEFYEK 
+ENO_THEMA        263   ---------- ---------- ------E--- --------KS SEVLMGYYEE 
+ENO1_STRCO       260   ---------- ---------- ------N--- --------RS AAEMTEYYAE 
+ENO_COREF        259   ---------- ---------- ------E--- --------HT AEEMANVYAE 
+ENO_MYCLE        260   ---------- ---------- ------T--- --------HT ADQMTEFYAD 
+ENO_DESVM        262   ---------- ---------- ------N--- --------LS NSEMVEWLGE 
+ENO_DEIRA        260   ---------- ---------- ------V--- --------LS SDEMIDFWAD 
+ENO_SYNEL        262   ---------- ---------- ------S--- --------RT ASELIRYYDQ 
+ENO_ANASP        265   ---------- ---------- ------P--- --------HA PTEFIDYLGQ 
+ENO2_STRCO       270   ---------- ---------- ------R--- --------RS PAEHADHLAG 
+ENO1_PSESM       265   ---------- ---------- ------E--- --------YS SAEFAEYLAE 
+ENO_AERHY        268   ---------- ---------- ------V--- --------FT SNGFSDFLEE 
+ENO_BUCAI        268   ---------- ---------- ------S--- --------FS SKEFTHYLEK 
+ENO_WIGBR        268   ---------- ---------- ------F--- --------FS SYEFVLFLKK 
+ENO_BUCBP        268   ---------- ---------- ------K--- --------FT SYEFTNYLSA 
+ENO_BIFLO        262   ---------- ---------- ------E--- --------RD SAYMLDYYEN 
+ENO_TREPA        260   ---------- ---------- ---------K S--NPGKLFT AQEMIDLYKK 
+ENO_CAMJE        257   ---------- ---------- ------A--- --------FS SEALIERYVE 
+ENO_HELPJ        263   ---------- ---------- ------I--- --------LD SHELVAYYKE 
+ENO_CHLCV        262   ---------- ---------- ---------- ---------S YEEQVNILAD 
+ENO_CHLTR        262   ---------- ---------- ---------- ---------S YADQVGILAE 
+ENO_CHLPN        262   ---------- ---------- ---------- ---------H YEEQIAILSN 
+ENO1_CHLTE       262   ---------- ---------- ------L--- --------VS SDEMVKLWES 
+ENO2_PSESM       264   ---------- ---------- ------K--- --------VD AQELINLYSS 
+ENO_MYCPN        287   ---------- ---------- ------S--- --------LT TAQMIAYLKK 
+ENO_MYCGE        287   ---------- ---------- ------S--- --------LT SKEMIAYLEK 
+ENO_MYCPE        285   ---------- ---------- ------V--- --------KK SEDMVKYWDG 
+ENOB_LACPL       271   ---------- ---------- ---------- ---------- -----YYLQL 
+ENO_MYCPU        289   ---------- ---------- ------D--- --------FT SDELIAYYGE 
+ENO_UREPA        277   ---------- ---------- ------S--- --------FS SDEWIKYWSK 
+                                                                 
+                       0000000000 0000000000 0000001000 0000000022 2333444444 
+ 
+1fhu_A           201   ---------- ---------- ---------- ---------- ---------- 
+MENC_YERPE       224   ---------- ---------- ---------- ---------- ---------- 
+MENC_HAEIN       230   ---------- ---------- ---------- ---------- ---------- 
+MENC_PASMU       240   ---------- ---------- ---------- ---------- ---------- 
+MENC_VIBCH       230   ---------- ---------- ---------- ---------- ---------- 
+1bqg_            354   ---------- --------WQ DG-Q-RLTKE --PLQ----- ---------I 
+GUDH_STRCO       359   ---------- --------WQ SE-D-VLT-E --RLA----- ---------F 
+GUDH_BACSU       381   ---------- --------WQ DG-Q-RLTKQ --PFE----- ---------I 
+GUDH_ECOLI       370   ---------- --------WQ EGnQ-RLTKE --PFE----- ---------I 
+GUDX_ECOLI       370   ---------- --------WQ EG-DcRLTQN --PLE----- ---------I 
+4enl_            285   LMKRYPIVSI EDPFAEDDWE AW-S-HFF-K --TA--GIQI VADDLTVTNP 
+ENO1_CANAL       287   LISEYPIVSI EDPFAEDDWD AW-V-HFF-E --RVGDKIQI VGDDLTVTNP 
+ENO_ALTAL        287   LAEKYPIVSI EDPFAEDDWE AW-S-YFF-K --TY--DGQI VGDDLTVTNP 
+ERR1_YEAST       286   LLKKYPIISL EDPYAEDDWS SW-S-AFL-K --TV--NVQI IADDLTCTNK 
+EN11_SCHPO       285   LSKKYPIVSI EDPFDQDDWS AW-T-HMK-A --ET--DFQI VGDDLTVTNV 
+EN12_SCHPO       286   LIEKYPIVFI EDPFSEEDWG AF-S-YMS-S --KT--KVEV IADDLTVTNV 
+ENO_NEOFR        285   ITSEYPIVSI EDPYDQDDFE SW-S-KFR-A --DMQDKIQI VGDDLTVTNP 
+ENO_CUNEL        285   YAGKYPIVSI EDAFDQDDWE NW-A-HMN-A --SA--DYQL VGDDLTVTNP 
+ENO_CAEEL        283   FIKEYPVVSI EDAFDQDDWD NW-G-KFH-G --AT--SIQL VGDDLTVTNP 
+ENOA_ALLMI       282   FVKNYPVVSI EDPFDQDDWA AW-K-KFT-A --SV--GIQV VGDDLTVTNP 
+ENO_LOLPE        284   FVKNYPVVSI EDPFDQDDWE AY-T-KMT-K --DM--DIQI VGDDLLVTNP 
+ENO_FASHE        283   MMSTYPIVSI EDPFDQDDWP AW-T-KLT-G --EC--KIQI VGDDLTVTNP 
+ENO_SCHJA        284   MIQKYPIVSI EDPFDQDDWD AW-P-KLT-A --ST--NIQI VGDDLTVTNP 
+ENO_DROME        284   FIKDFPIVSI EDPFDQDHWE AW-S-NLT-G --CT--DIQI VGDDLTVTNP 
+ENO_HOMGA        284   FCKDFPIVSI EDPFDQDDWE TW-S-KMT-S --GT--TIQI VGDDLTVTNP 
+ENO1_HEVBR       291   FVAEYPIVSI EDPFDQDDWA HY-A-KLT-S --EIGEKVQI VGDDLLVTNP 
+ENO_CHLRE        222   FCKKYPVISI EDPFEQDDWE PC-A-KLT-T --EN--ICQV VGDDILVTNP 
+ENO_PLAFA        294   LVKKYPIVSI EDPFDQDDWE NY-A-KLT-A --AIGKDVQI VGDDLLVTNP 
+ENO_MASBA        287   WTSKYPIWSI EDPFDQDDWA TY-T-RFT-E --LIRNRIQI VGDDLLVTNP 
+ENO1_ENTHI       286   YGKHYPIASI EDPFAEDDWA AW-N-KFT-V --EH-GNFQI VGDDLLVTNP 
+ENO_METJA        275   LVDEYPIVSI EDPFHEEDFE GF-A-MIT-K --EL--DIQI VGDDLFVTNV 
+ENO_METAC        285   LVNSYPILSI EDPFYEEAFE DF-E-ALT-N --ELWD-TII VGDDLFVTNI 
+ENO_SULTO        270   LASRYPLLYI EDPFNENDFE RF-S-ILQ-Q --KLKK-TIV TGDDLFTTNI 
+ENO_AERPE        278   LVEQYPIVYL EDPFSEDDYE GF-K-AAV-D alST--ETII VGDDLLVTNP 
+ENO_PYRAB        276   LTSTYPIVSI EDPFHEEDWE GF-V-MIT-R --ELGKKVQI VGDDLFVTNP 
+ENO_METKA        276   LVSQYPIVSI EDPLHEEDFR GF-A-KIT-E --ELGDKVQI VGDDLFVTNP 
+ENO_SYNY3        279   LVSQYPIVSI EDGLHEDDWE SW-K-GLT-T --SLGTKTQL VGDDLMVTNP 
+ENO_THETN        276   LVSKYPIVSI EDGLAEEDWN GW-K-LLT-E --RLGKKVQL VGDDLFVTNT 
+ENO_CLOPE        278   WVNKYPIISI EDGMAEEDWE GW-K-LMT-E --RLGKKVQL VGDDLFVTNT 
+ENO_CLOAB        278   LVEKYPIISL EDGMAEEDWD GW-K-LLT-D --RIGDKVQL VGDDLFVTNT 
+ENO_BACHD        276   LVAKYPIISI EDGLDENDWE GH-K-MLT-D --RLGDKVQL VGDDLFVTNT 
+ENO_LISMO        277   MITKYPIISI EDGLDENDWD GF-K-LLT-E --RIGDRVQL VGDDLFVTNT 
+ENO_ENTFA        278   LVSKYPIISI EDGLDENDWD GF-K-KLT-E --VLGDKVQL VGDDLFVTNT 
+ENO_BACFR        278   LINEYPIDSI EDGMSENDWE GW-K-KLT-Q --RIGDRCQL VGDDLFVTNV 
+ENO_STAAM        281   LVDKYPIITI EDGMDENDWD GW-K-QLT-E --RIGDRVQL VGDDLFVTNT 
+ENOA_LACLA       280   LVSKYPIITI EDGMDENDWD GW-K-ILT-E --RLGKKVQL VGDDFFVTNT 
+ENOA_LACPL       280   IVDKYPIVSI EDPLDENNWE DW-Q-MAT-A --KLGKKVQI VGDDLFVTNT 
+ENO_LEPIN        281   LVSKYPIITI EDGLDENDWD GW-K-LLS-E --KLGKKIQL VGDDLFVTNI 
+ENO_RALSO        275   LADKFPIVSI EDGMHESDWD GW-K-VLT-E --KLGNKVQL VGDDLFVTNT 
+ENO_NITEU        275   WVEKYPIISI EDGMSEQDWE GW-G-LLT-E --RLGKTVQL VGDDVFVTNT 
+ENO_NEIMA        275   LVNEFPIISI EDGMDENDWE GW-K-LLT-E --KLGGKVQL VGDDLFVTNP 
+ENO_BORBU        279   WVEKYPIISI EDGMAEEDWD GW-K-KLT-D --KIGNKIQL VGDDLFVTNT 
+ENO_AGRT5        274   LVNKYPIISV EDGMAEDDWE GW-K-TLT-D --LVGNKCQL VGDDLFVTNS 
+ENO_BARHE        274   LIKTYPIITI EDGMAEDDWE GW-K-LLT-D --SIGKKCQL VGDDLFVTNS 
+ENO_CAUCR        275   LVAKFPILTI EDGMAEDDFD GW-K-LLT-D --TLGKKVQL VGDDLFVTNP 
+ENO_ZYMMO        277   LCGKYPIYSI ED-LAEDDFE FW-K-ILT-E --KLGDKVQL VGDDLFVTNV 
+ENO2_CHLTE       287   WASRYPIISI EDGMAEDDWE GW-K-MLT-D --KIGGRVQL VGDDLFVTNS 
+ENO_XANAC        277   WVAQYPIISI EDGLAEDDWA GW-K-LLT-D --RVGKKVQL VGDDLFVTNP 
+ENO_FUSNN        281   LINKYPIVSI EDGLGEDDWD GW-V-KLT-K --AIGDRVQI VGDDLFVTNT 
+ENO_AQUAE        273   LIQKYPIISI EDPMSENDWE GW-K-EIT-K --RLGDKVQL VGDDLFTTNP 
+ENO_THEMA        276   LVAKYPIISI EDPFAEEDWD AF-V-EFT-K --RVGNKVQI VGDDLYVTNV 
+ENO1_STRCO       273   LVEAYPLVSI EDPLFEDDWD GW-N-TIT-A --KLGDKVQL VGDDLFVTNP 
+ENO_COREF        272   LVDEYPIVSI EDPLQEDDWD GY-V-ALT-A --QIGDKVQI VGDDFFVTNP 
+ENO_MYCLE        273   LLGSYPLVSI EDPLSEDDWD GW-A-ALT-A --SIGEQVQI VGDDIFATNP 
+ENO_DESVM        275   FTTRYPLISI EDGLAEADWD GW-R-ELT-Y --KLGDTIQL VGDDIFVTNP 
+ENO_DEIRA        273   WTSRYPIVSI EDGLAEDDWD GW-E-RLT-A --KVGAKTQL VGDDLFVTNP 
+ENO_SYNEL        275   LVSTYPIISI EDGLQEEDWD NW-A-LLT-E --TLGSRIQL VGDDLFVTNP 
+ENO_ANASP        278   LVDQYPIVSI EDGLHEEDWQ HW-Q-LLT-Q --KVGSRVQL VGDDLFVTNA 
+ENO2_STRCO       283   LIDAYPVVSI EDPMAEDDLD GW-R-ELT-D --RVGDRCQL TGDDVFCTDE 
+ENO1_PSESM       278   LTRKHPIISI EDGLDESDWD GW-K-VLT-E --KIGEKVQL VGDDLFVTNT 
+ENO_AERHY        281   LTAKFPIVSI EDGLDESDWE GF-A-YQT-Q --KLGKKIQI VGDDLFVTNT 
+ENO_BUCAI        281   LSQKYPIVSI EDGQDESDWE GF-L-YQT-H --VLGNKIQL VGDDLFVTNK 
+ENO_WIGBR        281   LTEEYPILSI EDGLHENDWE GF-S-MLT-N --YLGNKIQL VGDDLFTTNP 
+ENO_BUCBP        281   LVDKYPITSI EDGLDESDWN GF-K-YQT-K --KLGKKIQL VGDDLFVTNT 
+ENO_BIFLO        275   LINEYPIVSI EDPFNEEGWE DW-A-AIT-A --RLGDRLQF VGDDLLVTNP 
+ENO_TREPA        279   WIATYPIVSI EDPLDQNDWA GY-V-QLT-K --ELGDKVQI VGDDFFVTNT 
+ENO_CAMJE        270   LCAKYPICSI EDGLAENDFE GW-I-KLT-E --KLGNKIQL VGDDLFVTNE 
+ENO_HELPJ        276   LVAKYPIVSI EDGLSEDDWE GW-A-FLS-K --ELGRQIQL VGDDLFVTNA 
+ENO_CHLCV        273   LCDRYPIDSI EDGLAEEDFD GW-E-LLT-A --ELGESIQI VGDDLFVTNP 
+ENO_CHLTR        273   LCEHYPIDSI EDGLAEEDFE GW-K-LLS-E --TLGDRVQL VGDDLFVTNS 
+ENO_CHLPN        273   LCDRYPIDSI EDGLAEEDYD GW-A-LLT-E --VLGEKVQI VGDDLFVTNP 
+ENO1_CHLTE       275   WVNQYPIVLL EDGMAENDWE GW-K-NLT-D --VIGNKIEI VGDDLFCTNK 
+ENO2_PSESM       277   WVDKYPIAVL EDGLAEDDWS GW-K-LLN-A --ALGDRIEL VGDDLFVTNV 
+ENO_MYCPN        300   LTEQYPIISI EDGLSEHDWE GM-E-TLT-K --TLGQHIQI VGDDLYCTNP 
+ENO_MYCGE        300   LTKKYPIISI EDGLSENDWE GM-N-QLT-K --TIGSHIQI VGDDTYCTNA 
+ENO_MYCPE        298   LCKKYPIISI EDGLAENDWD GF-Q-LMV-K --DLGSRVQI VGDDLFCTNP 
+ENOB_LACPL       276   LAKFPEIVSI EDPYGEEDWD NF-A-SFT-A --AHGDQLQI VADDPVCTNP 
+ENO_MYCPU        302   LISKYPIISI EDGFAESDWQ GF-A-KFT-K --IYGEKLQI VGDDLTVTNS 
+ENO_UREPA        290   LVSMFPIISI EDCFEENDWN SF-A-LFL-K --NN-PHIQV VGDDLYCTNL 
+                                                                 
+                       4455666666 6666666666 6605045504 0044444677 7777777776 
+ 
+1fhu_A           201   -----FVAEE GVRAVVIKPT LTGSLEKVRE QV--QAAHAL GLTAVISSSI 
+MENC_YERPE       224   -----VEAEP GVAAIVIKPT LVGSLARCQQ LV--QQAHQA GLVAVISSSI 
+MENC_HAEIN       230   -----LEKEP HLSAVVIKPT LIGSIQRCTE LI--NQAHSL GLKAVISSSI 
+MENC_PASMU       240   ---------P QVKAIVIKPT LVGSIQRCVE LI--KQAHAH GIQAVISSSI 
+MENC_VIBCH       230   ------ENLL GVKTIVIKPT LIGSVYRVEA LI--EKAKTL GLQAVISSSL 
+1bqg_            368   KGGLVEVPKK PGLGVELDWD ALMKAHEVYK sm-------- ---------- 
+GUDH_STRCO       372   DGGKVAVSDA PGLGVALDRE RLAFLHRRWl dddgTLRDRD DAAAMRVADP 
+GUDH_BACSU       395   SSGCVKVPDK PGLGVDIDME QVEKAHEIYR KM--NLGARN DAIPMQFLIS 
+GUDH_ECOLI       385   KGGLVQVPEK PGLGVEIDMD QVMKAHELYQ KH--GLGARD DAMGMQYLIP 
+GUDX_ECOLI       385   KNGKIAVPDA PGLGVELDWE QVQKAHEAYK RL--PGGARN DAGPMQYLIP 
+4enl_            328   KRIATAIEKK AADALLLKVN QIGTLSESIK AA--QDSFAA GWGVMVSHRS 
+ENO1_CANAL       332   TRIKTAIEKK AANALLLKVN QIGTLTESIQ AA--NDSYAA GWGVMVSHRS 
+ENO_ALTAL        330   EFIKKAIELK SCNALLLKVN QIGTITEAIQ AA--KDAFGA GWGVMVSHRS 
+ERR1_YEAST       329   TRIARAIEEK CANTLLLKLN QIGTLTESIE AA--NQAFDA GWGVMISHRS 
+EN11_SCHPO       328   KRLRTAIDKK CANALLLKVN QIGSVTESLN AV--RMSYEA GWGVMVSHRS 
+EN12_SCHPO       329   KRLSKAIELK CANALLVKIN QIGSLSETID AA--NMAKKA GWGLMVSHRS 
+ENO_NEOFR        330   KRIAMAIEKK ACNGLLLKVN QIGTVSESIQ AA--LDAFND GWGVMVSHRS 
+ENO_CUNEL        328   KRIATAVEKK ACNALLLKVN QIGTLTESIQ AA--LDSQKA GWGVMVSHRS 
+ENO_CAEEL        326   KRIQTAIDKK SCNCLLLKVN QIGSVTESIE AA--KLSRAN GWGVMVSHRS 
+ENOA_ALLMI       325   KRIAKAVDDK ACNCLLLKVN QIGSVTESLQ AC--KLAQSN GWGVMVSHRS 
+ENO_LOLPE        327   KRVQKGIDLK AANALLLKVN QIGSVTESIQ AC--KMSQDA GWGVMVSHRS 
+ENO_FASHE        326   LRVQKAIDQK ACNCLLLKVN QIGSVSESIK AC--KMAQEA GWGVMVSHRS 
+ENO_SCHJA        327   KRIEKAIKVK ACNCLLLKVN QIGSITESIE AC--KMAQKA GWGVMVSHRS 
+ENO_DROME        327   KRIATAVEKK ACNCLLLKVN QIGTVTESIA AH--LLAKKN GWGTMVSHRS 
+ENO_HOMGA        327   KRITTAVEKK ACKCLLLKVN QIGSVTESID AH--LLAKKN GWGTMVSHRS 
+ENO1_HEVBR       336   KRVEKAIKEK ACNALLLKVN QIGSVTESIE AV--KMSKRA GWGVMASHRS 
+ENO_CHLRE        265   VRVKKAIDAK AVNALLLKVN QIGTITESIE AV--RMAKEA GWGVMTSHRS 
+ENO_PLAFA        339   TRITKALEKN ACNALLLKVN QIGSITEAIE AC--LLSQKN NWGVMVSHRS 
+ENO_MASBA        332   KRIVEARNKK ACNALLLKLN QIGSVSEAVE AC--RLAREV NWGVMVSHRS 
+ENO1_ENTHI       330   ARVQMAMDKN ACNSVLIKVN QIGTLTETFK TI--KMAQEK GWGVMASHRS 
+ENO_METJA        318   ERLRKGIEMK AANALLLKVN QIGTLSEAVD AA--QLAFRN GYGVVVSHRS 
+ENO_METAC        329   ERLSRGVDMG AANALLLKVN QIGSISEAFD AA--SMASRN GYTVIVSHRS 
+ENO_SULTO        314   EYLKKGIEKS SAKGTIVKPN QIGTLSETFE YI--EFAKKN SIKIIVSHRS 
+ENO_AERPE        323   QRVKEASALK AVTGLLVKVN QVGTLTEALE AI--QAARDR GIVHIVSHRS 
+ENO_PYRAB        321   KRLKKGIEMG AANALLLKVN QIGTLTEAMD AA--YMAFRA GYGVVVSHRS 
+ENO_METKA        321   DRLRKGIEMG AANALLLKVN QIGTLTEAVE AG--ELALQH GYGVMVSHRS 
+ENO_SYNY3        324   VRLQKSIDLG VANAILIKLN QIGTLSETLE TI--SLATRH SYRSVISHRS 
+ENO_THETN        321   ERLSKGINMG VANSILIKLN QIGTLTETLD AI--EMAKRA GYTAIVSHRS 
+ENO_CLOPE        323   ERLKTGIEKG IANSILIKLN QIGTLTETLN AI--EMANRA GYTAVVSHRS 
+ENO_CLOAB        323   KRLSKGIQLG VANSILIKLN QIGTLTETLN AI--EMAQRA GYTAVVSHRS 
+ENO_BACHD        321   KKLAQGIEQG VGNSILIKVN QIGTLTETFD AI--EMAKRA GYTAVISHRS 
+ENO_LISMO        322   TKLKEGIEKG IANSILIKVN QIGTLTETLD AI--EMAKRA GYTAVISHRS 
+ENO_ENTFA        323   TKLAEGIEKG IANSILIKVN QIGTLTETFE AI--EMAKEA GYTAVVSHRS 
+ENO_BACFR        323   DFLAKGIEKG CANSILIKVN QIGSLTETLN AI--EMAHRH GYTTVTSHRS 
+ENO_STAAM        326   EILAKGIENG IGNSILIKVN QIGTLTETFD AI--EMAQKA GYTAVVSHRS 
+ENOA_LACLA       325   KYLERGIREN ASNAILIKVN QIGTLTETFE AI--EMAKEA GFTAIVSHRS 
+ENOA_LACPL       325   DYLAKGIKMG VANSILIKVN QIGTLTETVE AI--EMAKEA GYTAIVSHRS 
+ENO_LEPIN        326   EKLSKGISSG VGNSILIKVN QIGSLSETLS SI--EMAKKA KYTNVVSHRS 
+ENO_RALSO        320   RILKEGIEKG IANSILIKIN QIGTLTETFA AI--EMAKRA GYTAVISHRS 
+ENO_NITEU        320   RILKEGISRN IANSILIKIN QIGTLTETLN AI--EMAKCA GYTAIVSHRS 
+ENO_NEIMA        320   KILAEGIEKG VANALLVKVN QIGTLSETLK AV--DLAKRN RYASVMSHRS 
+ENO_BORBU        324   SFLKKGIEMG VANSILIKVN QIGTLTETFE AV--EMAKKA GYTAIVSHRS 
+ENO_AGRT5        319   ARLRDGIKMG VANSILVKVN QIGSLSETLD AV--ETAHKA GYTAVMSHRS 
+ENO_BARHE        319   ARLRDGIKMG AANSILIKVN QIGTLSETLD AV--ETAHKA GYRAIISHRS 
+ENO_CAUCR        320   KRLQMGLDKG LANSILVKVN QIGTLSETID AV--ELAHRH GYTSVMSHRS 
+ENO_ZYMMO        321   KRLSDGIERG IANSLLVKFN QIGSLSETLA AV--NMANDA SYTPVMSHRS 
+ENO2_CHLTE       332   KRLAEGIEKG VGNSILIKVN QIGTLTETLQ AI--ELAKRN GYTSVISHRS 
+ENO_XANAC        322   KIFKQGIDSG TANAILIKVN QIGTLTETLE AI--AMAHAA NYASIVSHRS 
+ENO_FUSNN        326   ERLKKGIELG AGNSILIKLN QIGSLTETLD AI--EMAKRA GYTAVVSHRS 
+ENO_AQUAE        318   KILRKGIEEG VANAILVKLN QIGTVSETLD TV--MLAKER NYSAIISHRS 
+ENO_THEMA        321   KRLSKGIELK ATNSILIKLN QIGTVTETLD AV--EMAQKN NMTAIISHRS 
+ENO1_STRCO       318   ERLARGIEEN SANALLVKVN QIGSLTETLD AV--ELAQRN GFKCMMSHRS 
+ENO_COREF        317   ARLKEGIAKK AANSILVKVN QIGTLTETFD AV--DMAHRA GYTSMMSHRS 
+ENO_MYCLE        318   ERLEEGIGRG VANALLVKVN QIGTLTETLE AV--ALAHHS GYRTMISHRS 
+ENO_DESVM        320   DILAEGIDEG VANSILIKLN QIGTLTETLD TI--EMAKQA AYTTVISHRS 
+ENO_DEIRA        318   ERLQQGIDRK VGNAILVKVN QIGSLTESMD AI--ELAKRH HYGTIISHRS 
+ENO_SYNEL        320   KRLQRGIDNG VANAILIKLN QIGSLTETLQ TI--DLATRK GYRAVISHRS 
+ENO_ANASP        323   TRLQKGIQEK AGNAILIKLN QIGSLTETLE TI--DLGTRN GFRSVISHRS 
+ENO2_STRCO       328   ALVREGIRTG VGNSVLVKVN QIGTLTEALA TV--ATAHEA GWTVVMSHRS 
+ENO1_PSESM       323   KILKEGIDKN IANSILIKFN QIGTLTETLE AI--QMAKAA GYTAIISHRS 
+ENO_AERHY        326   KILKRGIDNG IANSILIKFN QIGSLTETLA AI--KMAKDA GYTAVISHRS 
+ENO_BUCAI        326   NILKKGIKKG IANSILIKLN QIGTLTETLE AI--KTAKQA NYGVIISHRS 
+ENO_WIGBR        326   KFLKYGIKKG IANSILIKPN QIGSLTETLE VI--KIAKKY GYATIISHRS 
+ENO_BUCBP        326   NILKKGIQNN IANTILIKLN QIGTLTETLN AI--KLAQNS NYNTVISHRS 
+ENO_BIFLO        320   ARLQKAIDLG AANSLLVKLN QIGSVTETLD AI--ELATAN GYTSMVSHRS 
+ENO_TREPA        324   GRLARGIKEG SCNSILIKLN QIGTVTETVD AV--RMAQNA GYAAVISHRS 
+ENO_CAMJE        315   DILREGIIKK MANAVLIKPN QIGTITQTMR TV--RLAQRN NYKCVMSHRS 
+ENO_HELPJ        321   SILQKGIEKN VANAILIKPN QIGTISETLE TI--RLAKHH AYQCVISHRS 
+ENO_CHLCV        318   ELIADGISRG LANAVLIKPN QIGTLTETSE AI--QLAHSQ GYTTILSHRS 
+ENO_CHLTR        318   ALIAEGIAQG LANAVLIKPN QIGTLTETAE AI--RLATIQ GYATILSHRS 
+ENO_CHLPN        318   ELILEGISNG LANSVLIKPN QIGTLTETVY AI--KLAQMA GYTTIISHRS 
+ENO1_CHLTE       320   SILLNGINKG VANSILIKLN QIGTVTETLE TI--ELAYKN SYNCFVSHRS 
+ENO2_PSESM       322   ERIQRGITEN VANAVLIKPN QIGTLTETKA AI--EMAYGA NWGAMVSHRS 
+ENO_MYCPN        345   AIAEKGVAHK ATNSILIKLN QIGTLTETIK AI--NIAKDA NWSQVISHRS 
+ENO_MYCGE        345   ELAKKGVAQN TTNSILIKLN QIGSISETIQ TI--EVAKKA NWSQVISHRS 
+ENO_MYCPE        343   KIVKEGISKG VANSVLIKVN QIGTLTETIE TI--KAAHAA GWTCVVSHRS 
+ENOB_LACPL       321   QLIRQAIQRG MANNILIKLN QIGTVTETLA AI--RLARKN GYATMMSHRS 
+ENO_MYCPU        347   KILERAIKEK SMNSILVKLN QIGSLSETLD TI--NMAHKA GFSAVISHRS 
+ENO_UREPA        334   KYLQKGIDFK ATNAILIKPN QIGTISETLD VI--KFAQKN NINTIISHRS 
+                                                                 
+                       6666677666 6777788878 8888888766 6600677667 7777888888 
+ 
+1fhu_A           244   ESSLG----- ---------- ---------- ---LTQLARI AAWLTPDT-I 
+MENC_YERPE       267   ESSLG----- ---------- ---------- ---LTQLARL AAWLTPVT-V 
+MENC_HAEIN       273   ESSLG----- ---------- ---------- ---LSQLARI AQQYTPNV-T 
+MENC_PASMU       279   ESSLG----- ---------- ---------- ---LTQLARL AQQYTPNT-V 
+MENC_VIBCH       272   ESSLG----- ---------- ---------- ---LNQLARL AHKLLPNE-V 
+1bqg_            400   ---------- ---------- ---------- ---------- ---------- 
+GUDH_STRCO       422   E--------- ---------- ---------- ---------- --WVTPs--- 
+GUDH_BACSU       443   N--------- ---------- ---------- ---------- --W------- 
+GUDH_ECOLI       433   G--------- ---------- ---------- ---------- --W------- 
+GUDX_ECOLI       433   G--------- ---------- ---------- ---------- --W------- 
+4enl_            376   GETEDTFIAD LVVGLRTGQI KTGAPARSER LAKLNQLLRI EEELGDNA-V 
+ENO1_CANAL       380   GETEDTFIAD LSVGLRSGQI KTGAPARSER LAKLNQILRI EEELGSEA-I 
+ENO_ALTAL        378   GETEDVTIAD IVVGLRSGQI KTGAPARSER LAKLNQILRI EEELGDNA-V 
+ERR1_YEAST       377   GETEDPFIAD LVVGLRCGQI KSGALSRSER LAKYNELLRI EEELGDDC-I 
+EN11_SCHPO       376   GETADTFISH LTVGIGAGQL KSGAPCRSER LAKYNELLRI EEELGSEG-V 
+EN12_SCHPO       377   GETDDSFIAH LAVGLEAGQM KSGAPCRSER LAKYNELLRI EDNLGDSA-I 
+ENO_NEOFR        378   GETEDTFIAD LVVGLKSGQI KTGAPCRSER LAKYNQLLRI EEELGANA-T 
+ENO_CUNEL        376   GETEDTSIAS IVVGLRTGQI KTGAPCRSER LAKYNELLRI EEELGDAA-I 
+ENO_CAEEL        374   GETEDTFIAD LVVGLATGQI KTGAPCRSER LAKYNQLLRI EEELGADA-V 
+ENOA_ALLMI       373   GETEDTFIAD LVVGLCTGQI KTGAPCRSER LAKYNQILRI EEELGSKA-R 
+ENO_LOLPE        375   GETEDTFIAD LVVGLCTGQI KTGAPCRSER LAKYNQILRI EEELGDKA-V 
+ENO_FASHE        374   GETEDNFIAD LVVGLRTGQI KTGAPCRSER LAKYNQLLRI EEDLGGAA-K 
+ENO_SCHJA        375   GETEDNFIAD LVVGLCTGQI KTGAPCRSER LAKYNQLLRI EEELGSTA-K 
+ENO_DROME        375   GETEDSFIGD LVVGLSTGQI KTGAPCRSER LAKYNQILRI EEEIGAGV-K 
+ENO_HOMGA        375   GETEDCFIAD LVVGLCTGQI KTGAPCRSER LAKYNQILRI EEELGSGA-K 
+ENO1_HEVBR       384   GETEDTFIAD LSVGLATGQI KTGAPCRSER LAKYNQLLRI EEELGSEA-V 
+ENO_CHLRE        313   GETEDSFIAD LAVGLASGQI KTGAPCRSER NAKYNQLLRI EEELGENA-V 
+ENO_PLAFA        387   GETEDVFIAD LVVALRTGQI KTGAPCRSER NAKYNQLLRI EESLGNNA-V 
+ENO_MASBA        380   GETEDAFIAD LVVGLGCGQI KTGAPCRSER LAKYNQLLRI EEELGANA-H 
+ENO1_ENTHI       378   GETEDTFIAD LVVGLNCKQI KTGAPCRSER LCKYNQLMRI EEELGNIP-Y 
+ENO_METJA        366   GETEDTTIAD LSVALNSGQI KTGAPARGER TAKYNQLIRI EQELGLSK-Y 
+ENO_METAC        377   AETEDTTISD LAVAIGAEMI KTGAPARGER TAKYNQLLRI EEDLGEVA-H 
+ENO_SULTO        362   GETEDSFIAD LAVGVQSDFI KTGAPARGER TSKYNRLLEI ENDYGIEY-Y 
+ENO_AERPE        371   GDTEDTFIAD LAVATEALMI KTGAPARGER TSKYNRLLEI ENILGYSA-E 
+ENO_PYRAB        369   GETEDATIAD LAVALNAGQI KTGAPARSDR NAKYNQLIRI EEELEGVA-V 
+ENO_METKA        369   GDTEDPFIAD LAVALGCGQI KTGAPARSSR TAKYNRLLRI EEDLAGAA-E 
+ENO_SYNY3        372   GETEDTTIAD LAVATRVGQI KTGSLCRSER VAKYNRLLRI EDELGDRA-V 
+ENO_THETN        369   GETEDTTIAD LVVATNVGQI KTGAPARTDR VAKYNQLLRI EEALGSVA-Q 
+ENO_CLOPE        371   GETEDTTIAD LVVAVNAGQI KTGAPARSER VAKYNQLIRI NEELGEVA-E 
+ENO_CLOAB        371   GETEDTTISD LVVAVNAGQI KTGAPARTER VAKYNQLLRI EEELGEVA-E 
+ENO_BACHD        369   GETEDSTIAD IAVATNAGQI KTGAPSRTDR VAKYNQLLRI EDELGNLA-Q 
+ENO_LISMO        370   GETEDSTIAD IAVATNAGQI KTGAPTRTDR VAKYNQLLRI EDNLADLA-E 
+ENO_ENTFA        371   GETEDSTISD IAVATNAGQI KTGSLSRTDR IAKYNQLLRI EDQLGDVA-E 
+ENO_BACFR        371   GETEDATIAD IAVATNSGQI KTGSLSRSDR MAKYNQLLRI EEELGDRA-V 
+ENO_STAAM        374   GETEDTTIAD IAVATNAGQI KTGSLSRTDR IAKYNQLLRI EDELFETA-K 
+ENOA_LACLA       373   GETEDSTISD IAVATNAGQI KTGSLSRTDR MAKYNQLLRI EDQLAEVA-Q 
+ENOA_LACPL       373   GETEDTTIAD LVVAMNAGQI KTGSMSRTER IAKYNQLMRI EDQLESTS-E 
+ENO_LEPIN        374   GETEDVTISH IAVATNAGQI KTGSLSRTDR IAKYNELLRI EEELGKSA-V 
+ENO_RALSO        368   GETEDSTIAD IAVGTNAGQI KTGSLSRSDR IAKYNQLLRI EEDLGDIA-S 
+ENO_NITEU        368   GETEDTTIAD IAVATNALQI KTGSLSRSDR LAKYNQLLRI EEDLGEMA-Q 
+ENO_NEIMA        368   GETEDSTIAD LAVATNCMQI KTGSLSRSDR MAKYNQLLRI EEELAEAA-D 
+ENO_BORBU        372   GETEDTTIAD LVVALGTGQI KTGSLSRTDR IAKYNQLIRI EEELETTA-E 
+ENO_AGRT5        367   GETEDSTIAD LAVATNCGQI KTGSLARSDR LAKYNQLIRI EEMLGPQA-A 
+ENO_BARHE        367   GETEDSFIAD LAVATNCGQI KTGSLARSDR LAKYNQLIRI EEMLGLQA-C 
+ENO_CAUCR        368   GETEDSTIAD LAVALNCGQI KTGSLARSDR TAKYNQLLRI QEMLDDQG-V 
+ENO_ZYMMO        369   VETEDTTIAD LAVATNCGQI KTGSLCRSER IAKYNQLMRI EEELGSVA-K 
+ENO2_CHLTE       380   GETEDTTIAQ IAVATNAGQI KTGSMSRSDR MAKYNELLRI EEELGSTA-L 
+ENO_XANAC        370   GETEDTTIAD IAVATTATQI KTGSLCRSDR VAKYNQLLRI EQALGSGA-R 
+ENO_FUSNN        374   GETEDATIAD VAVATNAGQI KTGSTSRTDR MAKYNQLLRI EEELGSVA-Q 
+ENO_AQUAE        366   GETEDTFISH LAVATNAGQI KTGSASRTDR IAKYNELLRI EERLGNGA-V 
+ENO_THEMA        369   GESEDTFIAD LAVATNAGFI KTGSLSRSER IAKYNQLLRI EEELGKVA-E 
+ENO1_STRCO       366   GETEDVTIAD LAVATNCGQI KTGAPARSER VAKYNQLLRI EEILDDAA-V 
+ENO_COREF        365   GETEDTTIAD LAVALNCGQI KTGAPARSDR VAKYNQLLRI EQLLGDAA-V 
+ENO_MYCLE        366   GETEDTMIAD LVVALGSGQI KTGAPARSER VAKYNQLLRI EEELGDAA-R 
+ENO_DESVM        368   GETEDHFISD LAVGLNAGQI KTGSLCRSDR LAKYNQLLRI EEDLDDTG-I 
+ENO_DEIRA        366   GESEDAFIAD LAVATNAGQI KTGSASRSDR IAKYNQLLRI EDQLGDRA-V 
+ENO_SYNEL        368   GETEDTTIAD LAVATRAGQI KTGSLCRSER VAKYNRLLRI EAELGDQA-V 
+ENO_ANASP        371   GETEDTTIAD LAVATRAGQI KTGSLCRSER VAKYNRLLRI EDELGDRA-V 
+ENO2_STRCO       376   GETEDTTIAD LAVATGCGQI KTGSLSRSDR TAKYNRLIRI EEELGASA-R 
+ENO1_PSESM       371   GETEDSTIAD LAVGTSAGQI KTGSLCRSDR VSKYNQLLRI EEQLGSKA-V 
+ENO_AERHY        374   GETEDATIAD LAVGTAAGQI KTGSMSRSDR VAKYNQLIRI EEALGAKA-P 
+ENO_BUCAI        374   GETEDASIAD LSVGTSSGQI KTGSMSRSDR TSKYNQLIRI EENLGTKYaP 
+ENO_WIGBR        374   GETEDVTIAD LSVGTSSGQI KTGSMSRSDR TAKYNRLIRI EEELGSNA-I 
+ENO_BUCBP        374   GETEDTTISD LAVGTNSGQI KTGSVCRSER TAKYNQLIRI EEKLGAKT-K 
+ENO_BIFLO        368   GETPDTTISD LAVAKNTRQI KTGAPARGER VAKYNRLLEI EEELGSTA-Q 
+ENO_TREPA        372   GETEDAFIAD LAVALETGQI KTGSMSRSDR VAKYNQLMRI EEELGAQA-R 
+ENO_CAMJE        363   GESEDAFIAD FAVALNTGQI KTGALARGER TAKYNRLLEI EFESDEylge 
+ENO_HELPJ        369   GESEDSFIAD FAVALNTGEI KTGSTARSER IAKYNRLLEI EHELKGGI-Y 
+ENO_CHLCV        366   GETEDTTIAD LAVAFNTGQI KTGSLSRSER IAKYNRLMAI EEELGPEG-L 
+ENO_CHLTR        366   GETEDTTIAD LAVAFNTGQI KTGSLSRSER IAKYNRLMAI EEEMGPEA-L 
+ENO_CHLPN        366   GETTDTTIAD LAVAFNAGQI KTGSLSRSER VAKYNRLMEI EEELGSEA-I 
+ENO1_CHLTE       368   GETVDSFIAD LTVGINAGHL KSGSGCRGER IEKFNQLMRI ENELGKSA-Q 
+ENO2_PSESM       370   GETVDSSIAD LTVAMGTGHL KTGAPCRGER VEKYNQFLRI EEDLGSRA-F 
+ENO_MYCPN        393   GETEDTTIAD LAVAACTGQI KTGSMSRSER IAKYNRLLQI ELELGNNA-K 
+ENO_MYCGE        393   GETEDTTIAD LAVAAQTGQI KTGSMSRSER IAKYNRLLYI EIELGDKG-K 
+ENO_MYCPE        391   GETEDTTIAD IAVGLSTGQI KTGSMSRSER IAKYNRLIEI ENELGSKA-H 
+ENOB_LACPL       369   GETGDTFVAD FTVATNAAQL KAGAPARSER VEKYNQLLRI EEELGADG-A 
+ENO_MYCPU        395   GETEDTTIAD LAVALNTGQI KTGSLSRTDR IAKYNRLLEI EDQLEEAA-V 
+ENO_UREPA        382   GETEDTFIAD LAIGVGAGQI KTGSLSRSER IAKYNRILEI EQELKDKL-I 
+                                                                 
+                       8887877888 8786656788 8888778888 8888888888 8777655505 
+ 
+1fhu_A           265   PGLDTLDLMQ AQQVRRWPGS TLPVVEVDAL erll------ 
+MENC_YERPE       288   PGLDTLDLMQ AQVVRPWPDS PLPLITTEQL GVVWhr---- 
+MENC_HAEIN       294   PGLDTLDLME YQVLRAWPSS DLPIVDLESE FITKIi---- 
+MENC_PASMU       300   PGLDTLDLMD YQVIRPWPSS TLPLIDLDSE YIVPIkld-- 
+MENC_VIBCH       293   PGLDTIGLFR AQLETPWPNS SLPVVALQEQ SIVWrsessl 
+1bqg_            400   ---------- ---------- ---------- ---------- 
+GUDH_STRCO       428   ---------- ---VPRW--- ---------- ---------- 
+GUDH_BACSU       445   -----EFDRK RPCLVR---- ---------- ---------- 
+GUDH_ECOLI       435   -----TFDNK RPCMVR---- ---------- ---------- 
+GUDX_ECOLI       435   -----TFDRK RPvfgrh--- ---------- ---------- 
+4enl_            425   FAGENFHHGD KL-------- ---------- ---------- 
+ENO1_CANAL       429   YAGKDFQKAs ql-------- ---------- ---------- 
+ENO_ALTAL        427   YAGNNFRTAV Nl-------- ---------- ---------- 
+ERR1_YEAST       426   YAGHRFHDGN KL-------- ---------- ---------- 
+EN11_SCHPO       425   YAGAHAGKYI KAakf----- ---------- ---------- 
+EN12_SCHPO       426   YAGTRAADYI KSntl----- ---------- ---------- 
+ENO_NEOFR        427   YAGENFRRPf ---------- ---------- ---------- 
+ENO_CUNEL        425   YAGEHFRKAh dl-------- ---------- ---------- 
+ENO_CAEEL        423   YAGHNFRNPQ V--------- ---------- ---------- 
+ENOA_ALLMI       422   FAGRNFRNPR in-------- ---------- ---------- 
+ENO_LOLPE        424   FAGKKFRNPL k--------- ---------- ---------- 
+ENO_FASHE        423   YAGENFRRP- ---------- ---------- ---------- 
+ENO_SCHJA        424   YAGKHFRHPQ I--------- ---------- ---------- 
+ENO_DROME        424   FAGKSFGKPQ ---------- ---------- ---------- 
+ENO_HOMGA        424   FAGKNFRAPs ---------- ---------- ---------- 
+ENO1_HEVBR       433   YAGANFRKPV EPy------- ---------- ---------- 
+ENO_CHLRE        362   YAGESWRHIg w--------- ---------- ---------- 
+ENO_PLAFA        436   FAGEKFRLQL N--------- ---------- ---------- 
+ENO_MASBA        429   YAAKTLSGVg h--------- ---------- ---------- 
+ENO1_ENTHI       427   AGKN------ ------WRNS Ta-------- ---------- 
+ENO_METJA        415   AGRN------ ------FRCp f--------- ---------- 
+ENO_METAC        426   YVQL------ ---------- ---------- ---------- 
+ENO_SULTO        411   gkkiyl---- ---------- ---------- ---------- 
+ENO_AERPE        420   YAGPELRGVm grr------- ---------- ---------- 
+ENO_PYRAB        418   YAGKNFRKVf f--------- ---------- ---------- 
+ENO_METKA        418   FGPRNDFFlp ---------- ---------- ---------- 
+ENO_SYNY3        421   YAPKIGLGPK hs-------- ---------- ---------- 
+ENO_THETN        418   YPGKNAFYNI RK-------- ---------- ---------- 
+ENO_CLOPE        420   YRGRNAFFNL SK-------- ---------- ---------- 
+ENO_CLOAB        420   FRGLNAFYNI KK-------- ---------- ---------- 
+ENO_BACHD        418   YNGLQSFYNL KK-------- ---------- ---------- 
+ENO_LISMO        419   YHGNDTFYNL KK-------- ---------- ---------- 
+ENO_ENTFA        420   YKGLKSFYNL KNK------- ---------- ---------- 
+ENO_BACFR        420   YGYKRIvvkg ---------- ---------- ---------- 
+ENO_STAAM        423   YDGIKSFYNL DK-------- ---------- ---------- 
+ENOA_LACLA       422   YKGLKAFYNL KK-------- ---------- ---------- 
+ENOA_LACPL       422   YKGIHGFYNL DEaarntits k--------- ---------- 
+ENO_LEPIN        423   YKGRETFYNL ---------- ---------- ---------- 
+ENO_RALSO        417   YPGKSAFYNL R--------- ---------- ---------- 
+ENO_NITEU        417   YAGRSAFYQL Kp-------- ---------- ---------- 
+ENO_NEIMA        417   YPSKAAFYQL GK-------- ---------- ---------- 
+ENO_BORBU        421   YHGKSVFYSI Kqk------- ---------- ---------- 
+ENO_AGRT5        416   YAGRSILRG- ---------- ---------- ---------- 
+ENO_BARHE        416   YAGN------ ------WYC- ---------- ---------- 
+ENO_CAUCR        417   YAGRAALKGr ---------- ---------- ---------- 
+ENO_ZYMMO        418   YAGRSVLRKA K--------- ---------- ---------- 
+ENO2_CHLTE       429   YPGIGAFRv- ---------- ---------- ---------- 
+ENO_XANAC        419   YAGRDAFVSI KR-------- ---------- ---------- 
+ENO_FUSNN        423   YNGRDVFYNI KK-------- ---------- ---------- 
+ENO_AQUAE        415   FWGREEFYRF ts-------- ---------- ---------- 
+ENO_THEMA        418   FRGLKSFYSI KR-------- ---------- ---------- 
+ENO1_STRCO       415   YAGRSAFPRF KG-------- ---------- ---------- 
+ENO_COREF        414   YAGRSAFPRF QG-------- ---------- ---------- 
+ENO_MYCLE        415   YAGDLAFLRy vvetr----- ---------- ---------- 
+ENO_DESVM        417   YFGPMMSSHF Gfeeegee-- ---------- ---------- 
+ENO_DEIRA        415   FPGRKALR-- ---------- ---------- ---------- 
+ENO_SYNEL        417   YAPKVGLGPR ---------- ---------- ---------- 
+ENO_ANASP        420   YAGAVGLGPK ---------- ---------- ---------- 
+ENO2_STRCO       425   FAGRSALRRv ---------- ---------- ---------- 
+ENO1_PSESM       420   YRGRAEFRG- ---------- ---------- ---------- 
+ENO_AERHY        423   FRGLKEVKNQ a--------- ---------- ---------- 
+ENO_BUCAI        424   FHGLREIKSA F--------- ---------- ---------- 
+ENO_WIGBR        423   FHGKMEIKNQ Fiysnnnlkn f--------- ---------- 
+ENO_BUCBP        423   if-KNFYFNI ---------- ---------- ---------- 
+ENO_BIFLO        417   YAGYSAFKAC Kkylak---- ---------- ---------- 
+ENO_TREPA        421   YYGAKTFERF Gc-------- ---------- ---------- 
+ENO_CAMJE        413   kl-------- ---------- ---------- ---------- 
+ENO_HELPJ        418   IGKELFKHG- ---------- ---------- ---------- 
+ENO_CHLCV        415   FKDSNPFSGE ---------- ---------- ---------- 
+ENO_CHLTR        415   FQDSNPFSKA ---------- ---------- ---------- 
+ENO_CHLPN        415   FTDSNVFSye dsee------ ---------- ---------- 
+ENO1_CHLTE       417   FAGLKAFKNA K--------- ---------- ---------- 
+ENO2_PSESM       419   YAGHDAFVR- ---------- ---------- ---------- 
+ENO_MYCPN        442   YLGWNTFKNI KPQka----- ---------- ---------- 
+ENO_MYCGE        442   YLGWNTFTNI KPKnfni--- ---------- ---------- 
+ENO_MYCPE        440   YPGKSTFKSI K--------- ---------- ---------- 
+ENOB_LACPL       418   RLAHfpnnvm fd-------- ---------- ---------- 
+ENO_MYCPU        444   FPGKKAFWNL KNR------- ---------- ---------- 
+ENO_UREPA        431   YEPSKFFKfr ---------- ---------- ---------- 
+                                                      
+                       5442211000 0000000000 0000000000 0000000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((1fhu_A      :0.003874MENC_YERPE  :0.003874):0.000585(MENC_HAEIN  :0.003271MENC_PASMU  :0.003271):0.001187):0.000565MENC_VIBCH  :0.005024):0.128905(((1bqg_       :0.002301(GUDH_BACSU  :0.002088GUDH_ECOLI  :0.002088):0.000213):0.000268GUDX_ECOLI  :0.002570):0.006710GUDH_STRCO  :0.009280):0.124649):0.115500(((((((((4enl_       :0.002075ENO1_CANAL  :0.002075):0.000252ENO_ALTAL   :0.002327):0.000211ERR1_YEAST  :0.002538):0.000276(EN11_SCHPO  :0.002529EN12_SCHPO  :0.002529):0.000284):0.000204(((((((ENO_NEOFR   :0.002120ENO_CUNEL   :0.002120):0.000167ENO_CAEEL   :0.002286):0.000104((ENOA_ALLMI  :0.002166ENO_LOLPE   :0.002166):0.000146(ENO_FASHE   :0.002115ENO_SCHJA   :0.002115):0.000198):0.000078):0.000022(ENO_DROME   :0.002144ENO_HOMGA   :0.002144):0.000269):0.000195ENO1_HEVBR  :0.002608):0.000196ENO_PLAFA   :0.002804):0.000079(ENO_MASBA   :0.002529ENO1_ENTHI  :0.002529):0.000354):0.000135):0.000323ENO_CHLRE   :0.003341):0.001137((((((ENO_METJA   :0.002544ENO_PYRAB   :0.002544):0.000312ENO_METKA   :0.002856):0.000337ENO_METAC   :0.003194):0.000614(((((((((ENO_SYNY3   :0.002455(ENO_SYNEL   :0.002342ENO_ANASP   :0.002342):0.000113):0.000830(((((((((((((ENO_THETN   :0.002230ENO_CLOAB   :0.002230):0.000089ENO_CLOPE   :0.002319):0.000300ENO_BORBU   :0.002619):0.000052((((ENO_BACHD   :0.002100ENO_LISMO   :0.002100):0.000067ENO_ENTFA   :0.002167):0.000234(ENO_STAAM   :0.002054ENOA_LACLA  :0.002054):0.000347):0.000062ENOA_LACPL  :0.002462):0.000209):0.000122ENO_BACFR   :0.002793):0.000062(ENO_LEPIN   :0.002803ENO2_CHLTE  :0.002803):0.000052):0.000026ENO_FUSNN   :0.002882):0.000022((ENO_RALSO   :0.002251ENO_NEIMA   :0.002251):0.000249ENO_NITEU   :0.002501):0.000403):0.000030(ENO_AQUAE   :0.002735ENO_THEMA   :0.002735):0.000200):0.000099ENO_DEIRA   :0.003033):0.000043ENO_XANAC   :0.003076):0.000029ENO_DESVM   :0.003105):0.000060(((((ENO_AGRT5   :0.002192ENO_BARHE   :0.002192):0.000231ENO_CAUCR   :0.002423):0.000320ENO_ZYMMO   :0.002743):0.000247ENO2_STRCO  :0.002990):0.000158((ENO1_STRCO  :0.002473ENO_COREF   :0.002473):0.000133ENO_MYCLE   :0.002607):0.000541):0.000017):0.000120):0.000104ENO_TREPA   :0.003389):0.000142(((ENO1_PSESM  :0.002396ENO_AERHY   :0.002396):0.000418(ENO_BUCAI   :0.002643ENO_WIGBR   :0.002643):0.000170):0.000086ENO_BUCBP   :0.002899):0.000631):0.000110(ENO1_CHLTE  :0.003505ENO2_PSESM  :0.003505):0.000136):0.000044((ENO_CHLCV   :0.002111ENO_CHLTR   :0.002111):0.000182ENO_CHLPN   :0.002293):0.001392):0.000036ENO_BIFLO   :0.003722):0.000053ENO_MYCPU   :0.003775):0.000025(ENO_CAMJE   :0.003100ENO_HELPJ   :0.003100):0.000699):0.000008):0.000055((ENO_MYCPN   :0.002015ENO_MYCGE   :0.002015):0.000987ENO_MYCPE   :0.003002):0.000861):0.000486ENOB_LACPL  :0.004348):0.000129):0.000402ENO_UREPA   :0.004880):0.000527(ENO_SULTO   :0.004209ENO_AERPE   :0.004209):0.001198):0.244023);
+ 
+ 

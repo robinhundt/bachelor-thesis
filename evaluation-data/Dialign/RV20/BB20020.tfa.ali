@@ -1,0 +1,258 @@
+1mrj_              1   ---------- ---------- ---------- ---------- ---------- 
+1apg_A             1   ifpkqyp--- ---------- ---------- ---------- ---------- 
+MLA1_VISAL         1   yerlrlr--- ---------- ---------- ---------- ---------- 
+1abr_A             1   ---------- ---------- ---------- ---------- -------E-- 
+ABRB_ABRPR         1   ---------- ---------- ---------- ---------- -------Q-- 
+RIP2_BRYDI         1   mr--SI---- -----GFYSV LALYVGAhvT ---------- -------E-- 
+RIP2_MOMBA         1   mvkclL---- -----LSFLI IAIFIGV-PT ---------- -------A-- 
+RIP1_TRIAN         1   ---------- ---MALSFFF LAISLGS-PT ---------- -------A-- 
+RIPA_LUFCY         1   mkr------- -----FTVLI LAIFVAA-ST ---------- -------V-- 
+RIP1_MOMCH         1   MSRFSV---- -----LSFLI LAIFLGG-SI ---------- -------V-- 
+RIP1_CUCFI         1   MNRFSV---- -----LMCLV ILSIFHGvPT ---------- -------Aeg 
+RIPG_GELMU         1   mkgnmkvywi kiaVATWFCC TTIVLGS-Ta rifslptnde eetsktlG-- 
+RIPS_PHYAM         1   ---------- ---------- ---------- ---------- ---------- 
+1qi7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1apa_              1   ---------- ---------- ---------- ---------- ---------- 
+1dm0_A             1   k--------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1mrj_              1   --DVSFRLSG ATSSSYGVFI SNLRKALPNE R-KLY-DIPL LR--SS---L 
+1apg_A             8   --IINFTTAG ATVQSYTNFI RAVRGRLTTG ADVRH-EIPV LP--NRVGL- 
+MLA1_VISAL         8   ------VTHQ TTGEEYFRFI TLLRDYVSSG S-FSN-EIPL LR--QStipV 
+1abr_A             2   DRPIKFSTEG ATSQSYKQFI EALRERLRGG L--IH-DIPV LPDPTT---L 
+ABRB_ABRPR         2   DQVIKFTTEG ATSQSYKQFI EALRQRLTGG L--IH-GIPV LPDPTT---L 
+RIP2_BRYDI        21   DVDINFSLIG ATGATYKTFI RNLRTKLTVG TPRVY-DIPV LR--NA---A 
+RIP2_MOMBA        22   KGDVNFDLST ATAKTYTKFI EDFRATLPFS H-KVY-DIPL LY--ST---I 
+RIP1_TRIAN        18   IGDVSFDLST ATKKSYSSFI TQLRDALPTQ G-TVC-GIPL LP--ST---A 
+RIPA_LUFCY        19   EADVRFSLSG SSSTSYSKFI GDLRKALPSN G-TVY-NITL LL--SS---A 
+RIP1_MOMCH        22   KGDVSFRLSG ADPRSYGMFI KDLRNALPFR E-KVY-NIPL LL--PS---V 
+RIP1_CUCFI        25   DVTVKFSLLG SNHKSYSKFI TSMRNALPNA G-DIY-NIPL LV--PS---I 
+RIPG_GELMU        48   LDTVSFSTKG ATYITYVNFL NELRVKLKPE G-NSH-GIPL LR--KKCDD- 
+RIPS_PHYAM         1   INTITFDAGN ATINKYATFM ESLRNEAKDP S-LKC-YGIP ML--PN---T 
+1qi7_A             1   VTSITLDLVN PTAGQYSSFV DKIRNNVKDP N-LKY-GGTD IAV---IGP- 
+1apa_              1   INTITFDVGN ATINKYATFM KSIHNQAKDP T-LKC-YGIP ML--PN---T 
+1dm0_A             2   ----EFTLDF STAKTYVDSL NVIRSAIGTP lqtissGGTS LLM---Iddn 
+                                                                 
+                       1123333333 3333333333 3333333222 2012202222 2200220002 
+ 
+1mrj_             42   PGSQRYALIH LTNYADETIS VAIDVTNVYI MGYRAGDTS- ---YFFNEAS 
+1apg_A            52   PINQRFILVE LSNHAELSVT LALDVTNAYV VGYRAGNSA- ---YFFHpdn 
+MLA1_VISAL        48   SDAQRFVLVE LTNQGQDSVT AAIDVTNAYV VAYQAGDQS- ---YFLRDAP 
+1abr_A            46   QERNRYITVE LSNSDTESIE VGIDVTNAYV VAYRAGTQS- ---YFLRDAP 
+ABRB_ABRPR        46   QERNRYISVE LSNSDTESIE AGIDVSNAYV VAYRAGNRS- ---YFLRDAP 
+RIP2_BRYDI        65   AGLARFQLVT LTNYNGESVT VALDVVNVYV VAYRAGNTA- ---YFLADAS 
+RIP2_MOMBA        65   SDSRRFILLD LTSYAYETIS VAIDVTNVYV VAYRTRDVS- ---YFFKESP 
+RIP1_TRIAN        61   SGSQWFRFFN LTNYNDETVT VAVNVTNVYI VAYRADAVS- ---YFFEDTP 
+RIPA_LUFCY        62   SGASRYTLMT LSNYDGKAIT VAVDVTNVYI MGYLVNSTS- ---YFFNESD 
+RIP1_MOMCH        65   SGAGRYLLMH LFNYDGKTIT VAVDVTNVYI MGYLADTTS- ---YFFNEPA 
+RIP1_CUCFI        68   SGSRRYILMQ LSNYEGNTIT MAVDVTNVYI MGYLVNGTS- ---YFFNETD 
+RIPG_GELMU        93   Pgkc-FVLVA LSNDNGQLAE IAIDVTSVYV VGYQVRNRS- ---YFFKDAP 
+RIPS_PHYAM        44   NSTIKYLLVK LQGASLKTIT LMLRRNNLYV MGYSDPYDNK CRYHIFNDIK 
+1qi7_A            45   PSKEKFLRIN -FQSSRGTVS LGLKRDNLYV VAYLAMDNT- ---NVNRAYY 
+1apa_             44   NLTPKYLLVT LQDSSLKTIT LMLKRNNLYV MGYADTYNGK CRYHIFKDIs 
+1dm0_A            45   lfavdvrGID PEEGRFNNLR LIVERNNLYV TGFVNRTNN- ---VFYRFAD 
+                                                                 
+                       2233667776 7777777888 8888889998 8888777770 0007765543 
+ 
+1mrj_             88   A-T-EAAKYV F--------- --KDAMRKVT LPYSGNYERL QTAAGKI--- 
+1apg_A            98   qedaEAITHL F--------- --TDVQNRYT FAFGGNYDRL EQLAGNL--- 
+MLA1_VISAL        94   R-G--AETHL F--------- --TGT-TRSS LPFNGSYPDL ERYAGH---- 
+1abr_A            92   S-S--ASDYL F--------- --TGT-DQHS LPFYGTYGDL ERWAHQS--- 
+ABRB_ABRPR        92   T-S--ASRYL F--------- --TGT-QQYS LRFNGSYIDL ERLARQT--- 
+RIP2_BRYDI       111   T-E--ANNVL F--------- --AGI-NHVR LPYGGNYDGL ETAAGRI--- 
+RIP2_MOMBA       111   P-E--AYNIL F--------- --KGT-RKIT LPYTGNYENL QTAAHKI--- 
+RIP1_TRIAN       107   A-E--AFKLI F--------- --AGT-KTVK LPYSGNYDKL QSVVGKQ--- 
+RIPA_LUFCY       108   A-K-LASQYV F--------- --KGS-TIVT LPYSGNYEKL QTAAGKI--- 
+RIP1_MOMCH       111   A-E-LASQYV F--------- --RDARRKIT LPYSGNYERL QIAAGKP--- 
+RIP1_CUCFI       114   A-Q-LASKFV F--------- --QGT-KSIT LPYSGNYQKL QSVARKE--- 
+RIPG_GELMU       138   D-A--AYEGL F--------- --KNT-IKTR LHFGGSYPSL EGEKAY---- 
+RIPS_PHYAM        94   G-T-EYSDV- ----ENTLCP SSNPR-VAKP INYNGLYPTL EKKAGVT--- 
+1qi7_A            90   F-----Ksei tsaeLTALFP EATTA-NQKA LEYTEDYQSI EKNAQITqgd 
+1apa_             94   ntT-ERNDV- ----MTTLCP NPSSR-VGKN INYDSSYPAL EKKVGRP--- 
+1dm0_A            91   F-----SHVT F--------- --PGT-TAVT LSGDSSYTTL QRVAGIS--- 
+                                                                 
+                       3030033333 4000000000 0043304455 6566666666 6555554000 
+ 
+1mrj_            122   --RENIPLGL PALDSAITT- LF-----YY- ----NANSAA SALMVLIQST 
+1apg_A           134   --RENIELGN GPLEEAISA- LY-----YYS TGGTQLPTLA RSFIICIQMI 
+MLA1_VISAL       125   --RDQIPLGI DQLIQSVTA- LR-----FP- --GGSTRTQA RSILILIQMI 
+1abr_A           124   --RQQIPLGL QALTHGIS-- -------FFR SGGNDNEEKA RTLIVIIQMV 
+ABRB_ABRPR       124   --RQQIPLGL QALRHAISF- LQS------- --GTDDQEIA RTLIVIIQMA 
+RIP2_BRYDI       143   -SRENIELGF SEISSAIGN- MFr----HN- ----PGTSVP RAFIVIIQTV 
+RIP2_MOMBA       143   --RENIDLGL PALSSAITT- LF-----YY- ----NAQSAP SALLVLIQTT 
+RIP1_TRIAN       139   --RDMIELGI PALSSAITN- MV-----YY- ----DYQSTA AALLVLIQCT 
+RIPA_LUFCY       141   --REKIPLGF PALDSAITT- LF-----HY- ----DSTAAA AAFLVIIQTT 
+RIP1_MOMCH       145   --REKIPIGL PALDSAIST- LL-----HY- ----DSTAAA GALLVLIQTT 
+RIP1_CUCFI       147   --RDSIPLGF MALDSAIST- LY-----YY- ----DSRSAP IAFLVLIQTT 
+RIPG_GELMU       169   --RETTDLGI EPLRIGIKK- LDEnaIDNY- ----KPTEIA SSLLVVIQMV 
+RIPS_PHYAM       133   -SRNEVQLGI QILSSDIGK- ISGQG--SF- ----TEKIEA KFLLVAIQMV 
+1qi7_A           134   kSRKELGLGI DLLLTFMEA- VN-----KK- --ARVVKNEA RFLLIAIQMT 
+1apa_            134   --RSQVQLGI QILNSGIGK- IYG--VDSF- ----TEKTEA EFLLVAIQMV 
+1dm0_A           121   --RTGMQINR HSLTTSyldl MSHSG--TS- ----LTQSVA RAMLRFVTVT 
+                                                                 
+                       0044444554 4544444430 3300000330 0000334556 6667778888 
+ 
+1mrj_            159   SEAARYKFIE QQIGK--RVD KT--F--LPS LAIISLENSW SALSKQIQIA 
+1apg_A           176   SEAARFQYIE GEMRT--RIR YN--RrsAPD PSVITLENSW GRLSTAIQ-- 
+MLA1_VISAL       164   SEAARFNPIL WRYRqyiNSG AS--F--LPD VYMLELETSW GQQSTQVQ-- 
+1abr_A           163   AEAARFRYIS NRVRV--SIQ TGTAF--QPD AAMISLENNW DNLSRGVQ-- 
+ABRB_ABRPR       162   SEAARYRFIS YRVGV--SIR TNTAF--QPD AAMISLENNW DNLSGGVQ-- 
+RIP2_BRYDI       182   SEAARFKYIE QRVSE--NVG TK--F--KPD PAFLSLQNAW GSLSEQIQIA 
+RIP2_MOMBA       180   AEAARFKYIE RHVAK--YVA TN--F--KPN LAIISLENQW SALSKQIFLA 
+RIP1_TRIAN       176   AEAARYKYIE QQVSS--HIS SN--F--YPN QAVISLENKW GALSKQIQIA 
+RIPA_LUFCY       178   AEASRFKYIE GQIIE--RIS KN--Q--VPS LATISLENEW SALSKQIQLA 
+RIP1_MOMCH       182   AEAARFKYIE QQIQE--RAY RD--E--VPS LATISLENSW SGLSKQIQLA 
+RIP1_CUCFI       184   AEAARYKYIE KQIID--RIS VS--K--VPD LAAISLENEW SLLSKQIQIA 
+RIPG_GELMU       211   SEAARFTFIE NQIRN--NFQ QR--I--RPA NNTISLENKW GKLSFQIRTS 
+RIPS_PHYAM       174   SEAARFKYIE NQVKT--NFN RD--F--SPN DKVLDLEENW GKISTAIHNS 
+1qi7_A           175   AEVARFRYIQ NLVTK--NFP NK--F--DSD NKVIQFEVSW RKISTAIYGD 
+1apa_            174   SEAARFKYIE NQVKT--NFN RA--F--YPN AKVLNLEESW GKISTAIHNA 
+1dm0_A           162   AEALRFRQIQ RGFRT--TLD SY--V--MTA ED-VDLTLNW GRLSSVLP-- 
+                                                                 
+                       8888888887 7765500544 4300400466 6666666666 5555555422 
+ 
+1mrj_            203   STNN-GQFES PVVLINAQNQ RVTITNVDAG VVTSNIALLL NRNNMA---- 
+1apg_A           220   ESNQ-GAFAS PIQLQRRNGS KFSVYDVSIL IPIIALMVYR ---------- 
+MLA1_VISAL       208   HSTD-GVFNN PIRLAIPPGN FVTLTNVRDV IASLAIMLFV ---------- 
+1abr_A           207   ESVQ-DTFPN QVTLTNIRNE PVIVDSLSHP TVAVLALMLF VCNPPN---- 
+ABRB_ABRPR       206   QSVQ-DTFPN AVTLRSVNNQ PVIVDSLTHQ SVAVLALMLF VCNPPNanqs 
+RIP2_BRYDI       226   QTRG-GEFAR PVELRTVSNT PTFVTNVNSP VVKGIALLLY FRVNVGTdnv 
+RIP2_MOMBA       224   QNQG-GKFRN PVDLIKPTGE RFQVTNVDSD VVKGNIKLLL NSRASTADE- 
+RIP1_TRIAN       220   NRTGhGQFEN PVELYNPDGT RFSVTNTSAG VVKGNIKLLL YYKASv-GS- 
+RIPA_LUFCY       222   QTNN-GTFKT PVVITDDKGQ RVEITNVTSK VVTKNIQLLL NYKQNVAAFD 
+RIP1_MOMCH       226   QGNN-GIFRT PIVLVDNKGN RVQITNVTSK VVTSNIQLLL NTRNIAEGD- 
+RIP1_CUCFI       228   KSNN-GQFQT PVKIINDKGI LTEVTNVSSL VVTKNIMLLL NKLNIASFE- 
+RIPG_GELMU       255   GAN--GMFSE AVELERANGK KYYVTAVDQV KPKIALLKFV ---------- 
+RIPS_PHYAM       218   K-N--GALPK PLELKNADGT KWIVLRVDEI KPDVGLLNYV ---------- 
+1qi7_A           219   AKN--GVFNk dydfgfgkvr qvkdlq---- ---MGLLMYL gkpk------ 
+1apa_            218   K-N--GALTS PLELKNANGS KWIVLRVDDI EPDVGLLKYV ---------- 
+1dm0_A           203   Dyhg------ -----QDSVR VGRISFGSIN AILGSVALIL NCFPSMCPAD 
+                                                                 
+                       3232033333 3333222222 2222222222 2222222222 1000000000 
+ 
+1mrj_            248   ---------- ---------- ---------- ---------- ---------- 
+1apg_A           259   ---------- ---------- ---------- ---------- ---------- 
+MLA1_VISAL       247   ---------- ---------- ---------- ---------- ---------- 
+1abr_A           252   ---------- ---------- ---------- ---------- ---------- 
+ABRB_ABRPR       255   pllirsivek skicssryep tvriggrngm cvdvyddgyh ngnriiawkc 
+RIP2_BRYDI       275   famslsty-- ---------- ---------- ---------- ---------- 
+RIP2_MOMBA       272   ---------- ---------- ---------- ---------- ---------- 
+RIP1_TRIAN       268   ---------- ---------- ---------- ---------- ---------- 
+RIPA_LUFCY       271   E--------- ---------- ---------- ---------- ---------- 
+RIP1_MOMCH       274   ---------- ---------- ---------- ---------- ---------- 
+RIP1_CUCFI       276   ---------- ---------- ---------- ---------- ---------- 
+RIPG_GELMU       293   ---------- ---------- ---------- ---------- ---------- 
+RIPS_PHYAM       255   ---------- ---------- ---------- ---------- ---------- 
+1qi7_A           254   ---------- ---------- ---------- ---------- ---------- 
+1apa_            255   ---------- ---------- ---------- ---------- ---------- 
+1dm0_A           242   G--------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1mrj_            248   ---------- ---------- ---------- ---------- ---------- 
+1apg_A           259   ---------- ---------- CAPPPSSqf- ---------- ---------- 
+MLA1_VISAL       247   ---------- ---------- CGERPSSs-- ---------- ---------- 
+1abr_A           252   ---------- ---------- ---------- ---------- ---------- 
+ABRB_ABRPR       305   kdrleenqlw tlksdktirs NGKCLTTEGY Apgnyvmiyd ctsavaeaty 
+RIP2_BRYDI       283   ---------- ---------- ---------- ---------- ---------- 
+RIP2_MOMBA       272   ---------- ---------- NFITTMTLlg esvvn----- ---------- 
+RIP1_TRIAN       268   ---------- ---------- EYDIPTT--- ---------- ---------- 
+RIPA_LUFCY       272   ---------- ---------- --DVSAKH-- ---------- ---------- 
+RIP1_MOMCH       274   ---------- ---------- NGDVSTTHGF Ssy------- ---------- 
+RIP1_CUCFI       276   ---------- ---------- DHVISTTMpq a--------- ---------- 
+RIPG_GELMU       293   ---------- ---------- Dkdp------ ---------- ---------- 
+RIPS_PHYAM       255   ---------- ---------- NGTCQAT--- ---------- ---------- 
+1qi7_A           254   ---------- ---------- ---------- ---------- ---------- 
+1apa_            255   ---------- ---------- NGTCQAT--- ---------- ---------- 
+1dm0_A           243   ---------- ---------- --RVRGithn ki-------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1mrj_            248   ---------- ---------- ---------- ---------- ---------- 
+1apg_A           268   ---------- ---------- ---------- ---------- ---------- 
+MLA1_VISAL       255   ---------- ---------- ---------- ---------- ---------- 
+1abr_A           252   ---------- ---------- ---------- ---------- ---------- 
+ABRB_ABRPR       355   weIWDNGTIi npksalvlsa eSSSMGGTLT VQTNEYLMrq gwrtgnntsp 
+RIP2_BRYDI       283   ---------- ---------- ---------- ---------- ---------- 
+RIP2_MOMBA       287   ---------- ---------- ---------- ---------- ---------- 
+RIP1_TRIAN       275   ---------- ---------- ---------- ---------- ---------- 
+RIPA_LUFCY       278   ---------- ---------- ---------- ---------- ---------- 
+RIP1_MOMCH       287   ---------- ---------- ---------- ---------- ---------- 
+RIP1_CUCFI       287   ---------- ---------- ---------- ---------- ---------- 
+RIPG_GELMU       297   ---------- ---------- -KTSLAAELI IQNYESLVgf d--------- 
+RIPS_PHYAM       262   ---------- ---------- ---------- ---------- ---------- 
+1qi7_A           254   ---------- ---------- ---------- ---------- ---------- 
+1apa_            262   ---------- ---------- ---------- ---------- ---------- 
+1dm0_A           253   --LWDSSTLg ailm------ ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1mrj_            248   ---------- ---------- ---------- ---------- ---------- 
+1apg_A           268   ---------- ---------- ---------- ---------- ---------- 
+MLA1_VISAL       255   ---------- ---------- ---------- ---------- ---------- 
+1abr_A           252   ---------- ---------- ---------- ---------- ---------- 
+ABRB_ABRPR       405   fvtsisgysd lcmqaqgsnv wlaycdnnkk eqqwalytdg sirsvqntnn 
+RIP2_BRYDI       283   ---------- ---------- ---------- ---------- ---------- 
+RIP2_MOMBA       287   ---------- ---------- ---------- ---------- ---------- 
+RIP1_TRIAN       275   ---------- ---------- ---------- ---------- ---------- 
+RIPA_LUFCY       278   ---------- ---------- ---------- ---------- ---------- 
+RIP1_MOMCH       287   ---------- ---------- ---------- ---------- ---------- 
+RIP1_CUCFI       287   ---------- ---------- ---------- ---------- ---------- 
+RIPG_GELMU       317   ---------- ---------- ---------- ---------- ---------- 
+RIPS_PHYAM       262   ---------- ---------- ---------- ---------- ---------- 
+1qi7_A           254   ---------- ---------- ---------- ---------- ---------- 
+1apa_            262   ---------- ---------- ---------- ---------- ---------- 
+1dm0_A           265   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1mrj_            248   ---------- ---------- ---------- ---------- ---------- 
+1apg_A           268   ---------- ---------- ---------- ---------- ---------- 
+MLA1_VISAL       255   ---------- ---------- ---------- ---------- ---------- 
+1abr_A           252   ---------- ---------- ---------- ---------- ---------- 
+ABRB_ABRPR       455   cltskdhkqg spivlmacsn gwasqrwlfr ndgsiynlhd dmvmdvkrsd 
+RIP2_BRYDI       283   ---------- ---------- ---------- ---------- ---------- 
+RIP2_MOMBA       287   ---------- ---------- ---------- ---------- ---------- 
+RIP1_TRIAN       275   ---------- ---------- ---------- ---------- ---------- 
+RIPA_LUFCY       278   ---------- ---------- ---------- ---------- ---------- 
+RIP1_MOMCH       287   ---------- ---------- ---------- ---------- ---------- 
+RIP1_CUCFI       287   ---------- ---------- ---------- ---------- ---------- 
+RIPG_GELMU       317   ---------- ---------- ---------- ---------- ---------- 
+RIPS_PHYAM       262   ---------- ---------- ---------- ---------- ---------- 
+1qi7_A           254   ---------- ---------- ---------- ---------- ---------- 
+1apa_            262   ---------- ---------- ---------- ---------- ---------- 
+1dm0_A           265   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1mrj_            248   ---------- ---------- ------ 
+1apg_A           268   ---------- ---------- ------ 
+MLA1_VISAL       255   ---------- ---------- ------ 
+1abr_A           252   ---------- ---------- ------ 
+ABRB_ABRPR       505   pslkeiILHP yhgkpnqiwl tlf--- 
+RIP2_BRYDI       283   ---------- ---------- ------ 
+RIP2_MOMBA       287   ---------- ---------- ------ 
+RIP1_TRIAN       275   ------ILHP gamgmlhnqn gnyvtm 
+RIPA_LUFCY       278   ---------- ---------- ------ 
+RIP1_MOMCH       287   ---------- ---------- ------ 
+RIP1_CUCFI       287   ---------- ---------- ------ 
+RIPG_GELMU       317   ---------- ---------- ------ 
+RIPS_PHYAM       262   ---------- ---------- ------ 
+1qi7_A           254   ---------- ---------- ------ 
+1apa_            262   ---------- ---------- ------ 
+1dm0_A           265   ---------- ---------- ------ 
+                                       
+                       0000000000 0000000000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((1mrj_       :0.005435((RIPA_LUFCY  :0.004203RIP1_MOMCH  :0.004203):0.000811RIP1_CUCFI  :0.005014):0.000421):0.001409(RIP2_MOMBA  :0.005643RIP1_TRIAN  :0.005643):0.001201):0.003119RIP2_BRYDI  :0.009963):0.006201(1apg_A      :0.012720(MLA1_VISAL  :0.012057(1abr_A      :0.003743ABRB_ABRPR  :0.003743):0.008314):0.000663):0.003443):0.001913RIPG_GELMU  :0.018077):0.013820((RIPS_PHYAM  :0.0035281apa_       :0.003528):0.0126051qi7_A      :0.016133):0.015763):0.0372311dm0_A      :0.069128);
+ 
+ 

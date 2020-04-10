@@ -1,0 +1,95 @@
+1bqb_A             1   aaatgtgkgv lg-------- ------DTKD ININSIDGGF SLEDLTHQGK 
+PRT1_ERWCA         1   m--------- ---------- ---------- ---------- ---------- 
+1ezm_              1   aeaggpggnq kigkyty--- ---------- ---------- ---------- 
+PRZN_RENSA         1   mkkyyavtgi alavgmlctt qlagatQAAD PSVGSLDSSN VVTEFSAQGN 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A            37   LSAYNFNDQT GQATL----- ---------- ---------- ---------- 
+PRT1_ERWCA         2   ---------- --------KS RPICSVIPPY ILHRIIANGT Deqrhcaqqt 
+1ezm_             18   ---------- ---------- ---------- --------GS DYgpl----- 
+PRZN_RENSA        51   VEQITFKSAI KSAPMssaRS AQTSAIIPGL KNLFVSAPGS DFslndssnn 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A            52   ---------- ---------- ---------- ---------- ---------- 
+PRT1_ERWCA        34   lmhvqslmvs hhprpephek ---------- ---------- -------LPA 
+1ezm_             25   ---------- ---------- ---------- ---------- ---------- 
+PRZN_RENSA       101   yikrftqnia gipvlgssit evldgqgavt saigavtsat kgafpadLAA 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A            52   ---------- ---------- ---------- ---------- ---------- 
+PRT1_ERWCA        57   GQAnrsihda eqqqqlp--- ---------- ---------- ---------- 
+1ezm_             25   ---------- ---------- ---------- ---------- ---------- 
+PRZN_RENSA       151   GQAaalasat kiasagkdas aislvdqkai wfdavligkg atgsvavpay 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A            52   ---------- ---------- ---------- ----ITNEDE NFVKDDQRAg 
+PRT1_ERWCA        74   ---------- ---------- ---------- ---------- ---------- 
+1ezm_             25   ---------- ---------- --IVNDRCEM DDGNVITVDM NSSTDDSKTt 
+PRZN_RENSA       201   qfsfttgfae srvltvaand gaILNDRTDR KDINRVVCDA NSKVIDleas 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A            68   v--------- ---------- ---------- -DANYYAKQT YDYYKNTFGR 
+PRT1_ERWCA        74   ---------- ---GKLVRAE GQPSNGDIAV DEAYSYLGVT YDFFWKIFQR 
+1ezm_             53   pfrfac---- -----PTNTY KQVNGAYSPL NDAHFFGGVV FKLYRDWFGT 
+PRZN_RENSA       251   nadallkcgk tqaNKPTRIE GQAASSVADV NSVYNFLNDT ASFYGANTKA 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A            88   ESYDNHGSPI VSLTHvnhyg GQDnrn---- ---------N AAWIGDKMIY 
+PRT1_ERWCA       111   NSLDAEGLPL AGTVHY---- GQD------- -------YQN AFWNGQQMVF 
+1ezm_             94   SPLThklymk ---VHY---- GRS------- -------VEN AYWDGTAMLF 
+PRZN_RENSA       301   NDLTalignd egdglgkamr avvricvtds qngeqcpFAN AFWYNGQMTY 
+                                                                 
+                       0000000000 0001100000 0000000000 0000000112 2222222222 
+ 
+1bqb_A           125   GDGDGRTFtn lsganDVVAH EITHGVTQQT ANLEYKDQSG ALNESFSDVF 
+PRT1_ERWCA       143   GDGDGKIFnr ftIALDVVAH ELTHGITENE AGLIYFRQSG ALNESLSDVF 
+1ezm_            123   GDGATmfypl --VSLDVAAH EVSHGFTEQN SGLIYRGQSG GMNEAFSDMA 
+PRZN_RENSA       351   GQGVTtd--- -----DITGH ELTHGVTEKT NGLVYANESG AINESMSDVF 
+                                                                 
+                       2220000000 0011199999 9999999999 9999999999 9999999999 
+ 
+1bqb_A           175   GYFV------ ---DDEDFLM GEDVYTP--- --GKEGDALR SMSNPEQFG- 
+PRT1_ERWCA       193   GSMVkqyhlg qttEQADWLI GAELLAD--- --GIHGMGLR SMSHPGtayd 
+1ezm_            171   GEaaefymrg kn----DFLI GYDIk----- ---KGSGALR YMDQPSRDG- 
+PRZN_RENSA       393   GEFI------ ---Dlsngss ddtaanrwai geGSSLGVIR SMKDPGKYG- 
+                                                                 
+                       9644000000 0002000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A           210   --------QP SHMKDYV--- -----YTEKD NGGVHTNSGI PNKAAY---- 
+PRT1_ERWCA       238   dellgidpQP SHMNEYV--- -----NTRED NGGVHLNSGI PNRAFYLAAi 
+1ezm_            208   --------RS IDNASQY--- -----YNGID ---VHHSSGV YNRAFYLLAN 
+PRZN_RENSA       433   --------EP AIYKgsnwkp tatnpNDNND QGGVHSNSGV GNKLAFLITD 
+                                                                 
+                       0000000011 1111111000 0000022222 2223333333 3333330000 
+ 
+1bqb_A           240   ------NVIQ AIGKSKSEQI YYRAL-TEYL TSNSNFKDLK DALYQAAKDL 
+PRT1_ERWCA       280   algghsw--- ----EKAGRI WYDTLcDKTL PQNADFEIFA RHTIQHAAKR 
+1ezm_            239   spgwdtr--- -----KAFEV FVDAN-RYYW TATSNYNSGA CGVIRSAQNr 
+PRZN_RENSA       475   gqtfngQTVT GIGIAKAAQL -YWAA-QRQL TANATYSSLG KALNSACSAN 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1bqb_A           283   YEQQTAEQVY EAWNEVGVE- ------ 
+PRT1_ERWCA       323   FNHTVADIVQ QSWETVGVEv rqefl- 
+1ezm_            280   ny--SAADVT RAFSTVGVtc p----- 
+PRZN_RENSA       523   VSNNVAGTTA ANCTQVanai kavgik 
+                                       
+                       0000000000 0000000000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1bqb_A      :0.009886PRT1_ERWCA  :0.009886):0.007886PRZN_RENSA  :0.017772):0.0043121ezm_       :0.022085);
+ 
+ 

@@ -1,0 +1,60 @@
+12e8_H             1   evqLQQSGAE VVRSGASVKL SCTASgfnik dy-YIHWVKQ RPEkglewig 
+1adq_A             1   psvflfppkp k--------- ---------- ---------- ---------- 
+1etz_A             1   favVTQESAL TTSPGETVTL TCRSStgavt tsnYAIWVQE KPDhlfsgli 
+TCB1_MOUSE         1   edlrn----- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+12e8_H            50   wideigDTEY VPKFQGKATM TADTSSNTAY LQLT----SE DTAVYYCNAg 
+1adq_A            12   ------DTLM ISRTPEVTCV VVDVSQEDPQ VQFN----WY VDGVQVHNAk 
+1etz_A            51   ggtn------ -NRVPGVpar fsgsligdka altvtgaqTE DEAIYFCalw 
+TCB1_MOUSE         6   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+12e8_H            96   hdydrpy--- ---------- ------WGQG TLV------- ------TVSA 
+1adq_A            52   tkpreqqfns tyrvvsvltv lhqNWLDGke ykckvsnkgl pssiekTISK 
+1etz_A            94   ysn------- ---------- ---HWVFGGG TKL------- ------TVLG 
+TCB1_MOUSE         6   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+12e8_H           114   AKTTP--PSV YPLAPGSAAQ T-NSMVTLGC LVKGYFPEPV TVTWNSgsls 
+1adq_A           102   AKGQPrePQV YTLPPSQEEM T-KNQVSLTC LVKGFYPSDI AVEWESNGQP 
+1etz_A           111   QPKSS--PSV TLFTPSSEEL E-TNKATLVC TITDFYPGVV TVDWKVDGTP 
+TCB1_MOUSE         6   --VTP--PKV SLFEPSKAEI AnKQKATLVC LARGFFPDHV ELSWWVNGKE 
+                                                                 
+                       0000000333 3333555444 4055779999 9999999999 9999774444 
+ 
+12e8_H           161   sgvh---T-F PAVLQSDLYT LSSSVTVPSS TWPS-ETV-T CNVAHPAsst 
+1adq_A           151   ENNYKTTPPv l--DSDGSFF LYSRLTVDKS RWQE-GNVFS CSVMHEAlhn 
+1etz_A           158   VTQGMETT-Q PSKQSNNKYM ASSYLTLTAR AWER-HSSYS CQVTHEG--- 
+TCB1_MOUSE        52   VHSGVSTDPQ AYKESNYSYC LSSRLRVSAT FWHNpRNHFR CQVQFHG--- 
+                                                                 
+                       2222222110 0001222222 2222222222 2211000000 0000000000 
+ 
+12e8_H           205   kvdkkivprd ---------- ---------- ---------- ---------- 
+1adq_A           198   HYTQKSLSl- ---------- ---------- ---------- ---------- 
+1etz_A           203   HTVEKSLS-- ---------- -----RAECs ---------- ---------- 
+TCB1_MOUSE        99   LSEEdkwpeg spkpvtqnis aeawgRADCg itsasyqqgv lsatilyeil 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+12e8_H           215   ---------- ---------- ----- 
+1adq_A           207   ---------- ---------- ----- 
+1etz_A           216   ---------- ---------- ----- 
+TCB1_MOUSE       149   lgkatlyavl vstlvvmamv krkns 
+                                      
+                       0000000000 0000000000 00000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+((12e8_H      :0.042541(1adq_A      :0.0359971etz_A      :0.035997):0.006544):0.010284TCB1_MOUSE  :0.052825);
+ 
+ 

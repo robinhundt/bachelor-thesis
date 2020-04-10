@@ -1,0 +1,74 @@
+1a7c_A             1   hhppsyv--- ---------- ----AHLASD FGVRVFQQVA QASKDR-NVV 
+1mtp_A             1   ggflrdd--- ---------- -------HLE FALHLHRRLA EAVPDG-EVI 
+1jmj_A             1   ldlekifsed dlqlfhgKSR IQRLNILNAK FAFNLYRVLK DQVNTfdNIF 
+1imv_A             1   tgalveeedp ff-----KVP VNKLAAAVSN FGYDLYRVRS SMSPTT-NVL 
+                                                                 
+                       0000000000 0000000000 0000111112 3333333333 3333330666 
+ 
+1a7c_A            33   FSPYGVASVL AMLQLTTGGE TQQQIQAAMG FKiddkgmAP A----LRHLY 
+1mtp_A            30   WSPYSVACAL GVLAAGARAT TRTELTTLLg tdpapllaa- ---------- 
+1jmj_A            51   IAPVGISTAM GMISLGLKGE THEQVHSILH FKdfvnassk yeittIHNLF 
+1imv_A            45   LSPLSVATAL SALSLGADER TESIIHRALY Ydlis---SP D----IHGTY 
+                                                                 
+                       6666666666 6665544444 4333333332 2100000000 0000000000 
+ 
+1a7c_A            79   KELMgpw--N KD--EISTTD AIFVQRDLKL VQGFMPHFFR LFRSTVKQVD 
+1mtp_A            69   ---LDRAVTD SP--DLASRT VLWVSADVPV RSSFRATMHD RPDSDVRTAD 
+1jmj_A           101   RKLthrlfrr nfgyTLRSVN DLYIQKQFPI LLDFKTKVRE YYFAEAQIAD 
+1imv_A            88   KELLDTVTAP QK--NLKSAS RIVFEKKLRI KSSFVAPLEK SYGTRPRVLt 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1a7c_A           125   FSEverarfi -INDWVKTHT KGMISNLLGK GAVDQLTRLV LVNALYFNGQ 
+1mtp_A           114   FrtnpegvrA TVNADIADAT RGMIRELLPQ GAVTPDLRAI LTNALWAKAR 
+1jmj_A           151   FSDpafI--S KTNNHIMKLT KGLIKDALEN --IDPATQMM ILNCIYFKGS 
+1imv_A           136   gnprldL--Q EINNWVQAQM KGKLARSTKE --IPDEISIL LLGVAHFKGQ 
+                                                                 
+                       0000000000 0000000002 2222222222 2233333399 9999999999 
+ 
+1a7c_A           174   WKTPFPDSST HRRLFHKSDG STVSVPMMAQ TNKFNYTeft tpdghyyDIL 
+1mtp_A           164   WTTPFEAHLT REGTFRTprg pk-RVPFMHR TKTMPYAtar gw-----RMV 
+1jmj_A           197   WVNKFPVEMT HNHNFRLNER EVVKVSMMqt kgnflaan-D QELDC--DIL 
+1imv_A           182   WVTKFDSRKT SLEDFYLDEE RTVRVPMMSD PKAVlryglD SDLSC--KIA 
+                                                                 
+                       9999966666 6666666555 5555555500 0000000000 0000000111 
+ 
+1a7c_A           224   ELPYHGdTLS MFIAAPYEKE VPLSALTNIL SAQLISHWKG NMTRLPRLLV 
+1mtp_A           208   TLHAHD-ELA VDVLLPPGTN AAAVPTAPLL TA-----LHR RSASTSVELA 
+1jmj_A           244   QLEYVG-GIS MLIVVPHKMS GMKTLeaqlt p-RVVERWQK SMTNRTREVL 
+1imv_A           230   QLPLTG-SMS IIFFLPLKVT QNLTLIEESL TSEFIhdIDR ELKTVQAVLT 
+                                                                 
+                       1111110000 0000000000 0000000000 0011111111 1111111444 
+ 
+1a7c_A           274   LPKFSLETEV DLRKPLENLG MTDMFrqfqa dftslsdqEP LHVAQALQKV 
+1mtp_A           252   LPRFELTQPH QLVEVLAEAG VRTLFTASAD LSGIST--VP LYVDTVIHQA 
+1jmj_A           292   LPKFKLEKNY NLVESLKLMG IRMLFDKNGN MAGISD--QR IAIDLFKHQG 
+1imv_A           279   VPKLKLSYEG EVTKSLQEMK LQSLFDSp-D FSKITG--KP IKLTQVEHRA 
+                                                                 
+                       5555555555 5555555555 5333322112 2222200000 1111111111 
+ 
+1a7c_A           324   KIEVNESG-- ----TAPEE- ---------- ---IIMDRPF LFVVRHNPTG 
+1mtp_A           300   RLRVDERG-- ----AEGAAA TAAmmll--- ---------- ---------- 
+1jmj_A           340   TITVNEEG-- ----TQATTV TTVgfmplst qvrFTVDRPF LFLIYEHRTS 
+1imv_A           326   GFEWNEDGag tthlTFPLD- ---------- ---YHLNQPF IFVLRDTDTG 
+                                                                 
+                       1111111100 0000222220 0000000000 0003344444 4444444444 
+ 
+1a7c_A           354   TVLFMGQVME P--- 
+1mtp_A           321   ---------- ---- 
+1jmj_A           384   CLLFMGRVAN Psrs 
+1imv_A           362   ALLFIGKILD Prgp 
+                          
+                       4444444444 4000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1a7c_A      :0.0191941jmj_A      :0.019194):0.0026241imv_A      :0.021818):0.0145351mtp_A      :0.036353);
+ 
+ 
