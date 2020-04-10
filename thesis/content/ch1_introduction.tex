@@ -1,0 +1,383 @@
+\chapter{Introduction}
+
+This is the introduction chapter that shows the basic use of some latex commands that can be used in the document. Of course there is a lot more in latex that cannot be covered here.
+
+
+\section{Document Structure}
+The document structure is defined by the \texttt{documentclass} command in the main latex file. Here the \texttt{book} format is used that supports the following subdivisions:
+
+\texttt{\textbackslash chapter} -- A book chapter\\
+\texttt{\textbackslash section} -- A section in a chapter\\
+\texttt{\textbackslash subsection} -- A subsection in a section of a chapter\\
+\texttt{\textbackslash subsubsection} -- A subsubsection in a subsection of section in a chapter\\
+
+Each of the subdivisions is automatically numbered. If the numbering should be omitted, add a \texttt{*} to the command e.g.:
+\begin{verbatim}
+    \section*{My Section}
+\end{verbatim}
+
+Additionally, paragraphs can be defined:
+\texttt{\textbackslash paragraph} -- A paragraph\\
+\texttt{\textbackslash subparagraph} -- A subparagraph in a paragraph\\
+
+
+
+\section{Paragraph Formatting}
+
+Paragraphs can be aligned in different ways:
+
+\begin{flushleft}
+    You can flush a paragraph to the left that is the default.
+\end{flushleft}
+\begin{verbatim}
+\begin{flushleft}
+    You can flush a paragraph to the left that is the default.
+\end{flushleft}
+\end{verbatim}
+
+\begin{flushright}
+    Or you can flush a paragraph to the right.
+\end{flushright}
+\begin{verbatim}
+\begin{flushright}
+    Or you can flush a paragraph to the right.
+\end{flushright}
+\end{verbatim}
+
+\begin{center}
+    Or you can center the paragraph.
+\end{center}
+\begin{verbatim}
+\begin{center}
+    Or you can center the paragraph.
+\end{center}
+\end{verbatim}
+
+There is also the \texttt{verbatim} paragraph that does not interpret the text. This can be used, for example, to show some source code. However, for an improved source code handling see the \texttt{lstlisting} package.
+\begin{verbatim}
+#include<stdio.h>
+
+int main() {
+    printf("Hello World\n");
+
+    return 0;
+}
+\end{verbatim}
+
+\section{Font}
+
+\subsection{Emphasizing}
+Text can be \emph{emphasized} as follows:
+\begin{verbatim}
+\emph{emphasized text}
+\end{verbatim}
+
+To emphasize a word \textbf{more heavily} do:
+\begin{verbatim}
+\textbf{bold text}
+\end{verbatim}
+
+\subsection{Font Styles}
+There are different options to style a font. The most important are:
+
+Use the \textsf{sans serif font family}:
+\begin{verbatim}
+\textsf{sans serif font family}
+\end{verbatim}
+
+Use the \texttt{teletypefont family} (monospace font):
+\begin{verbatim}
+\texttt{teletypefont family}
+\end{verbatim}
+
+
+\subsection{Font Sizes}
+
+Be aware of the different font sizes:
+
+{\tiny \texttt{\textbackslash tiny}}\\
+{\scriptsize \texttt{\textbackslash scriptsize}}\\
+{\footnotesize \texttt{\textbackslash footnotesize}}\\
+{\small \texttt{\textbackslash small}}\\
+{\normalsize \texttt{\textbackslash normalsize}}\\
+{\large \texttt{\textbackslash large}}\\
+{\Large \texttt{\textbackslash Large}}\\
+{\LARGE \texttt{\textbackslash LARGE}}\\
+{\huge \texttt{\textbackslash huge}}\\
+{\Huge \texttt{\textbackslash Huge}}\\
+
+
+\section{Colors}
+The \texttt{xcolor} package allows to set the font color. The easiest way to change the \textcolor{red}{red} of a text is to use:
+\begin{verbatim}
+\textcolor{red}{red text}
+\end{verbatim}
+There are a couple of pre-defined color names available, but of course custom colors can be defined as well. See the \texttt{xcolor} package manual for details.
+
+
+\section{List Structures}
+There are different ways to define a list in latex:
+
+As unordered list:
+\begin{itemize}
+    \item One
+    \item Two
+    \item Three
+\end{itemize}
+\begin{verbatim}
+\begin{itemize}
+    \item One
+    \item Two
+    \item Three
+\end{itemize}
+\end{verbatim}
+
+
+Or as ordered list:
+\begin{enumerate}
+    \item One
+    \item Two
+    \item Three
+\end{enumerate}
+\begin{verbatim}
+\begin{enumerate}
+    \item One
+    \item Two
+    \item Three
+\end{enumerate}
+\end{verbatim}
+
+
+Or as description list:
+\begin{description}
+    \item[First] One
+    \item[Second] Two
+    \item[Third] Three
+\end{description}
+\begin{verbatim}
+\begin{description}
+    \item[First] One
+    \item[Second] Two
+    \item[Third] Three
+\end{description}
+\end{verbatim}
+
+Of course lists can also be nested:
+\begin{enumerate}
+    \item One
+        \begin{enumerate}
+            \item alpha
+            \item beta
+        \end{enumerate}
+    \item Two
+    \item Three
+\end{enumerate}
+\begin{verbatim}
+\begin{enumerate}
+    \item One
+        \begin{enumerate}
+            \item alpha
+            \item beta
+        \end{enumerate}
+    \item Two
+    \item Three
+\end{enumerate}
+\end{verbatim}
+
+
+\section{Tables}
+
+The \texttt{tabular} environment can be used to create a simple table:
+\begin{tabular}{l|c|p{3cm}|r}
+    1 & 2 & 3 & 4 \\
+    5 & 6 & 7 & 8\\[6pt]
+    \hline
+    9 & 10 & 11 & 12 \\
+\end{tabular}
+
+The (\texttt{l})eft, (\texttt{c})entre, (\texttt{r})ight define the column alignments; the \texttt{p} can be used to set a fixed column size (left aligned). The pipe symbol draws a vertical line between the columns. Every column is separated by an \texttt{\&}, while the rows are separated by \texttt{\textbackslash\textbackslash}. Horizontal lines can be inserted using the \texttt{\textbackslash hline} command.
+\begin{verbatim}
+\begin{tabular}{l|c|p{3cm}|r}
+    1 & 2 & 3 & 4 \\
+    5 & 6 & 7 & 8\\[6pt]
+    \hline
+    9 & 10 & 11 & 12 \\
+\end{tabular}
+\end{verbatim}
+
+To span multiple rows or columns see the \texttt{multirow} package documentation. For flexible column sizes check the \texttt{tabularx} package.
+
+\subsection{Table Environment}
+To center the table, to add a caption and to reference to a table use the \texttt{table} environment:
+
+\begin{table}[htbp]
+    \centering
+    \begin{tabular}{l|c|p{3cm}|r}
+        1 & 2 & 3 & 4 \\
+        5 & 6 & 7 & 8\\[6pt]
+        \hline
+        9 & 10 & 11 & 12 \\
+    \end{tabular}
+    \caption{This is a Table}
+    \label{tab:firsttable}
+\end{table}
+By its label the table can be referenced (see Table \ref{tab:firsttable}).
+
+The \texttt{table} environment has a parameter to help latex to position the table. The provided positioning options will be tried in the given order (\texttt{h})ere, (\texttt{t})top, (\texttt{b})ottom, separate (\texttt{p})age.
+\begin{verbatim}
+\begin{table}[htbp]
+    \centering
+    \begin{tabular}{l|c|p{3cm}|r}
+        1 & 2 & 3 & 4 \\
+        5 & 6 & 7 & 8\\[6pt]
+        \hline
+        9 & 10 & 11 & 12 \\
+    \end{tabular}
+    \caption{This is a Table}
+    \label{tab:firsttable}
+\end{table}
+\end{verbatim}
+
+
+\section{Using Graphics}
+The \texttt{graphix} package can be used to include graphics in the document. The vector-based graphic formats \texttt{eps} and \texttt{pdf} are preferred, while the pixel-based \texttt{jpg} and \texttt{png} can also be included. The extension is automatically figured out by latex:
+
+\includegraphics[width=0.15\textwidth]{images/goe_logo_small}
+
+Different parameters can be provided with the \texttt{includegraphic} command such as \texttt{height}, \texttt{angle}, \texttt{scale} etc. However, the most important is the \texttt{width} particularly in combination with the percentage of the page with (using the \texttt{\textbackslash textwidth} command).
+\begin{verbatim}
+    \includegraphics[width=0.15\textwidth]{images/goe_logo_small}
+\end{verbatim}
+For more details see the \texttt{graphicx} manual.
+
+
+\subsection{Figure Environment}
+To center the picture, to add a caption and to reference to the picture use the \texttt{figure} environment:
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.15\textwidth]{images/goe_logo_small}
+    \caption{This is a figure}
+    \label{fig:firstfigure}
+\end{figure}
+The figure can be referenced easily (see Figure \ref{fig:firstfigure}).
+
+As for the table environment, the recommended position of the figure can be proposed.
+\begin{verbatim}
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.15\textwidth]{images/goe_logo_small}
+    \caption{This is a figure}
+    \label{fig:firstfigure}
+\end{figure}
+\end{verbatim}
+
+\section{Citing}
+One of the most important things in scientific work is the citing. In latex citing, the corresponding numbering and formatting is easy since everything is automatically managed by latex. For example:
+
+John Doe\cite{doe2013} proposes is his paper a new approach on XYZ.
+
+Meyer et al.\cite[p. 100]{meyer2014} suggest a new method to XYZ.
+
+The \texttt{\textbackslash cite} command is used to reference to an item by its key. The references are stored in a separate \texttt{references.bib} file that contains all references in the \texttt{bibtex} format.
+\begin{verbatim}
+    \cite{doe2013}
+    \cite[p. 100]{meyer2014}
+\end{verbatim}
+
+The bibliography is automatically created based on the used citations.
+
+For good practices in scientific writing you can make use of the following documents: 
+
+\begin{itemize}
+\item \url{https://www.hochschulverband.de/fileadmin/redaktion/download/pdf/resolutionen/Gute_wiss._Praxis_Fakultaetentage.pdf} (only in german)
+\item
+\url{https://www.sub.uni-goettingen.de/en/learning-teaching/academic-work-tools-and-methods/academic-writing/}
+
+
+\end{itemize}
+
+\section{Footnotes}
+Footnotes can be easily inserted using the \texttt{footnote} command\footnote{Make sure to used footnotes only where really necessary!}.
+\begin{verbatim}
+\footnote{Make sure to used footnotes only where really necessary!}
+\end{verbatim}
+
+For manual placement of the mark and the corresponding text use the \texttt{\textbackslash footnotemark} and the \texttt{\textbackslash footnotetext} command.
+
+
+\section{Mathmode}
+Latex provides very sophisticated options to display mathematical formulas. The easiest way to enter the math mode within the text is to use \texttt{\$ ... \$} e.g. \texttt{\$ \textbackslash alpha + \textbackslash beta = 12345 \$} results in $\alpha + \beta = 12345$
+
+Equations can also be put into a separate environment that can be referenced:
+\begin{equation}
+    f(n) = n^5 + 4n^2 + 2
+    \label{eq:firstequation}
+\end{equation}
+The equation can be referenced (see Equation \ref{eq:firstequation}).
+
+\begin{verbatim}
+\begin{equation}
+    f(n) = n^5 + 4n^2 + 2
+    \label{eq:firstequation}
+\end{equation}
+\end{verbatim}
+
+There is a lot more about math in Latex, which cannot be considered here. Please check the corresponding documents.
+
+\section{Listings}
+As presented before, for simple commands that should not be interpreted the \texttt{verbatim} environment can be used. For a more sophisticated syntax highlighting use the \texttt{lstlisting} package.
+
+\begin{lstlisting}[caption={Hello World},label={lst:helloworld}]
+#include<stdio.h>
+
+int main() {
+    printf("Hello World\n");
+
+    return 0;
+}
+\end{lstlisting}
+
+The listing can also be referenced (see Listing \ref{lst:helloworld}).
+
+\begin{verbatim}
+\begin{lstlisting}[caption={Hello World},label={lst:helloworld}]
+#include<stdio.h>
+
+int main() {
+    printf("Hello World\n");
+
+    return 0;
+}
+\end{lstlisting}
+\end{verbatim}
+
+To include a whole file use:
+\begin{verbatim}
+\lstinputlisting{source_filename.py}
+\end{verbatim}
+
+For more details about the formatting options and available programming languages consult the \texttt{lstlisting} manual.
+
+
+\section{Acronyms}
+Using the \texttt{acronym} package, it is easy to use acronyms that are automatically listed in the acronym table. The acronyms are located in a separate file, but can be accessed using the keyword.
+
+For example:
+
+\ac{FYI} is a common abbreviation. \ac{FYI} can be used in multiple contexts.
+It is used so often because \ac{FYI} is very popular.
+
+\begin{verbatim}
+\ac{FYI} is a common abbreviation. \ac{FYI} can be used in multiple contexts.
+It is used so often because \ac{FYI} is very popular.
+\end{verbatim}
+
+
+Using \texttt{\textbackslash ac} for the first time results in showing the complete form, while every following time just an abbreviation is used. The use of the complete form can be forced by using \texttt{\textbackslash acf}.
+
+\section{PDF/A validation}
+
+The thesis has to be in PDF/A format for archiving. This template automatically generates your file according to the PDF/A standard. It can be that this is violated by changing the document, for example by inserting non-compliant graphics. Please check, whether your final version of the document is PDF/A compliant, e.g., by using a freely available tool like \emph{veraPDF}\footnote{https://verapdf.org/home/}.
+
+ 
+
