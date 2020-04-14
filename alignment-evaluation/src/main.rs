@@ -17,7 +17,7 @@ use crate::data_loaders::balibase::parse_xml_file;
 use crate::score::{compute_scores, AlignmentScores};
 use std::sync::Mutex;
 use spam_align::spaced_word::{Pattern, read_patterns_from_file};
-use spam_align::align::{align, Align};
+use spam_align::align::{align, AlignProgress};
 use spam_align::align::eq_class::EqClasses;
 use indicatif::ProgressIterator;
 
@@ -182,7 +182,7 @@ fn run_dialign(fasta_in: &PathBuf, fasta_out: &PathBuf, args: &[&str], envs: Vec
 fn run_spam_align(fasta_in: &PathBuf, fasta_out: &PathBuf, pattern_set: &PatternSet) -> Result<Duration> {
     let now = Instant::now();
     let input = Alignment::read_fasta(fasta_in)?;
-    let (micro_alignments, closure) = align(&input.unaligned_data, &pattern_set.patterns, Align::HideProgress);
+    let (micro_alignments, closure) = align(&input.unaligned_data, &pattern_set.patterns, AlignProgress::Hide);
     let eq_classes = EqClasses::new(&micro_alignments, &closure);
     let mut seqs = input.unaligned_data.clone();
     eq_classes.align_sequences(&mut seqs);

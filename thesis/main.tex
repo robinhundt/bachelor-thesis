@@ -21,14 +21,14 @@
 % insert metadata about the document here
 \RequirePackage{filecontents}
 \begin{filecontents*}{\jobname.xmpdata}
-\Title{Document’s title}
-\Author{Author’s name}
+\Title{Bachelor thesis}
+\Author{Robin William hundt}
 \Language{en-US}
 \Subject{The abstract, or short description.}
 \Keywords{keyword1\sep keyword2\sep keyword3}
 \end{filecontents*}
 \usepackage{colorprofiles}
-%\usepackage[a-1b,mathxmp]{pdfx}[2018/12/22]
+\usepackage[a-1b,mathxmp]{pdfx}[2018/12/22]
 \usepackage[T1]{fontenc}
 \hypersetup{pdfstartview=}
 
@@ -61,12 +61,12 @@
 %\newcommand{\mycourse}{Internet Technologies and Information Systems}
 
 \newcommand{\mytitle}{My Title}
-\newcommand{\myauthor}{John Doe}
+\newcommand{\myauthor}{Robin William Hundt}
 \newcommand{\mydepartment}{Institute of Computer Science}
-\newcommand{\mysubmissiondate}{xx. Month 201x}
+\newcommand{\mysubmissiondate}{09. May 2020}
 \newcommand{\mythesisid}{201x-xx} %assigned by examination office
-\newcommand{\myfirstsupervisor}{Prof. Dr. No}
-\newcommand{\mysecondsupervisor}{Prof. Dr. Yes}
+\newcommand{\myfirstsupervisor}{Prof. Dr. Burkhard Morgenstern}
+\newcommand{\mysecondsupervisor}{Dr. Peter Meinicke}
 
 
 \begin{document}
@@ -118,22 +118,22 @@
     \setcounter{page}{1}
     
     %--- chaper 1..n ---
-    \input{content/ch1_introduction}
+    \input{content/introduction}
     \myemptypage
 
-    \input{content/ch2_basics}
+    \input{content/basics}
     \myemptypage
 
-    \input{content/ch3_analysis}
+    \input{content/analysis}
     \myemptypage
 
-    \input{content/ch4_design}
+    \input{content/design}
     \myemptypage
 
-    \input{content/ch5_implementation}
+    \input{content/implementation}
     \myemptypage
 
-    \input{content/ch6_conclusion}
+    \input{content/conclusion}
     \myemptypage
 
     %--- references ---
