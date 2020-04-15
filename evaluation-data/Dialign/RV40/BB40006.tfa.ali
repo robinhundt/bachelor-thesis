@@ -1,0 +1,249 @@
+1b5o_A             1   mrgL--SRRV QA-------- ---------- ---------- ---------- 
+1lc5_A             1   lfnta----- -H-------- ---------- ---------- --------GG 
+1fg3_A             1   tv-------- ---------- ------TITD LARENVRNLT PYQSARRLGG 
+1d2f_A             1   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A             1   mlsrnatssy flgwqeyek- ---------- ---------N PYHEVHNTNG 
+ALAM_YEAST         1   mlslsaknhf tvsnsithvi ksyhirTLTS SAEKMPHITT PFSTSasstk 
+YFBQ_HAEIN         1   mrlfpkSDKL EH-------- ---------- ---------- ---------- 
+AAT_SULSO          1   v--------- ---------- ---------- ---------- ---------- 
+AAT_THEMA          1   m--V--SRRI SE-------- ---------- ---------- ---------- 
+PATB_BACSU         1   mnfd------ ---------- ---------- ---------- --KREERLGT 
+YJG0_YEAST         1   mkqrfirqf- ---------- ---------- ---------- ---------- 
+YDT4_SCHPO         1   m--------- ---------- ---------- ---------- ---------- 
+YBDL_ECOLI         1   mtn------- ---------- ---------- ---------- ---------- 
+Y380_THETN         1   mkegekmkpy eH-------- ---------- ---------- --------GG 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b5o_A            11   ---------- ---------- ---------- ---MKP---- ---------- 
+1lc5_A             9   NIrepatvlg ispdqLLD-- -----FSANI NPLGM----- ---------- 
+1fg3_A            27   NG-------- ---------- ---------- --DVWLNAN- ---------- 
+1d2f_A             1   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A            31   II-------- ---------- ---------- --QMGLAEN- ---------- 
+ALAM_YEAST        51   lkAFRKVRPv lqrhssswiv aqnhrrslsg qsslndlrhl nrfphhtlkt 
+YFBQ_HAEIN        13   ---------- ---------- ---------- ---VCY---- ---------- 
+AAT_SULSO          2   -------S-- -----LLD-- -----FNGNM SQVTGETTL- ---------- 
+AAT_THEMA          9   ---------- ---------- ---------- ---IPI---- ---------- 
+PATB_BACSU        13   QS-------- ---------- ---------- --VKWDKTG- ---------- 
+YJG0_YEAST        10   ---------T NLMSTSRPkv vankyFTSNT AKDVWSLTN- ---------- 
+YDT4_SCHPO         2   --AFRGIRPS NKVAASRP-- ---------- --DVWTLVN- ---------- 
+YBDL_ECOLI         4   ---------- ---------- ---------- NPLIPQ---- ---------- 
+Y380_THETN        15   NIydyqgN-- -----LID-- -----FSSNI NPLGP----- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b5o_A            14   ---------- ---------- ---------- ---------- ----SATVAV 
+1lc5_A            37   ---------- ---------- ---------- ---------- ---------- 
+1fg3_A            36   ---------- ---------- ---------- -------Eyp tav------- 
+1d2f_A             1   ---------- ---------- ---------- ---------- ---------- 
+1b8g_A            40   ---------- ---------- ---------- -------Qlc fdllESWLAK 
+ALAM_YEAST       101   snnefypaeq ltledvnenv lkakyavrga ipmraeeL-- --------KA 
+YFBQ_HAEIN        16   ---------- ---------- ---------- ---------- ----DIRGPV 
+AAT_SULSO         20   ---------- ---------- ---------- -------L-- --------YK 
+AAT_THEMA         12   ---------- ---------- ---------- ---------- ----SKTMEL 
+PATB_BACSU        22   ---------- ---------- ---------- -------Elf gv-------- 
+YJG0_YEAST        40   ---------- ---------- ---------- -------E-- --------AA 
+YDT4_SCHPO        25   ---------- ---------- ---------- -------Q-- --------AT 
+YBDL_ECOLI        10   ---------- ---------- ---------- ---------- ----SKLPQL 
+Y380_THETN        36   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1b5o_A            20   NAKALELRR- --QGVDLVAL TAGEPD---F DTPE------ ---------- 
+1lc5_A            37   ---------- ---------- ---------- --PV------ ---------- 
+1fg3_A            42   ---------- ---------- ---------- ---------- ---------- 
+1d2f_A             1   ---------- ------LLPF TISDMD---F ATAP------ ---------- 
+1b8g_A            53   NPEAAAFKK- --NGESIFAE LALFQD---Y HGLP------ ---------- 
+ALAM_YEAST       141   QLEKDPQSL- --PFDRIINA NIGNPQqlqq kpltyyrqvl sllqypelln 
+YFBQ_HAEIN        22   HKEALRLEE- --EGNKILKL NIGNPapfgF EAPD------ ---------- 
+AAT_SULSO         23   EIARNVEKT- --KKIKIIDF GIGQPD---L PTFK------ ---------- 
+AAT_THEMA         18   DAKAKALIK- --KGEDVINL TAGEPD---F PTPE------ ---------- 
+PATB_BACSU        27   ---------- ----TDALPM WVADMD---F RAPE------ ---------- 
+YJG0_YEAST        43   AKAANNSKN- --QGRELINL GQGFFS---Y SPPQ------ ---------- 
+YDT4_SCHPO        28   AEck------ ----VPPVSL SQGFFN---Y NPPK------ ---------- 
+YBDL_ECOLI        16   gttiftqmsa laQQHQAINL SQGFPD---F DGPR------ ---------- 
+Y380_THETN        36   ---------- ---------- ---------- --PE------ ---------- 
+                                                                 
+                       0000000000 0000000000 0011110001 1111000000 0000000000 
+ 
+1b5o_A            48   ---------- -HVKEAARRA ------LAQ- GKTKYAPPAG IPELREALAE 
+1lc5_A            39   ---------- -SVKRALIDN ------LDc- ------IERY PDADYFHLHQ 
+1fg3_A            42   ---------- ---------- --------EF QLTQQTLNRY PECQPKAVIE 
+1d2f_A            16   ---------- -CIIEALNQR ------LMH- GVFGYSRWKN DEFLaAIAHW 
+1b8g_A            81   ---------- -AFKKAMVDF ------MAEi rg-------- ---------- 
+ALAM_YEAST       188   qneqqlvdsk lFKLDAIKRA kslmedIGG- SVGAYSSSQG VEGIRKSVAE 
+YFBQ_HAEIN        53   ---------- -EILVDVLR- -------NLP SAQGYCDSKG LYSARKAIVQ 
+AAT_SULSO         51   ---------- -RIRDAAKEA ------LDQ- GFTFYTSAFG IDELREKIAQ 
+AAT_THEMA         46   ---------- -PVVEEAVRF ------LQK- GEVKYTDPRG IYELREGIAK 
+PATB_BACSU        44   ---------- -AITEALKER ------LDH- GIFGYTTPdq ktkd-AVCGW 
+YJG0_YEAST        71   ---------- -FAIKEAQKA ------LDIP MVNQYSPTRG RPSLINSLIK 
+YDT4_SCHPO        49   ---------- -FVLDAAKKS ------IDEV ACNQYSHTRG RPSLRKALSE 
+YBDL_ECOLI        47   ---------- -YLQERLAHH ------VAQ- GANQYAPMTG VQALREAIAQ 
+Y380_THETN        38   ---------- -WIWEAIKEV d--------- ------LSRY PDIKYRRLKE 
+                                                                 
+                       0000000000 0111111111 0000001100 1111111111 1111111111 
+ 
+1b5o_A            80   -KFRRENG-L SVTPEETIVT VGGSQAL--F NLFQAILDPG DEVIVLSPYW 
+1lc5_A            65   -AL--AR-HH QVPASWILAG NGETESI--F TVASGLKPR- -RAMIVTPGF 
+1fg3_A            64   -NY--AQ-YA GVKPEQVLVS RGADEGI--E LLIRAFCEPG KDAILYCPPT 
+1d2f_A            48   FST--QH-YT AIDSQTVVYG PSVIYMV--S ELIRQWSETG EGVVIHTPAY 
+1b8g_A            96   ------NK-V TFDPNHLVLT AGATSAN--E TFIFCLADPG EAVLIPTPYY 
+ALAM_YEAST       237   -FITKRDE-G EISYPEDIFL TAGASAavnY LLSIFCRGPE TGVLIPIPQY 
+YFBQ_HAEIN        84   -YYQSKGI-L GATVNDVYIG NGVSELI--T MAMQALLNDG DEVLVPMPDY 
+AAT_SULSO         83   -YLNTRYG-T DVKKEEVIVT PGAKPAL--F LVFILYINPS DEVILPDPSF 
+AAT_THEMA         78   -RIGERYK-K DISPDQVVVT NGAKQAL--F NAFMALLDPG DEVIVFSPVW 
+PATB_BACSU        75   MQN--RHG-W KVNPESITFS PGVVTAL--S MAVQAFTEPG DQVVVQPPVY 
+YJG0_YEAST       104   -LYSPIYN-T ELKAENVTVT TGANEGI--L SCLMGLLNAG DEVIVFEPFF 
+YDT4_SCHPO        82   -AYSPYFKRT LNPDTEIVVT AGANEGF--F SVFAAFLNPG DEVIVMEPFF 
+YBDL_ECOLI        79   -KTERLYGYQ PDADSDITVT AGATEAL--Y AAITALVRNG DEVICFDPSY 
+Y380_THETN        62   -AI--AE-YV GCDRENIIVG NGAAELI--H LFARAFKLK- -KPLIPSPSF 
+                                                                 
+                       0100000000 0111223333 2444444004 4444444444 4445555544 
+ 
+1b5o_A           126   VSYPEMVRFA GGVVVEVETL -P-------- --EEGFVPDP ERV---RRAI 
+1lc5_A           107   AEYGRALAQS GCEIRRWSLR -E-------- --ADGWQLT- DAI---LEAL 
+1fg3_A           108   YGxysvsaet ig--VECRTV -Ptl------ ---DNWQLD- LQG---ISDK 
+1d2f_A            93   DAFYKAIEGN QRTVMPVALE -KQADG---- -----WFc-- DMGKLEAVLA 
+1b8g_A           137   PGFDRDLKWR TGVEIvpihc tS-------- --SNGFQIT- ETA---LEEA 
+ALAM_YEAST       285   PLYTATLALN NSQALPYYLD -E-------- --NSGWSTN- PEE---IETV 
+YFBQ_HAEIN       130   PLWTAAVTLS GGKAVHYLCD -E-------- --DANWFPTI DDI---KAKV 
+AAT_SULSO        129   YSYAEVVKLL GGKPIYanlk w--------- SREEGFSIDV DDL---QSKI 
+AAT_THEMA        124   VSYIPQIILA GGTVNVVETF -M-------- --SKNFQPSL EEV---EGLL 
+PATB_BACSU       120   TPFYHMVEKN GRHILHNPLL -E-------- --KDGAYAI- DFEDLETKLS 
+YJG0_YEAST       150   DQYIPNIELC GGKVVYVPIN -PPKELDQRN TRGEEWTIDF EQF---EKAI 
+YDT4_SCHPO       129   DQYISNITMN GGVPVYVPII -PPEEGSVKP VSAGAWKLDM NKL---RNAI 
+YBDL_ECOLI       126   DSYAPAIALS GGIVKRMALQ -PP------- ----HFRVDW QEF---AALL 
+Y380_THETN       104   LEYERAVKLN GGEPVYLKLE -E-------- --EEGFRVN- FAK---VISK 
+                                                                 
+                       4443333222 2211110000 0000000000 0001111111 2220002222 
+ 
+1b5o_A           162   TPR------- TKALVVNSPN NPTGAVYPKE VLEALARLAV EHDFYLVSDE 
+1lc5_A           142   TPD------- LDCLFLCTPN NPTGLLPERP LLQAIADRCK SLNINLILDE 
+1fg3_A           142   LDG------- VKVVYVCSPN NPTGQLINPQ DFRTLLELTR GKAIVVADEA 
+1d2f_A           131   KPE------- CKIMLLCSPQ NPTGKVWTCD ELEIMADLCE RHGVRVISDE 
+1b8g_A           173   YQEAEKRNLR VKGVLVTNPS NPLGTTMTRN ELYLLLSFVE DKGIHLISDE 
+ALAM_YEAST       320   VKEAIQNEIK PTVLVVINPG NPTGAVLSPE SIAQIFEVAA KYGTVVIADE 
+YFBQ_HAEIN       166   NAK------- TKAIVIINPN NPTGAVYSKE LLQEIVEIAR QNNLIIFADE 
+AAT_SULSO        167   SKR------- TKMIVFNNPH NPTGTLFSPN DVKKIVDISR DNKIILLSDE 
+AAT_THEMA        160   VGK------- TKAVLINSPN NPTGVVYRRE FLEGLVRLAK KRNFYIISDE 
+PATB_BACSU       158   DPS------- VTLFILCNPH NPSGRSWSRE DLLKLGELCL EHGVTVVSDE 
+YJG0_YEAST       196   TSK------- TKAVIINTPH NPIGKVFTRE ELTTLGNICV KHNVVIISDE 
+YDT4_SCHPO       175   TEK------- TKMIVINTPH NPLGKIFSEE ELNEIADLVL KHNLLVVSDE 
+YBDL_ECOLI       161   SER------- TRLVILNTPH NPSATVWQQA DFAALWQAIA GHEIFVISDE 
+Y380_THETN       139   IEE------- ADGLILGNPN NPTGQGIIRE EIGILLKKAE LMNIPVLIDE 
+                                                                 
+                       2220000000 2356777889 9999888887 7777777777 7777777777 
+ 
+1b5o_A           205   IYEHLL-YEG EhF------- -----S-P-G R-VAPEHTLT VNGAAKAFAM 
+1lc5_A           185   AFIDFI-PHE TGF------- -----I-P-A L-KDNPHIWV LRSLTKFYAI 
+1fg3_A           185   -YIEFC-Pqa slagw----- ---------- L-AEYPHLAI LRTLSKAFAL 
+1d2f_A           174   IHMDMV-WGE QPH------- -----I-PwS N-VARGDWAL LTSGSKSFNI 
+1b8g_A           223   IYSGTA-FSS PSFISVMEVL KdRNCD-E-N S-EVWQRVHV VYSLSKDLGL 
+ALAM_YEAST       370   VYQENI-FPG TKFHSMKKIL RhlqrehP-G K-FDNVQLAS LHSTSKgvsg 
+YFBQ_HAEIN       209   IYDKIL-YDG AVHHH----- -----I-A-A L-APDLLTVT LNGLSKAYRV 
+AAT_SULSO        210   IYDNFV-YEG KM-------- --RSTL-E-D S-DWRDFLIY VNGFSKTFSM 
+AAT_THEMA        203   VYDSLV-YTD EF-------- --TSIL-D-V S-EGFDRIVY INGFSKSHSM 
+PATB_BACSU       201   IHSDLMlYGH KH-------- --TPFA-S-L SDDFADISVT CAAPSKTFNI 
+YJG0_YEAST       239   VYEHLY-FTD SF-------- --TRIA-T-L SPEIGQLTLT VGSAGKSFAA 
+YDT4_SCHPO       218   VYDRLS-Fvp -F-------- --VRLA-T-L RPELFKHVVT VGSGGKTFGC 
+YBDL_ECOLI       204   VYEHIN-FSQ QGHAS----- -----V-L-A hPQLRERAVA VSSFGKTYHM 
+Y380_THETN       182   AFIEFM-KDY KKYEA----- -----L-P-L V-KKHDKLFV VRAVTKFFGM 
+                                                                 
+                       7643320100 0000000000 0000000000 0011111222 2223333333 
+ 
+1b5o_A           239   -TGWRIGYAC GPKEVIKAMA S-----VS-- -----SQ--- ------ST-- 
+1lc5_A           219   -PGLRLGYLV NSDDAAMARM R-----RQqm ------P--- ------WS-- 
+1fg3_A           217   -AGLRCGFTL ANEEVINLLX K-----VI-- -----AP--- ---------- 
+1d2f_A           209   -PALTGAYGI IENSSSRDAY L-----SA-- -----LKgRD GLSSPSVLAL 
+1b8g_A           269   -PGFRVGAIY SNDDMVVAAA T-----KM-- -----SSfgl vssqtqhlls 
+ALAM_YEAST       417   eCGQRGGYME LTGFSHEMRQ VILKLASI-- -----Slcpv vtgqalVD-- 
+YFBQ_HAEIN       245   -AGFRQGWMI LNGPKHNAKG YIEGLDML-- -----AS--- ------MR-- 
+AAT_SULSO        246   -TGWRLGYIV AKREIIQKMG I-----LA-- -----AN--- ------VY-- 
+AAT_THEMA        239   -TGWRVGYLI SSEKVATAVS K-----IQ-- -----SH--- ------TT-- 
+PATB_BACSU       239   -AGLQASAII IPDRLKRAKF S-----AS-- -----LQ-RN GLGGLNAFAV 
+YJG0_YEAST       276   -TGWRIGWVL SLNAELLSYA A-----Kaht ricfaSP--- ---------- 
+YDT4_SCHPO       254   -TGWRVGWLI GDESLIKYSA A-----AH-- -----TR--- ------IC-- 
+YBDL_ECOLI       241   -TGWKVGYCV APAPISAEIR K-----VH-- -----QY--- ------LT-- 
+Y380_THETN       218   -PGIRLGYGI GSPSLIQKLE E-----YK-- -----EP--- ------WT-- 
+                                                                 
+                       0333333333 2222111111 0000000000 0000000000 0000000000 
+ 
+1b5o_A           265   --TSPDTIAQ WATLEALTNQ EASR-----A FVEMAREAYR RRRDLLLEGL 
+1lc5_A           246   --VNALAALA GEVALQD--- ---S-----A WQQATWHWLR EEGARFYQAL 
+1fg3_A           241   ------YPLS TPVADIAAQA LSpqgivaxR E---RVAQII AEREYLIAAL 
+1d2f_A           246   TAHIAAYQQG APWLDAL--- ---R-----I YLKDNLTYIa dkMNAAFPEL 
+1b8g_A           306   am-------- ------LSDK KLTK-----N YIAENHKRLK QRQKKLVSGL 
+ALAM_YEAST       458   --LMVRPPVE GEESFESDQA ER-N-----S IHEKlitram t----LYETF 
+YFBQ_HAEIN       276   --LCANVPMQ HAIQTALGGY QS-I-----N EFilpgGRLL EQRNKAYDLI 
+AAT_SULSO        272   --TAPTSFVQ KAAVKAFDTF DE-V-----N Q---MVSLFK KRRDVMYDEL 
+AAT_THEMA        265   --SCINTVAQ YAALKALEVd nsy------- ----MVQTFK ERKNFVVERL 
+PATB_BACSU       275   TAIEAAYSKG GPWLDEL--- ---I-----T YIEKNMNEAE AFLSTELPKV 
+YJG0_YEAST       307   ------SPLQ EACANSINDA LK-I-----G YFEKMRQEYI NKFKIFTSIF 
+YDT4_SCHPO       280   --FAVNSPCQ EALAIAFGEA EK-H-----N YYEEYKSSYK KRFEILAKAF 
+YBDL_ECOLI       267   --FSVNTPAQ LALADMLrae pehyla---- ----LPDFYR QKRDILVNAL 
+Y380_THETN       244   --VNAFAEAV GRWLFKD--- ---R-----E YIEKTREYVN AEIEHMLFSL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000011111 
+ 
+1b5o_A           308   TAL-GLKAVR PSGAFYVLMD TSP------- -----IA--- ---------- 
+1lc5_A           283   CQL-PLLTVY PGRANYLLLR C--------- ---------- ---------- 
+1fg3_A           282   KEIPCVEQVF DSETNYILAR FKA------- -SSa------ ---------- 
+1d2f_A           285   NWQ------I PQSTYLAWLD ---------- ------LRPL NI-------- 
+1b8g_A           337   QKS-GISCLN GNAGLFCWVD M--------- ---------- ---------- 
+ALAM_YEAST       496   NSLEGIECQK PQGAMYLFPK IDLpfkavqe aRHLELT--- ---------- 
+YFBQ_HAEIN       318   TQIPGITCVK PMGAMYMFPK IDV------- -KKFNIH--- ---------- 
+AAT_SULSO        311   TKVKGVEVSK PNGAFYMFPN VSK------- -----ILKTS GF-------- 
+AAT_THEMA        302   KKM-GVKFVE PEGAFYLFFK V--------- ---------- ---------- 
+PATB_BACSU       314   KMM------K PDASYLIWLD ---------- ------FSAY GL-------- 
+YJG0_YEAST       345   DEL-GLPYTA PEGTYFVLVD FSK------- -----VKIPE DYPYPEEILN 
+YDT4_SCHPO       322   DQL-EIPYTI PDGSYYTMAN FSK------- -----LKLPK DYPFPEEIAN 
+YBDL_ECOLI       307   NES-RLEILP CEGTYFLLVD YSA------- -----VS--- TL-------- 
+Y380_THETN       281   RTI-DYLVAF DTKVNFILLK LKA------- -GTvd----- ---------- 
+                                                                 
+                       1110111111 1111111111 1000000000 0000000000 0000000000 
+ 
+1b5o_A           332   ---------- PDEVRAAERL LEAGVAVVPG TDFA------ -AFGH-VRLS 
+1lc5_A           303   ER-------- EDIDLQRRLL TQRILIRSCA NY--PG---- -LDSRYYRVA 
+1fg3_A           308   ---------- ----VFKSLW DQGIILRDQN KQ--PS---- -LSGC-LRIT 
+1d2f_A           305   ---------- DDNALQKALI EQEKVAIMPG YTYGEE---- -GRGF-VRLN 
+1b8g_A           357   Rhllrsntfe AEMELWKKIV YEVHLNISPG SSCHCT---- -EPGW-FRVC 
+ALAM_YEAST       533   ---------- PDEFYCKKLL ESTGICTVPG SGFGQE---- PGTYH-LRTT 
+YFBQ_HAEIN       347   ---------- SDEKMVLDLL RQEKVLLVHG KGFNWH---- -SPDH-FRIV 
+AAT_SULSO        341   ---------- DVKSLAIKLI EEKGVVTIPG EVFPLN---- IGKEF-LRLS 
+AAT_THEMA        322   RG-------- DDVKFCERLL EEKKVALVPG SAFL------ -KPGF-VRLS 
+PATB_BACSU       334   ---------- SDAELQQRML KKGKVILEPG TKYGPG---- -GEGF-MRLN 
+YJG0_YEAST       382   KG-------- KDFRISHWLI NELGVVAIPP TEFYikEHEK AAENL-LRFA 
+YDT4_SCHPO       359   RP-------- RDFKLCYWIL KEIGVATIPP TEFYTDEDAP VAENY-LRFA 
+YBDL_ECOLI       333   ---------- DDVEFCQWLT QEHGVAAIPL SVFCAD---P FPHKL-IRLC 
+Y380_THETN       307   ---------- ---EVKEKLL KKGILIRDAS NF--RY---- -LDKRFFRVA 
+                                                                 
+                       0000000000 0000000111 1111111111 1110000000 0000000000 
+ 
+1b5o_A           364   Y-ATSEEN-L RKALERFARV L--------- -------- 
+1lc5_A           338   I-RSAAQN-E R-----LLAA LRnvl----- -------- 
+1fg3_A           336   V-GTREES-Q R-----VIDA LRAeqv---- -------- 
+1d2f_A           339   A-GCPRSK-L EKGVAGLINA IRAvr----- -------- 
+1b8g_A           401   F-ANLPERtL DLAMQRLKAF VG-------- -------- 
+ALAM_YEAST       568   FlAPGLEW-I KKWESFHKEF FDQYRD---- -------- 
+YFBQ_HAEIN       381   T-LPYVNQ-L EEAITKLARF LSDyrq---- -------- 
+AAT_SULSO        376   F-AVNEEV-I KEGIQKIREF AEQMMNsr-- -------- 
+AAT_THEMA        356   F-ATSIER-L TEALDRIEDF LNSr------ -------- 
+PATB_BACSU       368   A-GCSLAT-L QDGLRRIKAA LS-------- -------- 
+YJG0_YEAST       423   V-CKDDAY-L ENAVERLKLL KDYL------ -------- 
+YDT4_SCHPO       400   F-CKTFET-L EEAARRLQKL KDYf------ -------- 
+YBDL_ECOLI       369   F-AKKEST-L LAAAERLRQL ---------- -------- 
+Y380_THETN       337   V-KRREDN-M C-----LIEA LRglyeegvm pdkervvv 
+                                                    
+                       0000000000 0000000000 0000000000 00000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((1b5o_A      :0.006101AAT_THEMA   :0.006101):0.004847AAT_SULSO   :0.010948):0.004386((YJG0_YEAST  :0.004444YDT4_SCHPO  :0.004444):0.008428YBDL_ECOLI  :0.012872):0.002462):0.014323(ALAM_YEAST  :0.015329YFBQ_HAEIN  :0.015329):0.014328):0.014317(1d2f_A      :0.009596PATB_BACSU  :0.009596):0.034378):0.0062711b8g_A      :0.050244):0.017998((1lc5_A      :0.012249Y380_THETN  :0.012249):0.0225221fg3_A      :0.034771):0.033472);
+ 
+ 

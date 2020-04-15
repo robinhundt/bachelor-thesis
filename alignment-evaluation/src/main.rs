@@ -23,14 +23,14 @@ mod data_loaders;
 mod score;
 
 fn main() -> Result<()> {
-    compute_results_for_balibase(
-        AlignmentProgram::MafftAuto,
-        &["--quiet", "--auto"],
-        vec![],
-        "../datasets/bb3_release".into(),
-        "../evaluation-data/".into(),
-    )
-    .unwrap();
+    // compute_results_for_balibase(
+    //     AlignmentProgram::MafftAuto,
+    //     &["--quiet", "--auto"],
+    //     vec![],
+    //     "../datasets/bb3_release".into(),
+    //     "../evaluation-data/".into(),
+    // )
+    // .unwrap();
     compute_results_for_balibase(
         AlignmentProgram::MafftFast,
         &["--quiet", "--retree", "1", "--maxiterate", "0"],
@@ -40,38 +40,37 @@ fn main() -> Result<()> {
     )
     .unwrap();
 
-    compute_results_for_balibase(
-        AlignmentProgram::Dialign,
-        &["-fa"],
-        vec![("DIALIGN2_DIR", "../dialign_package/dialign2_dir")],
-        "../datasets/bb3_release".into(),
-        "../evaluation-data/".into(),
-    )
-    .unwrap();
-
-    for pattern_set_path in fs::read_dir("../pattern_sets/data")? {
-        let pattern_set_path = pattern_set_path?;
-        dbg!(&pattern_set_path);
-        let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
-        let pattern_set = PatternSet {
-            patterns: pattern_set,
-            name: pattern_set_path
-                .path()
-                .file_stem()
-                .unwrap()
-                .to_string_lossy()
-                .to_owned()
-                .to_string(),
-        };
-        compute_results_for_balibase(
-            AlignmentProgram::SpamAlign(pattern_set),
-            &vec![],
-            vec![],
-            "../datasets/bb3_release".into(),
-            "../evaluation-data/".into(),
-        )
-        .unwrap();
-    }
+    // compute_results_for_balibase(
+    //     AlignmentProgram::Dialign,
+    //     &["-fa"],
+    //     vec![("DIALIGN2_DIR", "../dialign_package/dialign2_dir")],
+    //     "../datasets/bb3_release".into(),
+    //     "../evaluation-data/".into(),
+    // )
+    // .unwrap();
+    //
+    // for pattern_set_path in fs::read_dir("../pattern_sets/data")? {
+    //     let pattern_set_path = pattern_set_path?;
+    //     let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
+    //     let pattern_set = PatternSet {
+    //         patterns: pattern_set,
+    //         name: pattern_set_path
+    //             .path()
+    //             .file_stem()
+    //             .unwrap()
+    //             .to_string_lossy()
+    //             .to_owned()
+    //             .to_string(),
+    //     };
+    //     compute_results_for_balibase(
+    //         AlignmentProgram::SpamAlign(pattern_set),
+    //         &vec![],
+    //         vec![],
+    //         "../datasets/bb3_release".into(),
+    //         "../evaluation-data/".into(),
+    //     )
+    //     .unwrap();
+    // }
 
     Ok(())
 }
@@ -115,8 +114,7 @@ fn compute_results_for_balibase(
     balibase_path: PathBuf,
     out_path: PathBuf,
 ) -> Result<()> {
-    // let balibase_folders = ["RV11", "RV12", "RV20", "RV30", "RV40", "RV50"];
-    let balibase_folders = ["RV40"];
+    let balibase_folders = ["RV11", "RV12", "RV20", "RV30", "RV40", "RV50"];
     let balibase_folders = balibase_folders.iter().map(|folder| {
         let mut path = balibase_path.clone();
         path.push(folder);

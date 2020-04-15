@@ -1,0 +1,296 @@
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE         1   mgvgvs---- ---------- ---------- ---------- ---------- 
+SYT_PYRAB          1   MRVLLIHSDY IEYEVKdkal knpEPISEDM KRGRMEEVLV AFISVEKVDE 
+SYT_METAC          1   MQLLLIHSDY IEYETKkqtp va-EKIEESL KSGRLEEALT AFTAVESVDE 
+SYTM_SCHPO         1   mklkkfqlht ---------- ---------- ---------- ---------- 
+SYTM_YEAST         1   mkiql----- ---------- ---------- ---------- ---------- 
+SYTC_YEAST         1   m-----SASE AG-------- ---------- ---------- ---VTEQVKK 
+SYT1_BACSU         1   ---------- ---------- ---------- ---------- ---------- 
+SYT_BUCAI          1   MPVIRFYDGS ---------- ---------- ---------- ---------- 
+SYT_BUCBP          1   MPTIKFIDGT ---------- ---------- ---------- ---------- 
+SYT_WIGBR          1   MPIINF-NNK ---------- ---------- ---------- ---------- 
+SYT_ARATH          1   mllrltARSI RR-------- ---------- ---------- ---FTTSSSS 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE         7   ---------- ---------- ---------- ---------- ---------- 
+SYT_PYRAB         51   KNPEEVSLKA IEEISKVAEQ VKAENVFVYP FAHLSSELAK PSVAMDILnr 
+SYT_METAC         50   ANPEEAIEKA VSEIEKVAAQ VKTNRIMLYP YAHLSSDLSS PKVAVQVLkg 
+SYTM_SCHPO        11   ---------- ---------- ---------P FAHs------ ---------- 
+SYTM_YEAST         6   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST        15   LSVKDSSNDA VKPNKKENKK SKQQSLYLDP eptfIEERIE MFDRLQKEYN 
+SYT1_BACSU         1   ---------- ---------- ---------- ---------- ---------- 
+SYT_BUCAI         11   ---------- ---------- ---------- ---------- ---------- 
+SYT_BUCBP         11   ---------- ---------- ---------- ---------- ---------- 
+SYT_WIGBR         10   ---------- ---------- ---------- ---------- ---------- 
+SYT_ARATH         20   LPLLSSSSFC TVPTMAANHP KDEAYLsav- ----IPKRIK LFEQIQANQL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE         7   ---------- ---------- ---------- ---------- ---------- 
+SYT_PYRAB        101   vyqglkergF NVGKAPFGYY KAFKISCKGH PLAELSRTIV PEe-ARV-EE 
+SYT_METAC        100   ieaalsgk-Y EVKRAPFGWY KAFTVSCKGH PLSELSRSIH PEGTAKA-AV 
+SYTM_SCHPO        16   ---------- ---------- ---------- ---------- ---------- 
+SYTM_YEAST         6   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST        65   DKVASMPR-- ---------- ---------- ---VPLKIVL KDGAVKEATS 
+SYT1_BACSU         1   ---------- ---------- ---------- -MSDMVKITF PDGAVKE-FA 
+SYT_BUCAI         11   ---------- ---------- ---------- ---------- -----QQVYE 
+SYT_BUCBP         11   ---------- ---------- ---------- ---------- -----CRVYP 
+SYT_WIGBR         10   ---------- ---------- ---------- ---------- -----EILFN 
+SYT_ARATH         65   ENLKSLPH-- ---------- ---------- ---DPIKVTL PDGNVKEgkK 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE         7   ---------- ---------- ---------- ----PFHGDw slasg----- 
+SYT_PYRAB        149   VPEALRKEEE elv------- ---SYWYILT P-----EGEL IEVDKFDFTG 
+SYT_METAC        148   KPEAAGEKEE VVSEALKAEG TArSYWRILT P-----DGEL HEVETFDLTP 
+SYTM_SCHPO        16   ---------- ---------- ---------- ---------- ---------- 
+SYTM_YEAST         6   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST        90   WETTPMDIAK GISKSLADRL CISKVNGQLW DLDRPFEGEA NEEIKLELLD 
+SYT1_BACSU        19   KGTTTEDIAA SISPGLKKKS LAGKLNGKEI DLRTPINEDG ----TVEIIT 
+SYT_BUCAI         16   HSVSLIEIIK NKKPSIMKSL IAISVNNHFS NLNTFIREDA ----FIEFVD 
+SYT_BUCBP         16   GSISVLDILK DVSPNSVQDF MFGCVNGISV DRNAIVTNDS ----IVKFVY 
+SYT_WIGBR         15   YPISIIEIIK KFDKNLSENC IAAKINGKLL DVSEIINYDG ----SLELVK 
+SYT_ARATH         90   WETTPMDIAA QISKGLANSA LISAVDDVLW DMNRPLEGDC ----KLELFK 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE        18   ---------- ---------- ---------- ---------- ---------- 
+SYT_PYRAB        184   YE-------- ---------- ---------- ---------- ---------- 
+SYT_METAC        193   YP-------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        16   ---------- --CNRVEIYT ARFGPTPFS- ---------- ---------- 
+SYTM_YEAST         6   --------VR WHCSRNALWN RAFYSTRKA- ---------- ---------- 
+SYTC_YEAST       140   FESDEGKKVF WHSSAHVLGE SCECHLG-AH ICLGPPTD-- DGFFYEMAVr 
+SYT1_BACSU        65   EGSEEGLQIM RHSAAHLLAQ AIKRIYKDVK FGVGPVIE-- NGFYYDVEM- 
+SYT_BUCAI         62   QKNYKALNII RYSCAQLLSY AIKNIWPLAQ IATSNIIE-- DGFYCDIDF- 
+SYT_BUCBP         62   KTDQSTLDII RYSCICLLGK AVKKLWPSSK IGESDVLE-- NGFFCDIEV- 
+SYT_WIGBR         61   PENKIGIRII RCSCSHLLGY AIKQLWPTSK MATNNITE-- NGFYYDIDL- 
+SYT_ARATH        136   FDSDKGRDTL WHSSAHILGQ ALEQEYG-CQ LCIGPcttrg EGFYYDgfyg 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE        18   ---------- ---------- ---------- ---------- ---------- 
+SYT_PYRAB        186   ---------- ---------- ---------- -NLRKFVNYE IAKNRIAEKE 
+SYT_METAC        195   ---------- ---------- ---------- -KLQQFVNYE ISKSRAVERa 
+SYTM_SCHPO        33   ---------- ---------- ---------- ---------- -TKANNLKQP 
+SYTM_YEAST        27   ---------- ---------- ---------- ---------- -TKNASSATP 
+SYTC_YEAST       187   dsmkdisesp ERTVSQADFP GLEGVAKNVI KQKQKFERLV MSKEDLLKMF 
+SYT1_BACSU       112   ---------- DEAITPEDLP KIEKEMKKIV NANLPIVRKE VSREEAKARF 
+SYT_BUCAI        109   ---------- KRSISEKDLI LLENQMKMLV KREYNILNKL ISYSEAREIF 
+SYT_BUCBP        109   ---------- DFSFNETSLH LLEACMRQMI NKKYKIYTKT FSLKKASTIF 
+SYT_WIGBR        108   ---------- NHKLSKNDLK LIEKKMHQLL KINFKINKIN VTWGKAYEMF 
+SYT_ARATH        185   el-------- --GLSDNHFP SIEAGAAKAA KEAQPFERIE VTKDQALEMF 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYT1_AERPE        18   ---------- ---------- ---------- ---------- ---------- 
+SYT_PYRAB        205   ---------- ---------- ---------- ---------- ---------- 
+SYT_METAC        214   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        42   ---------- ---------- ---------- ---------- ---------- 
+SYTM_YEAST        36   ---------- ---------- ---------- ---------- ---------- 
+SYTC_YEAST       237   H--Y--SKYK TYLVQTKVP- DGGATTVYRC GKLIDLCVGP HIPHTGRIKA 
+SYT1_BACSU       152   A--EigDDLK LE-LLDAIP- EGETVSIYEQ GEFFDLCRGV HVPSTGKIKE 
+SYT_BUCAI        149   QKCF--EKYK VSLIDENIN- CNSKVSLYYH ENYADIDIGL QVFNIKFCKY 
+SYT_BUCBP        149   KNRN--ETYK LFLLDrlvnf SNQVVSLCFH EEYIDIQKKI SVPNIFLCRN 
+SYT_WIGBR        148   KNLN--EIYK IKILEDNIS- KNSSLYIYHQ EQYVDLCTLP HVPNIKFCMF 
+SYT_ARATH        225   S--E--NNFK VE-LINGLP- ADMTITVYRC GPLVDLCRGP HIPNTSFVKA 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0111111111 
+ 
+1evk_A             1   ---------- ---------- ---------- ---------- ------RDHR 
+SYT1_AERPE        18   ---------- ---------- ---------- --QDKTHIDY AYELDitvkp 
+SYT_PYRAB        205   ---------- ---------- ---------- ---------- --PPHVK--- 
+SYT_METAC        214   ---------- ---------- ---------- ---------- --PPHVE--- 
+SYTM_SCHPO        42   ---------- ---------- ---------- ---------- --ESTLNDHR 
+SYTM_YEAST        36   ---------- ---------- ---------- ---------- --ATMTS--- 
+SYTC_YEAST       282   FKLLKNSSCY FLGDATNDSL QRVYGISFPD KKLMDAHLKF LAEASMRDHR 
+SYT1_BACSU       198   FKLLSLAGAY WRGDSKNQML QRVYGTAFFK KADLEEHLRM LEEAKERDHR 
+SYT_BUCAI        196   FKLQKIGGVY WKKNKNNKML QRIYGTAWTN KQELDKHLDY LNELEKRDHR 
+SYT_BUCBP        197   FRLQKFSGVY WKGKRENKVL QRIYGTSWIT RIQLEKHLDN VKKLDSRDHR 
+SYT_WIGBR        195   FKIQKISGAY WKGNKKNKML QRIYVTSWDS NSKLKNFIKN IKELEHRDHR 
+SYT_ARATH        269   FKCLRASSAY WKGDKDRESL QRVYGISYPD QKQLKKYLQF LEEAKKYDHR 
+                                                                 
+                       1111111111 1111111111 1111111100 0011111111 1111112222 
+ 
+1evk_A             5   KIGKQLDLY- HMQEEAPGMV FWHNDGWTIF RELEVFVRSK LK-EYQYQEV 
+SYT1_AERPE        36   dsrvpvfnre fatfTGAGVP LFSLGGGPIR YALAEVLAKF HA-RRGYYVV 
+SYT_PYRAB        210   LMLEHELVD- YEPGSDPGNL RYYPKGRLIK SLLEQYVTEK VI-EYGAMEV 
+SYT_METAC        219   LMRRLELAD- YEPGSDSGNM RYYPKGRLVK SLLENYVLDV AT-EFGAMEV 
+SYTM_SCHPO        50   TIAARQKLY- TTSILTPGSI FFLPHGTRIY NRLVDFLRAQ YQ-IHGFEEI 
+SYTM_YEAST        41   MVSQRQDLF- MTDPLSPGSM FFLPNGAKIF NKLIEFMKLQ QKfKFGFNEV 
+SYTC_YEAST       332   KIGKEQELF- LFNEMSPGSC FWLPHGTRIY NTLVDLLRTE YR-KRGYEEV 
+SYT1_BACSU       248   KLGKELKLFa NSQKVGQGLP LWLPKGATIR RVIERYIVDK EI-SLGYEHV 
+SYT_BUCAI        246   KIGKFLQLY- HMQEESPGMI FWHNKGWIIF NELQNFVRVK LK-EYKYEEV 
+SYT_BUCBP        247   KISKILDLY- HIQEDLPGMI FWHRNGWIVF QELKKLIRVK LR-KYNYQEV 
+SYT_WIGBR        245   KIGKKLDLF- HIYENSPGMV FWHHNGWIIF RILEKFIRKK LK-KFYYQEV 
+SYT_ARATH        319   LLGQKQELF- FSHQLSPGSY FFLPLGTRVY NRLMDFIKNQ YW-HRGYTEV 
+                                                                 
+                       3333333330 3333333333 3333333333 2232233322 2202334444 
+ 
+1evk_A            53   KGPFMMDRVL WEKTGHWDNY KDAMF----T TSS-----EN REYCIKPMNC 
+SYT1_AERPE        85   ETPIIASTEL FKVSGHIEFY RNNMY----L FDI-----EG HEFAVKPMNC 
+SYT_PYRAB        258   ETPIMYDFEH PALEKYLNRF PARQY----I VLS-----GD KRYFLRFAAC 
+SYT_METAC        267   ETPLMYDMNH PTLKKYLDRF PARQY----S IES-----DK RQMFLRFAAC 
+SYTM_SCHPO        98   ITPLIFKKDL WEKSGHWQNY EKEIFRV-Ee srnvedehSN ATYGLKPMNC 
+SYTM_YEAST        90   VTPLIYKKTL WEKSGHWENY ADDMFKV-ET TDE-----EK EEYGLKPMNC 
+SYTC_YEAST       380   ITPNMYNSKL WETSGHWANY KENMFTF-E- --V-----EK ETFGLKPMNC 
+SYT1_BACSU       297   YTPVLGSKEL YETSGHWDHY QEGMFppmE- --M-----DN ETLVLRPMNC 
+SYT_BUCAI        294   KTPLLIDKLI WKQSGHWDNY KNAIF----T TLS-----EH REYCIKPMNC 
+SYT_BUCBP        295   KTPVMMNKKI WKDSGHLDNY KESMF----M VCS-----SN FEYGIKPMNC 
+SYT_WIGBR        293   KTPCIIDHDL WRLSGHLDNY KNYMF----H TNS-----EN KQYCIKPMNC 
+SYT_ARATH        367   ITPNMYNMEL WQTSGHADNY KDNMF----T FNI-----EK QEFGLKPMNC 
+                                                                 
+                       4444444444 4444444444 4444500002 1220000033 3455667777 
+ 
+1evk_A            94   PGHVQIFNQG LKSYRD---L PLRMAEFGSC H-RNEPSGSL HGLMRVRGFT 
+SYT1_AERPE       126   PYHILLFLNE VAKHRsklpL PFKVFEFGRV H-RYEPSGSI YGLLRVRGFT 
+SYT_PYRAB        299   FGQFMIKKDA IISYRN---L PLRMYELTRY SFRREKRGEL SGLRRLRAFT 
+SYT_METAC        308   FGQFLMNHDM TISYKN---L PLRMIEMTRY SFRKEQRGEL VGLRRLRAFT 
+SYTM_SCHPO       147   PGHCIVYAST ERSYKE---L PLRFADFSPL H-RNEASGAL SGLTRLRCFH 
+SYTM_YEAST       134   PGHCLIFGKK DRSYNE---L PLRFSDFSPL H-RNEASGAL SGLTRLRKFH 
+SYTC_YEAST       421   PGHCLMFKSR ERSYRE---L PWRVADFGVI H-RNEFSGAL SGLTRVRRFQ 
+SYT1_BACSU       339   PHHMMIYKQD IHSYRE---L PIRIAELGTM H-RYEMSGAL SGLQRVRGMT 
+SYT_BUCAI        335   PGHVQIFNSR LKSYRD---L PIRMAEFGSC H-RNEPSGSL HGLMRVRNFT 
+SYT_BUCBP        336   PGHVQIFNHV VRSYRD---L PIRISEFGSC H-RNEPSGAL HGLMRIRNFT 
+SYT_WIGBR        334   PAHVLIFKKK IRSYKE---L PFRISEFGSC H-RNEPSGSL HGLMRIRNFT 
+SYT_ARATH        408   PGHCLIFQHR VRSYRE---L PMRLADFGVL H-RNEASGAL SGLTRVRRFQ 
+                                                                 
+                       7777777666 6666770008 8888888666 8088878878 7777888777 
+ 
+1evk_A           140   QDDAHIFCTE EQ--IRDEVN GCIRLVYDMY --------ST FGFEKI-VVK 
+SYT1_AERPE       175   QDDAHIIVpg grviDVVYDV FEEMKLVLER LFKLGVSSET FKVRLS-MSD 
+SYT_PYRAB        346   MPDMHTLAKD IE--QAKEEF KKQFKLSMEV LEGVGLTPED YEVAIR-FTE 
+SYT_METAC        355   MPDMHTLCED MN--QAVSQF KEQYDLCIDV LENVGIHIDD YEVAIR-FTR 
+SYTM_SCHPO       193   QDDGHIFCSP ES--IKDEIK NTLTFVKQVY --------SL LGMNKL-KLY 
+SYTM_YEAST       180   QDDGHIFCTP SQ--VKSEIF NSLKLIDIVY nkifpfvkgg sgaesnYFIN 
+SYTC_YEAST       467   QDDAHIFCTH DQ--IESEIE NIFNFLQYIY --------GV FGFE--FKME 
+SYT1_BACSU       385   LNDAHIFVRP DQ--IKDEFI RTVRLIQDVY --------ED Fglsdytfrl 
+SYT_BUCAI        381   QDDAHIFCTR EQ--VRSEIN DCIKMIYDLY --------ST FHFKKI-LVK 
+SYT_BUCBP        382   QDDAHIFCRE DQ--ICSEVS NCIRMVYEIY --------KI FGFKKI-LVR 
+SYT_WIGBR        380   QDDAHIFCMH DQ--ILSEVS SCIKMIYEVY --------SC FGFKKI-LVK 
+SYT_ARATH        454   QDDAHIFCTT EQ--VKGEVQ GVLEFIDYVY --------KV FGFT--YELK 
+                                                                 
+                       7777776655 5500555553 3333332223 0000000022 2222110222 
+ 
+1evk_A           179   LSTRP---EK RIGS------ --DEMWDRAE ADLAVALEEN NIPFE----Y 
+SYT1_AERPE       224   KSLIG---KE FMGS------ --KEEWEGAE EALREAASRI NEKYgidivE 
+SYT_PYRAB        393   DFWKEHKDFI VELVKLIGKP VLIEMWKQRF F--------- ---------- 
+SYT_METAC        402   DFYESNKELV VNMAKTVNKP VLVEMWDTRF F--------- ---------- 
+SYTM_SCHPO       232   LSTRP---EE HIGS------ --LDTWNEAE NGLREALQES GETWI----I 
+SYTM_YEAST       228   FSTRP---DH FIGD------ --LKVWNHAE QVLKEILEES GKPWK----L 
+SYTC_YEAST       505   LSTRP---EK YVGK------ --IETWDAAE SKLESALKKW GGNWE----I 
+SYT1_BACSU       425   syrdpedtEK YFDD------ --DEMWNKAQ SMLKEAMDEI GHDYY----E 
+SYT_BUCAI        420   LSTRP---EK RIGT------ --DSLWNESE KDLSDMLIEN HLSFE----Y 
+SYT_BUCBP        421   LSTRP---KN RIGN------ --DNIWDKAE NDLATSLRES KIEFE----Y 
+SYT_WIGBR        419   LSTRP---EN RIGS------ --DEIWDFAE KQLELSLKKN KILFK----I 
+SYT_ARATH        492   LSTRP---EK YLGD------ --LETWDKAE ADLKEAIEAF GKPLV----L 
+                                                                 
+                       2233300033 3333000000 0033333333 3332222222 2222200002 
+ 
+1evk_A           214   QLGEGAFYGP KIEFTL---Y DCLDRAWQCG TVQLDFSLPS RLSASY-VG- 
+SYT1_AERPE       263   LEGEAAFYGP KLDFIMmveE SGVSKEWQMG TIQFDFNLPR RFRLYdvVR- 
+SYT_PYRAB        424   ------YFIL KFEFNF---V DNLDKAAALS TVQIDVENAE RFGITY-YD- 
+SYT_METAC        433   ------YFVL KFEFNF---V DALAKASALS TVQIDVENAE RYDISY-VN- 
+SYTM_SCHPO       267   NEGDGAFYGP KIDVMV---A DARGKWHQTA TIQLDFNLPQ RFKLYYrtda 
+SYTM_YEAST       263   NPGDGAFYGP KLDIMV---T DHLRKTHQVA TIQLDFQLPE RFDLKF-KD- 
+SYTC_YEAST       540   NAGDGAFYGP KIDIMI---S DALRRWHQCA TIQLDFQLPN RFELEF-KS- 
+SYT1_BACSU       463   AEGEAAFYGP KLDVQV---K TAIGKEETLS TVQLDFLLPE RFDLTY-IG- 
+SYT_BUCAI        455   QSGEGAFYGP KIEFIL---Q DSLDRNWQCG TIQLDFYLPL RLSSFY-IN- 
+SYT_BUCBP        456   QHGEGAFYGP KIELSL---F DSLGRVWQCA TIQLDFCLPI NLKAFY-ID- 
+SYT_WIGBR        454   DLNEGAFYGP KIEFTL---L DSLNRKWQCG TIQLDLCLAN KLQAYY-IN- 
+SYT_ARATH        527   NEGDGAFYGP KIDITV---S DAMNRKFQCA TLQLDFQLPI RFNLEY-AA- 
+                                                                 
+                       2245555555 5555550005 5555556666 6666655555 5444330220 
+ 
+1evk_A           259   -----ED-N- -ERKVPVMIH RAILGSMERF IGILTEEFAG F--------F 
+SYT1_AERPE       312   -----EE-F- -GIEEVYIIH RALLGSIERF LGVYLEHRRG R--------M 
+SYT_PYRAB        463   -----EN-G- -EEKYPLILH CSPSGAIERV MYAILEKQAk lmnEGKKPMF 
+SYT_METAC        472   -----AD-G- -KLERPIVLH CSPSGAIERC IYALLEKAAm eteEGKVPML 
+SYTM_SCHPO       314   gdnagSE-K- -LIKQPVMIH RAIFGSLERF MGILIEHLNG H--------W 
+SYTM_YEAST       308   -----QD-N- -SYKRPIMIH RATFGSIERF MALLIDSNEG R--------W 
+SYTC_YEAST       585   -----KDqds eSYERPVMIH RAILGSVERM TAILTEHFAG K--------W 
+SYT1_BACSU       508   -----ED-G- -KQHRPVVIH RGVVSTMERF VAFLIEEHKG A--------L 
+SYT_BUCAI        500   -----EK-N- -EKKVPVIIH RAILGSIERF IGILIEECSG N--------L 
+SYT_BUCBP        501   -----HN-N- -ERKVPIIVH RAVLGSIERF IGILIEEYIG N--------F 
+SYT_WIGBR        499   -----NK-N- -EKTNPVIIH RAILGSMERF IGIITEEFSG K--------Y 
+SYT_ARATH        572   -----EDeA- -KKSRPVMIH RAVLGSVERM FAILLEHYKG K--------W 
+                                                                 
+                       0000022020 0223366777 7666677776 6666666666 6000000006 
+ 
+1evk_A           293   PTWLAPVQVV IMNITD---- --SQSEYVNE ---LTQK--- ---------- 
+SYT1_AERPE       346   PFTLAPIQFA VIAVKTggev drEIEDLASS ---IAKG--- ---------- 
+SYT_PYRAB        505   PLWLSPIQVR VIPVSE---- --EYLDYALY ---VAGK--- ---------- 
+SYT_METAC        514   PVWLSPTQVR IVPISE---- --KHLAFAEE ---VSKK--- ---------- 
+SYTM_SCHPO       353   PFWLSPRHAV ILPVNQtdri ----LTYAKQ ---VQKELSN Qevnesefl- 
+SYTM_YEAST       342   PFWLNPYQAV IIPVNT---- --KNVqqldm ctaLQKKLRN Eleaddmepv 
+SYTC_YEAST       622   PFWLSPRQVL VVPVGV---- --KYQGYAED ---VRNK--- ---------- 
+SYT1_BACSU       542   PTWLAPVQFQ VIPVSpav-- ---HLDYAKK ---VQER--- ---------- 
+SYT_BUCAI        534   PTWLSPVQVV IISITD---- --ISSGYVKE ---LFKKFSD ---------- 
+SYT_BUCBP        535   PTWLAPIQVV LANVNS---- --NHLQYIKL ---LYKEFYA ---------- 
+SYT_WIGBR        533   PLWISPIQVG VINVSV---- --DQIDYVKK ---ITKFFLQ ---------- 
+SYT_ARATH        607   PFWISPRQAI VCPISE---- --KSQQYAEK ---VQKQ--- ---------- 
+                                                                 
+                       7777776655 5432110000 0011111111 0001111000 0000000000 
+ 
+1evk_A           321   -LSNAGIRVK ADLRNEKIGF KIREHTLR-- RVPYMLVCGD KEVESGKVAV 
+SYT1_AERPE       380   -LLDKGFRVA VKGSSKTgls sdvrhiesta KPAVNVFIGA KEVREKVLDV 
+SYT_PYRAB        533   -LEGAKIRVD VDDEDERLNK KIRRAEKE-- WIPYIVVVGA REKENGTITV 
+SYT_METAC        542   -LD---CRVD IDDRDLSIGK KVREAGRE-- WVPYVVVIGD KEMEEGTINV 
+SYTM_SCHPO       395   PLNKNTYYVD INAEAQSIGK RLRESRLL-- NYNYEIVIGE DEVDKEILSV 
+SYTM_YEAST       386   PLNDWHFNVD LDIRNEPVGY RIKSAILK-- NYSYLIIVGD EEVQLQKYNI 
+SYTC_YEAST       650   -LHDAGFYAD VDLTGNTLQK KVRNGQML-- KYNFIFIVGE QEMNEKSVNI 
+SYT1_BACSU       571   -LQCEGLRVE VDSRDEKIGY KIREAQMQ-- KIPYMLVVGD QEAENGAVNV 
+SYT_BUCAI        565   -VN---IRIE CDLRNEKIGF KIREHTLR-- RIPYILICGE KESSSKKISV 
+SYT_BUCBP        566   -LG---IRSE IDSRNETISY KIREHIAR-- KIPYIIICGD KEVKNNTITL 
+SYT_WIGBR        564   -KK---IRII SDLRNEKISF KIREYTLR-- FIPYIIICGK KEMESNSISV 
+SYT_ARATH        635   -IKDAGFYVD ADLTDRKIDK KVREAQLA-- QYNYILVVGE TEAATGQVSV 
+                                                                 
+                       0110001222 2333333333 4444333300 3334433444 4433332322 
+ 
+1evk_A           368   RTRRGKDLGS MDV-----NE VIEKLQQEIR SRSLKQLEE- ---------- 
+SYT1_AERPE       429   RVFDLESMKR RRL-----AI AYGDAADAVE NLaavaeele spvrslsgqa 
+SYT_PYRAB        580   RRREDGKQYE TRI-----EE LIKEIKEKTE GFPYKPRPLP LLLSKRPKFr 
+SYT_METAC        586   TVraeseqnk pskvqitpEE LNARIRGEIA GKPYRKLPLA KYLSARPKFf 
+SYTM_SCHPO       443   SSRHNHNSRD TRK-----MT IQQLKKEFIE NVKAYR---- ---------- 
+SYTM_YEAST       434   RERDNRKSFE --K-----LT MSQIWEKFIE LEKNYK---- ---------- 
+SYTC_YEAST       697   RNRDVMEQQG KNA-----TV SVEEVLKQLR NLkdekrgdn vla------- 
+SYT1_BACSU       618   RKYGEQNSET ISL-----DE FVKKAVAEAK K--------- ---------- 
+SYT_BUCAI        609   RNRQGHNFGM IDV-----DF FIKKLQKEII TRNFYQMEE- ---------- 
+SYT_BUCBP        610   RTRSGKNFYC IDV-----QF FISKLCKEIN SYSCSLMEE- ---------- 
+SYT_WIGBR        608   RNKYGKQLKY SSL-----EK FYNVIYEEIK QKKt------ ---------- 
+SYT_ARATH        682   RVRDNAAHSV KSI-----ED LLEEFKAKTA EFv------- ---------- 
+                                                                 
+                       2110000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1evk_A           402   ---------- - 
+SYT1_AERPE       474   pripadfsfm l 
+SYT_PYRAB        625   g--------- - 
+SYT_METAC        636   ---------- - 
+SYTM_SCHPO       474   ---------- - 
+SYTM_YEAST       463   ---------- - 
+SYTC_YEAST       735   ---------- - 
+SYT1_BACSU       644   ---------- - 
+SYT_BUCAI        643   ---------- - 
+SYT_BUCBP        644   ---------- - 
+SYT_WIGBR        637   ---------- - 
+SYT_ARATH        710   ---------- - 
+                       
+                       0000000000 0 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((1evk_A      :0.002734((SYT_BUCAI   :0.002245SYT_BUCBP   :0.002245):0.000186SYT_WIGBR   :0.002431):0.000303):0.002774SYT1_BACSU  :0.005508):0.000495((SYTM_SCHPO  :0.003660SYTM_YEAST  :0.003660):0.000611(SYTC_YEAST  :0.002222SYT_ARATH   :0.002222):0.002049):0.001731):0.005067SYT1_AERPE  :0.011070):0.011116(SYT_PYRAB   :0.002182SYT_METAC   :0.002182):0.020004);
+ 
+ 

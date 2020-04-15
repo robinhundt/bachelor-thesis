@@ -1,0 +1,95 @@
+1csp               1   ---------- ---------- ---------- ---------- ---------- 
+1mef               1   MS-------- --GK------ ---------- ---------- ---------- 
+CSPA_BORPE         1   ME-------- ---------- ---------- ---------- ---------- 
+GRP2_NICSY         1   MAEES----- -GQR------ ---------- ---------- ---------- 
+CSPA_RHIME         1   MN-------- ---------- ---------- ---------- ---------- 
+GR2B_ARATH         1   msgggdvnms gGDR------ ---------- ---------- ---------- 
+CSPA_RICCN         1   MA-------- --TN------ ---------- ---------- ---------- 
+CSPH_ECOLI         1   MS-------- --RK------ ---------- ---------- ---------- 
+PIPI_HUMAN         1   MTSEStsppv vpplhspksp vwptfpfhre gsrvwerggv pprdlpsplp 
+                                                                 
+                       0000000000 0011000000 0000000000 0000000000 0000000000 
+ 
+1csp               1   ---------- -------MLE GKVKWFNSEK GFGFIEv-EG QDDVFVHFSA 
+1mef               5   ---------- --------MT GIVKWFNADK GFGFITPDDG SKDVFVHFSA 
+CSPA_BORPE         3   ---------- ---------T GVVKWFNAEK GYGFITPEAG GKDLFAHFSE 
+GRP2_NICSY         9   ---------- --------AK GTVKWFSDQK GFGFITPDDG GEDLFVHQSG 
+CSPA_RHIME         3   ---------- ---------S GTVKWFNSTK GFGFIQPDDG ATDVFVHASA 
+GR2B_ARATH        15   ---------- --------RK GTVKWFDTQK GFGFITPSDG GDDLFVHQSS 
+CSPA_RICCN         5   ---------- --------IV GKVKWYNSTK NFGFIEQDNG GKDVFVHKSA 
+CSPH_ECOLI         5   ---------- --------MT GIVKTFDRKS GKGFIIPSDG RKEVQVHISA 
+PIPI_HUMAN        51   tkrtrtysat arasagpVFK GVCKQFSRSQ GHGFITPENG SEDIFVHVSD 
+                                                                 
+                       0000000000 0000000013 8888888888 8888877778 8899999777 
+ 
+1csp              33   IQGEGFKTLE EGQAVSFEIV ---------- ---------- ----EGNRGP 
+1mef              37   IQNDGYKSLD EGQKVSFTIE ---------- ---------- ----SGAKGP 
+CSPA_BORPE        34   IQANGFKSLE ENQRVSFVTA ---------- ---------- ----MGPKGP 
+GRP2_NICSY        41   IRSEGFRSLA EGETVEFEVE ---------- ---------- ----SGGDGR 
+CSPA_RHIME        34   VERAGMRSLV EGQKVTYDIV ---------- ---------- ----RDTKSG 
+GR2B_ARATH        47   IRSEGFRSLA AEESVEFDVE ---------- ---------- ----VDNSGR 
+CSPA_RICCN        37   VDAAGLHSLE EGQDVIFDLE ---------- ---------- ----E-KQGK 
+CSPH_ECOLI        37   FTPRDAEVLI PGLRVEFCRV ---------- ---------- ----NGLRGP 
+PIPI_HUMAN       101   IEGEy--VPV EGDEVTYKMc pippknqkfq avevvltqla phtpHETWSG 
+                                                                 
+                       6655444442 2333333222 0000000000 0000000000 0000222221 
+ 
+1csp              59   QAANVTKEA- ---------- ---------- ---------- ---------- 
+1mef              63   AAGNVTsl-- ---------- ---------- ---------- ---------- 
+CSPA_BORPE        60   QATKIQIl-- ---------- ---------- ---------- ---------- 
+GRP2_NICSY        67   TKAVD-VTGP DGAAVQGgrG GGGGGGGRGG GGYGGGSGGY GGGGrggsrg 
+CSPA_RHIME        60   KSSADNLRAa ---------- ---------- ---------- ---------- 
+GR2B_ARATH        73   PKAIE-VSGP DGAPVQGnsG GGGSSGGRGG FGGGGGRGGG RGGGsy---- 
+CSPA_RICCN        62   AYAVN-LRik ---------- ---------- ---------- ---------- 
+CSPH_ECOLI        63   TAANVYLs-- ---------- ---------- ---------- ---------- 
+PIPI_HUMAN       149   Qvvgs----- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1100000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1csp              68   ---------- ---------- ---------- ---------- ---------- 
+1mef              71   ---------- ---------- ---------- ---------- ---------- 
+CSPA_BORPE        68   ---------- ---------- ---------- ---------- ---------- 
+GRP2_NICSY       116   ygggdggygg gggygggsry gggGGGYGGG GGYGGGGSGG GSGCFKCGES 
+CSPA_RHIME        70   ---------- ---------- ---------- ---------- ---------- 
+GR2B_ARATH       118   ---------- ---------- ---GGGYGGR GSGGRGGGGG DNSCFKCGEP 
+CSPA_RICCN        71   ---------- ---------- ---------- ---------- ---------- 
+CSPH_ECOLI        71   ---------- ---------- ---------- ---------- ---------- 
+PIPI_HUMAN       154   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1csp              68   ---------- ---------- ---------- ---------- ---------- 
+1mef              71   ---------- ---------- ---------- ---------- ---------- 
+CSPA_BORPE        68   ---------- ---------- ---------- ---------- ---------- 
+GRP2_NICSY       166   GHFARDCSQS G----GGGGG GRFGGGGGGG GGGG---CYK CGEDGHFARE 
+CSPA_RHIME        70   ---------- ---------- ---------- ---------- ---------- 
+GR2B_ARATH       145   GHMARECSQG GggysGGGGG GRYGSGGGGG GGGGglsCYS CGESGHFARD 
+CSPA_RICCN        71   ---------- ---------- ---------- ---------- ---------- 
+CSPH_ECOLI        71   ---------- ---------- ---------- ---------- ---------- 
+PIPI_HUMAN       154   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1csp              68   ------- 
+1mef              71   ------- 
+CSPA_BORPE        68   ------- 
+GRP2_NICSY       209   CTSGGr- 
+CSPA_RHIME        70   ------- 
+GR2B_ARATH       195   CTSGGar 
+CSPA_RICCN        71   ------- 
+CSPH_ECOLI        71   ------- 
+PIPI_HUMAN       154   ------- 
+                  
+                       0000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((1csp        :0.018785(1mef        :0.016669CSPA_BORPE  :0.016669):0.002115):0.006289(GRP2_NICSY  :0.004924GR2B_ARATH  :0.004924):0.020149):0.002070(CSPA_RHIME  :0.022819CSPA_RICCN  :0.022819):0.004324):0.018701PIPI_HUMAN  :0.045844):0.006022CSPH_ECOLI  :0.051866);
+ 
+ 

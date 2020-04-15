@@ -1,0 +1,746 @@
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK         1   mswsrs---- ---------- ---------- ---------- ---------- 
+TNAG_HUMAN         1   MW----TGYK FS-------- ---------- ---------- ---------- 
+CATC_SCHMA         1   mhwvfh---- ---------- ---------- ---------- ---------- 
+1jqp_A             1   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA         1   mk-------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA         1   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A             1   y--------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI         1   marrnp---- ---------- ---------- ---------- ---------- 
+CYSP_TRYBB         1   mprtemvrfv rlpv------ ---------- ---------- ---------- 
+CYS2_LEIPI         1   matsraalca ---------- ---------- ---------- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA         1   mvssvvsnpn erlvn----- --------NR VENDLESSDD TLSTQAKPVS 
+ORYA_ORYSA         1   mri------- ---------- ---------- ---------- ---------- 
+PAP3_CARPA         1   MA-------- ---------- ---------- ---------- ---------- 
+PAP4_CARPA         1   MA-------- ---------- ---------- ---------- ---------- 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE         1   ---------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE         1   ---------- ---------- ---------- ---------- ---------- 
+CATQ_RAT           1   ---------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE         1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI         1   ---------- ---------- ---------- ---------- ---------- 
+CATL_SARPE         1   ---------- ---------- ---------- ---------- ---------- 
+CATL_DROME         1   ---------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA         1   MW----TIAQ LA-------- ---------- ---------- ---------- 
+CYS1_HOMAM         1   ---------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM         1   ---------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM         1   ---------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH         1   maisfrTLAL LT-------- ---------- ---------- ---------- 
+ACP1_ENTHI         1   mf-------- ---------- ---------- ---------- ---------- 
+CPR1_DROME         1   mrlfaaatva lvlllgqaag eelaeeraGQ AQGDAESTES SETTTDQAVS 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK         7   ---------- ---------- ------ILCL L--------- ---------- 
+TNAG_HUMAN         9   ---------- ---------I FSYLtte--- ---------- ---------- 
+CATC_SCHMA         7   ---------- ---------- --CILIILAC LrftcaDTPA NCTYEDAHGR 
+1jqp_A             1   ---------- ---------- ---------- ------DTPA NCTYPDLLGT 
+CAL2_GIALA         3   ---------- ---------- ------LFLL AA-------- ---------- 
+CAL1_GIALA         1   ---------- ---------M ALSLLLAVVC ak-------- ---------- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI         7   ---------- ---------- ---------- ---------- ---------- 
+CYSP_TRYBB        15   ---------- ---------- -VLLAMAACL A--------- ---------- 
+CYS2_LEIPI        11   ---------- ---------- VAVVCVVLAA A--------- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA        38   Rlltrklllg vvvlfflagV SVVSYFLFsk y--------- ---------- 
+ORYA_ORYSA         4   ---------- ---------- ---------- ---------- ---------- 
+PAP3_CARPA         3   ---------- ---------- ---------- ---------- ---------- 
+PAP4_CARPA         3   ---------- ---------- ---------- ---------- ---------- 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE         1   ---------- ---------M TPTVLLLILC F--------- ---------- 
+CATR_MOUSE         1   ---------- ---------M AAVVFIAFLY L--------- ---------- 
+CATQ_RAT           1   ---------- ---------M TPAVFLVILC L--------- ---------- 
+CATM_MOUSE         1   ---------- ---------M TSAIFLAMLC L--------- ---------- 
+CYS1_DICDI         1   ---------- ---------M KVILLFVLAV F--------- ---------- 
+CATL_SARPE         1   ---------- ---------- MRTVLVALLA L--------- ---------- 
+CATL_DROME         1   ---------- ---------M RTAVLLPLLA L--------- ---------- 
+CATL_BRUPA         9   ---------- ---------V FAILALADFA V--------- ---------- 
+CYS1_HOMAM         1   ---------- ---------M KVVALFLFGL AL-------- ---------- 
+CYS2_HOMAM         1   ---------- ---------M KVAVLFLCGV AL-------- ---------- 
+CYS3_HOMAM         1   ---------- ---------M KVAALFLCGL AL-------- ---------- 
+CPR2_ARATH        13   ---------- ---------L SVLLISISLG V--------- ---------- 
+ACP1_ENTHI         3   ---------- ---------- ---ALILF-- ---------- ---------- 
+CPR1_DROME        51   Eppitlvhvl npgereyls- ---------- ---------- ----PNLIGv 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        12   ---------- ---------- ---------- ---------- ---------- 
+TNAG_HUMAN        17   ---------- ---------- ---------- ---------- ---------- 
+CATC_SCHMA        35   WKFHIGdyqs ---------- ---------- -------KCP EKLNSKQSVV 
+1jqp_A            15   WVFQVGprhp rsh------- ---------- ------INCS VMEPTEEKVV 
+CAL2_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA        14   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI         7   ---------- ---------- ---------- ---------- ---------- 
+CYSP_TRYBB        25   ---------- ---------- ---------- ---------- ---------- 
+CYS2_LEIPI        22   ---------- ---------- ---------- ---------- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA        69   ---------- ---------- ---------- ---------- ---------- 
+ORYA_ORYSA         4   ---------- ---------- ---------- ---------- ---------- 
+PAP3_CARPA         3   ---------- ---------- ---------- ---------- ---------- 
+PAP4_CARPA         3   ---------- ---------- ---------- ---------- ---------- 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATQ_RAT          13   ---------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_SARPE        12   ---------- ---------- ---------- ---------- ---------- 
+CATL_DROME        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA        21   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH        25   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI         8   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME        76   qniamtflpl smnfvniida freitagvry eillnaLDTK AIQPAEADIV 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        12   ---------- ---------- ---------- ---------- ---------- 
+TNAG_HUMAN        17   IWME------ ---------- ---------- ---------- ---------- 
+CATC_SCHMA        58   ISLlyp---- ---------- ---------- ---------- ---------- 
+1jqp_A            42   IHLK------ ---------- ---------- ---------- ---------- 
+CAL2_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA        14   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI         7   ---------- ---------- ---------- ---------- ---------- 
+CYSP_TRYBB        25   ---------- ---------- ---------- ---------- ---------- 
+CYS2_LEIPI        22   ---------- ---------- ---------- ---------- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA        69   ---------- ---------- ---------- ---------- --------KM 
+ORYA_ORYSA         4   ---------- ---------- ---------- ---------- ---------- 
+PAP3_CARPA         3   ---------- ---------- ---------- ---------- ---------- 
+PAP4_CARPA         3   ---------- ---------- ---------- ---------- ---------- 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATQ_RAT          13   ---------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_SARPE        12   ---------- ---------- ---------- ---------- ---------- 
+CATL_DROME        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA        21   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH        25   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI         8   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       126   CRLvilekpw lrtqwgdkhr elvtsnctdp avnsvagdpa ekarllneKY 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        12   ---------- ---------- ---------- ---------- ---------- 
+TNAG_HUMAN        21   ---------- ---------- --KQYLSQRE VDLEAYFTrn htvlqgtrfk 
+CATC_SCHMA        64   ---------- ---------- ----DIAIDE FGNRGHWTLI YNQGFEVTIN 
+1jqp_A            46   ---------- ---------- --KLDTAYDE VGNSGYFTLI YNQGFEIVLN 
+CAL2_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA        14   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI         7   ---------- ---------- ---------- ---------- ---------- 
+CYSP_TRYBB        25   ---------- ---------- ---------- ---------- ---------- 
+CYS2_LEIPI        22   ---------- ---------- ---------- ---------- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA        71   LNKFKRELDD HLTKDFPNLE RSKRDTCFDE LTRL------ ---------- 
+ORYA_ORYSA         4   ---------- ---------- ---------- ---------- ---------- 
+PAP3_CARPA         3   ---------- ---------- ---------- ---------- -------MIP 
+PAP4_CARPA         3   ---------- ---------- ---------- ---------- -------IIC 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATQ_RAT          13   ---------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_SARPE        12   ---------- ---------- ---------- ---------- ---------- 
+CATL_DROME        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA        21   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH        25   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI         8   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       176   VHRSRRSAND ILGRHKPYDE EAAKAQLQKS LDKLtagegp hykivkvysa 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        12   ---------- ---------- ---------- ---------- ---------- 
+TNAG_HUMAN        49   rai------F QGQY------ ---------- ---------- ------CRNF 
+CATC_SCHMA        90   HRKWLVIFAY KSNGefn--- ---------- ---------- ---------- 
+1jqp_A            74   DYKWFAFFKY EVKG------ ---------- ---------- ------SRAI 
+CAL2_GIALA         9   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA        14   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI         7   ---------- ---L------ ---------- ---------- ------LFAI 
+CYSP_TRYBB        25   ---------- ---------- ---------- ---------- ---------- 
+CYS2_LEIPI        22   ---------- ---------- ---------- ---------- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       105   ---------- ---------- ---------- ---------- ---------- 
+ORYA_ORYSA         4   ---SMALAAA ALLL------ ---------- ---------- ------LLSL 
+PAP3_CARPA         6   SISKLLFVAI CLFV------ ---------- ---------- ------HMSV 
+PAP4_CARPA         6   SFSKLLFVAI CLFG------ ---------- ---------- ------HMSL 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CATQ_RAT          13   ---------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE        13   ---------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_SARPE        12   ---------- ---------- ---------- ---------- ---------- 
+CATL_DROME        13   ---------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA        21   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM        14   ---------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH        25   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI         8   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       226   srqvdsgilt ridadlidgs eeqhrcivdi wtkvwvrkde heitfkCRNq 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        12   --------G- -------AFA NA------RS IPyy------ ---------- 
+TNAG_HUMAN        61   GCCEDRDDG- -------CVT EF------YA ANALCYCDKf cdrensdccp 
+CATC_SCHMA       107   --CHKSMPM- -------WTH DT------Li dsgsvcsgki gv-------- 
+1jqp_A            92   SYCHETMTG- -------WVH DV------LG RNWACFVGKk mls------- 
+CAL2_GIALA         9   ---------- ---------- ---------- --AA------ ---------- 
+CAL1_GIALA        14   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI        12   VVTILFVVC- -------YGS aliaqtppPV DNFVASAHY- ---------- 
+CYSP_TRYBB        25   --------S- -------VAL GS------LH VEESLEMRF- ---------- 
+CYS2_LEIPI        22   --------C- -------APA RA------IH VGTPAAALF- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       105   -FGD----G- -------FLS DD------PK LEYEVYREF- ---------- 
+ORYA_ORYSA        19   AAADMSIVS- -------YGE ---------R SEEEARRLY- ---------- 
+PAP3_CARPA        24   SFGDFSIVG- -------YSQ DD------LT STERLIQLF- ---------- 
+PAP4_CARPA        24   SYCDFSIVG- -------YSQ DD------LT STERLIQLF- ---------- 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        13   --------G- -------VAS GA------QA HDPKLDAEW- ---------- 
+CATR_MOUSE        13   --------G- -------VAS GV------PV LDSSLDAEW- ---------- 
+CATQ_RAT          13   --------G- -------VVP GA------SA LDLSLDVQW- ---------- 
+CATM_MOUSE        13   --------G- -------MAL PS------PA PDPILDVEW- ---------- 
+CYS1_DICDI        13   --------T- -------VFV SS------RG IPPEEQSQF- ---------- 
+CATL_SARPE        12   --------V- -------ALT QA------IS PLDLIKEEW- ---------- 
+CATL_DROME        13   --------L- -------AVA QA------VS FADVVMEEW- ---------- 
+CATL_BRUPA        21   --------A- -------GEI Eqlkevlgkf nk-------- ---------- 
+CYS1_HOMAM        14   ---------- ---------- ---------- --AAANPSW- ---------- 
+CYS2_HOMAM        14   ---------- ---------- ---------- --AAASPSW- ---------- 
+CYS3_HOMAM        14   ---------- ---------- ---------- --ATASPSW- ---------- 
+CPR2_ARATH        25   --------V- -------TAT ES------QR NEGEVLTMY- ---------- 
+ACP1_ENTHI         8   ---------- ---------- --------VS LACANEVAF- ---------- 
+CPR1_DROME       276   pvvqarhtrs vewaekkTHK KH------SH RFDKVDHLF- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        24   ---------- ---------- ---------- ---------- ---------- 
+TNAG_HUMAN        97   DYKsf----- ---------- ---------- ---------- ---------- 
+CATC_SCHMA       133   ---------- ---------- ---------- ---------- ---------- 
+1jqp_A           121   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA        11   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA        14   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI        43   ---------- ---------- ---------- ---------- ---------- 
+CYSP_TRYBB        42   ---------- ---------- ---------- ---------- ---------- 
+CYS2_LEIPI        39   ---------- ---------- ---------- ---------- ---------- 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       125   ---------- ---------- ---------- ---------- ---------- 
+ORYA_ORYSA        41   ---------- ---------- ---------- ---------- ---------- 
+PAP3_CARPA        49   ---------- ---------- ---------- ---------- ---------- 
+PAP4_CARPA        49   ---------- ---------- ---------- ---------- ---------- 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        30   ---------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE        30   ---------- ---------- ---------- ---------- ---------- 
+CATQ_RAT          30   ---------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE        30   ---------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI        30   ---------- ---------- ---------- ---------- ---------- 
+CATL_SARPE        29   ---------- ---------- ---------- ---------- ---------- 
+CATL_DROME        30   ---------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA        37   DYKqgnmtrl asdfrsalke ygdgqqgest vvqeflkkte dngeqramek 
+CYS1_HOMAM        21   ---------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM        21   ---------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM        21   ---------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH        42   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI        19   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       309   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        24   ---------- ---------- --------PP LSSDLVNHIN KL----NT-T 
+TNAG_HUMAN       102   --------CR EEKEWPPHTQ P-WYPEGCFK DGQHYEEGSV IK----ENcn 
+CATC_SCHMA       133   ---------- HDKF------ ---------- -------HIN KL----FG-S 
+1jqp_A           121   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA        11   ---------- ---------- -----FSAPA LTVSELNHIK SL----NP-R 
+CAL1_GIALA        14   ---------- ---------- --------PL VSRAELRRIQ AL----NP-P 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI        43   ----GSFKKR HGKAFGGDAE E-GHRFNAFK QNMQTAYFLN TQ----NP-H 
+CYSP_TRYBB        42   ----AAFKKK YGKVYKDAKE E-AFRFRAFE ENMEQAKIQA AA----NP-Y 
+CYS2_LEIPI        39   ----EEFKRT YGRAYETLAE E-QQRLANFE RNLELMREHQ AR----NP-H 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       125   ----EEFNSK YNRRHATQQE R-LNRLVTFR SNYLEVKEQK GD----EP-Y 
+ORYA_ORYSA        41   ----AEWKAE HGKSYNAVGE E-ERRYAAFR DNLRYIDEHN AAADAGVHSF 
+PAP3_CARPA        49   ----NSWMLN HNKFYENVDE K-LYRFEIFK DNLNYIDETN KK----NNSY 
+PAP4_CARPA        49   ----NSWMLK HNKNYKNVDE K-LYRFEIFK DNLKYIDERN KM----INGY 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        30   ----KDWKTK YAKSYSP--E E-ALRRAVWE ENMRMIKLHN KENSLGKNNF 
+CATR_MOUSE        30   ----QDWKIK YNKSYSL--K EEKLKRVVWE EKLKMIKLHN RENSLGKNGF 
+CATQ_RAT          30   ----QEWKIK YEKLYSP--E EEVLKRVVWE ENVKKIELHN RENSLGKNTY 
+CATM_MOUSE        30   ----QKWKIK YGKAYSL--E EEGQKRAVWE DNMKKIKLHN GENGLGKHGF 
+CYS1_DICDI        30   ----LEFQDK FNKKYSH-EE Y-LERFEIFK SNLGKIEELN LIAINHKADT 
+CATL_SARPE        29   ----HTYKLQ HRKNYANEVE E-RFRMKIFN ENRHKIAKHN QLFAQGKVSY 
+CATL_DROME        30   ----HTFKLE HRKNYQDETE E-RFRLKIFN ENKHKIAKHN QRFAEGKVSF 
+CATL_BRUPA        87   leteWKDYVT ALGKHYDQKE N-NFRMAIFE SNELMTERIN KKYEQGLVSY 
+CYS1_HOMAM        21   ----EEFKGK FGRKYVDLEE E-RYRLNVFL DNLQYIEEFN KKYERGEVTY 
+CYS2_HOMAM        21   ----EHFKGK YGRQYVDAEE D-SYRRVIFE QNQKYIEEFN KKYENGEVTF 
+CYS3_HOMAM        21   ----DHFKTQ YGRKYGDAKE E-LYRQRVFQ QNEQLIEDFN KKFENGEVTF 
+CPR2_ARATH        42   ----EQWLVE NGKNYNGLGE K-ERRFKIFK DNLKRIEEHN S---DPNRSY 
+ACP1_ENTHI        19   ----KQWAAT HNKVFANRAE Y-LYRFAVFL DNKKFVEANA N---TEL--- 
+CPR1_DROME       309   ----YKFQVR FGRRYVSTAE R-QMRLRIFR QNLKTIEELN A---NEMGSA 
+                                                                 
+                       0000000000 0000000000 0000000111 1111111111 0000000000 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        41   --------GR AGHNFHNTDM SYVKKLcg-- ---------- ---------- 
+TNAG_HUMAN       139   sctcsgqqWK csqhvclVRP ELIEQVNKGD YGWTAQNYSQ FWGMTLEDGF 
+CATC_SCHMA       145   --------KS FGRTLYHINP SFVGKINAHQ KSWRGEIYPE LSKYTIDELR 
+1jqp_A           121   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA        31   --------WK AGIP------ ---------- --------KR FEGLTKDEIS 
+CAL1_GIALA        31   --------WK AGMP------ ---------- --------KR FENVTEDEFR 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI        83   --------AH YDVS------ ---------- --------GK FADLTPQEFA 
+CYSP_TRYBB        82   --------AT FGV------- ---------- --------TP FSDMTREEFR 
+CYS2_LEIPI        79   --------AQ FGI------- ---------- --------TK FFDLSEAEFA 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       165   --------VK -GI------- ---------- --------NR FSDLTEREFY 
+ORYA_ORYSA        86   --------RL -GL------- ---------- --------NR FADLTNEEYR 
+PAP3_CARPA        90   --------WL -GL------- ---------- --------NE FADLSNDEFN 
+PAP4_CARPA        90   --------WL -GL------- ---------- --------NE FSDLSNDEFK 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        73   --------TM -KM------- ---------- --------NK FGDQTSEEFR 
+CATR_MOUSE        74   --------TM -KM------- ---------- --------NE FGDQTDEEFR 
+CATQ_RAT          74   --------TM -EI------- ---------- --------ND FADMTDEEFK 
+CATM_MOUSE        74   --------TM -EM------- ---------- --------NA FGDMTLEEFR 
+CYS1_DICDI        74   --------KF -GV------- ---------- --------NK FADLSSDEFK 
+CATL_SARPE        74   --------KL -GL------- ---------- --------NK YADMLHHEFK 
+CATL_DROME        75   --------KL -AV------- ---------- --------NK YADLLHHEFR 
+CATL_BRUPA       136   --------TT -AL------- ---------- --------ND LADLTDEEFM 
+CYS1_HOMAM        66   --------NL -AI------- ---------- --------NQ FSDMTNEKFN 
+CYS2_HOMAM        66   --------NL -AM------- ---------- --------NK FGDMTLEEFN 
+CYS3_HOMAM        66   --------KV -AM------- ---------- --------NQ FGDMTNEEFN 
+CPR2_ARATH        84   --------ER -GL------- ---------- --------NK FSDLTADEFQ 
+ACP1_ENTHI        58   ---------- ---------- ---------- --------NV FADMTHEEFI 
+CPR1_DROME       351   --------KY -GI------- ---------- --------TE FADMTSSEYK 
+                                                                 
+                       0000000000 0110000000 0000000000 0000000011 1111111110 
+ 
+1cpj_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK        61   --------TF LGGpk----- -A---P--E- ---------- ---------- 
+TNAG_HUMAN       189   -------KFR LGTL-----P PS---PMLL- ---------- -SMNEmt--- 
+CATC_SCHMA       187   nraggvkSMV TRPS-----V LN---RKTP- ---------- -SKELISL-- 
+1jqp_A           121   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA        49   -------SLL MPVSflknaK GA---A--P- ---------- ---------- 
+CAL1_GIALA        49   -------SML IRPD-----R LR---ARSG- ---------- -SLPPISI-- 
+1nb3_A             2   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A             1   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI       101   -------KLY LNPD-----Y YA---RHLK- ---------- -DHKEDVHV- 
+CYSP_TRYBB        99   -------ARY RNGA-----S YF---AAAQ- ---------- -KRLRKTVNv 
+CYS2_LEIPI        96   -------ARY LNGA-----A YF---AAAK- ---------- -RHAAQHYrk 
+CATL_CHICK         1   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       181   -------KLF PVMK-----P PKATYSNGyy llshmankty lKNLKKALNt 
+ORYA_ORYSA       102   -------DTY LGLR-----N KP---RRER- ---------- -KVSDRYLA- 
+PAP3_CARPA       106   -------EKY VGSL-----I DA---TIEQ- ---------- -SYDEEFIN- 
+PAP4_CARPA       106   -------EKY VGSL-----P Edytn---Q- ---------- -PYDEEFVN- 
+1glo_A             1   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE        89   -------KSI DNIP-----I PA---AMTD- ---------- -PHAQNHV-- 
+CATR_MOUSE        90   -------KMM IEIS-----V WT---HREG- ---------- -KSIMKREA- 
+CATQ_RAT          90   -------DMI IGFQ-----L PV---HNTE- ---------- -KRLWKRAL- 
+CATM_MOUSE        90   -------KVM IEIP-----V PT---VKKG- ---------- -KSVQKRL-- 
+CYS1_DICDI        90   -------NYY LNNKeaiftd DL---PVAD- ---------- -YLDDEF--- 
+CATL_SARPE        90   -------ETM NGYN-----H TL---RQLM- ---------- -RERTGLv-G 
+CATL_DROME        91   -------QLM NGFN-----Y TL---HKQL- ---------- -RAADEsfkG 
+CATL_BRUPA       152   -------VRN GLRL-----P NQTDLRGKR- ---------- -QTSEFYRY- 
+CYS1_HOMAM        82   -------AVM KGYK-----K GP---R--P- ---------- ---------- 
+CYS2_HOMAM        82   -------AVM KGNI-----P RR---SApvs vfypkk---- ---------- 
+CYS3_HOMAM        82   -------AVM KGYK-----K GS---RGEP- ---------- ---------- 
+CPR2_ARATH       100   -------ASY LGGK-----M EK---KSLS- ---------- -DVAERYQY- 
+ACP1_ENTHI        70   -------QTH LGMT-----Y EV---PETT- ---------- -Snv------ 
+CPR1_DROME       367   -------ERT GLWQ-----R DEAKATGGS- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A             1   ---------- -----LPESF DAREQWS--- --NCPT-IAQ IRDQGSCGSC 
+CATB_CHICK        71   RVDFAED--- -MD--LPDTF DTRKQWP--- --NCPT-ISE IRDQGSCGSC 
+TNAG_HUMAN       209   -ASLPAT--- -TD--LPEF- -FVASYK--- --WPGW-THG PLDQKNCAAS 
+CATC_SCHMA       215   ----T----- -----GNLP- -LEFDWtspp dgSRSP-VTP IRNQGICGSC 
+1jqp_A           121   ---------- -----LPESW -DWRNVR--- --GINF-VSP VRNQESCGSC 
+CAL2_GIALA        66   RGTFTDK--- -DD--VPESF -DFREEYPH- -----C-IPE VVDQGGCGSC 
+CAL1_GIALA        70   ----Tevqel vDP--IPPQF -DFRDEYPQ- -----C-VKP ALDQGSCGSC 
+1nb3_A             2   ---------- --------P- -PSMDWR--- --KKNF-VSP VKNQGSCGSC 
+1m6d_A             1   ---------- -------AP- -PEWDWR--- --SKGA-VTK VKDQGMCGSC 
+CYS1_LEIPI       123   --DDS----- -----Apsgv m-SVDWR--- --DKGA-VTP VKNQGLCGSC 
+CYSP_TRYBB       122   t---T----- -----GRAP- -AAVDWR--- --EKGA-VTP VKVQGQCGSC 
+CYS2_LEIPI       119   aRADL----- -----SAVP- -DAVDWR--- --EKGA-VTP VKDQGACGSC 
+CATL_CHICK         1   ---------- -------AP- -RSVDWR--- --EKGY-VTP VKDQGQCGSC 
+CYSP_THEPA       219   d----ED--- -VD--LAKLT GENLDWR--- --RSSS-VTS VKDQSNCGGC 
+ORYA_ORYSA       124   --ADN----- -----EALP- -ESVDWR--- --TKGA-VAE IKDQGGCGSC 
+PAP3_CARPA       128   --EDT----- -----VNLP- -ENVDWR--- --KKGA-VTP VRHQGSCGSC 
+PAP4_CARPA       128   --EDI----- -----VDLP- -ESVDWR--- --AKGA-VTP VKHQGYCESC 
+1glo_A             1   ---------- -------LP- -DSVDWR--- --EKGC-VTE VKYQGSCGAS 
+CATJ_MOUSE       110   ----S----- -----IGLP- -DYKDWR--- --EEGY-VTP VRNQGKCGSC 
+CATR_MOUSE       112   ----G----- -----SILP- -KFVDWR--- --KKGY-VTP VRRQGDCDAC 
+CATQ_RAT         112   ----Gsffpn swnwrDALP- -KFVDWR--- --NEGY-VTR VRKQGGCSSC 
+CATM_MOUSE       111   ----S----- -----VNLP- -KFINWK--- --KRGY-VTP VQTQGRCNSC 
+CYS1_DICDI       115   ----I----- -----NSIP- -TAFDWR--- --TRGA-VTP VKNQGQCGSC 
+CATL_SARPE       112   ATYIPP---- -AH--VTVP- -KSVDWR--- --EHGA-VTG VKDQGHCGSC 
+CATL_DROME       114   VTFISP---- -AH--VTLP- -KSVDWR--- --TKGA-VTA VKDQGHCGSC 
+CATL_BRUPA       177   --DKS----- -----ERLP- -DQVDWR--- --TKGA-VTP VRNQGECGSC 
+CYS1_HOMAM        94   AAVFTST--- -DA--APES- -TEVDWR--- --TKGA-VTP VKDQGQCGSC 
+CYS2_HOMAM       103   ---------- -ET--GPQA- -TEVDWR--- --TKGA-VTP VKDQGQCGSC 
+CYS3_HOMAM        96   KAVFTA---- -EA--GPMA- -ADVDWR--- --TKAL-VTP VKDQEQCGSC 
+CPR2_ARATH       122   --KEG----- -----DVLP- -DEVDWR--- --ERGAvVPR VKRQGECGSC 
+ACP1_ENTHI        87   -KAAV----- -----KAAP- -ESVDWR--- --Si---MNP AKDQGQCGSC 
+CPR1_DROME       384   AAVVPA---- -YH--GELP- -KEFDWR--- --QKDA-VTQ VKNQGSCGSC 
+                                                                 
+                       0000000000 0000000230 0345666000 0066660667 7778888888 
+ 
+1cpj_A            30   WAFGAVEAMS DRICIHTNGR VN--VEVSAE DLLTCCGI-- ------Q-C- 
+CATB_CHICK       109   WAFGAVEAIS DRICVHTNAK VS--VEVSAE DLLSCCGF-- ------E-C- 
+TNAG_HUMAN       244   WAFSTASVAA DRIAIQSKGR YT--ANLSPQ NLISCC---- --------AK 
+CATC_SCHMA       248   YASPSAAALE ARIRLVSNFS EQPIL--SPQ TVVDCS---- ------P-Y- 
+1jqp_A           149   YSFASLGMLE ARIRILTNNS QTPIL--SPQ EVVSCS---- ------P-Y- 
+CAL2_GIALA       102   WAFSSVATFG DRRCVAGLDK KP--VKYSPQ YVVSCD---- ------H-G- 
+CAL1_GIALA       106   WAFSAIGVFG DRRCAMGIDK EA--VSYSQQ HLISCS---- ------L-E- 
+1nb3_A            26   WTFSTTGALE SAVAIATGKM LS--L--AEQ QLVDCA---- ------Q-N- 
+1m6d_A            26   WAFSVTGNVE GQWFLNQGTL LS--L--SEQ ELLDCD---- ------K-M- 
+CYS1_LEIPI       154   WAFSAIGNIE GQWAaSGHSL VS--L--SEQ MLVSCD---- ------N-I- 
+CYSP_TRYBB       151   WAFSTIGNIE GQWQVAGNPL VS--L--SEQ MLVSCD---- ------T-I- 
+CYS2_LEIPI       151   WAFSAVGNIE GQWYLAGHEL VS--L--SEQ QLVSCD---- ------D-M- 
+CATL_CHICK        26   WAFSTTGALE GQHFRTKGKL VS--L--SEQ NLVDCS---- ------R-PE 
+CYSP_THEPA       253   WAFSTVGSVE GYYMSHFDKS YE--L--SVQ ELLDCD---- ------S-F- 
+ORYA_ORYSA       154   WAFSAIAAVE DINQIVTGDL IS--L--SEQ ELVDCD---- ------T-S- 
+PAP3_CARPA       158   WAFSAVATVE GINKIRTGKL VE--L--SEQ ELVDCE---- ------R-R- 
+PAP4_CARPA       158   WAFSTVATVE GINKIKTGNL VE--L--SEQ ELVDCD---- ------K-Q- 
+1glo_A            26   WAFSAVGALE AQLKLKTGKL VS--L--SAQ NLVDCS---- ------TEKY 
+CATJ_MOUSE       138   WAFAAAGAIE GQMFWKTGNL TP--L--SVQ NLLDCS---- ------K-TV 
+CATR_MOUSE       140   WAFAVTGAIE AQAIWQTGKL TP--L--SVQ NLVDCS---- ------K-PQ 
+CATQ_RAT         150   WAFPVTGAIE GQMFKKTGKL IP--L--SVQ NLIDCS---- ------K-PQ 
+CATM_MOUSE       139   WAFSVTGAIE GQMFRKTGQL IP--L--SVQ NLVDCS---- ------R-PQ 
+CYS1_DICDI       143   WSFSTTGNVE GQHFISQNKL VS--L--SEQ NLVDCDhecm eyegeeA-C- 
+CATL_SARPE       147   WAFSSTGALE GQHFRKAGVL VS--L--SEQ NLVDCS---- ------T-KY 
+CATL_DROME       149   WAFSSTGALE GQHFRKSGVL VS--L--SEQ NLVDCS---- ------T-KY 
+CATL_BRUPA       207   YAFATAAALE AYHKQMTGRL LD--L--SPQ NIVDCT---- ------R-NL 
+CYS1_HOMAM       130   WAFSTTGGIE GQHFLKTGRL VS--L--SEQ QLVDCA---- ------GGSY 
+CYS2_HOMAM       132   WAFSTTGSLE GQHFLKTGSL IS--L--AEQ QLVDCS---- ------R-PY 
+CYS3_HOMAM       131   WAFSATGALE GQHFLKNDEL VS--L--SEQ QLVDCS---- ------T-DY 
+CPR2_ARATH       153   WAFAATGAVE GINQITTGEL VS--L--SEQ ELIDCD---- ------R-GN 
+ACP1_ENTHI       116   WTFCTTAVLE GRVNKDLGKL YS--F--SEQ QLVDCD---- ------A-S- 
+CPR1_DROME       419   WAFSVTGNIE GLYAVKTGEL KE--F--SEQ ELLDCD---- ------T-T- 
+                                                                 
+                       8888777777 6432222223 3300300333 3333320000 0000002010 
+ 
+1cpj_A            68   -GDGCNGGYP SGAWNFWTRK GL--VSGGV- YNSHIGCLPY TIPPCEHHVN 
+CATB_CHICK       147   -GMGCNGGYP SGAWRYWTER GL--VSGGL- YDSHVGCRAY TIPPCEHHVN 
+TNAG_HUMAN       280   NRHGCNSGSI DRAWWYLRKR GL--VSHAC- YPLFKD---- ---------Q 
+CATC_SCHMA       284   -SEGCNGGFP FLIAGKYGED FG--LPQKIV IPYTGE---- ---------D 
+1jqp_A           185   -AQGCDGGFP YLIAGKYAQD FG--VVEENC FPYTAT---- ---------D 
+CAL2_GIALA       138   -DMACNGGWL PNVWKFLTKT GT--TTDEC- VPYKSG---- ---------S 
+CAL1_GIALA       142   -NFGCDGGDF QPTWSFLTFT GA--TTAEC- VKYVDY---- ---------G 
+1nb3_A            60   -NHGCQGGLP SQAFEYIRYN GI--MGEDT- YPYKGQ---- ---------D 
+1m6d_A            60   -DKACMGGLP SNAYSAIKNG LE--TEDDYS YQHm------ ---------- 
+CYS1_LEIPI       188   -DEGCNGGLM DQAMNWIMQS HNGSVFTEAS YPYTSG---- ---------G 
+CYSP_TRYBB       185   -DSGCNGGLM DNAFNWIVNS NGGNVFTEAS YPYVSG---- ---------N 
+CYS2_LEIPI       185   -NDGCDGGLM LQAFDWLLQN TNGHLHTEDS YPYVSG---- ---------N 
+CATL_CHICK        61   GNQGCNGGLM DQAFQYVQDN GG--IDSEES YPYTAK---- ---------D 
+CYSP_THEPA       287   -SNGCQGGLL ESAYEYVRKY GL--VSAKD- LPFVDK---- ---------A 
+ORYA_ORYSA       188   YNEGCNGGLM DYAFDFIINN GG--IDTEDD YPYKGK---- ---------D 
+PAP3_CARPA       192   -SHGCKGGYP PYALEYVAKN GI--HLRSK- YPYKAK---- ---------Q 
+PAP4_CARPA       192   -SYGCNRGYQ STSLQYVAQN GI--HLRAK- YPYIAK---- ---------Q 
+1glo_A            62   GNKGCNGGFM TTAFQYIIDN KG--IDSDAS YPYKAM---- ---------D 
+CATJ_MOUSE       173   GNKGCQSGTA HQAFEYVLKN KG--LEAEAT YPYEGK---- ---------D 
+CATR_MOUSE       175   GNNGCLGGDT YNAFQYVLHN GG--LESEAT YPYEGK---- ---------D 
+CATQ_RAT         185   GNRGCLWGNT YNAFQYVLHN GG--LEAEAT YPYERK---- ---------E 
+CATM_MOUSE       174   GNWGCYLGNT YLALHYVMEN GG--LESEAT YPYEEK---- ---------D 
+CYS1_DICDI       187   -DEGCNGGLQ PNAYNYIIKN GG--IQTESS YPYTAE---- ---------T 
+CATL_SARPE       182   GNNGCNGGLM DNAFRYIKDN GG--IDTEKS YPYEGI---- ---------D 
+CATL_DROME       184   GNNGCNGGLM DNAFRYIKDN GG--IDTEKS YPYEAI---- ---------D 
+CATL_BRUPA       242   GNNGCSGGYM PTAFQYASRY GI--AMESR- YPYVGT---- ---------E 
+CYS1_HOMAM       166   YNQGCNGGWV ERAIMYVRDN GG--VDTESS YPYEAR---- ---------D 
+CYS2_HOMAM       167   GPQGCNGGWM NDAFDYIKAN NG--IDTEAA YPYEAR---- ---------D 
+CYS3_HOMAM       166   GNDGCGGGWM TSAFDYIKDN GG--IDTESS YPYEAE---- ---------D 
+CPR2_ARATH       188   DNFGCAGGGA VWAFEFIKEN GG--IVSDEV YGYTGE---- ---------D 
+ACP1_ENTHI       150   -DNGCEGGHP SNSLKFIQEN NG--LGLESD YPYKAV---- ---------A 
+CPR1_DROME       453   -DSACNGGLM DNAYKAIKDI GG--LEYEAE YPYKAK---- ---------K 
+                                                                 
+                       1233333333 3333333222 2200222222 2222220000 0000000002 
+ 
+1cpj_A           114   ---------- ---------- -GA---RPPC TG-----E-G DTPKCNKMCE 
+CATB_CHICK       193   ---------- ---------- -GS---RPPC TG-----EGG ETPRCSRHCE 
+TNAG_HUMAN       314   natnngcama srsdgrgkrd aTK---P--C PN-----NVE KSNR------ 
+CATC_SCHMA       318   ---------- ---------- -TG---K--C TV-----SKN CT-------- 
+1jqp_A           219   ---------- ---------- -AP------C KP-----KEN CL-------- 
+CAL2_GIALA       171   ---------- ---------- -TTLRGT--C PTKCADGSSK VH-------- 
+CAL1_GIALA       175   ---------- ---------- -HTVASP--C PAVCDDGSpi ---------- 
+1nb3_A            93   ---------- ---------- -DH------C KF-----QPD AI-------- 
+1m6d_A            91   ---------- ---------- -QS------C QF-----SAE KA-------- 
+CYS1_LEIPI       224   ---------- ---------- -GT---RPPC HD-----EG- EV-------- 
+CYSP_TRYBB       221   ---------- ---------- -GE---QPQC QM-----NGH EI-------- 
+CYS2_LEIPI       221   ---------- ---------- -GY---VPEC SN-----SSE ELVV------ 
+CATL_CHICK        96   ---------- ---------- -DE---D--C RY-----KAE YN-------- 
+CYSP_THEPA       320   ---------- ---------- -RR------C SV-----PKA KK-------- 
+ORYA_ORYSA       223   ---------- ---------- -ER------C DV-----NRK NA-------- 
+PAP3_CARPA       225   ---------- ---------- -GT------C RA-----KQV GG-------- 
+PAP4_CARPA       225   ---------- ---------- -QT------C RA-----NQV GG-------- 
+1glo_A            97   ---------- ---------- -LK------C QY-----DSK YR-------- 
+CATJ_MOUSE       208   ---------- ---------- -GP------C RY-----RSE NA-------- 
+CATR_MOUSE       210   ---------- ---------- -GP------C RY-----NPK NS-------- 
+CATQ_RAT         220   ---------- ---------- -GV------C RY-----NPK NS-------- 
+CATM_MOUSE       209   ---------- ---------- -GS------C RY-----SPE NS-------- 
+CYS1_DICDI       221   ---------- ---------- -GT---Q--C NF-----NSA NI-------- 
+CATL_SARPE       217   ---------- ---------- -DS------C HF-----NKA TI-------- 
+CATL_DROME       219   ---------- ---------- -DS------C HF-----NKG TV-------- 
+CATL_BRUPA       276   ---------- ---------- -QR------C RW-----QQS IA-------- 
+CYS1_HOMAM       201   ---------- ---------- -NT------C RF-----NSN TI-------- 
+CYS2_HOMAM       202   ---------- ---------- -GS------C RF-----DSN SV-------- 
+CYS3_HOMAM       201   ---------- ---------- -RS------C RF-----DAN SI-------- 
+CPR2_ARATH       223   ---------- ---------- -TA---A--C KA-----IEM KTTR------ 
+ACP1_ENTHI       184   ---------- ---------- -GT------C K--------- KVKN------ 
+CPR1_DROME       487   ---------- ---------- -NQ------C HF-----NRT LS-------- 
+                                                                 
+                       0000000000 0000000000 0110000001 1100000111 1100000000 
+ 
+1cpj_A           134   AGYSTSYKED K-H----YGY TSYSVSD-SE KEIMAEIYKN GPVEGAFT-V 
+CATB_CHICK       214   PGYSPSYKED K-H----YGI TSYGVPR-SE KEIMAEIYKN GPVEGAFI-V 
+TNAG_HUMAN       348   ---------- I-Y----QCS PPYRVSS-NE TEIMKEIMQN GPVQAIMQ-V 
+CATC_SCHMA       329   ---------- RYYTTDYSYI GGYYGAT-NE KLMQLELISN GPFPVGFE-V 
+1jqp_A           229   ---------- RYYSSEYYYV GGFYGGC-NE ALMKLELVKH GPMAVAFE-V 
+CAL2_GIALA       190   ---------- L-A----TAT SYKDYGL-DI PAMMKALSTS GPLQVAFL-V 
+CAL1_GIALA       192   ---------- QLY----KAH GYGQVSK-SV PAIMGMLVAG GPLQTMIV-V 
+1nb3_A           103   ---------- AF------VK DVANITM-ND EEAMVEAVAY NPVSFAFE-V 
+1m6d_A           101   ---------- K-V----YIQ DSVELSQ-NE QKLAAWLAKR GPISVAINAF 
+CYS1_LEIPI       236   ---------- G-A----KIT GFLSLPH-DE ERIAEWVEKR GPVAVAVDAT 
+CYSP_TRYBB       234   ---------- G-A----AIT DHVDLPQ-DE DAIAAYLAEN GPLAIAVDAE 
+CYS2_LEIPI       236   ---------- G-A----QID GHVLIGS-SE KAMAAWLAKN GPIAIALDAS 
+CATL_CHICK       107   ---------- A-A----NDT GFVDIPQGHE RALMKAVASV GPVSVAIDAG 
+CYSP_THEPA       330   ---------- VSV----PSY HVFKGKE-VM TRSLTSS--- -PCSVYLSVS 
+ORYA_ORYSA       233   ---------- KVV----TID SYEDVTP-NS ETSLQKAVRN QPVSVAIEAG 
+PAP3_CARPA       235   ---------- PIV----KTS GVGRVQP-NN EGNLLNAIAK QPVSVVVESK 
+PAP4_CARPA       235   ---------- PKV----KTN GVGRVQS-NN EGSLLNAIAH QPVSVVVESA 
+1glo_A           107   ---------- A-A----TCS KYTELPYGRE DVLKEAVANK GPVSVGVDAR 
+CATJ_MOUSE       218   ---------- S-A----NIT DYVNLPP-NE LYLWVAVASI GPVSAAIDAS 
+CATR_MOUSE       220   ---------- K-A----EIT GFVSLPQ-SE DILMAAVATI GPITAGIDAS 
+CATQ_RAT         230   ---------- S-A----KIT GFVVLPE-SE DVLMDAVATK GPIATGVHVI 
+CATM_MOUSE       219   ---------- T-A----NIT GFEFVPK-NE DALMNAVASI GPISVAIDAR 
+CYS1_DICDI       232   ---------- G-A----KIS NFTMIPK-NE TVMAGYIVST GPLAIAADAV 
+CATL_SARPE       227   ---------- G-A----TDT GFVDIPEGDE EKMKKAVATM GPVSVAIDAS 
+CATL_DROME       229   ---------- G-A----TDR GFTDIPQGDE KKMAEAVATV GPVSVAIDAS 
+CATL_BRUPA       286   ---------- V-V----TDN GFNEIQPGDE LALKHAVAKR GPVVVGISGS 
+CYS1_HOMAM       211   ---------- G-A----TCT GYVGIAQGSE SALKTATRDI GPISVAIDAS 
+CYS2_HOMAM       212   ---------- A-A----TCS GHTNIASGSE TGLQQAVRDI GPISVTIDAA 
+CYS3_HOMAM       211   ---------- G-A----ICT GSVEVQH-TE EALQEAVSGV GPISVAIDAS 
+CPR2_ARATH       236   ---------- V-V----TIN GHEVVPV-ND EMSLKKAVAY QPISVMISAA 
+ACP1_ENTHI       192   ---------- V-A----TVT GSRRVTDGSE TGLQTIIAEN GPVAVGMDAS 
+CPR1_DROME       497   ---------- H-V----QVA GFVDLPKGNE TAMQEWLLAN GPISIGINAN 
+                                                                 
+                       0000000000 1010000111 1111111011 1111122222 2222222212 
+ 
+1cpj_A           177   FSDFLTYKSG -VYKHEA--- -------GDV MGGHAIRIL- -GW---G-IE 
+CATB_CHICK       257   YEDFLMYKSG -VYQHVS--- -------GEQ VGGHAIRIL- -GW---G-VE 
+TNAG_HUMAN       381   REDFFHYKTG -IYRHVTstn kesekyr-KL Q-THAVKLTG WGtl-RGAQG 
+CATC_SCHMA       367   YEDFQFYKEG -IYHHTTvqt dhynFNPFEL T-NHAVLLVG YGV---D-KL 
+1jqp_A           267   HDDFLHYHSG -IYHHP---- ----FNPFEL T-NHAVLLVG YGK---D-PV 
+CAL2_GIALA       223   HSDFMYYESG -VYQHT---- ----YG-YME G-GHAVEMV- -GY---GTDD 
+CAL1_GIALA       226   YADLSYYESG -VYKHT---- ----YGTINL G-FHALEIV- -GY---GTTD 
+1nb3_A           135   TNDFLMYRKG -IYSSTS--- -------CHK V-NHAVL--- -------AVG 
+1m6d_A           135   GMQ---FYRH -GIsrp---- ------SPW- I-DHAVL--- -------LVG 
+CYS1_LEIPI       270   TWQ---LYFG -GVV-S---- ----LCLAWS L-NHGVLIV- -GF---N-KN 
+CYSP_TRYBB       268   SFM---DYNG -GIL-T---- ----SCTSKQ L-DHGVLLV- -GY---N-DN 
+CYS2_LEIPI       270   SFM---SYKS -GVL-T---- ----ACIGKQ L-NHGVLLV- -GY---D-MT 
+CATL_CHICK       142   HSSFQFYQSG -IYYEP---- ----DCSSED L-DHGVLVV- -GY---G-FE 
+CYSP_THEPA       361   pelak--YKS -GVF-T---- ----GECGKS L-NHAVVLVG EGY---D-EV 
+ORYA_ORYSA       268   GRAFQLYSSG -IFTGKC--- -------GTA L-DHGVAAV- -GY---G-TE 
+PAP3_CARPA       270   GRPFQLYKGG -IFEGPC--- -------GTK V-DHAVTAV- -GY---G-KS 
+PAP4_CARPA       270   GRDFQNYKGG -IFEGSC--- -------GTK V-DHAVTAV- -GY---G-KS 
+1glo_A           142   HPSFFLYRSG -VYYEP---- ----SC-TQN V-NHGVLVV- -GY---G-DL 
+CATJ_MOUSE       252   HDSFRFYNGG -IYYEP---- ----NCSSYF V-NHAVLVV- -GYGSEGDVK 
+CATR_MOUSE       254   HESFKNYKGG -IYHEP---- ----NCSSDT V-THGVLVV- -GYGFKGIET 
+CATQ_RAT         264   SSSFRFYQKG -VYHEP---- ----KCSSY- V-NHAVLVV- -GYGFEGNET 
+CATM_MOUSE       253   HASFLFYKRG -IYYEP---- ----NCSSCV V-THSMLLV- -GYGFTGRES 
+CYS1_DICDI       266   EWQ---FYIG -GVFDI---- ----PCNPNS L-DHGILIV- -GY---S-AK 
+CATL_SARPE       262   HESFQLYSEG -VYNEP---- ----ECDEQN L-DHGVLVV- -GY---GTDE 
+CATL_DROME       264   HESFQFYSEG -VYNEP---- ----QCDAQN L-DHGVLVV- -GF---GTDE 
+CATL_BRUPA       321   KRSFRFYKDG -VYSEG---- ----NCgrp- --DHAVLAV- -GY---GTHP 
+CYS1_HOMAM       246   HRSFQSYYTG -VYYEP---- ----SCSSSQ L-DHAVLAV- -GY---G-SE 
+CYS2_HOMAM       247   HSSFQFYSSG -VYYEP---- ----SCSPSY L-DHAVLAV- -GY---G-SE 
+CYS3_HOMAM       245   HFSFQFYSSG -VYYEQ---- ----NCSPTF L-DHGVLAV- -GY---G-TE 
+CPR2_ARATH       270   NMSDYKSGV- ---YKG---- ----ACSNLW G-DHNVLIV- -GY---GTSS 
+ACP1_ENTHI       227   RPSFQLYKKG tIYSDT---- ----KCRSRM M-NHCVTAV- -GY---G-SN 
+CPR1_DROME       532   AMQFYRGGVS -HPWKA---- ----LCSKKN L-DHGVLVV- -GY---GVSD 
+                                                                 
+                       2222222222 0221110000 0000111111 2022233220 0220002022 
+ 
+1cpj_A           210   N-----GVPY WLVANSWNAD WGDNGFFKIL R---GENHC- ---GIESEIV 
+CATB_CHICK       290   N-----GTPY WLAANSWNTD WGITGFFKIL R---GEDHC- ---GIESEIV 
+TNAG_HUMAN       427   Q-----KEKF WIAANFWGKS WGENGYFRIL R---GVNES- ---DIEKLVI 
+CATC_SCHMA       411   S-----GEPY WKVKNSWGVE WGEQGYFRIL R---GTDEC- ---GVESLgv 
+1jqp_A           303   T-----GLDY WIVKNSWGSQ WGESGYFRIR R---GTDEC- ---AIESIAM 
+CAL2_GIALA       257   D-----GVDY WIIKNSWGPD WGEDGYFRMI R---GINDC- ---SIEEQAY 
+CAL1_GIALA       261   D-----GTDY WIIKNSWGPD WGENGYFRIV R---GVNEC- ---RIEDEIY 
+1nb3_A           163   Y-----GEPY WIVKNSWGPQ WGMNGYFLIE R---GKNMC- ---GLAACAS 
+1m6d_A           159   Y-----GVPF WAIKNSWGTD WGEKGYYYLH R---GSGAC- ---GVNTMAS 
+CYS1_LEIPI       300   A-----KPPY WIVKNSWGSS WGEKGYIRLA M---GSNQC- ---MLKNYPV 
+CYSP_TRYBB       298   S-----NPPY WIIKNSWSNM WGEDGYIRIE K---GTNQC- ---LMNQAVS 
+CYS2_LEIPI       300   G-----EVPY WVIKNSWGGD WGEQGYVRVV M---GVNAC- ---LLSEYPV 
+CATL_CHICK       176   G-----GKKY WIVKNSWGEK WGDKGYIYMA K---DRKNHC GIATAASYPL 
+CYSP_THEPA       394   T-----KKRY WVVQNSWGTD WGENGYMRLE RtnmGTDKC- ---GVLDTSM 
+ORYA_ORYSA       300   N-----GKDY WIVRNSWGKS WGESGYVRME R---NIKASS GKCGIAVEPS 
+PAP3_CARPA       302   G-----GKGY ILIKNSWGTA WGEKGYIRIK R---APGNSP GVCGLYKSSY 
+PAP4_CARPA       302   G-----GKGY ILIKNSWGPG WGENGYIRIR R---ASGNSP GVCGVYRSSY 
+1glo_A           175   N-----GKEY WLVKNSWGHN FGEEGYIRMA R---NKGNHC GIASFPSYPe 
+CATJ_MOUSE       290   D-----GNNY WLIKNSWGEE WGMNGYMQIA K---DHNNHC GIASLASYPN 
+CATR_MOUSE       292   D-----GNHY WLIKNSWGKR WGIRGYMKLA K---DKNNHC GIASYAHYPT 
+CATQ_RAT         301   D-----GNNY WLIKNSWGKR WGLRGYMKIA K---DRNNHC AIASLAQYPT 
+CATM_MOUSE       291   D-----GRKY WLVKNSMGTQ WGNKGYMKIS R---DKGNHC GIATYALYPR 
+CYS1_DICDI       297   NtiFRKNMPY WIVKNSWGAD WGEQGYIYLR R---GKNTC- ---GVSNFVS 
+CATL_SARPE       297   S-----GMDY WLVKNSWGTT WGEQGYIKMA R---NQNNQC GIATASSYPT 
+CATL_DROME       299   S-----GEDY WLVKNSWGTT WGDKGFIKML R---NKENQC GIASASSYPL 
+CATL_BRUPA       354   S-----YGDY WIVKNSWGTD WGKDGYVYMA R---NRGNMC HIASAASFPI 
+CYS1_HOMAM       280   G-----GQDF WLVKNSWATS WGESGYIKMA R---NRNNNC GIATDACYPT 
+CYS2_HOMAM       281   G-----GQDF WLVKNSWATS WGDAGYIKMS R---NRNNNC GIATVASYPL 
+CYS3_HOMAM       279   S-----TKDY WLVKNSWGSS WGDAGYIKMS R---NRDNNC GIASEPSYPT 
+CPR2_ARATH       302   D-----EGDY WLIRNSWGPE WGEGGYLRLQ R---NFHEPT GKCAVAVAPV 
+ACP1_ENTHI       262   S-----NGKY WIIRNSWGTS WGDAGYFLLA R---DSNNMC GIGRDSNYPT 
+CPR1_DROME       567   ypnFHKTLPY WIVKNSWGPR WGEQGYYRVY R---GDNTC- ---GVSEMAT 
+                                                                 
+                       2000004458 8888888888 8888888887 7000544442 2223332221 
+ 
+1cpj_A           248   AGIPRt---- ---------- ---------- ---------- ---------- 
+CATB_CHICK       328   AGVPRmeqyw trv------- ---------- ---------- ---------- 
+TNAG_HUMAN       465   AAw------- --GQLTSSDE P--------- ---------- ---------- 
+CATC_SCHMA       449   rfdpvl---- ---------- ---------- ---------- ---------- 
+1jqp_A           341   AAIPIpkl-- ---------- ---------- ---------- ---------- 
+CAL2_GIALA       295   AGFFDe---- ---------- ---------- ---------- ---------- 
+CAL1_GIALA       299   AVYLD----- ---------- ---------- ---------- ---------- 
+1nb3_A           201   YPIPL----- ---------- ---------- ---------- ---------- 
+1m6d_A           197   SAVVD----- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI       338   SATVE----- --SPHTPHVP ttta------ ---------- ---------- 
+CYSP_TRYBB       336   SAVVG----- --GPTPPPPP PPPpsatftq d--------- ------FCEG 
+CYS2_LEIPI       338   SAHVresaa- -PGTSTSSET PAPrpvmveq vi-------- -------CFD 
+CATL_CHICK       218   V--------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       435   SAFEL----- ---------- ---------- ---------- ---------- 
+ORYA_ORYSA       342   YPLKkgenpp nPGPTPPSPT PPPtvcdnyy tcpdsttccc iyeygkYCYA 
+PAP3_CARPA       344   YPTKN----- ---------- ---------- ---------- ---------- 
+PAP4_CARPA       344   YPIKN----- ---------- ---------- ---------- ---------- 
+1glo_A           217   i--------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE       332   If-------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE       334   I--------- ---------- ---------- ---------- ---------- 
+CATQ_RAT         343   V--------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE       333   V--------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI       340   TSII------ ---------- ---------- ---------- ---------- 
+CATL_SARPE       339   V--------- ---------- ---------- ---------- ---------- 
+CATL_DROME       341   V--------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA       396   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HOMAM       322   V--------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM       323   V--------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM       321   V--------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH       344   YPIKsnsssh llspsvfklv vlfvfqlisl all------- ---------- 
+ACP1_ENTHI       304   gvkli----- ---------- ---------- ---------- ---------- 
+CPR1_DROME       610   SAVLa----- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A           254   ---------- ---------- ---------- ---------- ---------- 
+CATB_CHICK       341   ---------- ---------- ---------- ---------- ---------- 
+TNAG_HUMAN       477   ---------- ---------- ---------- ---------- ---------- 
+CATC_SCHMA       455   ---------- ---------- ---------- ---------- ---------- 
+1jqp_A           349   ---------- ---------- ---------- ---------- ---------- 
+CAL2_GIALA       301   ---------- ---------- ---------- ---------- ---------- 
+CAL1_GIALA       304   ---------- ---------- ---------- ---------- ---------- 
+1nb3_A           206   ---------- ---------- ---------- ---------- ---------- 
+1m6d_A           202   ---------- ---------- ---------- ---------- ---------- 
+CYS1_LEIPI       355   ---------- ---------- ---------- ---------- ---------- 
+CYSP_TRYBB       364   KGCTKGCSHA TFPTGECVQT TGVGSVIATC GASNLTqiiy plsrsCSGPS 
+CYS2_LEIPI       371   KNCTQGCRKT LIKANECHKN GGGGASMIKC SPQKVTMCTY SNEF-CVGGG 
+CATL_CHICK       219   ---------- ---------- ---------- ---------- ---------- 
+CYSP_THEPA       440   ---------- ---------- ---------- ---------- ---------- 
+ORYA_ORYSA       392   WGCcplegat ccddhy---- --------SC CPHEYPICNV QQGT-CLmak 
+PAP3_CARPA       349   ---------- ---------- ---------- ---------- ---------- 
+PAP4_CARPA       349   ---------- ---------- ---------- ---------- ---------- 
+1glo_A           218   ---------- ---------- ---------- ---------- ---------- 
+CATJ_MOUSE       334   ---------- ---------- ---------- ---------- ---------- 
+CATR_MOUSE       335   ---------- ---------- ---------- ---------- ---------- 
+CATQ_RAT         344   ---------- ---------- ---------- ---------- ---------- 
+CATM_MOUSE       334   ---------- ---------- ---------- ---------- ---------- 
+CYS1_DICDI       344   ---------- ---------- ---------- ---------- ---------- 
+CATL_SARPE       340   ---------- ---------- ---------- ---------- ---------- 
+CATL_DROME       342   ---------- ---------- ---------- ---------- ---------- 
+CATL_BRUPA       396   ---------- ---------- ---------- ---------- ---------- 
+CYS1_HOMAM       323   ---------- ---------- ---------- ---------- ---------- 
+CYS2_HOMAM       324   ---------- ---------- ---------- ---------- ---------- 
+CYS3_HOMAM       322   ---------- ---------- ---------- ---------- ---------- 
+CPR2_ARATH       377   ---------- ---------- ---------- ---------- ---------- 
+ACP1_ENTHI       309   ---------- ---------- ---------- ---------- ---------- 
+CPR1_DROME       615   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1cpj_A           254   ---------- ---------- ---------- ------- 
+CATB_CHICK       341   ---------- ---------- ---------- ------- 
+TNAG_HUMAN       477   ---------- ---------- ---------- ------- 
+CATC_SCHMA       455   ---------- ---------- ---------- ------- 
+1jqp_A           349   ---------- ---------- ---------- ------- 
+CAL2_GIALA       301   ---------- ---------- ---------- ------- 
+CAL1_GIALA       304   ---------- ---------- ---------- ------- 
+1nb3_A           206   ---------- ---------- ---------- ------- 
+1m6d_A           202   ---------- ---------- ---------- ------- 
+CYS1_LEIPI       355   ---------- ---------- ---------- ------- 
+CYSP_TRYBB       414   VPITVPLDKC IPILIGSVEY HCstnpptka arlvphq 
+CYS2_LEIPI       420   LCFETPDGKC APYFLGSIMN TChyt----- ------- 
+CATL_CHICK       219   ---------- ---------- ---------- ------- 
+CYSP_THEPA       440   ---------- ---------- ---------- ------- 
+ORYA_ORYSA       429   dsplavkalk rtlakpnlsf lfgngkkssa ------- 
+PAP3_CARPA       349   ---------- ---------- ---------- ------- 
+PAP4_CARPA       349   ---------- ---------- ---------- ------- 
+1glo_A           218   ---------- ---------- ---------- ------- 
+CATJ_MOUSE       334   ---------- ---------- ---------- ------- 
+CATR_MOUSE       335   ---------- ---------- ---------- ------- 
+CATQ_RAT         344   ---------- ---------- ---------- ------- 
+CATM_MOUSE       334   ---------- ---------- ---------- ------- 
+CYS1_DICDI       344   ---------- ---------- ---------- ------- 
+CATL_SARPE       340   ---------- ---------- ---------- ------- 
+CATL_DROME       342   ---------- ---------- ---------- ------- 
+CATL_BRUPA       396   ---------- ---------- ---------- ------- 
+CYS1_HOMAM       323   ---------- ---------- ---------- ------- 
+CYS2_HOMAM       324   ---------- ---------- ---------- ------- 
+CYS3_HOMAM       322   ---------- ---------- ---------- ------- 
+CPR2_ARATH       377   ---------- ---------- ---------- ------- 
+ACP1_ENTHI       309   ---------- ---------- ---------- ------- 
+CPR1_DROME       615   ---------- ---------- ---------- ------- 
+                                                   
+                       0000000000 0000000000 0000000000 0000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((1cpj_A      :0.002880CATB_CHICK  :0.002880):0.009508(CAL2_GIALA  :0.004774CAL1_GIALA  :0.004774):0.007615):0.002460TNAG_HUMAN  :0.014849):0.000863(CATC_SCHMA  :0.0042551jqp_A      :0.004255):0.011457):0.006451((1nb3_A      :0.012323((1m6d_A      :0.008928((CYS1_LEIPI  :0.004996(CYSP_TRYBB  :0.004284CYS2_LEIPI  :0.004284):0.000712):0.003156(CYS1_DICDI  :0.007310CPR1_DROME  :0.007310):0.000842):0.000776):0.002072((((((CATL_CHICK  :0.004801((CATL_SARPE  :0.002312CATL_DROME  :0.002312):0.002196((CYS1_HOMAM  :0.002876CYS2_HOMAM  :0.002876):0.000304CYS3_HOMAM  :0.003180):0.001329):0.000292):0.0012751glo_A      :0.006075):0.000427(CATJ_MOUSE  :0.003577((CATR_MOUSE  :0.003007CATQ_RAT    :0.003007):0.000450CATM_MOUSE  :0.003457):0.000119):0.002925):0.001201CATL_BRUPA  :0.007703):0.001831ACP1_ENTHI  :0.009534):0.000370((ORYA_ORYSA  :0.005724CPR2_ARATH  :0.005724):0.001216(PAP3_CARPA  :0.002348PAP4_CARPA  :0.002348):0.004592):0.002964):0.001095):0.001324):0.002450CYSP_THEPA  :0.014773):0.007390);
+ 
+ 

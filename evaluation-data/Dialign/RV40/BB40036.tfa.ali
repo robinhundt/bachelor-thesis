@@ -1,0 +1,587 @@
+1aiq_A             1   x--------- ---------- ---------- ---------- ---------- 
+1b02_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN         1   M--------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1         1   myT------- ---------- ---------- ---------- ---------- 
+1ci7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C             1   dddeeeddfv yfnfnk---- ---------- ---------- ---------- 
+1qzf_A             1   eknvsi---- ---------- --------VV AASVLSSGIG INGQLPW-SI 
+TYSY_HUMAN         1   pvagselp-- ---------- ---------- ---------- ---------- 
+TYSY_HSVE2         1   M--------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV          1   mfpfvp---- ---------- ---------- ---------- ---------- 
+TYSY_HSVAT         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_VZVD          1   mgdlsc---- ---------- ---------- ---------- ---------- 
+TYSY_ASCSU         1   meg------- ---------- ---------- ---------- ---------- 
+DRTS_SOYBN         1   mpsdssvisn ghsngsvnpl pnlQRTYQVV VAATQDWGIG KDGKLPW-RL 
+TYSY_DROME         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ENCCU         1   mpq------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST         1   mt-------- ---------- ---------- ---------- ---------- 
+TYSY_CANAL         1   --T------- ---------- ---------- ---------- ---------- 
+TYSY_AGABI         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE         1   mtat------ ---------- ---------- ---------- ---------- 
+DRTS_TRYCR         1   mslfkirmpe tvaegtrlal ----RAFSLV VAVDEHGGIG DGRSIPW-NV 
+DRTS_TOXGO         1   m--------- ---------- ---QKPVCLV VAMTPKRGIG INNGLPWpHL 
+DRTS_PARTE         1   mttn------ ---------- ----KTFSMV LAMTLNGGIG YQNRLPW-KL 
+TYSY_HAEIN         1   M--------- ---------- ---------- ---------- ---------- 
+1tis_              1   M--------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO         1   m--------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A             2   ---------- ---------- ---------- ---------- ---------- 
+1b02_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1         4   ---------- ---------- ---------- ---------- ---------- 
+1ci7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C            17   ---------- ---------- ---------- ---------- ---------- 
+1qzf_A            28   SEDLKFFSKI TNNKCD---- --SNKK---- ---------- ---------- 
+TYSY_HUMAN         9   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HSVE2         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV          7   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HSVAT         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_VZVD          7   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ASCSU         4   ---------- ---------- ---------- ---------- ---------- 
+DRTS_SOYBN        50   PTDLKFFKEI TMKTSE---- --PGKK---- ---------- ---------- 
+TYSY_DROME         1   ---------- ----M----- ---------- ---------- ---------- 
+TYSY_ENCCU         4   ---------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST         3   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CANAL         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_AGABI         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE         5   ---------- ---------- ---------- ---------- ---------- 
+DRTS_TRYCR        46   PEDMKFFRDL TTKlrgknvk psPAKR---- ---------- ---------- 
+DRTS_TOXGO        29   TTDFKHFSRV TKTTPE---- --EASRlngw lprkfaktgd sglpspsvgk 
+DRTS_PARTE        30   KEDLQRFKKI TTggI----- ---------- ---------- ---------- 
+TYSY_HAEIN         2   ---------- ---------- ---------- ---------- ---------- 
+1tis_              2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO         2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A             2   ---------- ---------- ---------- ---------- ---------- 
+1b02_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1         4   ---------- ---------- ---------- ---------- ---------- 
+1ci7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C            17   ---------- ---------- ---------- ---------- ---EKEEKN- 
+1qzf_A            48   --NALIMGRK TWDSIGR--R PLKNRIIVVI SSSLPQDEAD P--------N 
+TYSY_HUMAN         9   ---------- ------R--R PLPpaa---- ---------- -----QERD- 
+TYSY_HSVE2         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV          7   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HSVAT         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_VZVD          7   ---------- -WTKVPgftl ---------- ---------- ---------- 
+TYSY_ASCSU         4   ---------- ---------- ---------- ---------- ---------- 
+DRTS_SOYBN        70   --NAIVMGRK TWESIPLEYR PLSGRLNVVL TRSGSFDIAT A--------E 
+TYSY_DROME         2   ----VLTPTK DGPDQES--M PLPad----- ---------- ---------- 
+TYSY_ENCCU         4   ---------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST         3   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CANAL         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_AGABI         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE         5   ---------- ---------- ---------- ---------- --IDDQEKN- 
+DRTS_TRYCR        72   --NAVVMGRK TWDSIPPKFR PLPGRLNVVL SSTLTTQHLL DGLPDEEKrn 
+DRTS_TOXGO        73   rfNAVVMGRK TWESMPRKFR PLVDRLNIVV SSSLKEEDIA AEKPQAEgqQ 
+DRTS_PARTE        45   ----VIMGRK TFESMNS--K PLPNRVNVVI SKNMKSSNEV QVFPRIEdal 
+TYSY_HAEIN         2   ---------- ---------- ---------- ---------- ---------- 
+1tis_              2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO         2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A             2   ---------- ---------- ---------- ---------- ---------- 
+1b02_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1         4   ---------- ---------- ---------- ---------- ---------- 
+1ci7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C            23   ---------- ---------- ---------- ---------- ---------- 
+1qzf_A            86   VVVFR----- NLEDSIENLM nd----DSIE NIFVCGGESI YRDALKDNFV 
+TYSY_HUMAN        21   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HSVE2         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV          7   ---------- ---------- ---------- ---------- ----LSLYVA 
+TYSY_HSVAT         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_VZVD         16   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ASCSU         4   ---------- ---------- ---------- ---------- ---------- 
+DRTS_SOYBN       110   NVVIC----- GSMSSALELL AASPYSLSIE KVFVIGGGQI FREALNVPGC 
+TYSY_DROME        21   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ENCCU         4   ---------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST         3   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CANAL         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_AGABI         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE        12   ---------- ---------- ---------- ---------- ---------- 
+DRTS_TRYCR       120   lhadsivavn GGLEQALRLL ASPNYTPSIE TVYCIGGGSV YAEALRPPcv 
+DRTS_TOXGO       123   RVRVC----- ASLPAALs-L LEEEYKDSVD QIFVVGGAGL YEAALSLGVA 
+DRTS_PARTE        89   qf-------- ---------- ----YNTSHQ KLYLIGGKRI FEEGLATDKC 
+TYSY_HAEIN         2   ---------- ---------- ---------- ---------- ---------- 
+1tis_              2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO         2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A             2   ---------- ---------- ---------- ---------- ---------- 
+1b02_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1         4   ---------- ---------- ---------- ---------- ---------- 
+1ci7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C            23   ---------- ---------- ---------- ---------- ---------- 
+1qzf_A           127   DRIYLTRV-- --ALEdIEFD TYF------- ---------- ---------- 
+TYSY_HUMAN        21   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HSVE2         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV         13   KKLFRARG-- --FR------ ---------- ---------- ---------- 
+TYSY_HSVAT         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_VZVD         16   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ASCSU         4   ---------- ---------- ---------- ---------- ---------- 
+DRTS_SOYBN       155   EAIHLTEI-- --QSS-IECD TFM------- ---------- ---------- 
+TYSY_DROME        21   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ENCCU         4   ---------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST         3   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CANAL         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_AGABI         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE        12   ---------- ---------- ---------- ---------- ---------- 
+DRTS_TRYCR       170   hllqaiyrtt irASE-SSCS VFFrvp---- -----ESGTE AAAGIEWQRE 
+DRTS_TOXGO       167   SHLYITRV-- --ARE-FPCD VFFpafpgdd ilsnkSTAAQ AAAPAESVFV 
+DRTS_PARTE       117   SDVHLTRI-- --GVE-TKCD VYL------- ---------- ---------- 
+TYSY_HAEIN         2   ---------- ---------- ---------- ---------- ---------- 
+1tis_              2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO         2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A             2   ---------- ---------- ---------- ---------- ---------- 
+1b02_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1         4   ---------- ---------- ---------- ---------- ---------- 
+1ci7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C            23   ---------- ---------- ---------- ---------- -------KN- 
+1qzf_A           146   --------P- EIPETFLPVY MSQTFCTKNI SYDFMIFEKQ E--KKTLQNC 
+TYSY_HUMAN        21   ---------- ---------- ---------- ---------- -------AE- 
+TYSY_HSVE2         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV         23   ---------- ---------- ----FCQKpg vlalapevdp csiQHEVTG- 
+TYSY_HSVAT         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_VZVD         16   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ASCSU         4   ---------- ---------- ---------- ---------- ---------- 
+DRTS_SOYBN       173   --------PP VDFTIFRPWY SSFPKVENNI RYSFTTYVRV R--SSAAESA 
+TYSY_DROME        21   ---------- ---------- ---------- --------NG E--SPSKQQ- 
+TYSY_ENCCU         4   ---------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST         3   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CANAL         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_AGABI         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE        12   ---------- ---------- ---------- ---------- -------QR- 
+DRTS_TRYCR       210   TISEELTSAN GNETKYyfek lip------- ---------- ---------- 
+DRTS_TOXGO       212   PFCPELGREK DNEATYRPIF ISKTFSDNGV PYDFVVLEKR R--KTDDAAT 
+DRTS_PARTE       135   --------NK NIFSTFQVNK TSQTKSENGI NYDYQHLINK N--SHEQSY- 
+TYSY_HAEIN         2   ---------- ---------- ---------- ---------- ---------- 
+1tis_              2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO         2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A             2   ---------- ---------- ---------- ---------- ---------- 
+1b02_A             1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA         1   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1         4   ---------- ---------- --------F- ---------- ---------- 
+1ci7_A             1   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C            25   ---------- ---------- --------Si hpndf----- ---------- 
+1qzf_A           185   dpargq---- ---------- -LKSIDDTVD LLGEIFGIRK MGNRHKFPKE 
+TYSY_HUMAN        23   ---------- ---------- --------P- ---------- ---------- 
+TYSY_HSVE2         2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV         48   ---------- ---------- --------A- ---------- ---------- 
+TYSY_HSVAT         1   ---------- ---------- --------M- ---------- ---------- 
+TYSY_VZVD         16   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ASCSU         4   ---------- ---------- --------A- ---------- ---------- 
+DRTS_SOYBN       213   GQNIDPLldn nsesmkfevk dfsflpkMI- ---------- ---------- 
+TYSY_DROME        30   ---------- ---------- --------A- ---------- ---------- 
+TYSY_ENCCU         4   ---------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST         3   ---------- ---------- -------MD- ---------- ---------- 
+TYSY_CANAL         2   ---------- ---------- --------V- ---------- ---------- 
+TYSY_AGABI         1   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE        14   ---------- ---------- --------S- ---------- ---------- 
+DRTS_TRYCR       233   ---------- ---------- ---------- ---------- ---------- 
+DRTS_TOXGO       260   AEPSNAMssl tstrettpvh gLQAPSSAAA IAPVLAWMDE EDRKKREQKE 
+DRTS_PARTE       174   ---------- ---------- --------I- ---------- ---------- 
+TYSY_HAEIN         2   ---------- ---------- ---------- ---------- ---------- 
+1tis_              2   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO         2   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A             2   ---------- ------KQYL ELMQKVLDEG ---------- TQKNDRT--- 
+1b02_A             1   ---------- -MTQFDKQYN SIIKDIINNG ISDEefdvrt KWDSDGT--- 
+TYSY_FUSNN         2   ---------- -KARFDKIYK DIVDTIAEKG IWSEgnvr-- TKYADGT--- 
+TYSY_CLOAB         1   ---------- -MSKADEKYL DIIENILENG ---------- YYDNNRT--- 
+TYSY_STRP8         1   ---------- -MTKADQIFK ANIQKIINEG ---------- SLSEQARPKY 
+TYSY_LACLA         1   ---------- -MTYADKIFK QNIQNILDNG ---------- VFSENARPKY 
+DUHM_BPSP1         5   ---------- SGSKPTQLYM DILSTVIKEG ---------- DVLAPRGKRI 
+1ci7_A             1   ---------- --NAEEQQYL NLVQYIINHG ---------- EDRPDRT--- 
+1j3i_C            32   QIYNSlk--Y -KYHPEYQYL NIIYDIMMNG ---------- NKQSDRT--- 
+1qzf_A           220   EIYNTPSIRF GREHYEFQYL DLLSRVLENG ---------- AYRENRT--- 
+TYSY_HUMAN        24   ---------- RPPHGELQYL GQIQHILRCG ---------- VRKDDRT--- 
+TYSY_HSVE2         2   ---------- -VTHCEHQYL NTVREILANG ---------- VRRGDRT--- 
+TYSY_KSHV         49   ---------- ETPHEELQYL RQLREILCRG ---------- SDRLDRT--- 
+TYSY_HSVAT         2   ---------- EELHAEHQYL SQVKHILNCG ---------- NFKHDRT--- 
+TYSY_VZVD         16   ---------- ---TGELQYL KQVDDILRYG ---------- VRKRDRT--- 
+TYSY_ASCSU         5   ---------- NVNEDERKYL RQIKHIIDEG ---------- DKVIDRT--- 
+DRTS_SOYBN       242   ---------- SERHEEYLYL KLVQDIIAEG ---------- TTKGDRT--- 
+TYSY_DROME        31   ---------- PVNRDEMHYL DLLRHIIANG ---------- EQRMDRT--- 
+TYSY_ENCCU         4   ---------- DPRHPEHQYL DLVKHILENG ---------- ARRMDRT--- 
+TYSY_YEAST         5   ---------- GKNKEEEQYL DLCKRIIDEG ---------- EFRPDRT--- 
+TYSY_CANAL         3   ---------- SPNTAEQAYL DLCKRIIDEG ---------- EHRPDRT--- 
+TYSY_AGABI         1   ---------- --MHDEDQYL HLIRRVLDTG ---------- DLRPDRT--- 
+TYSY_CRYNE        15   ---------- NPDHEEYQYL DLIRRIINVG ---------- EVRPDRT--- 
+DRTS_TRYCR       233   ---------- -RNREEEQYL SLVDRIIREG ---------- NVKHDRT--- 
+DRTS_TOXGO       310   LIRAVPHVHF -RGHEEFQYL DLIADIINNG ---------- RTMDDRT--- 
+DRTS_PARTE       175   ---------- DEEHQENQYL DMITKIMKEG ---------- VSKDDRT--- 
+TYSY_HAEIN         2   ---------- ------KQYL ELCRRIVSEG e--------- WVANERT--- 
+1tis_              2   ---------- ------KQYQ DLIKDIFENG ---------- YETDDRT--- 
+TYSY_ZYMMO         2   ---------- ----SEHQYL RLVSDILEKG ---------- DQRHDRT--- 
+                                                                 
+                       0000000000 0001233344 4444444444 0000000000 4444444000 
+ 
+1aiq_A            23   ----GTGTLS IFGH-QMRF- NL-QD-GFPL VTTKRCHLRS IIHELLWFLQ 
+1b02_A            37   ----PAHTLS VISK-QMRF- D--NS-EVPI LTTKKVAWKT AIKELLWIWQ 
+TYSY_FUSNN        36   ----AAHYKS YIGY-QFRLd NS-DD-EAHL ITSRFAPSKA PIRELYWIWi 
+TYSY_CLOAB        27   ----GIETYK LPHQ-IMQF- DL-SK-EFPI LTTKFVAFKT SVKELLWIYK 
+TYSY_STRP8        30   KDGRTAHSKY ITGA-FAEY- DLAKG-EFPI TTLRPIPIKS AIKELFWIYQ 
+TYSY_LACLA        30   KDGQTANSKY VTGS-FVTY- DLQKG-EFPI TTLRPIPIKS AIKELMWIYQ 
+DUHM_BPSP1        35   KEIRpv---- -----MIEF- KN-PIRRTTF LKGRNINPFF QVAESLWILA 
+1ci7_A            26   ----GTGTLS VFAPspLKF- SLRNK-TFPL LTTKRVFIRG VIEELLWFIR 
+1j3i_C            66   ----GVGVLS KFGY-IMKF- DL-SQ-YFPL LTTKKLFLRG IIEELLWFIR 
+1qzf_A           257   ----GISTYS IFGQ-MMRF- DM-RE-SFPL LTTKKVAIRS IFEELIWFIK 
+TYSY_HUMAN        51   ----GTGTLS VFGM-QARY- SL-RD-EFPL LTTKRVFWKG VLEELLWFIK 
+TYSY_HSVE2        28   ----GVGTLS VFGD-QAKY- SL-RG-QFPL LTTKRVFWRG VLEELLWFIR 
+TYSY_KSHV         76   ----GIGTLS LFGM-QARY- SL-RD-HFPL LTTKRVFWRG VVQELLWFLK 
+TYSY_HSVAT        29   ----GVGTLS VFGM-QSRY- SL-EK-DFPL LTTKRVFWRG VVEELLWFIR 
+TYSY_VZVD         40   ----GIGTLS LFGM-QARY- NL-RN-EFPL LTTKRVFWRA VVEELLWFIR 
+TYSY_ASCSU        32   ----GVGTLS LFGL-HSTY- SLRNG-VIPL LTTKRVYWKG VVEELLWFIK 
+DRTS_SOYBN       269   ----GTGTLS KFGC-QMRF- NL-RG-NFPL LTTKKVFWRG VVEELLWFIS 
+TYSY_DROME        58   ----EVGTLS VFGS-QMRF- DM-RN-SFPL LTTKRVFFRA VAEELLWFVA 
+TYSY_ENCCU        31   ----GTGALS VFGA-TMRF- SLEDN-TFPL LTTRRVFYRG VVEELLFFLR 
+TYSY_YEAST        32   ----GTGTLS LFAPPQLRF- SLRDD-TFPL LTTKKVFTRG IILELLWFLA 
+TYSY_CANAL        30   ----GTGTKS LFAPPQLRF- DLSND-TFPL LTTKKVFSKG IIHELLWFVA 
+TYSY_AGABI        26   ----GTGTIS LFAPPNLRF- SLRES-TVPL LTTKRTFLRG IVEELLWFTN 
+TYSY_CRYNE        42   ----GTGTVA LFAPPSFRF- SLADN-TLPL LTTKRVFLRG VIAELLWFVS 
+DRTS_TRYCR       259   ----GVGTLS IFGA-QMRF- SLRNN-RLPL LTTKRVFWRG VCEELLWFLR 
+DRTS_TOXGO       346   ----GVGVIS KFGC-TMRY- SL-DQ-AFPL LTTKRVFWKG VLEELLWFIR 
+DRTS_PARTE       202   ----GVGTMS IFGQ-TMRF- NL-AQ-SFPL LTTKKVFFRG VVEELLWFLR 
+TYSY_HAEIN        24   ----GKHCLT VINA-DLEY- DV-ANNQFPL ITTRKSYWKA AIAEFLGYIR 
+1tis_             23   ----GTGTIA LFGS-KLRW- DL-TKG-FPA VTTKKLAWKA CIAELIWFLS 
+TYSY_ZYMMO        25   ----GVGTLS LFGA-MMRF- DL-SKGRIPI LTTKKVSYRL AIREMLWFLS 
+                                                                 
+                       0000444444 4432023330 3302202577 7777777777 7777777666 
+ 
+1aiq_A            65   G-DTNIA-YL HEN------- NVTIWDEW-- ---------- ---------- 
+1b02_A            78   L-KSNDVNDL NMM------- GVHIWDQW-- ---------- ---------- 
+TYSY_FUSNN        79   lqSNNVD-VL NEL------- GCKFWDEW-- ---------- ---------- 
+TYSY_CLOAB        69   D-QSNDVRKL QNE------- NVTIWDEW-- ---------- ---------- 
+TYSY_STRP8        77   D-QSNSLDVL EAKY------ NVHYWNEW-- ---------- ---------- 
+TYSY_LACLA        77   D-QTSELAIL EEKY------ GVKYWGEW-- ---------- ---------- 
+DUHM_BPSP1        74   G-RSDVG-FL LDY------- NKNMGQFS-- ---------- -DDGVFFNAp 
+1ci7_A            70   G-ETDSL-KL REK------- NIHIWDAN-- ---------- -GSREYLDSI 
+1j3i_C           108   G-ETNGN-TL LNK------- NVRIWEAN-- ---------- -GTREFLDNR 
+1qzf_A           299   G-DTNGN-HL IEK------- KVYIWSGN-- ---------- -GSKEYLERI 
+TYSY_HUMAN        93   G-STNAK-EL SSK------- GVKIWDAN-- ---------- -GSRDFLDSL 
+TYSY_HSVE2        70   G-STDSN-EL SAR------- GVKIWDAN-- ---------- -GSRDFLARA 
+TYSY_KSHV        118   G-STDSR-EL SRT------- GVKIWDKN-- ---------- -GSREFLAGR 
+TYSY_HSVAT        71   G-STDSK-EL AAS------- GVHIWDAN-- ---------- -GSRSYLDKL 
+TYSY_VZVD         82   G-STDSK-EL AAK------- DIHIWDIY-- ---------- -GSSKFLNRN 
+TYSY_ASCSU        75   G-DTDAK-RL SAK------- GVKIWDAN-- ---------- -GSREFLDSQ 
+DRTS_SOYBN       311   G-STNAK-VL QEK------- GIHIWDGN-- ---------- -ASREYLDGV 
+TYSY_DROME       100   G-KTDAK-LL QAK------- NVHIWDGN-- ---------- -SSREFLDKM 
+TYSY_ENCCU        74   G-ETDSK-VL EKK------- GVRIWEKN-- ---------- -GAKQFLQSV 
+TYSY_YEAST        76   G-DTDAN-LL SEQ------- GVKIWDGN-- ---------- -GSREYLDKM 
+TYSY_CANAL        74   G-STDAK-IL SEK------- GVKIWEGN-- ---------- -GSREFLDKL 
+TYSY_AGABI        70   G-LTDSK-IL SDK------- GVKIWDGN-- ---------- -GSKAFLESR 
+TYSY_CRYNE        86   G-CTDAK-ML SSQ------- GVGIWDGN-- ---------- -GSKEFLEKV 
+DRTS_TRYCR       302   G-ETYAK-KL SDK------- GVHIWDDN-- ---------- -GSRAFLDSR 
+DRTS_TOXGO       388   G-DTNAN-HL SEK------- GVKIWDKN-- ---------- -VTREFLDSR 
+DRTS_PARTE       244   G-NTNGK-LL LDK------- GVKIWEGN-- ---------- -GTREYLDTI 
+TYSY_HAEIN        67   G-YDNAA-DF RAL------- GTKTWDAN-- ---------- -ANENAAWLA 
+1tis_             65   G-STNVN-DL RLIqhdsliq GKTVWDEN-- ---------- -YENQAKDl- 
+TYSY_ZYMMO        68   G-DTNIR-PL VEQ------- GVSIWSDWpl aryqaetgal lSKKEFEAKI 
+                                                                 
+                       6066665055 5550000000 5546653400 0000000000 0444444444 
+ 
+1aiq_A            84   ---A---DEN GDLGPVYGKQ WRAW-PTP-- ------DGRH I-----DQIT 
+1b02_A            98   ---K---QED GTIGHAYGFQ lgkknRSL-- ------NGEK V-----DQVD 
+TYSY_FUSNN        99   ---K---MQD GTIGKAYGYQ ---------- -------IAq etfgqkSQLH 
+TYSY_CLOAB        89   ---M---LED GTIGKAYGYQ ---------- -------VAK F-----KQID 
+TYSY_STRP8        98   ---Ev--DQT RTIGQRYGAV ---------- -------VKK H-----DIIS 
+TYSY_LACLA        98   ---G---IGD GTIGQRYGA- ---------- ------TVKK Y-----NIIG 
+DUHM_BPSP1       102   ---------- ------YGER LRFW-NRSda ---NNFIYNP L-----DQLR 
+1ci7_A            98   GLTK---RQE GDLGPIYGFQ WRHF-GAEYI DCKTNYIGQG V-----DQLA 
+1j3i_C           136   KLFH---REV NDLGPIYGFQ WRHF-GAEYT NMYDNYENKG V-----DQLK 
+1qzf_A           327   GLGH---REE NDLGPIYGFQ WRHY-NGEYK TMHDDYTGVG V-----DQLA 
+TYSY_HUMAN       121   GFST---REE GDLGPVYGFQ WRHF-GAEYR DMESDYSGQG V-----DQLQ 
+TYSY_HSVE2        98   GLGH---REP GDLGPVYGFQ WRHF-GAAYV DSKTDYRGQG V-----DQLR 
+TYSY_KSHV        146   GLAH---RRE GDLGPVYGFQ WRHF-GAAYV DADADYTGQG F-----DQLS 
+TYSY_HSVAT        99   GLFD---REE GDLGPVYGFQ WRHF-GAEYQ GLKHNYGGEG V-----DQLK 
+TYSY_VZVD        110   GFHK---RHT GDLGPIYGFQ WRHF-GAEYK DCQSNYLQQG I-----DQLQ 
+TYSY_ASCSU       103   GFKD---RPE GDLGPIYGFQ WRHF-GAEYH GTDADYKGQG V-----DQLA 
+DRTS_SOYBN       339   GLTE---REE GDLGPVYGFQ WRHF-GARYT DMHHDYSGQG F-----DQLL 
+TYSY_DROME       128   GFTG---RAV GDLGPVYGFQ WRHF-GAQYG TCDDDYSGKG I-----DQLR 
+TYSY_ENCCU       102   GI-D---REE GDLGPIYGFQ WRHF-GARYE TSASSYEGKG V-----DQIA 
+TYSY_YEAST       104   GFKD---RKV GDLGPVYGFQ WRHF-GAKYK TCDDDYTGQG I-----DQLK 
+TYSY_CANAL       102   GLTH---RRE GDLGPVYGFQ WRHF-GAEYK DCDSDYTGQG F-----DQLQ 
+TYSY_AGABI        98   GLGH---RRE GDLGPVYGFQ WRHF-GAEYE DCDADYAGKG V-----DQLR 
+TYSY_CRYNE       114   GLGH---RRE GDLGPVYGFQ WRHF-GAEYT DADGDYKGKG V-----DQLQ 
+DRTS_TRYCR       330   GLTE---YEE MDLGPVYGFQ WRHF-GAAYT HHDANYDGQG V-----DQIK 
+DRTS_TOXGO       416   NLPH---REV GDIGPGYGFQ WRHF-GAAYK DMHTDYTGQG V-----DQLK 
+DRTS_PARTE       272   GLQH---RQE HDLGPVYGFQ WRHF-GAKYK DCQTDYSNQG V-----DQVK 
+TYSY_HAEIN        95   NPHR---RGV DDMGRVYGVQ GRAW-RKP-- ------NGET I-----DQLR 
+1tis_             99   ---G---YHS GELGPIYGKQ WRDF-G---- ---------G V-----DQII 
+TYSY_ZYMMO       109   ladtefaKKW GDLGPVYGRQ WRRW-QGS-- ------DGQV Y-----DQIA 
+                                                                 
+                       4444000666 6777777777 7766066664 4344555556 6000007776 
+ 
+1aiq_A           114   TVLNQLKNDP DSERIIVSAW NVGEL---DK M-ALAPCHAF FQFY---V-- 
+1b02_A           129   YLLHQLKNNP SSRRHITMLW NPDEL---DA M-ALTPCVYE TQWY---V-- 
+TYSY_FUSNN       126   YVINELKKNP NSRRIMTEIW IPNEL---SE M-ALTPCVHL TQWS---V-- 
+TYSY_CLOAB       111   NLIDTLKTDP QSRRMLISLW NIADL---KD M-SLTPCCYE TLWD---V-- 
+TYSY_STRP8       121   KILKQLAENP WNRRNVISLW DYEAF---EE TKGLLPCAFQ IMFDVRRV-- 
+TYSY_LACLA       120   KLLDGLAKNP WNRRNIINLW QYEDF---EE TEGLLPCAFQ TMFDVRR--- 
+DUHM_BPSP1       127   DVYEKIKADP DTRQAVAVIY NPLfdninND T-KDRPCNLL LSFK---L-- 
+1ci7_A           139   NIIQKIRTSP YDRRLILSAW NPADL---EK M-ALPPCHMF CQFY---VHI 
+1j3i_C           177   NIINLIKNDP TSRRILLCAW NVKDL---DQ M-ALPPCHIL CQFY---V-- 
+1qzf_A           368   KLIETLKNNP KDRRHILTAW NPSAL---SQ M-ALPPCHVL SQYY---V-- 
+TYSY_HUMAN       162   RVIDTIKTNP DDRRIIMCAW NPRDL---PL M-ALPPCHAL CQFY---V-- 
+TYSY_HSVE2       139   DLIGEIKRNP ESRRLVLTAW NPADL---PA M-ALPPCHLL CQFY---V-- 
+TYSY_KSHV        187   YIVDLIKNNP HDRRIIMCAW NPADL---SL M-ALPPCHLL CQFY---V-- 
+TYSY_HSVAT       140   QIINTIHTNP TDRRMLMCAW NVLDV---PK M-ALPPCHVL SQFY---V-- 
+TYSY_VZVD        151   TVIDTIKTNP ESRRMIISSW NPKDI---PL M-VLPPCHTL CQFY---V-- 
+TYSY_ASCSU       144   DVIEQIKNNP NSRRIILNAW NVKDL---HQ M-ALPPCHTL AQFA---V-- 
+DRTS_SOYBN       380   DVINKIKRNP DDRRIILSAW NPVDL---KL M-ALPPCHMF AQFY---V-- 
+TYSY_DROME       169   QVIDTIRNNP SDRRIIMSAW NPLDI---PK M-ALPPCHCL AQFY---VSE 
+TYSY_ENCCU       142   SAIAAIRANP ASRRIVVSAW NPTDL---GS M-ALPPCHVL FQFN---V-- 
+TYSY_YEAST       145   QVIHKLKTNP YDRRIIMSAW NPADF---DK M-ALPPCHIF SQFY---VSF 
+TYSY_CANAL       143   DVIKKLKTNP YDRRIIMSAW NPPDF---AK M-ALPPCHVF CQFY---VNF 
+TYSY_AGABI       139   ECIRKIKENP TDRRIILSAW NPKDI---PS M-ALPPCHML CQFY---VHL 
+TYSY_CRYNE       155   RVIDTIKNNP TDRRIILSAW NPKDL---PL M-ALPPCHMF CQFF---VSL 
+DRTS_TRYCR       371   AIVETLKTNP DDRRMLFTAW NPSAL---PR M-ALPPCHLL AQFY---V-- 
+DRTS_TOXGO       457   NVIQMLRTNP TDRRMLMTAW NPAAL---DE M-ALPPCHLL CQFY---VND 
+DRTS_PARTE       313   EIIQLLKNNP DSRRIILSAW NPIDL---KQ M-ALPPCHVM SQFF---V-- 
+TYSY_HAEIN       128   KIVNNLTKGI DDRGEILTFF NPGEF---DL G-CLRPCMHT HTFS---L-- 
+1tis_            124   EVIDRIKKLP NDRRQIVSAW NPAEL---KY M-ALPPCHMF YQFN---V-- 
+TYSY_ZYMMO       145   TLIETLKSNP SSRRMLFHGW NVAEL---KD M-ALPPCHMV YQYH---VTS 
+                                                                 
+                       6776688888 8888888888 8777700066 7078888766 6776000700 
+ 
+1aiq_A           155   A--------- ------D-GK LSCQLYQRSC DVFLGLP-FN IASYALLVHM 
+1b02_A           170   K--------- ------H-GK LHLEVRARSN DMALGNP-FN VFQYNVLQRM 
+TYSY_FUSNN       167   I--------- ------G-NK LYLEVRQRSC DVALGLV-AN VFQYSVLHKL 
+TYSY_CLOAB       152   Q--------- ------N-GK LNCMLVQRSG DMPLGVP-FN MCQYAVLVHL 
+TYSY_STRP8       166   G--------- ------EDLY LDASLTQRSN DILVAHH-IN AMQYVALQMM 
+TYSY_LACLA       164   ----EQDG-- ------Q-IY LDATLIQRSN DMLVAHH-IN AMQYVALQMM 
+DUHM_BPSP1       171   R--------- ------N-GK LDLSVYNRSN DLHWGTfgAN LCQFSTILEA 
+1ci7_A           182   P--------- -----SR-PE LSCQLYQRSC DMGLGVP-FN IASYALLTCM 
+1j3i_C           218   F--------- ------D-GK LSCIMYQRSC DLGLGVP-FN IASYSIFTHM 
+1qzf_A           409   T--------- ------NDNC LSCNLYQRSC DLGLGSP-FN IASYAILTMM 
+TYSY_HUMAN       203   V--------- ------N-SE LSCQLYQRSG DMGLGVP-FN IASYALLTYM 
+TYSY_HSVE2       180   A--------- ------G-GE LSCQLYQRSG DMGLGVP-FN IASYSLLTYM 
+TYSY_KSHV        228   A--------- ------D-GE LSCQLYQRSG DMGLGVP-FN IASYSLLTYM 
+TYSY_HSVAT       181   C--------- ------D-GK LSCQLYQRSA DMGLGVP-FN IASYSLLTCM 
+TYSY_VZVD        192   A--------- ------N-GE LSCQVYQRSG DMGLGVP-FN IAGYALLTYI 
+TYSY_ASCSU       185   K--------- ------N-GE LSCQLYQRSG DMGLGVP-FN LASYGLLTHM 
+DRTS_SOYBN       421   A--------- ------H-GE LSCQMYQRSA DMGLGIP-FN IASYALLTCM 
+TYSY_DROME       212   K--------- ------R-GE LSCQLYQRSA DMGLGVP-FN IASYALLTHM 
+TYSY_ENCCU       183   T--------- ------D-GK LSCAMYQRSG DMGLGVP-FN IASYSLLTIL 
+TYSY_YEAST       188   PkegEGSG-- ------K-PR LSCLLYQRSC DMGLGVP-FN IASYALLTRM 
+TYSY_CANAL       186   Ptsspdpnnp kqAKTAK-PK LSCLLYQRSC DMGLGVP-FN IASYALLTKM 
+TYSY_AGABI       182   P--------- --ADTAK-PE LSCLMFQRSA DLGLGIP-FN IASYALLTHM 
+TYSY_CRYNE       198   Ppadspg--- -----SK-PK LSCLMYQRSC DLGLGVP-FN IASYALLTHM 
+DRTS_TRYCR       412   S--------- ------N-GE LSCMLYQRSC DMGLGVP-FN IASYALLTIL 
+DRTS_TOXGO       500   Q--------- ------K--E LSCIMYQRSC DVGLGVP-FN IASYSLLTLM 
+DRTS_PARTE       354   A--------- ------N-GK LSCMMYQRSC DFGLGIP-FN IASYALLTYM 
+TYSY_HAEIN       169   V--------- ------G-DT LHLTSYQRSC DVPLGLN-FN QIQVFTFLAL 
+1tis_            165   R--------- ------N-GY LDLQWYQRSV DVFLGLP-FN IASYATLVHI 
+TYSY_ZYMMO       188   D--------- ------G--R LNSLLYQRSA DVFLGAA-FQ FGRRGRLQAM 
+                                                                 
+                       3000000000 0000004047 8888888888 9988888088 8888888778 
+ 
+1aiq_A           188   MAQQCDLEVG DFVWTGGDTH LYSNHMDQTH ---------- --------LQ 
+1b02_A           203   IAQVTGYELG EYIFNIGDCH VYTRHIDNLK ---------- --------IQ 
+TYSY_FUSNN       200   VALECGLEPA EIIWNIHNMH IYDRHYDKLI ---------- --------EQ 
+TYSY_CLOAB       185   IAQVTGLKPG LFTHVINNAH IYKNQIEGMK ---------- --------IQ 
+TYSY_STRP8       200   IAKHFGWKIG KFFYFVNNLH IYDNQFDQAQ ---------- --------EL 
+TYSY_LACLA       200   IAKHFSWKVG KFFYFVNNLH IYDNQFEQAN ---------- --------EL 
+DUHM_BPSP1       205   MATWLGVEVG SYYQITDSLH VYLDDYGAki tediqkvygv nletdeapVV 
+1ci7_A           216   IAHVCDLDPG DFIHVMGDCH IYKDHIEALQ ---------- --------QQ 
+1j3i_C           251   IAQVCNLQPA QFIHVLGNAH VYNNHIDSLK ---------- --------IQ 
+1qzf_A           443   LAQVCGYEPG ELAIFIGDAH IYENHLTQLK ---------- --------EQ 
+TYSY_HUMAN       236   IAHITGLKPG DFIHTLGDAH IYLNHIEPLK ---------- --------IQ 
+TYSY_HSVE2       213   VAHLTGLEPG DFIHVLGDAH VYLNHVEPLK ---------- --------LQ 
+TYSY_KSHV        261   LAHVTGLRPG EFIHTLGDAH IYKTHIEPLR ---------- --------LQ 
+TYSY_HSVAT       214   IAHVTDLVPG EFIHTLGDAH VYVNHVDALT ---------- --------EQ 
+TYSY_VZVD        225   VAHVTGLKTG DLIHTMGDAH IYLNHIDALK ---------- --------VQ 
+TYSY_ASCSU       218   IAHVCALKTG FLHHVLGDAH VYLNHIDALK ---------- --------EQ 
+DRTS_SOYBN       454   IAHVCDLIPG DFIHVIGDAH IYRNHVRPLQ ---------- --------EQ 
+TYSY_DROME       245   IAHVTGLKPG DFVHTMGDTH VYLNHVEPLK ---------- --------EQ 
+TYSY_ENCCU       216   VAHLTGLQPG EFVHFLGDAH VYLDHVDSLR ---------- --------QQ 
+TYSY_YEAST       228   IAKVVDMEPG EFIHTLGDAH VYKDHIDALK ---------- --------EQ 
+TYSY_CANAL       234   IAHVVDMDCG EFIHTLGDAH VYLDHIDALK ---------- --------EQ 
+TYSY_AGABI       219   IAHVTGTTAR ELIIQLGDAH VYRDHVEALE ---------- --------VQ 
+TYSY_CRYNE       238   IALITDTEPH EFILQMGDAH VYRDHVEPLK ---------- --------TQ 
+DRTS_TRYCR       445   IAKATGLRPG ELVHTLGDAH VYSNHVEPCN ---------- --------EQ 
+DRTS_TOXGO       532   VAHVCNLKPK EFIHFMGNTH VYTNHVEALK ---------- --------EQ 
+DRTS_PARTE       387   LAKECNLNLG EFVHVLGDTH IYSNHVEALK ---------- --------KQ 
+TYSY_HAEIN       202   MAQITGKKAG KAYHKIVNAH IYEDQLELMR ---------- --------DV 
+1tis_            198   VAKMCNLIPG DLIFSGGNTH IYMNHVEQCK ---------- --------EI 
+TYSY_ZYMMO       220   LADQAGLALG DLVWTGGDVH IYRNHIDQMK ---------- --------NS 
+                                                                 
+                       8866555556 6656666666 6666666666 0000000000 0000000066 
+ 
+1aiq_A           220   LSREPRPL-- PKLIIKR-KP ---------- --ES--IFDY ----RFEDFE 
+1b02_A           235   MEREQ--FEA PELWINP-EV ---------- --KD--FYDF ----TIDDFK 
+TYSY_FUSNN       232   VNRET--FEP AKIKIN--NF ---------- --KS--IFDF ----KPDDIE 
+TYSY_CLOAB       217   LKRRDKAYEA PKLWINP-NI ---------- --KN--FYDF ----TADDIK 
+TYSY_STRP8       232   LKRQPVAS-- QPKLVLN-VP ---------- --DGTNFFDI ----KPDDFE 
+TYSY_LACLA       232   VKRTASDK-- EPRLVLN-VP ---------- --DGTNFFDI ----KPEDFE 
+DUHM_BPSP1       255   EDFEE--LLD PNPRMSY-TM ---------- --NE--LNQF ----LNEYFG 
+1ci7_A           248   LTRSPRPF-- PTLSLNR-SI ---------- --TD--IEDF ----TLDDFN 
+1j3i_C           283   LNRIPYPF-- PTLKLNP-DI ---------- --KN--IEDF ----TISDFT 
+1qzf_A           475   LSRTPRPF-- PQLKFKR-KV ---------- --EN--IEDF ----KWEDIE 
+TYSY_HUMAN       268   LQREPRPF-- PKLRILR-KV ---------- --EK--IDDF ----KAEDFQ 
+TYSY_HSVE2       245   LTRSPRPF-- PRLRILR-RV ---------- --ED--IDDF ----RAEDFA 
+TYSY_KSHV        293   LTRTPRPF-- PRLEILR-SV ---------- --SS--MEEF ----TPDDFR 
+TYSY_HSVAT       246   LTRTPRPF-- PTLKFAR-KV ---------- --AS--IDDF ----KANDII 
+TYSY_VZVD        257   LARSPKPF-- PCLKIIR-NV ---------- --TD--INDF ----KWDDFQ 
+TYSY_ASCSU       250   LSRDPRPF-- PTVHFEG-RI ---------- --DS--IDDF ----TAESII 
+DRTS_SOYBN       486   LHNQPKPF-- PTLKINP-KK ---------- --KD--IDSF ----VAADFK 
+TYSY_DROME       277   LERTPRPF-- PKLIIKR-QV ---------- --QD--IEDF ----RFEDFQ 
+TYSY_ENCCU       248   IQRPPRAF-- PKLFVSP-Kg pr-------- --TE--PEHF ----QYEDFE 
+TYSY_YEAST       260   ITRNPRPF-- PKLKIKR-DV ---------- --KD--IDDF ----KLTDFE 
+TYSY_CANAL       266   FERIPKQF-- PKLVIKE-ER --------KN EIKS--IDDF ----KFEDFE 
+TYSY_AGABI       251   LQREPRPF-- PKLRWAR-Dg ---------- -ITD--IEDF ----EYSDFV 
+TYSY_CRYNE       270   LEREPRDF-- PKLKWAR-SK ---------E EIGD--IDGF ----KVEDFV 
+DRTS_TRYCR       477   LKRVPRAF-- PYLVFRR-ER ---------E ---F--LEDY ----EEGDME 
+DRTS_TOXGO       564   LRREPRPF-- PIVNILn--- --------KE RIKE--IDDF ----TAEDFE 
+DRTS_PARTE       419   IERVPYPF-- PLLKIKG-NK ---------- ---S--LFDY ----TYEDFE 
+TYSY_HAEIN       234   QLKREPFP-- LPKLEINpDI ---------- --KT--LEDl etwvTMDDFK 
+1tis_            230   LRREPKEL-- CELVISG-LP ykfrylstKE QLKY--VLKL ----RPKDFV 
+TYSY_ZYMMO       252   LPVTsg-F-- SRLELTR-HP ---------N ---S--ITDY ----KSRILR 
+                                                                 
+                       6665554400 4443222011 0000000000 0022002233 0000323333 
+ 
+1aiq_A           249   IEGYDP---- ---------- -------HPG -IKAPVAI-- ---------- 
+1b02_A           264   LINYKH---- ---------- -------GDK -LLFEVAV-- ---------- 
+TYSY_FUSNN       260   IIDYKY---- ---------- -------GEK -VSYEVAI-- ---------- 
+TYSY_CLOAB       248   LIDYKH---- ---------- -------HDK -IKMEVAV-- ---------- 
+TYSY_STRP8       263   LQNYDP---- ---------- -------VKP QLHFDLAI-- ---------- 
+TYSY_LACLA       263   LVDYEP---- ---------- -------VKP QLKFDLAI-- ---------- 
+DUHM_BPSP1       284   IVDSLmrdde tymhdgdcaq mllnqirHEP -DEYikvtll lmvakqalnr 
+1ci7_A           277   IQNYHP---- ---------- -------YET -IKMKMSI-- ---------- 
+1j3i_C           312   IQNYVH---- ---------- -------HEK -ISMDMAA-- ---------- 
+1qzf_A           504   LIGYYP---- ---------- -------YPT -IKMDMAV-- ---------- 
+TYSY_HUMAN       297   IEGYNP---- ---------- -------HPT -IKMEMAV-- ---------- 
+TYSY_HSVE2       274   LEGYHP---- ---------- -------HAA -IPMEMAV-- ---------- 
+TYSY_KSHV        322   LVDYCP---- ---------- -------HPT -IRMEMAV-- ---------- 
+TYSY_HSVAT       275   LENYNP---- ---------- -------YPS -IKMPMAV-- ---------- 
+TYSY_VZVD        286   LDGYNP---- ---------- -------HPP -LKMEMAL-- ---------- 
+TYSY_ASCSU       279   LNGYNP---- ---------- -------MAP -IKMPMAV-- ---------- 
+DRTS_SOYBN       515   LIGYDP---- ---------- -------HQK -IDMKLSV-- ---------- 
+TYSY_DROME       306   IVDYNP---- ---------- -------HPK -IQMDMAV-- ---------- 
+TYSY_ENCCU       279   LVGYDP---- ---------- -------HPA -IKMNMSA-- ---------- 
+TYSY_YEAST       289   IEDYNP---- ---------- -------HPR -IQMKMSV-- ---------- 
+TYSY_CANAL       299   IVGYEP---- ---------- -------YPP -IKMKMSV-- ---------- 
+TYSY_AGABI       281   IEGYNP---- ---------- -------HPS -IAMKMSV-- ---------- 
+TYSY_CRYNE       302   VEGYKP---- ---------- -------WGK -IDMKMSA-- ---------- 
+DRTS_TRYCR       506   VIDYAP---- ---------- -------YPP -ISMKMAV-- ---------- 
+DRTS_TOXGO       595   VVGYVP---- ---------- -------HGR -IQMEMAV-- ---------- 
+DRTS_PARTE       447   LVGYNA---- ---------- -------HDK -IEMKMAV-- ---------- 
+TYSY_HAEIN       268   VVGYQS---- ---------- -------HEP -IKYPFSV-- ---------- 
+1tis_            271   LNNYVS---- ---------- -------HPP -IKGKMAV-- ---------- 
+TYSY_ZYMMO       280   LQDMIL---- ---------- -------IPP -IKGAVAV-- ---------- 
+                                                                 
+                       3333330000 0000000000 0000000333 0222222200 0000000000 
+ 
+1aiq_A           265   ---------- ---------- ---------- ---------- ---------- 
+1b02_A           280   ---------- ---------- ---------- ---------- ---------- 
+TYSY_FUSNN       276   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CLOAB       264   ---------- ---------- ---------- ---------- ---------- 
+TYSY_STRP8       280   ---------- ---------- ---------- ---------- ---------- 
+TYSY_LACLA       280   ---------- ---------- ---------- ---------- ---------- 
+DUHM_BPSP1       333   gmkdtvatam nwiplceikv salrflyksy peyinqydld eklmkyirre 
+1ci7_A           293   ---------- ---------- ---------- ---------- ---------- 
+1j3i_C           328   ---------- ---------- ---------- ---------- ---------- 
+1qzf_A           520   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HUMAN       313   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HSVE2       290   ---------- ---------- ---------- ---------- ---------- 
+TYSY_KSHV        338   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HSVAT       291   ---------- ---------- ---------- ---------- ---------- 
+TYSY_VZVD        302   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ASCSU       295   ---------- ---------- ---------- ---------- ---------- 
+DRTS_SOYBN       531   ---------- ---------- ---------- ---------- ---------- 
+TYSY_DROME       322   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ENCCU       295   ---------- ---------- ---------- ---------- ---------- 
+TYSY_YEAST       305   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CANAL       315   ---------- ---------- ---------- ---------- ---------- 
+TYSY_AGABI       297   ---------- ---------- ---------- ---------- ---------- 
+TYSY_CRYNE       318   ---------- ---------- ---------- ---------- ---------- 
+DRTS_TRYCR       522   ---------- ---------- ---------- ---------- ---------- 
+DRTS_TOXGO       611   ---------- ---------- ---------- ---------- ---------- 
+DRTS_PARTE       463   ---------- ---------- ---------- ---------- ---------- 
+TYSY_HAEIN       284   ---------- ---------- ---------- ---------- ---------- 
+1tis_            287   ---------- ---------- ---------- ---------- ---------- 
+TYSY_ZYMMO       296   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1aiq_A           265   - 
+1b02_A           280   - 
+TYSY_FUSNN       276   - 
+TYSY_CLOAB       264   - 
+TYSY_STRP8       280   - 
+TYSY_LACLA       280   - 
+DUHM_BPSP1       383   e 
+1ci7_A           293   - 
+1j3i_C           328   - 
+1qzf_A           520   - 
+TYSY_HUMAN       313   - 
+TYSY_HSVE2       290   - 
+TYSY_KSHV        338   - 
+TYSY_HSVAT       291   - 
+TYSY_VZVD        302   - 
+TYSY_ASCSU       295   - 
+DRTS_SOYBN       531   - 
+TYSY_DROME       322   - 
+TYSY_ENCCU       295   - 
+TYSY_YEAST       305   - 
+TYSY_CANAL       315   - 
+TYSY_AGABI       297   - 
+TYSY_CRYNE       318   - 
+DRTS_TRYCR       522   - 
+DRTS_TOXGO       611   - 
+DRTS_PARTE       463   - 
+TYSY_HAEIN       284   - 
+1tis_            287   - 
+TYSY_ZYMMO       296   - 
+            
+                       0 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((1aiq_A      :0.006216((((((1ci7_A      :0.003491(TYSY_YEAST  :0.002834TYSY_CANAL  :0.002834):0.000656):0.000193(TYSY_AGABI  :0.003122TYSY_CRYNE  :0.003122):0.000561):0.000531((((((TYSY_HUMAN  :0.003068TYSY_HSVE2  :0.003068):0.000139TYSY_KSHV   :0.003208):0.000265TYSY_VZVD   :0.003473):0.000124TYSY_HSVAT  :0.003597):0.000162TYSY_DROME  :0.003758):0.000243TYSY_ASCSU  :0.004002):0.000212):0.000213TYSY_ENCCU  :0.004428):0.000052(1qzf_A      :0.004097(((DRTS_SOYBN  :0.003371DRTS_TRYCR  :0.003371):0.000270DRTS_TOXGO  :0.003641):0.000040DRTS_PARTE  :0.003682):0.000415):0.000383):0.0002481j3i_C      :0.004728):0.001488):0.0018191tis_       :0.008035):0.001037TYSY_ZYMMO  :0.009072):0.004724((1b02_A      :0.006527TYSY_CLOAB  :0.006527):0.002851TYSY_FUSNN  :0.009378):0.004418):0.007559TYSY_HAEIN  :0.021355):0.013353(TYSY_STRP8  :0.003256TYSY_LACLA  :0.003256):0.031453):0.018148DUHM_BPSP1  :0.052856);
+ 
+ 

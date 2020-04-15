@@ -1,0 +1,627 @@
+NOR2_CYLTO         1   mhatedeTTT IPRFPFQ--- ---------- ---------- ------RASA 
+1cl6_A             1   a--------- -PSFPFS--- ---------- ---------- ------RASG 
+C141_MYCTU         1   mt-----STS IPTFPFD--- ---------- ---------- ------RPVP 
+CPXP_BRAJA         1   mseqqp---- LPTLPMW--- ---------- ---------- ------RVDH 
+1oxa_              1   atvpdlesds fhvd------ ---------- ---------- -WY------- 
+1cpt_              1   mdarat---- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN         1   msdlrrkrvk tn-------- ---------- ---------- ---------- 
+1phd_              1   nla------- ---------- ---------- ---------- ---------- 
+1lgf_A             1   d--------- -PRPLHI--- ---------- ---------- ------RRQG 
+YJIB_BACSU         1   ---------- ---------- ---------- ---------- -MNVLNRRQA 
+1f4t_A             1   m--------- ---------- ---------- ---------- ---------- 
+1pkf_A             1   a--------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU         1   MKQASAI--- ---------- ---------- ---------- ---------- 
+C505_FUSOX         1   MAESVPI--- ---------- ---------- ---------- ---------- 
+1e9x_A             1   ---------- ---------- ---------- -------MSA VALPRVSGGH 
+CP51_SORBI         1   mdladipqqq ---------- ----RLMAGL ALVVATVIFL KLLLSFRSG- 
+CP51_SCHPO         1   ---------- ---------- ------MAFS LVSILLSIAL AWYVGYIINQ 
+CP51_HUMAN         1   mlllgllqag gsvlgqamek vtggNLLSML LIACAFTLSL VYLIRLAAGH 
+CPD6_HUMAN         1   mglealvpla ---------- ---------- --VIVAIFLL LVDLMHRRQ- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO        22   ---------- --FEPP---- ---------- ---------- AEFAR-LRAN 
+1cl6_A            12   ---------- --PEPP---- ---------- ---------- AEFAK-LRAT 
+C141_MYCTU        17   ---------- --TEPS---- ---------- ---------- PMLSE-LRNS 
+CPXP_BRAJA        18   ---------- --IEPS---- ---------- ---------- PEMLA-LRAN 
+1oxa_             17   ---------- ---------- ---------- ---------- STYAE-LRET 
+1cpt_              7   ---------- -------IPE HIartvilpq -GYADDeviY PAFKW-LRDE 
+Y4VG_RHISN        13   ---------- --PIPDHVPP ALVRHFSLFT SPGMAptpng dphaavacvh 
+1phd_              4   ---------- --PLPPHVPE HLVFDFDMYN PSNLSagvqe a-WAV-LQES 
+1lgf_A            12   ---------- --LDPA---- ---------- ---------- DELLA-AGAl 
+YJIB_BACSU        10   ---------- --LQRAllng knkqda---- ---------Y HPFPW-YESM 
+1f4t_A             2   ---------- ---------- ---------- ---------- --YDW-FSEM 
+1pkf_A             2   ---------- ---------- ---FDFKPFA PGYAED---- -PFPA-IERL 
+CYPE_BACSU         8   ---------- --PQPKTYG- -----PLKNL PHLEKE---- -QLSQSLWRI 
+C505_FUSOX         8   ---------- --PEPPGYP- -----LIGNL GEFTSN---- -PLSD-LNRL 
+1e9x_A            14   deh------- ---------- -------GHL EEFRTD---- -PIGL-MQRV 
+CP51_SORBI        36   -----GGKKR LPPTIPGAP- -----VVGGL VKFMRG---- -PIPM-IREQ 
+CP51_SCHPO        25   LTSr--NSKR PPIVFHWIP- -----FVGSA VAYGMD---- -PYVF-FREC 
+CP51_HUMAN        51   LVQlpAGVKS PPYIFSPIP- -----FLGHA IAFGKS---- -PIEF-LENA 
+CPD6_HUMAN        28   -----RWAAR YPPGPLPLP- -----GLGNL LHVDFQ---- -NTPYCFDQL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000111 
+ 
+NOR2_CYLTO        35   ----EPI-SQ VELF------ -DGSLAWLV- --VKHEDVCR VATDERLSKE 
+1cl6_A            25   ----NPV-SQ VKLF------ -DGSLAWLV- --TKHKDVCF VATSEKLSKV 
+C141_MYCTU        30   ----CPV-AP IELP------ -SGHTAWLV- --TRFDDVKG VLSDKRFScr 
+CPXP_BRAJA        31   ----GPI-HR VRFP------ -SGHEGWWV- --TGYDEAKA VLSDAAF--- 
+1oxa_             26   ----APV-TP VR-F------ -LGQDAWLV- --TGYDEAKA ALSDLRLSSD 
+1cpt_             38   ----QPL-AM AHIE------ -GYDPMWIA- --TKHADVMQ IGKQPGL--- 
+Y4VG_RHISN        51   ddgppifySP SNTR------ -DGRGTWVI- --TRARDQRR VLEDTET--- 
+1phd_             40   ----NVP-DL VWTR------ -CNGGHWIA- --TRGQLIRE AYEDYRHFSS 
+1lgf_A            25   ---------- TR-V------ -TAETHWMA- --TAHAVVRQ VMGDHQQFST 
+YJIB_BACSU        34   ----RKD-AP VSFD------ -EENQVWSV- --FLYDDVKK VVGDKEL--- 
+1f4t_A             9   ----RKK-DP VYYD------ ---GNIWQV- --FSYRYTKE VLNNFSK--- 
+1pkf_A            23   ----REA-TP IFYW------ -DEGRSWVL- --TRYHDVSA VFRDERFAVS 
+CYPE_BACSU        35   ADELGPI-FR FDFPGVSSVF VSGHNLVAEV CDEKRFDKNl ---------- 
+C505_FUSOX        34   ADTYGPI-FR LRLGAKAPIF VSSNSLINEV CDEKRFKKtl ksv------- 
+1e9x_A            34   RDECGDV-GT FQLAGKQVVL LSGSHANEFF FRAGDDDLDQ AKAY-PF--- 
+CP51_SORBI        69   YAALGSV-FT VPIITRRITF LIGPEVSAHF FKGNEAEMSQ QEVY-RF--- 
+CP51_SCHPO        61   RAKYGDV-FT FVCMGRKMTA FLGVQGNDFL FNGKLADLNA EEAYSHL--- 
+CP51_HUMAN        89   YEKYGPV-FS FTMVGKTFTY LLGSDAAALL FNSKNEDLNA EDVYSRL--- 
+CPD6_HUMAN        62   RRRFGDV-FS LQLAWTPVVV LNGLAAVREA LVTHGEDtad r--------- 
+                                                                 
+                       0000111011 1111000000 0111111110 0011111111 1111000000 
+ 
+NOR2_CYLTO        70   RT------R- ---------- -LGFPELSAG GKAAAKNK-- -----P---- 
+1cl6_A            60   RT------R- ---------- -QGFPELSAS GKQAAKAK-- -----P---- 
+C141_MYCTU        65   aaahpsspPF VPFV------ ---------- ---------- --QLCP---- 
+CPXP_BRAJA        63   ---------- -----RPAGM ----Ppaaft pdsvilgsp- -----G---- 
+1oxa_             60   PK------KK YPGVEVefpa yLGFPEdvrn ---------- --YFAT---- 
+1cpt_             70   ---------- -----FSNAE GSEILYDQNN EAFMRSisgg cpHVID---- 
+Y4VG_RHISN        88   ---------- -----FSSHR ----SIFASA L--------- ---GEH---- 
+1phd_             75   EC------PF IPREa----- ---------- ---------- ---GEA---- 
+1lgf_A            54   RR------RW DPRDEIGGKG IFRPR----- ---------- --ELVG---- 
+YJIB_BACSU        66   ---------- -----FSSCM ----PQQTSS I--------- ---GN----- 
+1f4t_A            39   ---------- -----FSSDL ----TGYHER L--------- ---EDlrngk 
+1pkf_A            58   RE------EW ESSAEYSSAI ----PELSDM K--------- ---KY----- 
+CYPE_BACSU        74   ---------- -------GKG LQKVR----- ---------- --EFGG---- 
+C505_FUSOX        76   ---------- ---------- LSQVR----- ---------- --EGVH---- 
+1e9x_A            79   ---------- -----MTPIF GEGVVFDASP ERRKEmlh-- ---------- 
+CP51_SORBI       114   ---------- -----NVPTF GPGVVFDVDY SVRQEQ---- ---------- 
+CP51_SCHPO       107   ---------- -----TTPVF GKDVVYDIPN HVFMEH---- ---------- 
+CP51_HUMAN       135   ---------- -----TTPVF GKGVAYDVPN PVFLEQ---- ---------- 
+CPD6_HUMAN       102   --------PP VPIT------ ---------- ---------- --QIlg---- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO        91   ---------T F---VDMDAP AHMNQRSMVE PFFTEDHVEN LRPYIKETVQ 
+1cl6_A            81   ---------T F---VDMDPP EHMHQRSMVE PTFTPEAVKN LQPYIQRTVD 
+C141_MYCTU        83   ---------S L---LSIDGP QHTAARRLLA QGLNPGFIAR MRPVVQQIVD 
+CPXP_BRAJA        84   ---------W L---VSHEGR EHARLRAIVA PAFSDRRVKL LVQQVEAIAA 
+1oxa_             88   ---------N M---GTSDPP THTRLRKLVS QEFTVRRVEA MRPRVEQITA 
+1cpt_            101   ---------S L---TSMDPP THTAYRGLTL NWFQPASIRK LEENIRRIAQ 
+Y4VG_RHISN       103   ---------W PVIPLELDPP AHGVFRALLN PLFSSRRVLA LEPTIHARAG 
+1phd_             87   ---------Y DFIPTSMDPP EQRQFRALAN QVVGMPVVDK LENRIQELAC 
+1lgf_A            77   ---------N L---MDYDPP EHTRLRRKLT PGFTLRKMQR MAPYIEQIVN 
+YJIB_BACSU        80   ---------S I---INMDPP KHTKIRSVVN KAFTPRVMKQ WEPRIQEITD 
+1f4t_A            58   irfdiptryT M---LTSDPP LHDELRSMSA DIFSPQKLQT LETFIRETTR 
+1pkf_A            81   ---------G L---FGLPPE DHARVRKLVN PSFTSRAIDL LRAEIQRTVD 
+CYPE_BACSU        86   ---------D GLFTSWTHEP NWQKAHRILL PSFSQKAMKG YHSMMLDIAT 
+C505_FUSOX        85   ---------D GLFTAFEDEP NWGKAHRILV PAFGPLSIRG MFPEMHDIAT 
+1e9x_A           102   ---------- ---------- ---------N AALRGEQMKG HAATIEDQVR 
+CP51_SORBI       135   ---------- ---------- -----FRFFT EALRANKLRS YVDQMVAEAE 
+CP51_SCHPO       128   ---------- ---------- -----KKFIK SGLGFSQFRS YVPLILNEMD 
+CP51_HUMAN       156   ---------- ---------- -----KKMLK SGLNIAHFKQ HVSIIEKETK 
+CPD6_HUMAN       112   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000111222 2222222222 2222222222 2222222222 
+ 
+NOR2_CYLTO       129   GLLNDMVANG -C-EEPVDLI EKFALPVPSY IIYTILGVPF EDLEYL---- 
+1cl6_A           119   DLLEQMKQKG -CANGPVDLV KEFALPVPSY IIYTLLGVPF NDLEYL---- 
+C141_MYCTU       121   NALDDLA--- -AAEPPVDFQ EIVSVPIGEQ LMAKLLGVEP KTVHEL---- 
+CPXP_BRAJA       122   HLFETLAAQP ----QPADLR RHLSFPLPAM VISALMGVLY EDHAFF---- 
+1oxa_            126   ELLDEV---- -GDSGVVDIV DRFAHPLPIK VICELLGVDE AARGAF---- 
+1cpt_            139   ASVQRLL--- -DFDGECDFM TDCALYYPLH VVMTALGVPE DDEPLM---- 
+Y4VG_RHISN       144   ALIDCIAKE- ---KTSCDVM KDFALPFTFS VFLSFLGLSQ RRSEVL---- 
+1phd_            128   SLIESLRp-- ---QGQCNFT EDYAEPFPIR IFMLLAGLPE EDIPHL---- 
+1lgf_A           115   DRLDEME--- -RAGSPADLI AFVADKVPGA VLCELVGVPR DDRDMF---- 
+YJIB_BACSU       118   ELIQKF---- -QGRSEFDLV HDFSYPLPVI VISELLGVPS AHMEQF---- 
+1f4t_A           105   SLLDSID--P ----REDDIV KKLAVPLPII VISKILGLPI EDKEKF---- 
+1pkf_A           119   QLLDARSGQ- ----EEFDVV RDYAEGIPMR AISALLKVPA ECDEKF---- 
+CYPE_BACSU       127   QLIQKW---- -SRLNPNEEI DVADDMTRLT LDTIGLC--- --GFNYRFNS 
+C505_FUSOX       126   QLCMKF---- -ARHGPRTPI DTSDNFTRLA LDTLALCa-- ---MDFRFYS 
+1e9x_A           123   RMIADW---- -GEAGEIDLL DFFAELTIYT SSACLIGKKF RDQLDGRFAK 
+CP51_SORBI       160   EYFSKW---- -GESGTVDLK YELEHLIILT ASRCLLGREV REKLFDDVSA 
+CP51_SCHPO       153   AFLSTSPDFG PGKEGVADLL KTMPVMTIYT ASRTLQGAEV RKGFDAGFAD 
+CP51_HUMAN       181   EYFESW---- -GESGEKNVF EALSELIILT ASHCLHGKEI RSQLNEKVAQ 
+CPD6_HUMAN       112   --------FG PRSQGVflar ygpawreq-- ---------- ---------- 
+                                                                 
+                       2222110000 0000011222 2222222222 2222222211 1111110000 
+ 
+NOR2_CYLTO       173   ---------- -T-------- -------EQN ---------- ---------- 
+1cl6_A           164   ---------- -T-------- -------QQN ---------- ---------- 
+C141_MYCTU       163   ---------- -A-------- -------AHV DA-AMSVCEI GDEEvsrr-- 
+CPXP_BRAJA       164   ---------- -A-------- -------GLS DE-VMThq-- ---------- 
+1oxa_            167   ---------- -G-------- -------RWS SE-ILVmdP- ---------- 
+1cpt_            181   ---------- -L-------- -------KLT QD-FF----- ---------- 
+Y4VG_RHISN       186   ---------- -V-------- -------GWV SD-LLh---- ---------- 
+1phd_            169   ---------- -K-------- -------YLT DQ-Mtr--P- ---------- 
+1lgf_A           157   ---------- -M-------- -------KLc hghl------ ---------- 
+YJIB_BACSU       159   ---------- -K-------- -------AWS DL-LVSTPKD KSEEaek--- 
+1f4t_A           145   ---------- -K-------- -------EWS DL-VAfrlgk pgeifeLGKK 
+1pkf_A           160   ---------- -R-------- -------RFG SA-TARALG- ------VGlv 
+CYPE_BACSU       167   FYRDSQHPFI TSMLRALKEA MNQSKRlGLQ DK-MMvktkl ---------- 
+C505_FUSOX       166   YYKEELHPFI EAMGDFLTES GNRNRRp--- -P-FA----- ---------- 
+1e9x_A           168   LYHELERGTD PL-------- -------AYV DP-YL----- ---------- 
+CP51_SORBI       205   LFHDLDNGIQ PI-------- -------SVL FP-YL----- ---------- 
+CP51_SCHPO       203   LYHDLDQGFS PV-------- -------NFV FP-WL----- ---------- 
+CP51_HUMAN       226   LYADLDGGFS HA-------- -------AWL LPgWL----- ---------- 
+CPD6_HUMAN       132   ---------- -R-------- -------RFS VS-TLRNLG- ------LGKK 
+                                                                 
+                       0000000000 0100000000 0000000111 0000000000 0000000000 
+ 
+NOR2_CYLTO       177   ---------- -----AIRSN GSGTAQEAAA ANQQLLKYLA KLVDQRLQE- 
+1cl6_A           168   ---------- -----AIRTN GSSTAREASA ANQELLDYLA ILVEQRLVE- 
+C141_MYCTU       184   ---------- ---------- ---------- -WSALCTMVI DILHRKLAE- 
+CPXP_BRAJA       175   ---------- ---------H ESGPRSASRL AWEELRAYIR GKMRDKRQD- 
+1oxa_            179   ---------- ---------- --ERAEQRGQ AAREVVNFIL DLVERRRTE- 
+1cpt_            189   ---------- ---------- GVEAARRFHE TIATFYDYFN GFTVDRRSC- 
+Y4VG_RHISN       195   ---------- ---------- --GNAEKRRA AARSVVAFID EMAAMRRKS- 
+1phd_            179   ---------- ---------- --DGSMTFAE AKEALYDYLI PIIEQRRQK- 
+1lgf_A           165   ---------- ---------D ASLSQKRRAA LGDKFSRYLL AMIARERKE- 
+YJIB_BACSU       179   ---------- ---------- --AFLEERDK CEEELAAFFA GIIEEKRNK- 
+1f4t_A           168   YLEligyv-- ---------- ---------- ---------- ---------- 
+1pkf_A           176   prvde----- ---------- --ETKTLVAS VTEGLALLHG VLDERRRNP- 
+CYPE_BACSU       206   ---------- ---------- ---------- QFQKDIEVMN SLVDRMIAE- 
+C505_FUSOX       196   ---------- ---------- PNFLYRAANE KFYGDIALMK SVADEVVAA- 
+1e9x_A           187   ---------- ---------- PIESFRRRDE ARNGLVALVA DIMNGRIAN- 
+CP51_SORBI       224   ---------- ---------- PIPAHKRRDK ARARLAEIFA TIIKSRKASG 
+CP51_SCHPO       222   ---------- ---------- PLPRNRRRDR AHKIMQKTYL KIIKDRRSST 
+CP51_HUMAN       246   ---------- ---------- PLPSFRRRDR AHREIKDIFY KAIQKRRQSQ 
+CPD6_HUMAN       148   SLEqwvteea aclcaAFANH SGRPFRPNGL LDKAVSNVIA SLTCGRRFE- 
+                                                                 
+                       0000000000 0000000000 0000011111 1111111111 1111111110 
+ 
+NOR2_CYLTO       211   --PK-DDL-- -------IGR LVDQQL-V-- ---------- ---------- 
+1cl6_A           202   --PK-DDI-- -------ISK LCTEQV-K-- ---------- ---------- 
+C141_MYCTU       202   --PG-DDL-- -------LST IAQANR-Q-- ---------- ---------- 
+CPXP_BRAJA       205   --PD-DNL-- -------LTD LLAAVDQ--- ---------- ---------- 
+1oxa_            206   --PG-DDL-- -------LSA LISVQDDD-- ---------- ---------- 
+1cpt_            218   --PK-DDV-- -------MSL LANSKL-D-- ---------- ---------- 
+Y4VG_RHISN       222   --PA-VDF-- -------MTF VVQAKI-E-- ---------- ---------- 
+1phd_            206   --PG-TDA-- -------ISI VANGQV-N-- ---------- ---------- 
+1lgf_A           195   --PG-EGM-- -------IGA VVAEy----- ---------- ---------- 
+YJIB_BACSU       206   --PE-QDI-- -------ISI LVEAEE-T-- ---------- ---------- 
+1f4t_A           176   ---------- --KDHLNSGT EVVSRV-V-- ---------- ---------- 
+1pkf_A           208   --LE-NDV-- -------LTM LLQAEA-D-- ---------- ---------- 
+CYPE_BACSU       225   --RK-ANPDE niKDLLSLML YAKDPV-T-- ---------- ---------- 
+C505_FUSOX       225   --RK-ASPSD R-KDLLAAML NGVDPQ-T-- ---------- ---------- 
+1e9x_A           216   --PP-TDKSD R--DMLDVLI AVKAET-G-- ---------- ---------- 
+CP51_SORBI       254   QSEE-DML-- -------QCF IDSKYK-N-- ---------- ---------- 
+CP51_SCHPO       252   ENpgtDMI-- -------WTL MSCKYR-D-- ---------- ---------- 
+CP51_HUMAN       276   EKID-DIL-- -------QTL LDATYK-D-- ---------- ---------- 
+CPD6_HUMAN       197   --YD-DPR-- -------FLR LLDLAQEglk eesgflrevl navpvllhip 
+                                                                 
+                       0011011100 0000000111 1111110100 0000000000 0000000000 
+ 
+NOR2_CYLTO       226   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           217   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       217   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       220   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            222   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            233   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       237   ---------- ---------- ---------- ---------- ---------- 
+1phd_            221   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           208   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       221   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           191   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           223   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       249   ---------- ---------- ---------- ---------- ---------- 
+C505_FUSOX       248   ---------- ---------- ---------- ---------- ---------- 
+1e9x_A           238   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       271   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       270   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       293   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       235   alagkvlrfq kafltqldel ltehrmtwdp aqpprdltea flaemekakg 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       226   --PGHIEKSD AVQIAFLLLV AGNATMVNMI ALGVVTLMQN PSQLEELKAD 
+1cl6_A           217   --PGNIDKSD AVQIAFLLLV AGNATMVNMI ALGVATLAQH PDQLAQLKAN 
+C141_MYCTU       217   --QSTMTDEQ VVGMLLTVVI GGVDTPIAVI TNGLASLLHH RDQYERLVED 
+CPXP_BRAJA       220   ---GKASEEE AVGLAAGMLV AGHESTVAQI EFGLLAMFRH PQQRERLVGD 
+1oxa_            222   --DGRLSADE LTSIALVLLL AGFEASVSLI GIGTYLLLTH PDQLALVRAD 
+1cpt_            233   --GNYIDDKY INAYYVAIAT AGHDTTSSSS GGAIIGLSRN PEQLALAKSD 
+Y4VG_RHISN       237   --GRSLTEEE VRGIGVLFLV AGLDTVAAAI GFDMAYLARN PKHQELLRNE 
+1phd_            221   --GRPITSDE AKRMCGLLLV GGLDTVVNFL SFSMEFLAKS PEHRQELIER 
+1lgf_A           208   --GDDATDEE LRGFCVQVML AGDDNISGMI GLGVLAMLRH PEQIDAFRGD 
+YJIB_BACSU       221   --GEKLSGEE LIPFCTLLLV AGNETTTNLI SNAMYSILET PGVYEELRSH 
+1f4t_A           191   --NSNLSDIE KLGYIILLLI AGNETTTNLI SNSVIDFTRf nlwqrir--E 
+1pkf_A           223   --GSRLSTKE LVALVGAIIA AGTDTTIYLI AFAVLNLLRS PEALELVKAE 
+CYPE_BACSU       249   --GETLDDEN IRYQIITFLI AGHETTSGLL SFAIYCLLTH PEKLKKAQEE 
+C505_FUSOX       248   --GEKLSDEN ITNQLITFLI AGHETTSGTL SFAMYQLLKN PEAYSKVQKE 
+1e9x_A           238   --TPRFSADE ITGMFISMMF AGHHTSSGTA SWTLIELMRH RDAYAAVIDE 
+CP51_SORBI       271   --GRPTTEGE VTGLLIAALF AGQHTSSITS TWTGAYMLRF KQYFAEAVEE 
+CP51_SCHPO       270   --GRPLKEHE IAGMMIALLM AGQHTSAATI VWVLALLGSK PEIIEMLWEE 
+CP51_HUMAN       293   --GRPLTDDE VAGMLIGLLL AGQHTSSTTS AWMGFFLARD KTLQKKCYLE 
+CPD6_HUMAN       285   npESSFNDEN LRIVVADLFS AGMVTTSTTL AWGLLLMILH PDVQRRVQQE 
+                                                                 
+                       0022223333 3333334444 4444444444 4444444444 4333333222 
+ 
+NOR2_CYLTO       274   PTLV------ ---------- ---PGFVEEL CRY-HTGSSM --AMKRVAKE 
+1cl6_A           265   PSLA------ ---------- ---PQFVEEL CRY-HTASAL --AIKRTAKE 
+C141_MYCTU       265   PGRV------ ---------- ---ARAVEEI VRF-NPAT-E I-EHLRVVTE 
+CPXP_BRAJA       267   PSLV------ ---------- ---DKAVEEI LRM-YPPGAg wdGIMRYPRT 
+1oxa_            270   PSAL------ ---------- ---PNAVEEI LRY-IAPP-E --TTTRFAAE 
+1cpt_            281   PALI------ ---------- ---PRLVDEA VRW-TAPV-K --SFMRTALA 
+Y4VG_RHISN       285   PARL------ ---------- ---GLAAEEL LRA-YS-T-V --QIIRVATK 
+1phd_            269   PERI------ ---------- ---PAACEEL LRR-FS-L-V --ADGRILTS 
+1lgf_A           256   EQSA------ ---------- ---QRAVDEL IRYLTVPY-S --PTPRIARE 
+YJIB_BACSU       269   PELM------ ---------- ---PQAVEEA LRF-RAPA-P --VLRRIAKR 
+1f4t_A           237   ENLY------ ---------- ---LKAIEEA LRY-SPPV-M --RTVRKTKE 
+1pkf_A           271   PGLM------ ---------- ---RNALDEV LRFENIlr-I --GTVRFARQ 
+CYPE_BACSU       297   ADRVLtd--D TPEYKQIQQL KYIRMVLNET LRL-YPTA-P --AFSLYAKE 
+C505_FUSOX       296   VDEVVGRG-- PVLVEHLTKL PYISAVLRET LRL-NSPI-T --AFGLEAID 
+1e9x_A           286   LDELYGDGRs -VSFHALRQI PQLENVLKET LRL-HPPL-I --ILMRVAKG 
+CP51_SORBI       319   QKDVMkrhgD KIDHDILAEM DVLYRCIKEA LRL-HPPL-I --MLLRQSHS 
+CP51_SCHPO       318   QKRVVGENL- ELKFDQYKDM PLLNYVIQET LRL-HPPI-H --SHMRKVKR 
+CP51_HUMAN       341   QKTVCGENLp PLTYDQLKDL NLLDRCIKET LRL-RPPI-M --IMMRMART 
+CPD6_HUMAN       335   IDDVIGQVRr -PEMGDQAHM PYTTAVIHEV QRF-GDIV-P L-GMTHMTSR 
+                                                                 
+                       2222000000 0000000000 0002323332 2220111101 0011122223 
+ 
+NOR2_CYLTO       302   DMEL-----G GKLI--RAGE GI-------- ----IASNQS ANRDEDVF-- 
+1cl6_A           293   DVMI-----G DKLV--RANE GI-------- ----IASNQS ANRDEEVF-- 
+C141_MYCTU       293   DVVI-----A GTAL--SAGS PA-------- ----FTSITS ANRDSDQF-- 
+CPXP_BRAJA       297   DVTI-----A GEHI--PAES KV-------- ----LVGLPA TSFDPHHF-- 
+1oxa_            297   EVEI-----G GVAI--PQYS TV-------- ----LVANGA ANRDPSQF-- 
+1cpt_            308   DTEV-----R GQNI--KRGD RI-------- ----MLSYPS ANRDEEVF-- 
+Y4VG_RHISN       311   DIEF-----E GVPI--REGD YV-------- ----SCPAMI ANRDPSEF-- 
+1phd_            295   DYEF-----H GVQL--KKGD QI-------- ----LLPQML SGLDEREN-- 
+1lgf_A           284   DLTL-----A GQEI--KKGD SV-------- ----ICSLPA ANRDPALA-- 
+YJIB_BACSU       296   DTEI-----G GHLI--KEGD MV-------- ----LAFVAS ANRDEAKF-- 
+1f4t_A           264   RVKL-----G DQTI--EEGE YV-------- ----RVWIAS ANRDEEVF-- 
+1pkf_A           299   DLEY-----C GASI--KKGE MV-------- ----FLLIPS ALRDGTVF-- 
+CYPE_BACSU       341   DTVL-----G GEYpI-SKGQ PVTVLIPKLH RDQNAWGPDA EDFRPERF-- 
+C505_FUSOX       340   DTFL-----G GKYLV-KKGE IVTALLSRGH VDPVVYGNDA DKFIPERM-- 
+1e9x_A           331   EFEV-----Q GHRI--HEGD LV-------- ----AASPAI SNRIPEDF-- 
+CP51_SORBI       365   DFTVttkegK EYDI--PKGH IV-------- ----ATSPSF ANRLPHIY-- 
+CP51_SCHPO       363   DLPV-----P GSKIViPANN YL-------- ----LAAPGL TATEEEYF-- 
+CP51_HUMAN       387   PQTV-----A GYTI--PPGH QV-------- ----CVSPTV NQRLKDSWve 
+CPD6_HUMAN       381   DIEV-----Q GFRI--PKGT TL-------- ----ITNLSS VLKDEAVW-- 
+                                                                 
+                       3333000003 3333003333 3300000000 0000333333 4444444400 
+ 
+NOR2_CYLTO       331   ---------- -PNPDVFDM- HR-------- -Dfds----- --------RD 
+1cl6_A           322   ---------- -ENPDEFNM- NR-------- -KwpP----- --------QD 
+C141_MYCTU       322   ---------- -LDPDEFDV- ER-------- -N--P----- --------NE 
+CPXP_BRAJA       326   ---------- -DDPEIFDI- ER-------- -Q--E----- --------KP 
+1oxa_            326   ---------- -PDPHRFDV- TR-------- -D--T----- --------RG 
+1cpt_            337   ---------- -SNPDEFDI- TR-------- -F--P----- --------NR 
+Y4VG_RHISN       340   ---------- -KCPNTIDL- AR-------- -Q--D----- --------NQ 
+1phd_            324   ---------- -ACPMHVDF- SR-------- -Q--K----- --------VS 
+1lgf_A           313   ---------- -PDVDRLDV- TR-------- -E--P----- --------IP 
+YJIB_BACSU       325   ---------- -DRPHMFDI- RR-------- -H--P----- --------NP 
+1f4t_A           293   ---------- -HDGEKFIP- DR-------- -N--P----- --------NP 
+1pkf_A           328   ---------- -SRPDVFDV- RR-------- -D--T----- --------SA 
+CYPE_BACSU       383   ---------- -EDPS----- SI-------- -P--H----- --------HA 
+C505_FUSOX       382   ---------- -LDDEFarln KE-------- -Y--P----- --------NC 
+1e9x_A           360   ---------- -PDPHDFVP- ARYEQPRQED lln-R----- --------WT 
+CP51_SORBI       399   ---------- -KNPDSYDP- DRFGPGREED Kaaga----- --------FS 
+CP51_SCHPO       394   ---------- -THATDFDP- KRWNDRVNED Enaeqidygy glvtkgaaSP 
+CP51_HUMAN       418   rldfnpdryl qDNPA----- SG-------- -E--K----- --------FA 
+CPD6_HUMAN       410   ---------- -EKPFRFHP- EHFLDaqghf vK--P----- --------EA 
+                                                                 
+                       0000000000 0444444330 3400000000 0300300000 0000000034 
+ 
+NOR2_CYLTO       347   GLGFGFGPHR CIAELLAKAE LEIVFETLFA TLPDLRVSI- ---------- 
+1cl6_A           338   PLGFGFGDHR CIAEHLAKAE LTTVFSTLYQ KFPDLKVAV- ---------- 
+C141_MYCTU       336   HIAFGYGPHA CPASAYSRMC LTTFFTSLTQ RFPQLQLAR- ---------- 
+CPXP_BRAJA       340   HLAFSYGPHA CIGVALARLE LKVVFGSIFQ RLPALRLAV- ---------- 
+1oxa_            340   HLSFGQGIHF CMGRPLAKLE GEVALRALFG RFPALSLGI- ---------- 
+1cpt_            351   HLGFGWGAHM CLGQHLAKLE MKIFFEELLP KLKSVELSG- ---------- 
+Y4VG_RHISN       354   HTAFGYGPHL CHGAHLARRE IVIGLREWLA RIPAFRIKE- ---------- 
+1phd_            338   HTTFGHGSHL CLGQHLARRE IIVTLKEWLT RIPDFSIAP- ---------- 
+1lgf_A           327   HVAFGHGVHH CLGAALARLE LRTVFTELWR RFPALRLAD- ---------- 
+YJIB_BACSU       339   HIAFGHGIHF CLGAPLARLE ANIALTSLIS AFPHMECVS- ---------- 
+1f4t_A           307   HLSFGSGIHL CLGAPLARLE ARIAIEEFSK RFRHIEILD- ---------- 
+1pkf_A           342   SLAYGRGPHV CPGVSLARLE AEIAVGTIFR RFPEMKLKE- ---------- 
+CYPE_BACSU       393   YKPFGNGQRA CIGMQFALQE ATMVLGLVLK HFELINHTG- YELKIKE--A 
+C505_FUSOX       397   WKPFGNGKRA CIGRPFAWQE SLLAMVVLFQ NFNFTMTDPn YALEIKQ--T 
+1e9x_A           384   WIPFGAGRHR CVGAAFAIMQ IKAIFSVLLR EYEFEMAQP- ---------- 
+CP51_SORBI       424   YISFGGGRHG CLGEPFAYLQ IKAIWTHLLR NFEFELVSP- ---------- 
+CP51_SCHPO       432   YLPFGAGRHR CIGEQFAYMH LSTIISKFVH DYTWTLIGK- ---------- 
+CP51_HUMAN       439   YVPFGAGRHR CIGENFAYVQ IKTIWSTMLR LYEFDLIDGy f--------- 
+CPD6_HUMAN       433   FLPFSAGRRA CLGEPLARME LFLFFTSLLQ HFSFSVPTGq prpshhgvfA 
+                                                                 
+                       6888888899 9888888877 7666666655 5543333210 0000000000 
+ 
+NOR2_CYLTO       386   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           377   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       375   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       379   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            379   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            390   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       393   ---------- ---------- ---------- ---------- ---------- 
+1phd_            377   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           366   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       378   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           346   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           381   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       440   LTIKPDDFKI TVKPRktaai nvqrkeqadi kaetkpket- --------KP 
+C505_FUSOX       445   LTIKPDHFYI natlrhgmtp telehvlagn gatsssthni kaaanldaKA 
+1e9x_A           423   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       463   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       471   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       480   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       483   FLVSPSPYEL CAVPR----- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       386   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           377   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       375   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       379   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            379   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            390   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       393   ---------- ---------- ---------- ---------- ---------- 
+1phd_            377   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           366   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       378   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           346   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           381   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       481   KHGTPLLVLF GSNLGTAEGI AGELAAQGRQ MGFTAETa-P LDDYIGKLPE 
+C505_FUSOX       495   GSGKPMAIFY GSNSGTCEAL ANRLASDAPS HGFSATTvgP LDQAKQNLPE 
+1e9x_A           423   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       463   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       471   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       480   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       386   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           377   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       375   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       379   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            379   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            390   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       393   ---------- ---------- ---------- ---------- ---------- 
+1phd_            377   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           366   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       378   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           346   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           381   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       530   EGAVVIVTAS YNGAPPDNAA GFVEWLKELe egqlkgVSYA VFGCGNRSWA 
+C505_FUSOX       545   DRPVVIVTAS YEGQPPSNAA HFIKWMEDLd gndmekVSYA VFACGHHDWV 
+1e9x_A           423   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       463   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       471   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       480   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       386   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           377   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       375   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       379   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            379   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            390   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       393   ---------- ---------- ---------- ---------- ---------- 
+1phd_            377   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           366   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       378   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           346   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           381   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       580   STYQRIPRLI DDMMKAKGAS RLTAIGegd- AADDFESHRE SWENrfwket 
+C505_FUSOX       595   ETFHRIPKLV DSTLEKRGGT RLVPMGsada ATSDMFSDFE AWEDivlwpg 
+1e9x_A           423   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       463   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       471   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       480   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       386   ---------- ---------- --------PL DEIE------ ---------- 
+1cl6_A           377   ---------- ---------- --------PL GKIN------ ---------- 
+C141_MYCTU       375   ---------- ---------- --------PF EDLERRGKGL HS-------- 
+CPXP_BRAJA       379   ---------- ---------- --------AP EQLKLRK-EI IT-------- 
+1oxa_            379   ---------- ---------- --------DA DDVVWRR-SL LL-------- 
+1cpt_            390   ---------- ---------- --------PP RL-------- ---------- 
+Y4VG_RHISN       393   ---------- ---------- --------Gt apith---GG HV-------- 
+1phd_            377   ---------- ---------- --------GA Q--IQHK-SG IV-------- 
+1lgf_A           366   ---------- ---------- --------PA QDTEFRL-TT PA-------- 
+YJIB_BACSU       378   ---------- ---------- --------IT PIENSVIYGL KS-------- 
+1f4t_A           346   ---------- ---------- --------TE KVPNEVLNGY KR-------- 
+1pkf_A           381   ---------- ---------- --------TP VFGYHPAFRN IESLNVILKP 
+CYPE_BACSU       629   mdafdineia qkedrpslsi tflseateTP VAKAYGAFEG IVLENRELQT 
+C505_FUSOX       645   lkekykisde esggqkgllv evstprktsl rqdveealvv aektltksgp 
+1e9x_A           423   ---------- ---------- ---------- --PESYRNDH SK-------- 
+CP51_SORBI       463   ---------- ---------- --------FP ------ENDW NA-------- 
+CP51_SCHPO       471   ---------- ---------- --------VP ------NVDY SS-------- 
+CP51_HUMAN       480   ---------- ---------- ---------P TV-------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000010 0000000000 0000000000 
+ 
+NOR2_CYLTO       392   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           383   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       389   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       392   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            392   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            394   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       404   ---------- ---------- ---------- ---------- ---------- 
+1phd_            388   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           379   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       392   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           360   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           403   S--------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       679   AastrstRHI ELEIPAGKTY KEGDHIGILP KNSRELVQRV LSRFGLqsnh 
+C505_FUSOX       695   ak-----KHI EIQLPSAMTY KAGDYLAILP LNPKSTVARV FRRFSLawds 
+1e9x_A           433   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       471   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       479   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       483   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       392   ---------- -CTPRHKDVG IVRLPV---- ---------- ---------- 
+1cl6_A           383   ---------- -YTPLNRDVG IVDLPV---- ---------- ---------- 
+C141_MYCTU       389   ---------- --------VG IKELLV---- ---------- ---------- 
+CPXP_BRAJA       392   ---------- --------GG FEQFPV---- ---------- ---------- 
+1oxa_            392   ---------- --------RG IDHLPV---- ---------- ---------- 
+1cpt_            394   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       404   ---------- --------FG ISNIIL---- ---------- ---------- 
+1phd_            388   ---------- --------SG VQALPL---- ---------- ---------- 
+1lgf_A           379   ---------- --------YG LTELMV---- ---------- ---------- 
+YJIB_BACSU       392   ---------- --------FR VKM------- ---------- ---------- 
+1f4t_A           360   ---------- --------LV VRLksn---- ---------- ---------- 
+1pkf_A           404   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       729   vikvsgsahm aHLPMDRPIK VVDLLSSYVE LQEPASRLQL RELASYTVCP 
+C505_FUSOX       740   flkiqsegpt tlptnvaisa f-DVFSAYVE LSQPATKRNI LALAEATEDK 
+1e9x_A           433   ---------- --------MV VQLAQPA--- ---------- ---------- 
+CP51_SORBI       471   ---------- --------MV VGIKGEV--- ---------- ---------- 
+CP51_SCHPO       479   ---------- --------MV ALPLGPV--- ---------- ---------- 
+CP51_HUMAN       483   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       407   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           398   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       397   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       400   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            400   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            394   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       412   ---------- ---------- ---------- ---------- ---------- 
+1phd_            396   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           387   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       397   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           368   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           404   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       779   PHQKELEQLV SDdgiykeqv laKRLTMLDF LEDYPACEMP FERFLALLPS 
+C505_FUSOX       789   DTIQELERLA GDayqaeisp --KRVSVLDL LEKFPAVALP ISSYLAMLPP 
+1e9x_A           442   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       480   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       488   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       483   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       407   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           398   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       397   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       400   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            400   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            394   ---------- ---------- ---------- ---------V ATNFVGG--- 
+Y4VG_RHISN       412   ---------- ---------- ---------- ---------- ---------- 
+1phd_            396   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           387   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       397   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           368   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           404   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       829   LKPRYYSISS SPkvhanivs mtvgvvkasa wSGRGEYRGV ASNYLAELNT 
+C505_FUSOX       837   MRVRQYSISS SPfadpsklt ltyslldaps lSGQGRHVGV ATNFLSHLTA 
+1e9x_A           442   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       480   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       488   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       483   ---------- ---------- ---------- ---------N YTTMIHT--- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       407   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           398   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       397   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       400   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            400   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            402   ---------- ---------- P-KNVPIRFT Ka-------- ---------- 
+Y4VG_RHISN       412   ---------- ---------- ---------- ---------- ---------- 
+1phd_            396   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           387   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       397   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           368   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           404   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       879   GDAAACFIRT PQSGFQMPND P-ETPMIMVG PGTGIAPFRG FIQARSVLKK 
+C505_FUSOX       887   GDKLHVSVRA SSEAFHLPSD aeKTPIICVA AGTGLAPLRG FIQERAAMLA 
+1e9x_A           442   ---------- ---------- -----CVRYR RRT------- ---------- 
+CP51_SORBI       480   ---------- ---------- -----MVNYK RRKlvvdn-- ---------- 
+CP51_SCHPO       488   ---------- ---------- -----KIAWK RRN------- ---------- 
+CP51_HUMAN       491   ---------- ---------- P-ENPVIRYK RRSk------ ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       407   ---------- ---------- ---------- ---------- ---------- 
+1cl6_A           398   ---------- ---------- ---------- ---------- ---------- 
+C141_MYCTU       397   ---------- ---------- ---------- ---------- ---------- 
+CPXP_BRAJA       400   ---------- ---------- ---------- ---------- ---------- 
+1oxa_            400   ---------- ---------- ---------- ---------- ---------- 
+1cpt_            413   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       412   ---------- ---------- ---------- ---------- ---------- 
+1phd_            396   ---------- ---------- ---------- ---------- ---------- 
+1lgf_A           387   ---------- ---------- ---------- ---------- ---------- 
+YJIB_BACSU       397   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           368   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           404   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       928   EGSTLGEALL YFGCRRPDHD DLYREELDQA EQDGLVTIRR CYSRVENEPK 
+C505_FUSOX       937   AGRTLAPALL FFGCRNPEID DLYAEEFERW EKMGAVDVRR AYSRATDKSE 
+1e9x_A           450   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       493   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       496   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       504   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       407   ---------- --------KW ---------- ---------- ---------- 
+1cl6_A           398   ---------- --------IF ---------- ---------- ---------- 
+C141_MYCTU       397   ---------- --------TW pt-------- ---------- ---------- 
+CPXP_BRAJA       400   ---------- --------LW ---------- ---------- ---------- 
+1oxa_            400   ---------- --------RL Dg-------- ---------- ---------- 
+1cpt_            413   ---------- ---------- ---------- ---------- ---------- 
+Y4VG_RHISN       412   ---------- --------TW a--------- ---------- ---------- 
+1phd_            396   ---------- --------VW Dpattkav-- ---------- ---------- 
+1lgf_A           387   ---------- --------AW ---------- ---------- ---------- 
+YJIB_BACSU       397   ---------- ---------- ---------- ---------- ---------- 
+1f4t_A           368   ---------- ---------- ---------- ---------- ---------- 
+1pkf_A           404   ---------- ---------- ---------- ---------- ---------- 
+CYPE_BACSU       978   G--YVQHLLK QDTQKLMTLI EKGAHIYVCG dgsqmapd-- --VERTLRLA 
+C505_FUSOX       987   GckYVQDRVY HDRADVFKVW DQGAKVFICG sreigkaved vcVRLAIEKA 
+1e9x_A           450   ---------- ---------- ---------- ---------- ---------- 
+CP51_SORBI       493   ---------- ---------- ---------- ---------- ---------- 
+CP51_SCHPO       496   ---------- ---------- ---------- ---------- ---------- 
+CP51_HUMAN       504   ---------- ---------- ---------- ---------- ---------- 
+CPD6_HUMAN       498   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+NOR2_CYLTO       409   ---------- ---------- ---------- --- 
+1cl6_A           400   ---------- ---------- ---------- --- 
+C141_MYCTU       401   ---------- ---------- ---------- --- 
+CPXP_BRAJA       402   ---------- ---------- ---------- --- 
+1oxa_            404   ---------- ---------- ---------- --- 
+1cpt_            413   ---------- ---------- ---------- --- 
+Y4VG_RHISN       415   ---------- ---------- ---------- --- 
+1phd_            406   ---------- ---------- ---------- --- 
+1lgf_A           389   ---------- ---------- ---------- --- 
+YJIB_BACSU       397   ---------- ---------- ---------- --- 
+1f4t_A           368   ---------- ---------- ---------- --- 
+1pkf_A           404   ---------- ---------- ---------- --- 
+CYPE_BACSU      1022   YEAEKAASQE ESAVWLQKLQ DQRryvkdvw tgm 
+C505_FUSOX      1037   QQNGRDVTEE MARAWFERSR NERfatdvfd --- 
+1e9x_A           450   ---------- ---------- ---------- --- 
+CP51_SORBI       493   ---------- ---------- ---------- --- 
+CP51_SCHPO       496   ---------- ---------- ---------- --- 
+CP51_HUMAN       504   ---------- ---------- ---------- --- 
+CPD6_HUMAN       498   ---------- ---------- ---------- --- 
+                                               
+                       0000000000 0000000000 0000000000 000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((NOR2_CYLTO  :0.0027301cl6_A      :0.002730):0.0115531cpt_       :0.014283):0.001846((1oxa_       :0.0116031lgf_A      :0.011603):0.002555(YJIB_BACSU  :0.0088901f4t_A      :0.008890):0.005269):0.001971):0.000786(C141_MYCTU  :0.013033CPXP_BRAJA  :0.013033):0.003882):0.0009021pkf_A      :0.017817):0.006634(Y4VG_RHISN  :0.0094241phd_       :0.009424):0.015027):0.050219(((CYPE_BACSU  :0.002856C505_FUSOX  :0.002856):0.038737CPD6_HUMAN  :0.041593):0.002407(1e9x_A      :0.009299(CP51_SORBI  :0.007841(CP51_SCHPO  :0.005747CP51_HUMAN  :0.005747):0.002094):0.001458):0.034701):0.030670);
+ 
+ 

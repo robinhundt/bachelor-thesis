@@ -1,0 +1,451 @@
+SYS_AQUAE          1   MIDINL---- -IREKP---- ---------- ---------- ---------- 
+SYSM_BOVIN         1   maasivr--- --RLGP---- ---------- ---------- ---------- 
+1ser_A             1   MVDLKR---- -LRQEP---- ---------- ---------- ---------- 
+SYT_THETN          1   mys------- ------LGNQ VKAMVITLRD GTKREFEKGI TVYEIAKSis 
+SYT_SULTO          1   M--------- ---------- ---------- ---------- ---------- 
+SYT_SULSO          1   M--------- ---------- ---------- ---------- ---------- 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO         1   mklkkfqlht pfahs----- ---------- ---------- ---------- 
+SYTM_YEAST         1   mkiql----- ---------- ---------- ---------- ---------- 
+1h4q_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCLE          1   mgcnk----- ---------- ---------- ---------- ---------- 
+SYP_BORBU          1   msdfi----- ---------- ---------- ---------- ---------- 
+SYP_CLOST          1   ---------- ---------- ---------- ---------- ---------- 
+YHI0_YEAST         1   mpvseafakl cVNEKPpaes avavkslvfk pktpksatpv pivvvalqst 
+SYP_MYCPN          1   M--------- ---------- ---------- ---------- ---------- 
+SYP_MYCGE          1   M--------- ---------- ---------- ---------- ---------- 
+1nj8_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_METTH          1   mq--KP---- -IKKDP---- ---------- ---------- ---------- 
+SYP_ARCFU          1   mlinilnafy aekralIGIK LKIRISKIYQ TLDNDFSFKR TVFRFSKTkv 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE         12   ---DyvkerL ---------- ---------- ---------- ---------- 
+SYSM_BOVIN        12   ---LVAG--- ---------- ---------- ---------- ---------- 
+1ser_A            12   ---EVFH--- ---------- ---------- ---------- ---------- 
+SYT_THETN         38   dklareavgg kfngkiveln tkieedgele iltfedEEGK KI-YWHTSSH 
+SYT_SULTO          2   ---------- ---------- ---------- ------EEYK GV-WLKAGII 
+SYT_SULSO          2   ---------- ---------- ---------- ------ESYK PV-WLKGAVI 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        16   ---------- ---------- ---------- ---------- ------CNRV 
+SYTM_YEAST         6   ---------- ---------- ---------- ---------- -V-RWHCSRN 
+1h4q_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCLE          6   ---------- ---------- ---------- ---------- ---------- 
+SYP_BORBU          6   ---------- ---------- ---------- ---------- ---------- 
+SYP_CLOST          1   ---------M ---------- ---------- ---------- ---------- 
+YHI0_YEAST        51   ttpsaliana tsskdprlar ddlvkqafqs esarafILGD LANatsnfhl 
+SYP_MYCPN          2   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCGE          2   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_METTH         10   ---NRYHg-- ---------- ---------- ---------- ---------- 
+SYP_ARCFU         51   afkDIFHsfg hhrirllala lc-------- ------ILGS LANFWHSSKN 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE         19   ---------- -ATRDKELVS LVDKVL-ELD KRRREIIKRL EALRSERNKL 
+SYSM_BOVIN        16   ---------- RGLRLRGGCV CNQSFKRSFA TERQDRNLLY EHAREGYSAL 
+1ser_A            16   ---------- RAIREKGVAL DLEALL-ALD R--------- ---------- 
+SYT_THETN         87   ILAQAVKRLF KDVKLAIGPA IDNGFYYDFD TERPFTTEDF EAIEEEMNKI 
+SYT_SULTO         15   YALNLASNGF KPVEVGLG-- -ERDFYVDVE SDT------- ---------- 
+SYT_SULSO         15   LAINLIDKGY KPVAVGLG-- -ERDFYIDVK SDT------- ---------- 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        20   EIYTARF--- ---------- ---------- ---------- ---------- 
+SYTM_YEAST        14   ALWNRAF--- ---------- ---------- ---------- ---------- 
+1h4q_A             1   ---------- ---------K GLT------- ---------- ---------- 
+SYP_MYCLE          6   ---------- ---------R GVT------- ---------- ---------- 
+SYP_BORBU          6   ---------- ---------- --A------- ---------- ---------- 
+SYP_CLOST          2   ---------- -AKKDQEFVK DIT------- ---------- ---------- 
+YHI0_YEAST       101   lidhel---- ---------- ---------- ---------- ---------- 
+SYP_MYCPN          2   ---------- ---------- --A------- ---------- ---------- 
+SYP_MYCGE          2   ---------- ---------- --T------- ---------- ---------- 
+1nj8_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_METTH         15   ---------- ---------- ---------- ---------- ---------- 
+SYP_ARCFU         87   nsssnsktnk ycs------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE         57   ---------- ---------- -------SKE IGKLKREGKD TTEIQNRVKE 
+SYSM_BOVIN        56   plldmeslca ypedaarald lrkgelrSKD LPGIISTWQE LRQLREQIRS 
+1ser_A            36   ---------- ---------- ---------- ---------- ---------- 
+SYT_THETN        137   ---------- ---------- -------IKE DYKLERfVL- ---------S 
+SYT_SULTO         45   ---------- ---------- ---------- -------TL- ---------T 
+SYT_SULSO         45   ---------- ---------- ---------- -------SI- ---------T 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        27   ---------- ---------- ---------- ---------- ---------- 
+SYTM_YEAST        21   ---------- ---------- ---------- ---------- ---------- 
+1h4q_A             5   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCLE         10   ---------- ---------- ---------- ---------- ---------- 
+SYP_BORBU          7   ---------- ---------- ---------- ---------- ---------- 
+SYP_CLOST         14   ---------- ---------- ---------- ---------- ---------- 
+YHI0_YEAST       107   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCPN          3   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCGE          3   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_METTH         15   ---------- ---------- ---------- ---------- ---------- 
+SYP_ARCFU        100   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE         80   LKEEIDRLEE ELR------- ---------- ---------- ---------- 
+SYSM_BOVIN       106   LEEEKEAVTE AVRALVVNQD NSQVQQdpqy qslrargrei rkqltllypk 
+1ser_A            36   ---------E VQR------- ---------- ---------- ---------- 
+SYT_THETN        150   KEEAIKFMKE KDE-PYKVEL IEEIPEGEEI SFYKQGEFVD LCAGPhlpst 
+SYT_SULTO         48   LDEAKKFATY NQY-SYQLKD GYIEFNGNKI KVLGEPSS-- --LEPKYFEI 
+SYT_SULSO         48   LDEVKKAINE NVLANVSIEN NQIVYKGNKV SIIEDKVSIS TNLNPKYFEI 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        27   ---------- ---------- ---------- ---------- ---------- 
+SYTM_YEAST        21   ---------- ---------- ---------- ---------- ---------- 
+1h4q_A             5   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCLE         10   ---------- ---------- ---------- ---------- ---------- 
+SYP_BORBU          7   ---------- ---------- ---------- ---------- ---------- 
+SYP_CLOST         14   ---------- ---------- ---------- ---------- ---------- 
+YHI0_YEAST       107   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCPN          3   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCGE          3   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_METTH         15   ---------- ---------- ---------- ---------- ---------- 
+SYP_ARCFU        100   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE         93   --KVEEELKN TLLWIPNLPH PSVPVGEDEK DNVeVRRWGE PRKFDF---- 
+SYSM_BOVIN       156   eaQLEEQFYL RALRLPNQTH PDVPVGDESQ ARV-LHVVGD KPAFSF---- 
+1ser_A            40   --EKEARLEA LLLQVPLPPW PGAPVGGEEA NRE-IKRVGG PPEFSF---- 
+SYT_THETN        199   ---------G MVKAIKLLSV AGAYWKGDEK NKM-LQRIYG ISFPKKSMLD 
+SYT_SULTO         93   LNISVH---- ---------H PSPNVQY--- -----VRIRG VGFEKKEELD 
+SYT_SULSO         98   LNISTH---- ---------H PNPNEQY--- -----VRIRG VAFETEEQLK 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        27   ---------- ---------- ---------- ---------G PTPFSTKANN 
+SYTM_YEAST        21   ---------- ---------- ---------- ---------Y STRKATKNAS 
+1h4q_A             5   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCLE         10   ---------- ---------- ---------- ---------- ---------- 
+SYP_BORBU          7   ---------- ---------- ---------- ---------- ---------- 
+SYP_CLOST         14   ---------- ---------- ---------- ---------- ---------- 
+YHI0_YEAST       107   ---------- ---------- ------GTVD GDT-ILQLND STYMKKSDMM 
+SYP_MYCPN          3   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCGE          3   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_METTH         15   ---------- ---------- ---------- ---------- ---------- 
+SYP_ARCFU        100   ---------- -----PLP-- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE        137   ---------E P--------- ---------- ---------- ---------- 
+SYSM_BOVIN       201   ---------Q P--------- ---------- ---------- ---------- 
+1ser_A            83   ---------P P--------- ---------- ---------- ---------- 
+SYT_THETN        239   EYLHMMEEAK K--------- ---------- ---------- ---------- 
+SYT_SULTO        122   QYLKWLEEVS E--------- ---------- ---------- ---------- 
+SYT_SULSO        127   DYLSWLEKAE E--------- ---------- ---------- ---------- 
+1evk_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO        38   LK---QPEST L--------- ---------- ---------- ---------- 
+SYTM_YEAST        32   SA---TPATM T--------- ---------- ---------- ---------- 
+1h4q_A             5   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCLE         10   ---------- ---------- ---------- ---------- ---------- 
+SYP_BORBU          7   ---------- ---------- ---------- ---------- ---------- 
+SYP_CLOST         14   ---------- ---------- ---------- ---------- ---------- 
+YHI0_YEAST       130   KFLNNFEDSQ Kvvdfsqevs ketategkkq qkkqqpskag taaaaaaaal 
+SYP_MYCPN          3   ---------- ---------- ---------- ---------- ---------- 
+SYP_MYCGE          3   ---------- ---------- ---------- ---------- ---------- 
+1nj8_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYP_METTH         15   ---------- ---------- ---------- ---------- ---------- 
+SYP_ARCFU        103   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE        139   ---------- ---------- KPHWEIGERL GILDFKRGAK LSGSRFTVIA 
+SYSM_BOVIN       203   ---------- ---------- RGHLEIAEKL DIIRQKRLSH VSGHRSYYLR 
+1ser_A            85   ---------- ---------- LDHVALMEKN Gwwep-RISQ VSGSRSYALK 
+SYT_THETN        250   ---------- ---------- RDHRKLGKEL DLFSIHPEG- PG---FPFFH 
+SYT_SULTO        133   ---------- ---------- YDHRIIGERL DLFSFPDETA PG---LALFH 
+SYT_SULSO        138   ---------- ---------- TDHRLIGEKL DLFSFHEEAG SG---LVLFH 
+1evk_A             1   ---------- ---------- RDHRKIGKQL DLYHMQEEA- PG---MVFWH 
+SYTM_SCHPO        46   ---------- ---------- NDHRTIAARQ KLYTTSILT- PG---SIFFL 
+SYTM_YEAST        40   ---------- ---------- S---MVSQRQ DLFMTDPLS- PG---SMFFL 
+1h4q_A             5   ---------- PQSQDFSEWY L---EVIQKA ELADY-GPV- RG---TIVVR 
+SYP_MYCLE         10   ---------- RQEDDFSAWY N---EVVAKA GLIDR-GPA- KG---TMVIR 
+SYP_BORBU          7   ---------- SKEDDYSKWY L---DIVQKA KLADY-SPV- KG---CMVIM 
+SYP_CLOST         14   ---------- NMDEDFPQWY T---DVITKT DLVDY-SPV- KG---FMVIK 
+YHI0_YEAST       180   edaklIGITV DKALDFPGWY Q---QILTKG EMLDY-YDV- SG---CYILR 
+SYP_MYCPN          3   ---------- NKDQNLTLWY D---QLLSKA QLVSY-GDV- KG---TNCFL 
+SYP_MYCGE          3   ---------- KKTQDLTSWY D---QLLVKA KLICH-GEV- KG---TVCFL 
+1nj8_A             1   ---------- --MLEFSEWY S---DILEKA EIYDVRYPI- KG---CGVYL 
+SYP_METTH         15   ---------- EKMTEFSEWF H---NILEEA EIIDQRYPV- KG---MHVWM 
+SYP_ARCFU        103   -----ILMTL PSKENFSEWY H---EVIQTA EIMDVRYPV- KG---LYVWF 
+                                                                 
+                       0000000000 0001122222 3000333333 3333212330 3300033333 
+ 
+SYS_AQUAE        169   GWGARLERAL INFMLDLHT- KKGYK----- ---------- ---EICPPHL 
+SYSM_BOVIN       233   GAGALLQHGL VNFTLNKLI- HRGFT----- ---------- ---PMTVPDL 
+1ser_A           114   GDLALYELAL LRFAMDFMA- RRGFL----- ---------- ---PMTLPSY 
+SYT_THETN        276   PKGMIIRNIL EDFWRKEHI- KRGYQ----- ---------- ---EIRTPII 
+SYT_SULTO        160   YKGQIIRKEL MKFMEEINE- SMGYQ----- ---------- ---EVFTAEI 
+SYT_SULSO        165   PKGQTIRNEL IAFMREIND- SMGYQ----- ---------- ---EVYTSHV 
+1evk_A            27   NDGWTIFREL EVFVRSKLK- EYQYQ----- ---------- ---EVKGPFM 
+SYTM_SCHPO        72   PHGTRIYNRL VDFLRAQYQ- IHGFE----- ---------- ---EIITPLI 
+SYTM_YEAST        63   PNGAKIFNKL IEFMKLQQKf KFGFN----- ---------- ---EVVTPLI 
+1h4q_A            37   PYGYAIWENI QQVLDRMFK- ETGHQ----- ---------- ---NAYFPLF 
+SYP_MYCLE         42   PYGYRIWELL QDELDSKIK- ELGHE----- ---------- ---NAYFPML 
+SYP_BORBU         39   PYGYSIWSKI QSILDKKFK- ETGHE----- ---------- ---NAYFPML 
+SYP_CLOST         46   PYGYAIWENI QAFLDRRFK- ETGHQ----- ---------- ---NCYFPLL 
+YHI0_YEAST       222   PPSYAIWENI QKWFDDKIK- AIGVQ----- ---------- ---NAYFPMF 
+SYP_MYCPN         35   PNSWNLWLQI QRLYNNatal iklkdkvilk qfipieplpY TVEQVQLPTL 
+SYP_MYCGE         35   NNSWGLWMEI QQLYNDaian knqlsaialt kfqpttsfcY QVFQVQLPTL 
+1nj8_A            32   PYGFKIRRYT FEIIRNLLD- ESGHD----- ---------- ---EALFPML 
+SYP_METTH         48   PHGFMIRKNT LKIL-RRIL- DRDHE----- ---------- ---EVLFPLL 
+SYP_ARCFU        141   PFGFKIRQLV YSKL-REIM- DREHD----- ---------- ---EVYFPAL 
+                                                                 
+                       3333333323 3223232220 3334400000 0000000000 0004444444 
+ 
+SYS_AQUAE        200   VKPEILIGTG QLPKFEED-- ---L---YKC E--RDNLYLI PTAEVPLTNL 
+SYSM_BOVIN       264   LRGVVFEGCG MTPNAKPSQI ynidp----S R--FEDLNLA GTAEVGLAGY 
+1ser_A           145   AREKAFLGTG HFPAYRDQ-- ---V---WAI A--ETDLYLT GTAEVVLNAL 
+SYT_THETN        307   LNEELWKRSG HWDHYKENMY ---F---TEI D--GQTYAIK PMNCPGAMLV 
+SYT_SULTO        191   YRSILWKTSG HYDYYKDKMV ---L---FKM E--DEELGLK PMNCPAHILI 
+SYT_SULSO        196   FKTDIWKISG HYTLYRDKLI ---V---FNM E--GDEYGVK PMNCPAHILI 
+1evk_A            58   MDRVLWEKTG HWDNYKDAMF ---T---TSS E--NREYCIK PMNCPGHVQI 
+SYTM_SCHPO       103   FKKDLWEKSG HWQNYEKEIF RVEesrnved ehsNATYGLK PMNCPGHCIV 
+SYTM_YEAST        95   YKKTLWEKSG HWENYADDMF KVET---TDE E--KEEYGLK PMNCPGHCLI 
+1h4q_A            68   IPMSFLr--- -----FSPEL AVVTHAGGEE L--EEPLAVR PTSETVIGYM 
+SYP_MYCLE         73   IPENYFNREA EHVEGFHPEL AVVTHAGGKE L--SEPLVIR PTSETVIGDM 
+SYP_BORBU         70   IPYSFLEREK DHIDGFSPEF AIIKDAGGES L--AEPLVLR PTSETIIWNM 
+SYP_CLOST         77   IPESLLNKEK EHVEGFAPEV AWVTHGGSEK L--AERLCVR PTSETIICSM 
+YHI0_YEAST       253   VSSRVLEKEK DHVEGFAPEV AWVTRAGSSE L--EEPIAIR PTSETVMYPY 
+SYP_MYCPN         85   SFYSEYQKEK RHVEGFNPEL FLIEQIGTKK L--HDPLVLR PTSEIAFCNL 
+SYP_MYCGE         85   SFYSEYQKEK THIKGFNPEL FLINQVGQKQ L--NDPLVLR PTSEIAFCNL 
+1nj8_A            63   IPEDLLAKEA EHIKGFEDEV YWVTHGGKTQ L--DVKLALR PTSETPIYYM 
+SYP_METTH         78   VPEDELAKEA IHVKGFEDEV YWVTHGGLSK L--QRKLALR PTSETVMYPM 
+SYP_ARCFU        171   IPETELGKEG EHIKGFEDEV YWITHGGLTP L--DVKLALR PTSETAMYPM 
+                                                                 
+                       4444455555 5555566665 4445444444 4004557777 7777666666 
+ 
+SYS_AQUAE        240   YREEILKEEN LPIYLTAYTP CYRRE-AGAY GKDIRGIIRQ H-QFDKVELV 
+SYSM_BOVIN       308   FMDHSVAFRD LPIRMVCSST CYRAE-TDT- GKEPWGLYRV H-HFTKVEMF 
+1ser_A           185   HSGEILPYEA LPLRYAGYAP AFRSE-AGSF GKDVRGLMRV H-QFHKVEQY 
+SYT_THETN        349   YKSTLRSYRD LPLRLCELGL VHRHE-LSGV LHGLMRVRSF T-QDDAH-L- 
+SYT_SULTO        233   YKSKTRSYKD LPIRFSEFGL VFRWE-KRGE LYGLLRVRGF V-QDDGH-I- 
+SYT_SULSO        238   YKSKPRTYRD LPIRFSEFGH VYRWE-KKGE LYGLLRVRGF V-QDDGH-I- 
+1evk_A           100   FNQGLKSYRD LPLRMAEFGS CHRNE-PSGS LHGLMRVRGF T-QDDAH-I- 
+SYTM_SCHPO       153   YASTERSYKE LPLRFADFSP LHRNE-ASGA LSGLTRLRCF H-QDDGH-I- 
+SYTM_YEAST       140   FGKKDRSYNE LPLRFSDFSP LHRNE-ASGA LSGLTRLRKF H-QDDGH-I- 
+1h4q_A           108   WSKWIRSWRD LPQLLNQWGN VVRWE-MRTR P--FLRTSEF L-WQEGHTA- 
+SYP_MYCLE        121   MAKWITSHRD LPLRLNQWSN VVRWE-LRPR M--LLRTIEF L-WQEGHSA- 
+SYP_BORBU        118   YSKWIKSYRD LPLKINQWAN VVRWE-KRTR P--FLRTTEF L-WQEGHTA- 
+SYP_CLOST        125   YSKWLTSYRE LPYLYNQWCS VVRWE-KSTR P--FLRTSEF L-WQEGHTL- 
+YHI0_YEAST       301   YAKWVQSYRD LPLKLNQWNS VVRWEFKHPQ P--FLRTREF L-WQEGHTA- 
+SYP_MYCPN        133   WKKQSFSYQN LPVIYNQWTC VFRAE-KNTR P--FLRNSEF Y-WQETHGL- 
+SYP_MYCGE        133   WKKQELSYHD LPLIYNQWTQ VFRAE-KNTR P--FLRNSEF Y-WQETHGL- 
+1nj8_A           111   MKLWVKVHTD LPIKIYQIVN TFRYETKHTR P--LIRLREI MTFKEAHTA- 
+SYP_METTH        126   FALWVRSHTD LPMRFYQVVN TFRYETKHTR P--LIRVREI TTFKEAHTI- 
+SYP_ARCFU        219   FRLWVRNHAD LPLKVYQIVN TFRYETKHTR P--LIRLREI TSFKEAHTV- 
+                                                                 
+                       6666668889 9988888877 8888806656 6226666665 5066666340 
+ 
+SYS_AQUAE        288   KIVHP--DTS YDELEKLVKD AEEVL-QLLG LPY------- -RVVELCTGD 
+SYSM_BOVIN       355   GVTGPGLEQS SELLEEFLSL QMEIL-TELG LHF------- -RVLDMPTQE 
+1ser_A           233   VLTEASLEAS DRAFQELLEN AEEIL-RLLE LPY------- -RLVEVATGD 
+SYT_THETN        395   -FMTP--EQV EDEILGVINL VDYFYKIF-- --GFE----- -YHVELSTRP 
+SYT_SULTO        279   -FLTE--DQI KDEVKMLVKK TIDVL-SIFG FKGDD----- -VRINLSTRP 
+SYT_SULSO        284   -FLRE--DQL REEIKMLISK TVEVW-HKFG FKDDD----- -IKPYLSTRP 
+1evk_A           146   -FCTE--EQI RDEVNGCIRL VYDMY-STFG FEK------- -IVVKLSTRP 
+SYTM_SCHPO       199   -FCSP--ESI KDEIKNTLTF VKQVY-SLLG MNK------- -LKLYLSTRP 
+SYTM_YEAST       186   -FCTP--SQV KSEIFNSLKL IDIVYNKIFp fvkggsgaes nYFINFSTRP 
+1h4q_A           153   -HATR--EEA EEEVRRMLSI YARLAREYAA IPV------- -IEGLKTEKE 
+SYP_MYCLE        166   -HIEK--SDA LRETLFALDI YTTLARDMAA IPI------- -VSGEKTAGE 
+SYP_BORBU        163   -HATE--EEA LEETLLILDV YKRFIEDYLA IPV------- -FCGKKSEKE 
+SYP_CLOST        170   -HETA--EEA QAETLQMLAI YKEMAEDLLA IPV------- -VDGRKSDRE 
+YHI0_YEAST       347   -HLTA--KDA EEEVLQILDF YAGVYEELLA VPV------- -VKGRKTEKE 
+SYP_MYCPN        178   -FSDG--VNS ESAAIAFWKL YQDIIVNQLC IPA------- -FVGLKSPNE 
+SYP_MYCGE        178   -FVDQ--SQS EQAAISFWNL YQDLIINKLC IPA------- -FVGLKSESE 
+1nj8_A           158   -HSTK--EEA ENQVKEAISI YKKFF-DTLG IPY------- -LISKRPEWD 
+SYP_METTH        173   -HATA--SEA EEQVERAVEI YKEFF-NSLG IPY------- -LITRRPPWD 
+SYP_ARCFU        266   -HKDF--EEA AEHVKKAIGF YKEFY-DFLA IPY------- -MVIRRPEWD 
+                                                                 
+                       0433300333 3333322323 3222112222 2220000000 0222233334 
+ 
+SYS_AQUAE        327   LGF------- ---------- ---------- ----SAAKTY DIEVWF-PSQ 
+SYSM_BOVIN       396   LGL------- ---------- ---------- ----PAYRKF DIEAWM-PGR 
+1ser_A           274   MGP------- ---------- ---------- ----GKWRQV DIEVYL-PSE 
+SYT_THETN        432   ENSMGTDEEW ELATNALISA LKRANLPYKV NEGEGAFYGP KIDFHL-K-D 
+SYT_SULTO        319   DESIGSDELW EKATNALVSA LNELGIKYIV KEKEGAFYGP KIDFDI-R-D 
+SYT_SULSO        324   DESIGSDELW EKATNALISA LQESGLKFGI KEKEGAFYGP KIDFEI-R-D 
+1evk_A           184   EKRIGSDEMW DRAEADLAVA LEENNIPFEy qlGEGAFYGP KIEFTL-Y-D 
+SYTM_SCHPO       237   EEHIGSLDTW NEAENGLREA LQESGETWII NEGDGAFYGP KIDVMV-A-D 
+SYTM_YEAST       233   DHFIGDLKVW NHAEQVLKEI LEESGKPWKL NPGDGAFYGP KLDIMV-T-D 
+1h4q_A           192   KFA------- ---------- ---------- ----GAVYTT TIEALM-K-D 
+SYP_MYCLE        205   RFA------- ---------- ---------- ----GALNTY TIEAMM-R-D 
+SYP_BORBU        202   KFA------- ---------- ---------- ----GAVSTY SIEALM-Q-D 
+SYP_CLOST        209   RFA------- ---------- ---------- ----GAAATY TIEALM-H-D 
+YHI0_YEAST       386   KFA------- ---------- ---------- ----GGDFTT TCEGYIpQ-T 
+SYP_MYCPN        217   RFA------- ---------- ---------- ----GAQNTW TVESIM-P-D 
+SYP_MYCGE        217   KFA------- ---------- ---------- ----GAKNTW TIEAIM-P-D 
+1nj8_A           196   KFP------- ---------- ---------- ----GAEYTM AFDTIF-P-D 
+SYP_METTH        211   KFP------- ---------- ---------- ----GSEYTV AFDTLM-P-D 
+SYP_ARCFU        304   KFP------- ---------- ---------- ----GAAYTI AFDTIM-P-D 
+                                                                 
+                       4541111111 1111111111 1111100000 0012665566 6666660606 
+ 
+SYS_AQUAE        345   --NKYREISS CSNCEDFQAR RMNTRFKDSK tGKN------ -RFV---HTL 
+SYSM_BOVIN       414   --GRFGEVTS ASNCTDFQSR RLHIMFQTEA -GEL------ -QFA---HTV 
+1ser_A           292   --GRYRETHS CSALLDWQAR RANLRYRDPE -GRV------ -RYA---YTL 
+SYT_THETN        480   SIGRTWQCGT I-QLDFQMPE RFELEYIGPD -GEK------ -HRPIMLHRV 
+SYT_SULTO        367   SLGRWWQLST I-QVDFNLPE RFKLEYIDKD -GSR------ -KRPVMIHRA 
+SYT_SULSO        372   SLGRWWQLST I-QVDFNLPE RFKLEYIDKD -GIK------ -KRPVMVHRA 
+1evk_A           232   CLDRAWQCGT V-QLDFSLPS RLSASYVGED -NER------ -KVPVMIHRA 
+SYTM_SCHPO       285   ARGKWHQTAT I-QLDFNLPQ RFKLYYRTDA -GDNagsekl iKQPVMIHRA 
+SYTM_YEAST       281   HLRKTHQVAT I-QLDFQLPE RFDLKFKDQD -NSY------ -KRPIMIHRA 
+1h4q_A           209   --GKALQAGT SHYLGENFAR AFDIKFQDRD -LQV------ -KYV---HTT 
+SYP_MYCLE        222   --GKALQSAT THYLGDNFAR AFNIRYTTAE -EQQ------ -AFV---HTT 
+SYP_BORBU        219   --KKALQAAT SHYLGLNFAK AFDVKFQDKD -GKM------ -RHV---FAS 
+SYP_CLOST        226   --GKALQSGT SHNLAQHFTK AFDITFQGRT -GEL------ -EYP---HHT 
+YHI0_YEAST       404   --GRGIQGAT SHHLGQNFSK MFNLSVENPL -GSD------ -HPKIFAYQN 
+SYP_MYCPN        234   --GQALQCAT SHDLGQTFTK PFGLTFQNQA -NQQ------ -AIP---YSF 
+SYP_MYCGE        234   --GQSLQCAT SHDLGDTFTK SFTISYQSKT -NQK------ -MTP---SSF 
+1nj8_A           213   --GRTMQIAT VHNLGQNFSK TFEIIFETPT -GDK------ -DYA---YQT 
+SYP_METTH        228   --GKTLQIGT VHNLGQTFAR TFEIKFETPE -GDH------ -EYV---HQT 
+SYP_ARCFU        321   --GRTLQIGT VHHLADNFAR TFDIKYEAPN -GEH------ -YYA---HQT 
+                                                                 
+                       2277777777 7477666777 7666553333 0322000000 0334222556 
+ 
+SYS_AQUAE        383   NGSGLAVGRT LAAILENYQQ EDGSVVVPEV LRDYVG---- ---------- 
+SYSM_BOVIN       451   NATGCAVPRL LIALLESYQQ KDGSVLVPPA LQPYLG---- ---------- 
+1ser_A           329   NNTALATPRI LAMLLENHQL QDGRVRVPQA LIPYMG---- ---------- 
+SYT_THETN        521   IYGS------ IERFIGILTE HFAGAFPTWL APVQVRVLPI -----SEKHH 
+SYT_SULTO        408   IYGS------ IERFMAILLE HFRGKLPTWL SPVQVRILPI -----SKDVE 
+SYT_SULSO        413   IYGS------ IDRFVAILLE HFKGKLPTWL SSVQVRVLPI -----TDEVN 
+1evk_A           273   ILGS------ MERFIGILTE EFAGFFPTWL APVQVVIMNI -----TDSQS 
+SYTM_SCHPO       333   IFGS------ LERFMGILIE HLNGHWPFWL SPRHAVILPV -----NQTDR 
+SYTM_YEAST       322   TFGS------ IERFMALLID SNEGRWPFWL NPYQAVIIPV -----NTKNV 
+1h4q_A           246   SWG--LSWRF IGAIIMTHGD DRGLVLPPRL APIQVVIVPI -----YKDES 
+SYP_MYCLE        259   SFG--LSTRM IGAIVMVHGD DKGLVLPPQV APYQVVIVPI -----TTGNK 
+SYP_BORBU        256   SWG--VSTRL IGALIMVHSD EKGLVLPPRI APIEIIVIPI -----FKKED 
+SYP_CLOST        263   SWG--ASTRL IGGIIMVHGD NRGLVLPPRV APTQVVIIPI -----A--QN 
+YHI0_YEAST       444   SWG--LSTRV IGVMVMIHSD NKGLVIPPRV SQFQSVVIPV gitkkTSEEQ 
+SYP_MYCPN        271   SCG--ISTRI LGALLLTHSD DFGLVLPWKV APIQVKLY-L -----FDKKG 
+SYP_MYCGE        271   SCG--MSTRI LGAIFLTHSD DYGLVLPWYL ASKQVKLYLF -----DKNNN 
+1nj8_A           250   CYG--ISDRV IASIIAIHGD EKGLILPPIV APIQVVIVPL -----IFKGK 
+SYP_METTH        265   CYG--LSDRV IASVIAIHGD ESGLCLPPDV AAHQVVIVPI -----IFKKA 
+SYP_ARCFU        358   CYG--ISERC IAALISVHGD DLGLVLPFEV APVQIVIIPI -----LYKGK 
+                                                                 
+                       6772055555 7777777777 7777777777 7666644443 0000011111 
+ 
+SYS_AQUAE        419   -TDVIRPe-- ---------- ---------- ---------- ---------- 
+SYSM_BOVIN       487   -Tdrittpth ---------- ---------- ---------- ---------- 
+1ser_A           365   -KEVLEPCg- ---------- ---------- ---------- ---------- 
+SYT_THETN        560   EYARKVYER- ---------- ---------L QEHDIRVELD DRNEKIGYKI 
+SYT_SULTO        447   DYALNLLSK- ---------- ---------L KENKIRVELD MSDETLSKRI 
+SYT_SULSO        452   EYAEKVLND- ---------- ---------M RKRRIRAEID YAGETLSKRI 
+1evk_A           312   EYVNELTQK- ---------- ---------L SNAGIRVKAD LRNEKIGFKI 
+SYTM_SCHPO       372   ---ILTYAKQ VQKE--LSNQ EVNeseflPL NKNTYYVDIN AEAQSIGKRL 
+SYTM_YEAST       361   QQLDMCTALQ KKLR--NELE addmepv-PL NDWHFNVDLD IRNEPVGYRI 
+1h4q_A           289   RERVLEAAQG LRQA--LLAQ GLRVHLD--- ---------D RDQHTPGYKF 
+SYP_MYCLE        302   ASEVGHAAAD LARR--LQAA GVRTHVD--- ---------A RPQLTPGWKY 
+SYP_BORBU        299   EINKKIldys dcvvdaLKKA EFRVEID--- ---------K DVRSSPGFRF 
+SYP_CLOST        304   KEGVLDKAYE IKKE--LEAK GIRVTLD--- ---------D DTNYSPGWKF 
+YHI0_YEAST       492   RKHIHETARS VESR--LKKV GIRAFGD--- ---------Y NDNYTPGWKF 
+SYP_MYCPN        313   DTKTVELAQK VQTL--LEQL AIRFQFI--- ---------K VE-NQLGKQL 
+SYP_MYCGE        314   PKTRALAFLV KDFL--EKLK -IRFSFI--- ---------E IN-NQLGKQL 
+1nj8_A           293   EDIVMEKAKE IYEK--LKGK -FRVHID--- ---------D RD-IRPGRKF 
+SYP_METTH        308   AEEVMEACRE LRSR--LEAA GFRVHLD--- ---------D RD-IRAGRKY 
+SYP_ARCFU        401   EEAVMEACRK LAEK--LKA- -FRVVLD--- ---------E GE-DRPGAKY 
+                                                                 
+                       0111100000 0000000000 0011111000 0000000001 1112234444 
+ 
+SYS_AQUAE        426   ---------- ---------- ---------- ---------- ---------- 
+SYSM_BOVIN       496   -------VPL QYIGPNQp-- ---------- ---------- ---------- 
+1ser_A           373   ---------- ---------- ---------- ---------- ---------- 
+SYT_THETN        590   REAQLQKIPY MLIVGDREVE EGNVSLRSRK DGDLGP--IS LDNFIE-KIL 
+SYT_SULTO        477   KKAYDEGVPY MIIVGKKERE EGKVTVRGRN NVEIRG--VK FDDFLK-ALL 
+SYT_SULSO        482   KNAYDQGVPY ILIVGKKEAS EGTVTVRARG NIEVRN--VK FEKFLE-LLI 
+1evk_A           342   REHTLRRVPY MLVCGDKEVE SGKVAVRTRR GKDLGS--MD VNEVIE-KLQ 
+SYTM_SCHPO       417   RESRLLNYNY EIVIGEDEVD KEILSVSSRH NHNSRD---- --TRKM-TIQ 
+SYTM_YEAST       408   KSAILKNYSY LIIVGDEEVQ LQKYNIRERD NRKSFE---- --KLTM-Sqi 
+1h4q_A           325   HEWELKGVPF RVELGPKDLE GGQAVLASRL GGKEt---LP LAALPE-ALP 
+SYP_MYCLE        338   NEWELRGVPI RLELGPRDLE AGTTVMVRRI GE-KAKQPIA IAAAPT-ELP 
+SYP_BORBU        337   SSAEFKGIPI RLEVGINDVL LNSVTISRRD KDRKFKYQIS LDSLIS-KVK 
+SYP_CLOST        340   NQYEMKGVPL RLEIGPRDIE NNVAMIARRD TLSKDS--YS LDNIGD-TVK 
+YHI0_YEAST       528   SQYELKGIPI RIELGPKDIE KNQVVVVRRN DSKKYV--VS FDELEA-RIP 
+SYP_MYCPN        348   GQGEVNGIPF QLIVDNPQTV NIFNRLTRVK TAYSFE---- --QLAS-RFV 
+SYP_MYCGE        348   LKGEIEGIPL QMIVDNEKTI NIFNRLTRLK TSlTFA---- --NLQT-EFV 
+1nj8_A           327   NDWEIKGVPL RIEVGPKDIE NKKITLFRRD TMEKFQ--VD ETQLME-VVE 
+SYP_METTH        343   YEWEMRGVPL RVEIGPRDLE KGAAVISRRD TGEKVT--AD LQGIEE-TLR 
+SYP_ARCFU        434   YKWELKGVPI RFEIGPRDAE KGVAVVSFRD EKRKFE--VP LDEVDEgKVL 
+                                                                 
+                       4444444555 5555555544 4433333332 2111100000 0000000000 
+ 
+SYS_AQUAE        426   ---------- ---------- ---------- ---------- ---------- 
+SYSM_BOVIN       507   ---------- ---------- ---------- ---------- ---------- 
+1ser_A           373   ---------- ---------- ---------- ---------- ---------- 
+SYT_THETN        637   KEIA------ ---------T KAL------- ---------- ---------- 
+SYT_SULTO        524   EEIR------ ---------N RDLNQ----- SAIN--KLK- ---------- 
+SYT_SULSO        529   TEIA------ ---------Q RDVEQ----- TTVK--ALK- ---------- 
+1evk_A           389   QEIR------ ---------S RSLKQlee-- ---------- ---------- 
+SYTM_SCHPO       460   QLKKEFIENV Kayr------ ---------- ---------- ---------- 
+SYTM_YEAST       451   ---------- ----WEKFie leknyk---- ---------- ---------- 
+1h4q_A           371   GKLDAFHEEL YRRALAFRED HTRKV----- DTYE--AFKE AV--QEGFAL 
+SYP_MYCLE        386   GILEEFQRTL LERATQFRDD HTTLV----- DNWD--AFAT TV--ATGWAL 
+SYP_BORBU        386   VELDLMQKDL FQRALNFRIL NTKEIfrssk DSYE--TFKA YVNDYSGFVL 
+SYP_CLOST        387   NLLDTVHTDM LERARAHRDS KTFTF----- KDYE--EFKR KMIETPGFAK 
+YHI0_YEAST       575   EILEEMQGDL FKKAKELFDT HRVIV----- NEWS--GFVP Aln-KKNVIL 
+SYP_MYCPN        391   ELVQQYHQAM YDKAKAVVQQ KVVQA----- TTLK--QIEQ AF--NDKKAV 
+SYP_MYCGE        391   NLVNNYHTEM YRKANDLVEQ KLARV----- QTLK--EIEQ AF--KNKKAV 
+1nj8_A           374   KTLNNIMENI KNRAWEKFEN FITIL----- EDINpdEIKN IL--SEKRGV 
+SYP_METTH        390   ELMKDILENL RTRAWERMES EIREA----- ETLE--EASR IVDEKRGIIS 
+SYP_ARCFU        482   EWARELKQRL RNAAAERMAE KVK------- --FV--ENTG EIEEWGGVVA 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE        426   ---------- ---------- ---------- ---------- ---------- 
+SYSM_BOVIN       507   ---------- ---------- ---------- ---------- ---------- 
+1ser_A           373   ---------- ---------- ---------- ---------- ---------- 
+SYT_THETN        645   ---------- ---------- ---------- ---------- ---------- 
+SYT_SULTO        541   ---------- ---------- ---------- ---------- ---------- 
+SYT_SULSO        546   ---------- ---------- ---------- ---------- ---------- 
+1evk_A           402   ---------- ---------- ---------- ---------- ---------- 
+SYTM_SCHPO       474   ---------- ---------- ---------- ---------- ---------- 
+SYTM_YEAST       463   ---------- ---------- ---------- ---------- ---------- 
+1h4q_A           412   AFHCG-DKAC ERLIQEETTA TTRCVPFEAE ----PE---- ---------- 
+SYP_MYCLE        427   AIHCG-NPEC EEDIKAETAA TPRCVPRQGA ----PA---- ---------- 
+SYP_BORBU        434   SCWCG-SLNC ENIIKNETKA TIRCIPddfk ardlt----- ---------- 
+SYP_CLOST        430   GMWCG-EEEC EAKIKEDTGV TIRCIPFVQE ----NL---- ---------- 
+YHI0_YEAST       617   APWCG-VMEC EEDIKESSAK KDDGEEFEED ----DKapsm gakslcipfd 
+SYP_MYCPN        432   LCAVRLTDTL EQQLKERYQV TVRCCLEQ-- ---------- ---------- 
+SYP_MYCGE        432   LCTVKLTGEL EQHLKTKYQV SVRCV-FKKS ----DV---- ---------- 
+1nj8_A           417   ILVPFKEEIY NEELEEKVEA TILG---ETE y--------- ---------- 
+SYP_METTH        433   FMWCG-EEEC GMDVEEKVRV DILG---IQE ----EG---- ---------- 
+SYP_ARCFU        521   VYLCS-DEDC GHSVEEHGKS LLgwfeevpd wldlEP---- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+SYS_AQUAE        426   ---------- ---------- --------- 
+SYSM_BOVIN       507   ----QKPRLp gqpass---- --------- 
+1ser_A           373   ---------- ---------- --------- 
+SYT_THETN        645   ---------- ---------- --------- 
+SYT_SULTO        541   ---------- ---------- --------- 
+SYT_SULSO        546   ---------- ---------- --------- 
+1evk_A           402   ---------- ---------- --------- 
+SYTM_SCHPO       474   ---------- ---------- --------- 
+SYTM_YEAST       463   ---------- ---------- --------- 
+1h4q_A           443   ------EGFC VRCGRPSAYG KRVVFAKAY 
+SYP_MYCLE        458   ------TGRC IRCDAPSAYD KRVIFARAY 
+SYP_BORBU        468   ------GMTC IYCSSKAKYF --VLFAKSY 
+SYP_CLOST        461   ------GETC QFCGKPAKHM --VYLAKAY 
+YHI0_YEAST       662   qpvLNEGQKC IKCERIAVNY --CMFGRSY 
+SYP_MYCPN        460   ---LQKPQIC PFSGESAQDY --VLIARAY 
+SYP_MYCGE        463   ------TQNC PFTNQPCFDS --VLIARAY 
+1nj8_A           445   ---------- -----KGNKY --IAIAKTY 
+SYP_METTH        461   ------SGTC INCGREAPTG ltlpehis- 
+SYP_ARCFU        556   ------EGKC VVCGREGRla ---ALAKTY 
+                                          
+                       0000000000 0000000000 000000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((SYS_AQUAE   :0.0080441ser_A      :0.008044):0.002306SYSM_BOVIN  :0.010350):0.161720((((SYT_THETN   :0.0039361evk_A      :0.003936):0.000872(SYT_SULTO   :0.001949SYT_SULSO   :0.001949):0.002859):0.001659(SYTM_SCHPO  :0.003699SYTM_YEAST  :0.003699):0.002768):0.091533(((((1h4q_A      :0.002938SYP_MYCLE   :0.002938):0.000613(SYP_BORBU   :0.003322SYP_CLOST   :0.003322):0.000228):0.000976YHI0_YEAST  :0.004527):0.003001((1nj8_A      :0.002823SYP_METTH   :0.002823):0.000231SYP_ARCFU   :0.003054):0.004474):0.003830(SYP_MYCPN   :0.002441SYP_MYCGE   :0.002441):0.008917):0.086641):0.074071);
+ 
+ 

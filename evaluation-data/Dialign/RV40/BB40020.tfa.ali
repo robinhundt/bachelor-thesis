@@ -1,0 +1,1103 @@
+1euq_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME          1   MAG----DD- ---LIAKFQA LGMSEQKAK- --ETLKNANV TKNLQLSLAA 
+SYQ_LUPLU          1   mms------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN          1   m--------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL          1   mkk------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA          1   MAA----LD- ---SLSLFTS LGLSEQKAR- --ETLKNSAL SAQLREAATQ 
+SYQ_HAEIN          1   matk------ -----EELLS LGLSDSKVA- --ETLKNVKL TETIGSIVKL 
+SYQ_NEIMA          1   mgafgweqdr gapfsgr--- ---------- ---------- ---------- 
+SYQ_BUCBP          1   mpakddtssd kekSLELFLK IGLDERTAK- --NTVANNKV TTNLTSVIND 
+SYEC_YEAST         1   mtklf----- ---------- -----SKVK- --ESIEGIKM PSTLT----- 
+SYEC_SCHPO         1   m--------- ---------- ---------- ---------- --SVS----- 
+SYEP_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+SYEP_DROME         1   m-------S- ---IKLKANL NNPPIS-GLA TAHLINGTVP VEivwskeet 
+SYE_METKA          1   MY-----EE- ---EIKKIAL LNAYQHNGKA ELKSVIGKVM AEIAD----- 
+SYE_METTH          1   MY-----ED- ---DIRRIAL INAYQHEGKA DLKSVMGKVM AEIPD----- 
+SYE_SULSO          1   m----EVER- ---IALKYAL INAIEHGGKA NPKAVIGKVL GENPE----- 
+SYE_SULTO          1   -MEEKELRD- ---LVRRYAL ENAARYGGRA NPNAVMKKIM KEHEE----- 
+SYE_AERPE          1   ------MEE- ---KILPIAL RNAIKYNGKA NPKAVLGIFL SENPE----- 
+SYE_METJA          1   M---VPVED- ---LVYRYAL LNAVKHRGRA NPGAVMGAVM SNEPE----- 
+SYE_PYRAB          1   mMELNELRE- ---TIYKYAL QNAVKHNGKA ETGPVMSKII AERPE----- 
+SYE_ARCFU          1   M---EEIEE- ---LIYKYAL QNAYKHGGKA QDKAVVSKIF VERPD----- 
+SYE_THEVO          1   -MGSEDLER- ---LLLGYAL RDAVKHGGRA SVGSVMSMLL GDHPE----- 
+SYE_THEAC          1   ------MKE- ---VIMKYVV QNAAKY-GKA SEKAVMGKVM AENPE----- 
+                                                                 
+                       0000000000 0000000000 0000000111 1111111111 1111100000 
+ 
+1euq_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME         40   AG---SATLS DGTGMLIYHM ATKLKPQTAD HLPLLVRYIV EHKLDNTQRV 
+SYQ_LUPLU          4   ---------- ---------- ---------- ---------- ----HTETSL 
+SYQ_HUMAN          2   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL          4   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA         40   AQQTLGSTID KATGILLYGL ASRLRdtr-- RLSFLVSYIA SKKIHTEPQL 
+SYQ_HAEIN         37   ASESGE--IS KQKGTLLYQL ATKLKPQVAA HTPLVVKYIM NDGIKTEPQL 
+SYQ_NEIMA         18   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP         48   AGVTDG--CS RTVGNLLYTV ATKYPANALP HRPTLLQYIV NSKVKTTAQL 
+SYEC_YEAST        23   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO         5   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN         1   ---------- ---------- ---------- ---------- ---------- 
+SYEP_DROME        39   slqfpdnrll vchsnndvlr a--------- ---------- ---------- 
+SYE_METKA         37   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH         37   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO         38   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO         41   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE         36   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA         39   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB         42   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU         39   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO         41   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC         35   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME         87   DAALEYLlkc gqslnaNIDL QALEKECGVG VVVTPEQIER TVQAKIKASY 
+SYQ_LUPLU         10   GAENTRT--- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN          2   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL          4   --QHSKI--- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA         88   SAALEYVRSH PLD---PIDT VDFERECGVG VIVTPEQIEE AVEAAINRHR 
+SYQ_HAEIN         85   SAAIEYLLSH tvkgiqvp-- -DFEKSCGVG VVVTIDDIEA AVTKVIGQHR 
+SYQ_NEIMA         18   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP         96   DAALSFLSAT GSE---NLDL NKFEEACGVG VEVSTEDIKH AVDEVVEENK 
+SYEC_YEAST        23   ---------- ---------- ---------- INGKAPIVAY AELIAARIVN 
+SYEC_SCHPO         5   ---------- ---------- ---------- VALKAKPIAY GAVACANYVN 
+SYEP_HUMAN         1   ---------- ---------- ---------- ---------- -----MEHTE 
+SYEP_DROME        60   ---------- ---------- ---------- LARAAPDYKL YGETAIERTQ 
+SYE_METKA         37   ---------- ---------- ---------- LRKNPKLVSE LAKAAVDSVN 
+SYE_METTH         37   ---------- ---------- ---------- LRRDPRSARE MVSRIVDEVN 
+SYE_SULSO         38   ---------- ---------- ---------- LRSKAREIVP IINKVVEEVN 
+SYE_SULTO         41   ---------- ---------- ---------- LRPRAKEVLK TVREVVREVN 
+SYE_AERPE         36   ---------- ---------- ---------- YRSKAKEVMP IVEKVVEEVN 
+SYE_METJA         39   ---------- ---------- ---------- LRKMAPQVKE AVEAAVERVN 
+SYE_PYRAB         42   ---------- ---------- ---------- LRSNAREIVK IIKEIIEQVN 
+SYE_ARCFU         39   ---------- ---------- ---------- LRSRAKEISE IAKKIVEKVN 
+SYE_THEVO         41   ---------- ---------- ---------- LRSRAREIAS LAARVVEQVN 
+SYE_THEAC         35   ---------- ---------- ---------- LRKKAKEVLE LVKECITEFE 
+                                                                 
+                       0000000000 0000000000 0000000000 1111110000 0000000000 
+ 
+1euq_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        137   KEALLEQRYH FNSFKIL--- ---------- ---------- ---------- 
+SYQ_LUPLU         17   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN          2   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL          9   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        135   PQLLVE-RYH FNMGLLM--- ---------- ---------- ---------- 
+SYQ_HAEIN        132   EKIVAE-RYS FPAGKLL--- ---------- ---------- ---------- 
+SYQ_NEIMA         18   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        143   ATILEL-RYR VNVGELL--- ---------- ---------- ---------- 
+SYEC_YEAST        43   ALAPNSIAIK LVDdkkapaa klddatedvf nkitskfaai fd-------- 
+SYEC_SCHPO        25   LSGAGSISVK YEDVAlldkq nkesnvsiql ngsdspvfgs klalqtfsqv 
+SYEP_HUMAN         6   IDHWLEFSAT k--------- ---------- ---------- ---------- 
+SYEP_DROME        80   IDHWLSFSLT ce-------- ---------- ---------- ---------- 
+SYE_METKA         57   SMSKDDIVNI VEKQFPEA-- ---------- ---------- ---------- 
+SYE_METTH         57   SMSAYEIRET VETRYTSS-- ---------- ---------- ---------- 
+SYE_SULSO         58   SLSLDEQKAK LMEIYPEY-- ---------- ---------- ---------- 
+SYE_SULTO         61   KMSGEEIRRE LEELGgp--- ---------- ---------- ---------- 
+SYE_AERPE         56   KLSLDEIKKK LEELGEDV-- ---------- ---------- ---------- 
+SYE_METJA         59   SLSPEEQQQE MERLGLEI-- ---------- ---------- ---------- 
+SYE_PYRAB         62   SLTLEQQLTE IKAKYPEL-- ---------- ---------- ---------- 
+SYE_ARCFU         59   SMSIQDQERE LKEKYPDL-- ---------- ---------- ---------- 
+SYE_THEVO         61   SMPAGEQKRL LSEQYPEL-- ---------- ---------- ---------- 
+SYE_THEAC         55   ALS-EEVRKE Likkys---- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        154   --------QD VRGELKWAD- ---------- ---------- ---------- 
+SYQ_LUPLU         17   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN          2   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL          9   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        151   --------GE ARAVLKWAD- ---------- ---------- ---------- 
+SYQ_HAEIN        148   --------GE LRALLPWAD- ---------- ---------- ---------- 
+SYQ_NEIMA         18   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        159   --------GH VRKRLPWAD- ---------- ---------- ---------- 
+SYEC_YEAST        85   -------NGD KEQVAKWVNL AQKELVIKNF AKLSQSLETL DSQLNLRTFi 
+SYEC_SCHPO        75   ypklfigEND RSLVESWVET ASALAGNHNF LELSSLLAQL DDHLIMRSL- 
+SYEP_HUMAN        17   ---------- ---------- ------LSSC DSFTSTINEL NHCLSLRTY- 
+SYEP_DROME        92   ---------- ---------- ---------- DDISWALSFL TSPLPPVTY- 
+SYE_METKA         75   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH         75   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO         76   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO         78   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE         74   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA         77   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB         80   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU         77   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO         79   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC         70   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A             1   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        165   ---------- ---------- ---AKSVKAA ID-VEIFDLL GPKTEADLKP 
+SYQ_LUPLU         17   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN          2   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL          9   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        162   ---------- ---------- ---GKMIKNE VD-MQVLHLL GPKLEADLEK 
+SYQ_HAEIN        159   ---------- ---------- ---GAITKKE VD-LRFLELL GPKTAEDLAP 
+SYQ_NEIMA         18   ---------- ---------- ---------- ---------- --------SP 
+SYQ_BUCBP        170   ---------- ---------- ---AKVVKQL VD-AKLYEIL GDRTAADNEK 
+SYEC_YEAST       128   LGGLKYSAAD VACWGALRSN GMCGSIIKNK VD-VNVSRWY TLLEMDPIFG 
+SYEC_SCHPO       124   FVGYSLTSAD FSIWGALKSN NMAAGAVRTG QY-FNLARWY k-------FM 
+SYEP_HUMAN        40   LVGNSLSLAD LCVWATLKGN AAWQEQLKQK KAPVHVKRWF GFLEAQQAFQ 
+SYEP_DROME       111   LVANKLTIAD FALFNEMHSR y---EFLAAK GIPQHVQRWY DLITAQPLIQ 
+SYE_METKA         75   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH         75   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO         76   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO         78   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE         74   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA         77   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB         80   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU         77   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO         79   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC         70   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A             1   ---------- ---------- -----T---- ---------- ---------- 
+SYQ_DROME        191   QTKA------ ---ND----- --KPKAAKPK AEVTPAAQTA EAA------- 
+SYQ_LUPLU         17   ---------- ---------- -----H---- ---------- ---------- 
+SYQ_HUMAN          2   LNK------- ---------- DQFADN---- ---------- ---------- 
+SYQ_CAEEL          9   ---------- ---------- -----S---- ---------- ---------- 
+SYQ_DEIRA        188   kfkvakarle etdRR----- --TAKDVVEN GETA------ ---------- 
+SYQ_HAEIN        185   KKK------- ---------- EKKPEGPKPS KDAAAAATAP GTKNQKEasp 
+SYQ_NEIMA         20   RIL------- ---------- TRMTDAPRPT AGADAPARPP AAP------- 
+SYQ_BUCBP        196   PKKK------ ---KE----- --KPAKVEDK AAPV------ ---------- 
+SYEC_YEAST       177   EAHDFLSKSL LELKKSANVG KKKETH---- ---------- ---------- 
+SYEC_SCHPO       166   DSQNAVSVTM EEFTKAVNIS KKQKSS---- ---------- ---------- 
+SYEP_HUMAN        90   SVgtkwdvst tkarvap--- --EKKQ---- ---------- ---------- 
+SYEP_DROME       158   KVL------- ---------- QSLPEDAKVK RSPQSSKEQT PAKTGERkqe 
+SYE_METKA         75   LKK------- ---------- DKKPEE---- ---------- ---------- 
+SYE_METTH         75   IRK------- ---------- EKKVEE---- ---------- ---------- 
+SYE_SULSO         76   FEK------- ---------- KEEKKE---- ---------- ---------- 
+SYE_SULTO         78   ---------- ---------- REDVAR---- ---------- ---------- 
+SYE_AERPE         74   KKK------- ---------- EKKEKG---- ---------- ---------- 
+SYE_METJA         77   TER------- ---------- KQKKRK---- ---------- ---------- 
+SYE_PYRAB         80   LEE------- ---------- KKHEEK---- ---------- ---------- 
+SYE_ARCFU         77   LEE------- ---------- KKKEEP---- ---------- ---------- 
+SYE_THEVO         79   ARF------- ---------- EEQREK---- ---------- ---------- 
+SYE_THEAC         70   MDS------- ---------- EAKREL---- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A             2   -------NFI RQII------ ---------- ---------- ---------D 
+SYQ_DROME        218   ---SDGATTI SELMKTKVHF HAPGENFKAD GYVVTEHTER --------LL 
+SYQ_LUPLU         18   -------NFI TQII------ ---------- ---------- ---------D 
+SYQ_HUMAN         11   -------HFI RTII------ ---------- ---------- ---------E 
+SYQ_CAEEL         10   -------NFI QKII------ ---------- ---------- ---------S 
+SYQ_DEIRA        215   ---DQTLSLM EQLRGEALKF HKPGENYKTP GYVVTPHTMN --------LL 
+SYQ_HAEIN        218   eefADGAETM DELLRTRAHF HKVGENFKQD GYVTTPKTAE --------LL 
+SYQ_NEIMA         46   ---LVAPNFI TEII------ ---------- ---------- ---------E 
+SYQ_BUCBP        214   ---ATSEKPL EEDLNPYLIF PNPEDNFKVH TEVpfsdgni lrccntkaLL 
+SYEC_YEAST       203   -------KA- ---------- ---------- ---------N --------FE 
+SYEC_SCHPO       192   -------GP- ---------- ---------- ---------N --------YE 
+SYEP_HUMAN       111   -------DV- ---------- ---------- ---------G --------KF 
+SYEP_DROME       191   ---------- ---------- ---------- ---------G --------KF 
+SYE_METKA         84   -------HR- ---------- ---------- ---------L PD-------- 
+SYE_METTH         84   -------HR- ---------- ---------- ---------L PD-------- 
+SYE_SULSO         85   -------EK- ---------- ---------- ---------K --------GL 
+SYE_SULTO         84   -------DK- ---------- ---------- ---------E --------GL 
+SYE_AERPE         83   -------LE- ---------- ---------- ---------L PN-------- 
+SYE_METJA         86   -------G-- ---------- ---------- ---------L RE-------- 
+SYE_PYRAB         89   -------RKv ---------- ---------- ---------L PP-------- 
+SYE_ARCFU         86   -------EK- ---------- ---------- ---------K --------TL 
+SYE_THEVO         88   -------GD- ---------- ---------- ---------K --------GL 
+SYE_THEAC         79   -------ET- ---------- ---------- ---------K --------KL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000001 
+ 
+1euq_A            10   EDLASGKHTT VHTRFPPEPN GYLHIGHAKS ICLNFGIAQD YKGQCNLRFD 
+SYQ_DROME        257   KEHLARTGGK VHTRFPPEPN GILHIGHAKA ININFGYAAA HDGVCYLRYD 
+SYQ_LUPLU         26   EDLASGKHKS VHTRFPPEPN GYLHIGHAKS ICLNFGLAKE YQGLCNLRFD 
+SYQ_HUMAN         19   DDLKSGKHEA VQTRFPPEPN GYLHIGHAKS ICLNFGLAYI YDGLCNLRFD 
+SYQ_CAEEL         18   EDIQNKKITH VKTRFPPEPN GYLHLGHAKS ICLNFDLAQE FKGTCNLRFD 
+SYQ_DEIRA        254   KQHLEITGGQ VRTRFPPEPN GILHIGHAKA INFNFGYAKA NNGICFLRFD 
+SYQ_HAEIN        260   KAHVAAVGGK VVTRFPPEPN GVLHIGHAKA ININFGYAKA MGGVCNLRFD 
+SYQ_NEIMA         58   RDLEAGKYPR VVTRFPPDPS GYAHLGHVFA SLLDFNTARQ YGGQFNLRMD 
+SYQ_BUCBP        261   EKHLKATGGK VLTRFPPEPN GYLHIGHAKA MFVDFGLAKD RNGGCYLRFD 
+SYEC_YEAST       208   IDLPDAKMGE VVTRFPPEPS GYLHIGHAKA ALLNQYFAQA YKGKLIIRFD 
+SYEC_SCHPO       197   IGLPDAIDGK VVTRFPPEPS GYLHIGHAKA ALLNQYFANK YHGKLIVRFD 
+SYEP_HUMAN       116   VELPGAEMGK VTVRFPPEAS GYLHIGHAKA ALLNQHYQVN FKGKLIMRFD 
+SYEP_DROME       194   VDLPGAEMGK VVVRFPPEAS GYLHIGHAKA ALLNQYYALV CQGTLIMRFD 
+SYE_METKA         89   ---LQGVNGH VVMRLAPSPS GPLHIGHTRM AILNDEYVKR YGGDLILRIE 
+SYE_METTH         89   ---LEGVNGP VVMRMAPSPS GPLHIGHTRM AILNDEYVKR YGGELILRIE 
+SYE_SULSO         90   PPLPKAEKGK VVTRFAPNPD GAFHLGNARA AILSYEYAKM YGGKFILRFD 
+SYE_SULTO         89   KPLPGAEPGN VRLRFAPNPS GPLHIGHARA AVLNDEYARR YDGTLVLRIE 
+SYE_AERPE         88   ------VKDK VVMRFAPNPS GPLHIGHARA AVLNDYFVKK YGGKLILRLE 
+SYE_METJA         90   ---LAGVKGE VVLRFAPNPS GPLHIGHARA AILNHEYARK YDGRLILRIE 
+SYE_PYRAB         95   ---LPNVKGQ VVTRFAPNPD GPLHLGNARS AILSYEYAKM YNGKFILRFD 
+SYE_ARCFU         91   P--PIKVEGK FVTRFAPNPD GPIHLGNARA AIISYKYAEM YKGEFILRFD 
+SYE_THEVO         93   PPLPGAVEGR VKLRFAPNPD FVIHMGNARP AIVNHEYARM YKGRMVLRFE 
+SYE_THEAC         84   PELEGAEKGK VVMRFAPNPN GPPTLGSARG IIVNGEYAKM YEGKYIIRFD 
+                                                                 
+                       1112222234 4466788888 8888888888 8888777766 6777777777 
+ 
+1euq_A            60   DTNPVKEDIE --YVESIKND VEWLGFHWSG NVRYSSDYFD QLHAYAIELI 
+SYQ_DROME        307   DTNPEKEEEK --FFLAIKEM VEWLGYK-PF KITYSSDNFQ QLYEWAVVLI 
+SYQ_LUPLU         76   DTNPVKEDVE --YVDSIKAD VEWLGFKWEG EPRYASDYFD ALYGYAVELI 
+SYQ_HUMAN         69   DTNPEKENDE --YVNAIKED VEWLGFHWAG EPRFASNYFD QLYDYAVGLI 
+SYQ_CAEEL         68   DTNPKNEDTC --YINSIIQD IKWLEYKWHN KIRYASLYFN KIYQYAIKLI 
+SYQ_DEIRA        304   DTNPEKEEAK --FFTAICDM VAWLGYT-PY KVTYASDYFD QLYAWAVELI 
+SYQ_HAEIN        310   DTNPEKEEEK --FFSAIEDI VHWLGYD-PA RVTHSSDNFQ QLYLWAVKLI 
+SYQ_NEIMA        108   DTNPELARQE --YVDSIADD LKWLGLDWGE HFYYASDYFD RYYAYAEQLI 
+SYQ_BUCBP        311   DTNPEAEKKE --YIDHIEEI VQWMGWE-PF KITYTSNYFQ ELYEFAVELI 
+SYEC_YEAST       258   DTNPSKEKEE --FQDSILED LDLLGIK-GD RITYSSDYFQ EMYDYCVQMI 
+SYEC_SCHPO       247   DTNPSKENSE --FQDAILED VALLGIK-PD VVTYTSDYLD TIHQYCVDMI 
+SYEP_HUMAN       166   DTNPEKEKED --FEKVILED VAMLHIK-PD QFTYTSDHFE TIMKYAEKLI 
+SYEP_DROME       244   DTNPAKETVE --FENVILGD LEQLQIK-PD VFTHTSNYFD LMLDYCVRLI 
+SYE_METKA        136   DTNPTNI--D PEAYAMIPED LEWLGVN-VT KTVIQSERFD LYYSVAKKLI 
+SYE_METTH        136   DTNPKNI--D PDAYHMIPED LEWLGVN-VT KIVIQSDRFD LYYAEAKKLM 
+SYE_SULSO        140   DTDPKVKRPE PIFYEMIIED LEWLGIK-PD EIVYASDRLE LYYKYAEELI 
+SYE_SULTO        139   DTDPRRVDPE --AYDMIEED LEWLGVN-ID ERYVQSNRIE LYYMVCEELL 
+SYE_AERPE        132   DTDPKRVLPE --AYDMIKED LDWLGVK-VD EVVIQSDRIE LYYEYGRKLI 
+SYE_METJA        137   DTDPRRVDPE --AYDMIPAD LEWLGVE-WD ETVIQSDRME TYYEYTEKLI 
+SYE_PYRAB        142   DTDPKVKRPI LDAYDWIKED LKWLGIK-WE QELYASERLE LYYKYARYLI 
+SYE_ARCFU        139   DTDPKVKKPI KEAYDWIRKD LKWLGIK-WD KEVKASERLE FYYSMAKELI 
+SYE_THEVO        143   DTDPRTKTPL REAYDLIRQD LKWLGVS-WD EEYIQSLRME VFYSVARRAI 
+SYE_THEAC        134   DTDPRTKRPM IEAYEWYLED IEWLGYK-PD EVIYASRRIP IYYDYARKLI 
+                                                                 
+                       7766433333 0044444445 5555543033 3334455555 4554444455 
+ 
+1euq_A           108   NKGLAYVDEL TPEQIREYRG TLTQPGK--- --NSPYRDRS VEENLALF-E 
+SYQ_DROME        354   NKGLAYVCHQ KAEELKGFN- -----PK--- --PSPWRERP IEESLRLF-E 
+SYQ_LUPLU        124   KKGLAYVDEL SPDEMREYRG TLTEPGK--- --NSPYRDRT IEENLALF-E 
+SYQ_HUMAN        117   KDGKAYVDDL TPEEMREYRG TLTEAGK--- --NSPYRDRS VEENLDLF-T 
+SYQ_CAEEL        116   KKGLAYVDQL SPEEIRTFRG TLTTSGI--- --DSPYRTQS IEKNLNLF-K 
+SYQ_DEIRA        351   RRGLAYVCHQ RGEELKGHN- -----TL--- --PSPWRDRP MEESLLLF-E 
+SYQ_HAEIN        357   QKGLAFVCHQ KVEEMRGFE- -----VQ--- --LSPWRERP IEENIQLF-E 
+SYQ_NEIMA        156   RQGDAYVESV SPEELSRLRG NATTPGT--- --PSPYRDRS VEENLDLL-R 
+SYQ_BUCBP        358   RRGHAYVDHQ TADEIKEYR- ---EKKL--- --NSPWRDRP ISESLKLF-E 
+SYEC_YEAST       305   KDGKAYCDDT PTEKMREER- ---MDGV--- --ASARRDRS VEENLRIFtE 
+SYEC_SCHPO       294   KSGQAYADDT DVETMRHER- ---TEGI--- --PSKHRDRP IEESLEIL-S 
+SYEP_HUMAN       213   QEGKAYVDDT PAEQMKAER- ---EQRI--- --ESKHRKNP IEKNLQMW-E 
+SYEP_DROME       291   KESKAYVDDT PPEQMKLER- ---EQRV--- --ESANRSNS VEKNLSLW-E 
+SYE_METKA        183   ENGHLYICTC DREEFKRKK- ---LASI--- --PCKDRDNP PETNLYLF-E 
+SYE_METTH        183   ENGHMYVCTC PREEFKKRK- ---LESI--- --PCKDRDNP PETNLELF-D 
+SYE_SULSO        189   KMGKAYVCTC KPEKFRELR- ---DKGI--- --PCPHRDEP VEVQLERW-R 
+SYE_SULTO        186   EREGAYVCTC DPDEFRRLR- ---DVGR--- --ACPCRSRD KEENLELW-E 
+SYE_AERPE        179   EMGHAYVCDC NPEEFRELR- ---NKGV--- --PCKCRDRA IEDNLELW-E 
+SYE_METJA        184   ERGGAYVCTC RPEEFRELK- ---NRGE--- --ACHCRSLG FRENLQRW-R 
+SYE_PYRAB        191   EKGYAYVDTC DSSIFRKFR- ---DSrgkmk epECLHRSSS PESNLELF-E 
+SYE_ARCFU        188   SKGFAYVDTC SEEEFKKMR- ---DASK--- --PCPNRLKS AEDNLYLF-E 
+SYE_THEVO        192   ERGCAYVDNC GR-EGKELL- ---SRGE--- --YCPTRDLG PEDNLELF-E 
+SYE_THEAC        183   EMGKAYTCFC SQEEFKKFR- ---DSGE--- --ECPHRNIS VEDTLEVW-E 
+                                                                 
+                       4444454444 3334333330 0001122000 0023444444 4444444404 
+ 
+1euq_A           152   KMRAGGFEEG KACLRAKIDM ASPFIVMRDP VLYRI---KF A-EHHQTGNK 
+SYQ_DROME        392   DMKRGKIDEG AATLRMKVTL EEGKM---DP VAYRI---KF I-SHHRTGSD 
+SYQ_LUPLU        168   KMKNGEFAEG KASLRAKIDM ASPFMVMREP VIYRI---KF S-SHHQTGDK 
+SYQ_HUMAN        161   RMKNGEFPDG SKTLRLKIDM ASGNINMRDP VIYRI---RR A-HHHNTGDK 
+SYQ_CAEEL        160   KMKQGKMLEG TACLRAKIDM ASNCITMRDP VLYRI---IF S-KHHQTNKK 
+SYQ_DEIRA        389   AMRKGKFSEG EATLRMKLVM EDGKM---DP VAYRV---KY T-PHHRTGDK 
+SYQ_HAEIN        395   DMKNGKFDEG EATLRLKLTL EEGKV---DP VAYRI---KY V-PHHRTGNQ 
+SYQ_NEIMA        200   RMKAGEFADG EHVLRAKIDL TAPNMKLRDP VLYRI---VN K-PHFRTSDE 
+SYQ_BUCBP        398   DMRRGFIEEG KATLRMKQDM QSDNYNMYDL IAYRI---KF T-PHPHAGDK 
+SYEC_YEAST       346   EMKNGTEEGL KNCVRAKIDY KALNKTLRDP VIYRC---NL T-PHHRTGST 
+SYEC_SCHPO       334   EMDKGSDVGL KNCIRAKISY ENPNKAMRDP VIYRC---NL L-PHHRTGTK 
+SYEP_HUMAN       253   EMKKGSQFGH SCCLRAKIDM SSNNGCMRDP TLYRC---KI Q-PHPRTGNK 
+SYEP_DROME       331   EMVKGSEKGQ NTACAAKIDM SSPNGCMRDP TIYRC---KN E-PHPRTGTK 
+SYE_METKA        223   KMLDGEIKAG AAVAVMKTDL NHPNPSVRDW IAFRI---ID A-KHPRTGDK 
+SYE_METTH        223   KMIDGTIKEG DAVAVVKTDL KHPNPSVRDW IAFRI---IE A-RHPRVDDK 
+SYE_SULSO        229   KMLNGEYKEG EAVVRIKTDL NHPNPAVRDW PALRI---VD NpNHPRAGNK 
+SYE_SULTO        226   EMLDGTFSEG EAVVRVKTEV DHPDPAVREW IAFRI---VE E-EHPMTGSR 
+SYE_AERPE        219   KMLNGELEN- -VAVRLKTDI KHKNPSIRDF PIFRV---EK T-PHPRTGDK 
+SYE_METJA        224   EMF--EMKEG SAVVRVKTDL NHPNPAIRDW VSMRI---VE A-EHPRTGTR 
+SYE_PYRAB        236   KMLGGKFKEG EAVVRLKTDL SDPDPSQIDW VMLRIIDTAK N-PHPRVGSK 
+SYE_ARCFU        228   KMLNGEFKEG EAVVRIKTDL SLPDPSQRDW VLLRIIDVKK N-PHPITGDK 
+SYE_THEVO        231   KMLEGEFYEG EAVVRMKTDP RHPNPSLRDW VAMRIIDTEK H-PHPLVGSR 
+SYE_THEAC        223   RMLEGDYEEG EVVLRIKTDM RHKDPAIRDW VAFRI---IK E-SHPLVGDK 
+                                                                 
+                       4544444444 4445555554 4333333355 5566600055 5068888888 
+ 
+1euq_A           198   WCIYPMYDFT HCISDALEGI THSLCTLEFQ DNRRLYDWVL DNITIP-V-H 
+SYQ_DROME        435   WCIYPTYDYT HCLCDSLEDI THSLCTKEFQ SRRSSYYWLC NALGIY---C 
+SYQ_LUPLU        214   WCIYPMYDFT HCISDAIERI THSICTLEFQ DNRRLYDWVL ENISIerP-L 
+SYQ_HUMAN        207   WCIYPMYDYT HCISDAIEGI THSLCTLEFE AHRPLYDWVL DNIHAPhatR 
+SYQ_CAEEL        206   WCIYPTYDFT HCISDALEKI THSLCTLEFQ DHRKLYEWIL KKIDIS---C 
+SYQ_DEIRA        432   WCIYPTYDYT HCLCDSIEHI THSLCTKEFQ ARRSSYFWLC NALDVY---C 
+SYQ_HAEIN        438   WCIYPTYDYT HCLCDSIENI THSLCTKEFQ SRRSSYYWLC NALDIY---C 
+SYQ_NEIMA        246   WHIYPAYDFE HPLQDAIEGV THSMCSLEFV DNRAIYDWLM EKLNFD-P-R 
+SYQ_BUCBP        444   WCIYPSYDYA HCIVDSIENV THSLCTLEFE TRRASYYWLL HALGIY---Q 
+SYEC_YEAST       392   WKIYPTYDFC VPIVDAIEGV THALRTIEYR DRNAQYDWML QALRLR---K 
+SYEC_SCHPO       380   YRAYPTYDFA CPIVDSLEGV THALRTTEYR DRNPLYQWMI KAMNLR---K 
+SYEP_HUMAN       299   YNVYPTYDFA CPIVDSIEGV THALRTTEYH DRDEQFYWII EALGIR---K 
+SYEP_DROME       377   YKVYPTYDFA CPIVDAIENV THTLRTTEYH DRDDQFYWFI DALKLR---K 
+SYE_METKA        269   YRVFPMMSFS VAVDDHYLGL THVLRGKDQL TNTEKQRYVF EYNGWN---K 
+SYE_METTH        269   YRVYPMMSFS VAVDDHYLGL THVLRGKDQL TNTDKQRYIF DYNGWK---K 
+SYE_SULSO        276   YRVWPLYNFA SAIDDHELGV THIFRGQEHA ENETRQRYIY EYFGWE---Y 
+SYE_SULTO        272   YLVWPTMNFA VAVDDHLMNI THVLRGKDHE SNTRRQKYVF EHLGWD---T 
+SYE_AERPE        263   YCVYPLMNFS VPVDDHLLGM THVLRGKDHI VNTEKQAYIY KYFGWE---M 
+SYE_METJA        268   YRVYPMMNFS VAVDDHLLGV THVLRGKDHL ANREKQEYLY RHLGWE---P 
+SYE_PYRAB        285   YWVWPTYNFA SIIDDHELGI THVLRAKEHM SNTEKQRYIS EYMGWE---F 
+SYE_ARCFU        277   YWIWPTYNFA SALDDHDLGI THIFRGKEHE VNAEKQKWIY NYMGWK---Y 
+SYE_THEVO        280   YLVWPTYNFA VSVDDHMMEI THVLRGKEHQ LNTEKQLAVY RCMGWR---P 
+SYE_THEAC        269   YVVYPTLDFE SAIEDHLLGI THIIRGKDLI DSERRQRYIY EYFGWI---Y 
+                                                                 
+                       8888888888 7787777777 7766655554 4433444444 3333320002 
+ 
+1euq_A           246   P-RQYEFSRL NLEYT-VMSK RKLNLLV--T DKHVEGWDDP RMPTISGLRR 
+SYQ_DROME        482   P-VQWEYGRL NMNYA-LVSK RKIAKLI--T EQIVHDWDDP RLFTLTALRR 
+SYQ_LUPLU        263   P-HQYEFSRL NLEGT-LTSK RKLLKLV--N DEIVDGWNDP RMPTISGLRR 
+SYQ_HUMAN        257   P-RQYEFSRL ELLYT-ITSK RKLNQLV--V EKHVSGWDDP RMPTISGMRR 
+SYQ_CAEEL        253   ntHQYEFSRL KLEYS-VLSK RKLNLLV--N NKVVNGWDDP RMPTLSGLRN 
+SYQ_DEIRA        479   P-VQWEYGRL NLHYA-VVSK RKILQLV--A TGAVRDWDDP RLFTLTALRR 
+SYQ_HAEIN        485   P-VQWEYGRL NVNYT-VVSK RKILKLI--T TKTVNDWDDP RLFTLTALRR 
+SYQ_NEIMA        294   P-HQYEFGRR GLEYT-ITSK RKLRELV--Q AGRVSGWDDP RMPTLRAQRR 
+SYQ_BUCBP        491   P-YVWEYSRL NVSNT-VMSK RKLNRLV--T EKWVDGWDDP RLMTLAGLRR 
+SYEC_YEAST       439   V-HIWDFARI NFVRT-LLSK RKLQWMV--D KDLVGNWDDP RFPTVRGVRR 
+SYEC_SCHPO       427   I-HVWEFSRM NFVRT-LLSK RKLTEIV--D HGLVWGWDDP RFPTVRGVRR 
+SYEP_HUMAN       346   P-YIWEYSRL NLNNT-VLSK RKLTWFV--N EGLVDGWDDP RFPTVRGVLR 
+SYEP_DROME       424   P-YIWSYSRL NMTNT-VLSK RKLTWFV--D SGLVDGWDDP RFPTVRGIIR 
+SYE_METKA        316   P-YYYHYGMI RFPGT-RLKT SLMKKGI--Q AGQYDGWSDV RLGTVRAMAR 
+SYE_METTH        316   P-YYYHYGMI KFPGI-KLKT SLMKKGI--L SGQYEGWSDI RLGTVRAFAK 
+SYE_SULSO        323   P-VTVHHGRL SIEGV-ILSK SKTRKGI--E EGKYLGWDDP RLGTIRALRR 
+SYE_SULTO        319   P-EYVHYGIL KVEGA-VLST SEIRRGI--D SGEYTGWDDV RVATLRALRR 
+SYE_AERPE        310   P-EFIHYGIL KIEDI-VLST SSMYKGI--K EGLYSGWDDV RLGTLRALRR 
+SYE_METJA        315   P-EFIHYGRL KMDDV-ALST SGAREGI--L RGEYSGWDDP RLGTLRAIAR 
+SYE_PYRAB        332   P-EVLQFGRL RLEGF-MMSK SKIRGMLEKG ----TNRDDP RLPTLAGLRR 
+SYE_ARCFU        324   P-YVEEFGRL RLEGF-MMSK SKIRTVLEKG vsi----DDP RLPTLAGLRR 
+SYE_THEVO        327   P-YFIHFGRL KLEGF-ILSK SKIRKLLEER PGEFMGYDDP RFGTIAGLRR 
+SYE_THEAC        316   P-ITKHWGRV KIFEFgKLST SSIKKDI--E RGKYEGWDDP RLPTLRAFRR 
+                                                                 
+                       3033344434 4333304444 4433334003 3334456777 7767766666 
+ 
+1euq_A           292   RGYTAASIRE FCKRIGVTKQ DNTI-EMASL ESCIREDLNE NAPRAMAVID 
+SYQ_DROME        528   RGFPAEAINN FCAQMGVTGA QIAV-DPAML EAAVRDVLNV TAPRRLVVLE 
+SYQ_LUPLU        309   RGYTPASLRE FCRRIGVTKQ DNVV-EYSAL EACIREDLNE NAPRAMAVID 
+SYQ_HUMAN        303   RGYTPEGLRL FAKRAGISKS ENIV-DMSVL EGAIREELEN SAPRLMAVLN 
+SYQ_CAEEL        300   RGYTPSSIKL FCKKIGITKQ ENTI-QLSFL ESCIRSDLNP IAPRYMAVIH 
+SYQ_DEIRA        525   RGFPPEAINN FCARVGVTVA QTTM-EPHLL EACVRDVLND TAPRAMAVLE 
+SYQ_HAEIN        531   RGIPSEAINR FVAKLGLTMS QMVI-DPHVL DATVRDYLNI HAPRTMAVLE 
+SYQ_NEIMA        340   LGVTPEAVRA FAAQIGVSRT NRTV-DIAVY ENAVRDDLNH RAPRVMAVLD 
+SYQ_BUCBP        537   RGMTPTAINA FVRGMGITRS DGTLiSVERL EYHVREELNK TAPRAMVVLH 
+SYEC_YEAST       485   RGMTVEGLRN FVLSQGPSRN VINL-EWNLI WAFNKKVIDP IAPRHTAIVN 
+SYEC_SCHPO       473   RGMTIEALQQ YIVSQGPSKN ILTL-DWTSF WATNKKIIDP VAPRHTAVES 
+SYEP_HUMAN       392   RGMTVEGLKQ FIAAQGSSRS VVNM-EWDKI WAFNKKVIDP VAPRYVALLK 
+SYEP_DROME       470   RGMTVEGLKE FIIAQGSSKS VVFM-NWDKI WAFNKKVIDP IAPRYTALEK 
+SYE_METKA        362   RGYQPETFRR YWINSGLREI DAVF-SWEIF NSLNREFVDP KAYRFSFTKD 
+SYE_METTH        362   RGYRPETFRR YWINSGLREI DAIF-SIEIF DSINREIVDP RAYRFSFVKD 
+SYE_SULSO        369   RGILPEAIKE LIIEVGLKKS DATV-SWDNL AAINRKLVDP IANRYFFVAD 
+SYE_SULTO        365   RGIKPEAIRE TILEIGLTDV DATF-SWEHL YARNRKMIDP ESHRYFFVRD 
+SYE_AERPE        356   RGIKPEAIYE IMKRIGIKQA DVKF-SWENL YAINKELIDK DARRFFFVWN 
+SYE_METJA        361   RGIRPEAIRK LMVEIGVKIA DSTM-SWKKI YGLNRSILEE EARRYFFAAD 
+SYE_PYRAB        376   RGILPDTIKD VIIDVGVKVT DATI-SFENI AAINRKKLDP VAKRIMFVKD 
+SYE_ARCFU        368   RGILPETIIE TIITVGLKVS DATI-SFDNL AALNRKKLDP IAKRLMFVQQ 
+SYE_THEVO        375   RGVLAEAIRQ IILEVGVKPT DATI-SWANL AAANRKLLDE RADRIMYVED 
+SYE_THEAC        363   RGFEPEAIKS FFLSLGVGEN DVSV-SLKNL YAENRKIIDR KANRYFFIWG 
+                                                                 
+                       6666666655 5555554433 3323022222 2222222222 2222222222 
+ 
+1euq_A           341   PVKLVIENYQ --G---EgE- MV-------- ---------T MPNHP---NK 
+SYQ_DROME        577   PLKVTIKNFP --H-AAP-V- QL-------- ---------E VPDFP---QN 
+SYQ_LUPLU        358   PVRVVIENFE --S---E-A- VL-------- ---------T APNHP---NR 
+SYQ_HUMAN        352   PLKVTLTNFE --A-GRT-Q- SR-------- ---------R AAFHP---NH 
+SYQ_CAEEL        349   PIKIQICNLS --D-NYE-E- IL-------- ---------N IPNHP---TK 
+SYQ_DEIRA        574   SLRVIITNFP --A-AKS-L- DI-------- ---------Q VPNFP---AD 
+SYQ_HAEIN        580   GLKLTIENFS --ElNLP-S- SV-------- ---------D VPDFP---SD 
+SYQ_NEIMA        389   PVKVTLTNLD --G-EKT-L- SLpywphdvv rdspdglVGM PGGGR---VA 
+SYQ_BUCBP        587   PLKVVITNLE --A-KSA-I- EV-------- ---------D AKKWPdaqAD 
+SYEC_YEAST       534   P---VKIHLE --G-SEA-P- QEPK------ -------IEM KPKHK---KN 
+SYEC_SCHPO       522   G---DVVKAT --I-VNG-P- AAPY------ -------AED RPRHK---KN 
+SYEP_HUMAN       441   k-EVIPVNVP --E-AQE-E- MK-------- ---------E VAKHP---KN 
+SYEP_DROME       519   E---KRVIVn vaG-AKV-E- RI-------- ---------Q VSVHP---KD 
+SYE_METKA        411   P---VEIKME --G-SNG-L- TA-------- ---------R LPYHP---SH 
+SYE_METTH        411   P---VPVRIE --G-MPN-I- SA-------- ---------K LPLHP---TH 
+SYE_SULSO        418   P---VPMEVE --G-APE-F- IA-------- ---------K IPLHP---DH 
+SYE_SULTO        414   P---VELRIE --G-MKE-S- VLA------- ---------R LPLHP---DR 
+SYE_AERPE        405   P---KKLIIE --G-AEK-K- VL-------- ---------K LRMHP---DR 
+SYE_METJA        410   P---VKLEVV --G-LPG-P- VRV------- ---------E RPLHP---DH 
+SYE_PYRAB        425   A---EEFSVE --L-PES-L- NA-------- ---------K IPLIP---SK 
+SYE_ARCFU        417   P---KEFIIE --L-SEP-I- RA-------- ---------K IPYNP---SK 
+SYE_THEVO        424   P---VEMEVE --L-AQvecr AA-------- ---------E IPFHP---SR 
+SYE_THEAC        412   P---VKIEIV --N-LPE-K- KEV------- ---------E LPLNP---HT 
+                                                                 
+                       2000222211 0010100000 0000000000 0000000000 0111100011 
+ 
+1euq_A           365   PEMG-SRQVP FSGEIWI--- ---DRADFRE EANKQYKRLV LGKEVRLRN- 
+SYQ_DROME        602   PQQG-THKIT LDKVIYI--- ---EQGDFKL EPEKGYRRLA PKQSVGLRH- 
+SYQ_LUPLU        381   PELG-ERQLP FTKELYI--- ---DRADFRE EANKQYKRLV LGKEVRLRN- 
+SYQ_HUMAN        377   EEMG-EREVP ISQTIYI--- ---EADDFAE NPPKGFKRLI PGGEVRLRH- 
+SYQ_CAEEL        374   PNMG-CHKSI FSNTLYI--- ---DQNDFYE NKSELLKKLA IGKEIRLRY- 
+SYQ_DEIRA        599   ETKG-FHQVP FAPIVFI--- ---ERTDFKE EPEPGFKRLA WGQPVGLRH- 
+SYQ_HAEIN        606   PTDPRKHSVS VDREIFI--- ---EKSDYKP DDSDKSFRRL TPKQAVglkh 
+SYQ_NEIMA        431   PEEA-VRDVP LTRELYI--- ---ERDDFSP APPKGFKRLT PGGTVRLRG- 
+SYQ_BUCBP        615   DASA-FYKIP FSNVVYI--- ---ERSDFRM QDSKDYYGLA PGKSVILRY- 
+SYEC_YEAST       560   PAVG-EKKVI YYKDIVV--- ---DKDDADV INVDEEVTLM DW-------- 
+SYEC_SCHPO       548   PELG-NKKSI FANEILI--- ---EQADAQS FKQDEEVTLM DW-------- 
+SYEP_HUMAN       465   PEVG-LKPVW YSPKVFI--- ---EGADAET FSEGEMVTFI NW-------- 
+SYEP_DROME       543   ESLG-KKTVL LGPRIYI--- ---DYVDAEA LKEGENATFI NW-------- 
+SYE_METKA        433   PEYG-VRKYE IGDTVYI--- ---SKGDADK IADGERFRLK DLCYVVRKG- 
+SYE_METTH        433   PEYG-FREYE VKGSVYI--- ---ASRDFAA ISEGERIRLK DLCYIRKKG- 
+SYE_SULSO        440   PERG-TRELR FTPgkpiyvs k-DDLDLLKP GSFVRLKDLF NVEIV-EVG- 
+SYE_SULTO        437   DEGERVLILH PENGVaRALL DGEDAEDLWE GDVVRLMNAV NVEIE-EVG- 
+SYE_AERPE        427   PEFG-ERELI FDGEVYV--- ---VGDELEE NKMYRLMELF NIVVE-KVD- 
+SYE_METJA        433   PEIG-NRVLE LRGEVYL--- ---PGDDLGE GPLRLIDAVN Viy-S-GG-- 
+SYE_PYRAB        447   QEMNRTIIVN PGDKILI--- ---ESNDAED NSILRLMELC NVKVD-KHN- 
+SYE_ARCFU        439   PSEYREILVN PGDKILL--- ---DAKDAEE GAVVRLMELC NVTIS-GN-- 
+SYE_THEVO        448   PQRKRRITLC TGDKVLL--- ---TREDAVE GRQLRLMGLS NFTVS-QG-- 
+SYE_THEAC        435   GEKRRLkge- ------RTIY VTKDDFERLK GQVVRLKDFC NVLLD-EKA- 
+                                                                 
+                       1111011111 1111111000 0001111111 1101111110 0000000000 
+ 
+1euq_A           407   -AYVIKA--E RVEKDAEGNI TTIFCTYDAD TLG------- ----VIHWVS 
+SYQ_DROME        644   -AGLVISVDE IVKDPATGQV VELICTSQPA ------EQAE KPKAFVQWVS 
+SYQ_LUPLU        423   -AYVIKA--E RVEKDANGEI TTIFCTYDPE TLGKNPADGR KVKGVIHWVS 
+SYQ_HUMAN        419   -GYVIKC--D EVVKDEAGNV VELKCSIDHD TLGKNP-EGR KVKGVIHWVS 
+SYQ_CAEEL        416   -SYVIKA--H KIKKDQNNNI KTIFCTYDKN TLGKNP-KNR KILGVIHWIS 
+SYQ_DEIRA        641   -TGYVIELQH VVKGPS-GCV ESLEVTCRRA ------DAGE KPKAFIHWVS 
+SYQ_HAEIN        650   iGLVLRF--V KEVKDAEGHV TEVVVKAEKL ------SEKD KPKAFIHWVA 
+SYQ_NEIMA        473   -AGIIRA--D DFGTDEAGQV THIRATL--L ------GEDA KAAGVIHWVS 
+SYQ_BUCBP        657   -AFPIKC--T EVIladdnet ileiraeY-- ----DPSKKT KPKGVLHWVS 
+SYEC_YEAST       595   --GNVII--T KKNDDGSmv- ----AKLNLE ------GDFK KTKHKLTWLA 
+SYEC_SCHPO       583   --GNAYV--R EINRDASGKV TSLKLELHLD ------GDFK KTEKKVTWLA 
+SYEP_HUMAN       500   --GNLNI--T KIHKNADGKI ISLDAKFNLE ------NKDY KKTTKVTWLA 
+SYEP_DROME       578   --GNILI--K KVNKDASGNI TSVDAALNLE ------NKDF KKTLKLTWLA 
+SYE_METKA        475   -DRFL----- ---------- -------F-- ----DGTEMK EKTKIINWCP 
+SYE_METTH        475   -NGII----- ---------- -------Y-- ----DGVEMT EKTKIINWCP 
+SYE_SULSO        486   -EK-IKAKFH SF-------- -----EY--E ------IARK NKWRMIHWVP 
+SYE_SULTO        485   -DgwLRGRYH SD-------- -----DY--R ------IAKE EGAQIVHWVP 
+SYE_AERPE        468   -DI-ALAKYH SD-------- -----DF--K ------IARK NKAKIIHWIP 
+SYE_METJA        472   --E-L--RYH SE-------- -----GI--E ------EARE LGASMIHWVP 
+SYE_PYRAB        489   -RK-L--IFH SK-------- -----TL--D ------EAKK VNAKIVQWVK 
+SYE_ARCFU        480   --K-L--IFH SK-------- -----TL--E ------DAKK LNAKIIQWVK 
+SYE_THEVO        489   --I-L--REV DP-------- -----SL--E ------YARR MKLPIVQWVK 
+SYE_THEAC        476   -EFMG----- ---------- -------F-- ----ELEGVK KGKNIIHWLP 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 1111111111 
+ 
+1euq_A           443   ---AA-HA-- --LPV---EI RLYDRLFSVP NPGAADD--- -FL------- 
+SYQ_DROME        687   ---QP----- --IQL---EV RLYEQLFKHK NPEDPNEVPG GFL------- 
+SYQ_LUPLU        470   ---AV-NN-- --HPA---EF RLYDRLFTVP NPGAEDD--- -IE------- 
+SYQ_HUMAN        465   ---AE-HA-- --AEI---KV RLYDRLFTIE RPDAVRGEDG EYLp------ 
+SYQ_CAEEL        462   ---EK-NV-- --LPA---RF FLYDKLFTIQ SPETVKN--- -FL------- 
+SYQ_DEIRA        683   ---QP----- --LMC---EV RLYERLFQHK NPEDPTEVPG GFL------- 
+SYQ_HAEIN        692   ---KP----- --VSC---EV RLYDRLFKSK NPEDAQLVPG GFL------- 
+SYQ_NEIMA        512   ---AE-RA-- --LPA---EF RLYDRLFRVP HPEGENadve ddsagpaehe 
+SYQ_BUCBP        698   ---QP-Spgv dpLKV---EV RLFERLFLSE NPAELDN--- -WL------- 
+SYEC_YEAST       630   ---DT-KD-- --V-V---PV DLVDFDHLIT KDRLEED--- ---------- 
+SYEC_SCHPO       623   ---DT-ED-- --K-T---PV DLVDFDYLIT KDKLEEG--- ---------- 
+SYEP_HUMAN       540   ---ETtHA-- --LPI---PV ICVTYEHLIT KPVLGKD--- ---------- 
+SYEP_DROME       618   vedDP-SA-- --Y-P---PT FCVYFDNIIS KAVLGKD--- ---------- 
+SYE_METKA        496   ---PN-SR-- ---EF---QV LKPDG----- ---------- ---------- 
+SYE_METTH        496   ---EG-SR-- ---DF---SV LKPDG----- ---------- ---------- 
+SYE_SULSO        513   ---EG----- --RPC---EV ---------- ---------- ---------- 
+SYE_SULTO        513   ---PD-QA-- --VRC---EV VRPDG----- ---------- ---------- 
+SYE_AERPE        495   ---VK-DS-- --VKV---KV LMPDG----- ---------- ---------- 
+SYE_METJA        496   ---AE-SA-- --LEA---EV IMPDA----- ---------- ---------- 
+SYE_PYRAB        514   ---SN-EK-- --VPV---MV EKAERdeikm ---------- ---------- 
+SYE_ARCFU        504   ---KD-EA-- --SNV---EV IIPDP----- ---------- ---------- 
+SYE_THEVO        513   ---KG-GE-- --ASVevlEP VELEL----- ---------- ---------- 
+SYE_THEAC        497   ---ES-EA-- --IKG---KV Igerea---- ---------- ---------- 
+                                                                 
+                       0001100000 0000000011 1111000000 0000000000 0000000000 
+ 
+1euq_A           471   ---------- -------SVI NPESL-V-IK ----QGFAEP SLKDAVAGKA 
+SYQ_DROME        717   ---------- -------SDI SEQSM-S-VV ----VAFADR ALNQAKVYDK 
+SYQ_LUPLU        498   ---------- -------SVL NPNSL-V-IK ----QGFVEQ SLANAEAEKG 
+SYQ_HUMAN        498   ---------- -----FTDFL NPESV-K-EI ----TAYAEP AAKDLPAESR 
+SYQ_CAEEL        490   ---------- -------QYI NTNSL-V-IK ----YGFVEK DILTNISTTA 
+SYQ_DEIRA        713   ---------- -------SDL NLASLHV-VD ----AALVDC SVALAKPFDK 
+SYQ_HAEIN        722   ---------- -------SDI NPDSLTV-VY ----NALIDQ SIAKSKVYDR 
+SYQ_NEIMA        551   aepgagqeta pvsQGFMRYL TPDSL-R-VL ----RGYVEP SVAGDPADTR 
+SYQ_BUCBP        730   ---------- -------GDL NPHSK-VEIS ----NAYGVS LLKDAKLGDR 
+SYEC_YEAST       655   ---------- ---ESFEDFL TPQTE-F-HT ----DAIADL NVKDMKIGDI 
+SYEC_SCHPO       648   ---------- ---ENYKDFL TPQTE-F-HS ----PVFADV GIKNLKKGDI 
+SYEP_HUMAN       567   ---------- ---EDFKQYV NKNSK-H-EE ----LMLGDP CLKDLKKGDI 
+SYEP_DROME       646   ---------- ---EDFKQFI GHKTR-D-EV ----PMLGDP ELKKCKKGDI 
+SYE_METKA        509   ---------- ---------- -------SID ----KGLIEP ASKGYRG--I 
+SYE_METTH        509   ---------- ---------- -------SKD ----SGLIEP KSSGYRG--I 
+SYE_SULSO        520   ---------- ---------I IPEGDEL-IV ----RKGLLE KDANVKAGEI 
+SYE_SULTO        527   ---------- ---------- -------SVE ----SGYAEI NVEREQAGST 
+SYE_AERPE        509   ---------- ---------- -------EIK ----EGFAEK DFAKVEVDDI 
+SYE_METJA        510   ---------- ---------- -------SR- ---VRGVIEA DASELEVDDV 
+SYE_PYRAB        533   ---------- ---------- ---------- ---INGYAEK IAADLEIDEI 
+SYE_ARCFU        518   ---------- ---------- -------NEE kppISGYGEK EIGNLKINEI 
+SYE_THEVO        530   ---------- ---------- -------RR- ---HQGYAED AIRGYGVDSR 
+SYE_THEAC        512   ---------- ---------- ---------- -----EGLVE RNAVRDVGKV 
+                                                                 
+                       0000000000 0000000000 0000000000 0000011111 1111111111 
+ 
+1euq_A           498   FQFEREGYFC LDS------R HSTAEKP--- -----VFN-R TVGLRDT--- 
+SYQ_DROME        744   FQFERIGFFS VDP------D TSANH-L--- -----VFN-R TVGLKEDAGK 
+SYQ_LUPLU        525   YQFEREGYFC ADS------K DSRPEHL--- -----VFN-L TVSLKEGF-- 
+SYQ_HUMAN        527   WQFERIGYFV TDR------K DHGKDTP--- -----VFN-R TVTLKDSWqp 
+SYQ_CAEEL        517   YQFEREGYFC INK------N FSITKNL--- -----TFN-R IVTLKDkik- 
+SYQ_DEIRA        741   FQFERLGYFS VDP------D SHQGK-L--- -----VFN-R TVTLKEDPGK 
+SYQ_HAEIN        750   FQFERIGFFC VDR------D STSST-L--- -----VFN-R TVMLKDGgas 
+SYQ_NEIMA        595   YQFERQGYFW RDPvelervD SREDA-L--- -----VFG-R IITLKDTWGK 
+SYQ_BUCBP        758   FQFERLGYFA VDQ------D STPEK-L--- -----VFN-R TVTLKDSYGK 
+SYEC_YEAST       686   IQFERKGYYR LDA------L PKDGKPY--- -----VFftI PDGKSVNKYG 
+SYEC_SCHPO       679   IQVERKGYYI VDV------P FDGTQAV--- -----LFN-I PDGKTVNRYG 
+SYEP_HUMAN       598   IQLQRRGFFI CDQ------P YEPVSPYSck eAPCVLIY-I PDGHTKEMPT 
+SYEP_DROME       677   IQLQRRGFFK VDV------A YLPPSGYTnv pSPIVLFS-I PDGHTKDVPT 
+SYE_METKA        526   SQLERYGYVN FYD------S DEKAY----- -----FTHd- ---------- 
+SYE_METTH        526   AQLERYGYVN FAD------G DDLAY----- -----FTHP- ---------- 
+SYE_SULSO        546   VQFERFGFVR IDK------I EGEKVVA--- -----IYA-H K--------- 
+SYE_SULTO        546   VQFERLYFVR LEE------V SSGGVRA--- -----VYA-H d--------- 
+SYE_AERPE        528   IQFERFGFVR IDK------K DNDGFVC--- -----CYA-H R--------- 
+SYE_METJA        529   VQLERFGFAR LDS------A GPGMVFY--- -----YAHk- ---------- 
+SYE_PYRAB        550   VQFYRFGFVR VDR------K DENMLRV--- -----VFS-H d--------- 
+SYE_ARCFU        541   VQFIRFGFVR VDN------K IDNKVTV--- -----IFS-H E--------- 
+SYE_THEVO        549   LQFVRYGFVR VDS------V EDGVYRV--- -----IYT-H K--------- 
+SYE_THEAC        527   VQFERFAFCK VES------A DEELVAV--- -----YTHP- ---------- 
+                                                                 
+                       1111111111 1110000001 1111100000 0000011100 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        778   K--------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        562   k--------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        775   v--------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        784   gkn------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        635   QGggtqqkae gkkrpstkgr gpdevrge-- ---------- ---------- 
+SYQ_BUCBP        792   GGk------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       722   AKk------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       714   VKn------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       641   SGSKektkve atknetsapf kerptpslnn ncttsedslv lynrvavqg- 
+SYEP_DROME       720   SGLKvnapda katkkasspv sssgqaseld sqitqqgdlv rdlkskkaak 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        663   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       690   ---------- ---------- ---------- ---------- ---------- 
+SYEP_DROME       770   dqidvavkkl lalkadyksa tgkdwkpgqt satsapvpaa ssssandavs 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        663   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       690   ---------D VVRELKAKKA PKEDVDAAVK QLLSLKAEYK EKTGQEYKPg 
+SYEP_DROME       820   vnasivkqgD LVRDLKGKKA SKPEIDAAVK TLLELKAQYK TLTGQDWKPg 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        663   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       731   nppaeigqni ssnssasile skslyde-VA AQGEVVRKLK AEKSPKAKIN 
+SYEP_DROME       870   tvpptaapsa saapsvggnd svaqilsqIT AQGDKVRELK SAKADKATVD 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        663   ---------- ---------- ---GSSSPAK AHAPKAQPLT PEQDAEFTRl 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       780   EAVECLLSLK AQYKEKTG-- ---------K EYIPGQPPLS QSSDSSPTRn 
+SYEP_DROME       920   AAVKTLLSLK ADYKAATGsd wkpGTTAPAP AAAPvkvkqe knpdpasvlt 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        690   lglgasegda rtiardpall afvggaapgd tfaqvaswtv nelvaglrag 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       819   sepagletpe akvlfd---- ---------- ---------- ---------- 
+SYEP_DROME       970   vntllnkiaq qgdkirqlks aksekslvea evklllalkt dyksltgqew 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        740   ev-------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       835   ---------- ---------- ---------- -KVASQGEVV RKLKTEKAPK 
+SYEP_DROME      1020   kpgtvapapt tvnvidltgg dsgsdvgsvl sKIQAQGDKI RKLKSEKAAK 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        742   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       854   DQVDIAVQEL LQLKAQYKSL i--------- ---------- ---------- 
+SYEP_DROME      1070   NVIDPEVKTL LALKGEYKTL sgkdwtpdak sepavvkkea spvsmaspak 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        742   ---------- --KVRAADLA PLAEGVASGQ LSARIAREAL ARAAASGDAP 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       875   ---------- ---------- ---------- ---------- -----GVEYK 
+SYEP_DROME      1120   deltqeinaq geKVRAAKGN KAAKEVIDAE VAKLLALKAK YKEVTGTDFP 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        780   LTiieregln ag-------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       880   PVSATGAEDK DKKKKEKENK SEKQNKPQKQ NDGQrkdpsk nqggglsssg 
+SYEP_DROME      1170   VAGRGGGGGG GSAKKAPKEA QPKPAKPVKK EPADasgav- ---------- 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        792   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       930   agegqgpKKQ TRLGLEAKKE ENLADWYSQV ITKsEMIEYH DISGCYILRP 
+SYEP_DROME      1209   -------KKQ TRLGLEATKE DNLPDWYSQV ITKgEMIEYY DVSGCYILRQ 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        792   ---------- ---------- ---------- LSAEALQQVV AQVIAANPDK 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN       980   WAYAIWEAIK DFFDAEIkKL GVENCYFPMF VSQSALEKEK THVADFAPEV 
+SYEP_DROME      1252   WSFAIWKAIK TWFDAEItRM GVKECYFPIF VSKAVLEKEK THIADFAPEV 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        812   AEAYRGGKTA Llgfftgqvm ratagkadpq alaaalkdal a--------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1030   AWVTRSGKTE LAEPIAIRPT SETVMYPAYA KWVQSHRDLP IKLNQWcNVV 
+SYEP_DROME      1302   AWVTKSGdsD LAEPIAVRPT SETVMYPAYA KWVQSYRDLP IRLNQWnNVV 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        853   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1080   RWEFKHPQPF LRTREFLWQE GHSAFAtmEE AAEEVLQILD LYAQVYEELL 
+SYEP_DROME      1352   RWEFKQPTPF LRTREFLWQE GHTAFAdkEE AAKEVLDILD LYALVYTHLL 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        853   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1130   AIPVVKGRKT EKEKFAGGDY TTTIEAFISA SGRAIQGGTS HHLGQNFSKM 
+SYEP_DROME      1402   AIPVVKGRKT EKEKFAGGDY TTTVEAFISA SGRAIQGATS HHLGQNFSKM 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        853   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1180   FEIVFEDPki pgEKQFAYQN SWGLTTRTIG VMTMVHGDNM GLVLPPRVAC 
+SYEP_DROME      1452   FEIVYEDPek tqQKKYVYQN SWGITTRTIG VMIMVHADNQ GLVLPPHVAC 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        853   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1230   VQvVIIPCGI TNALSEEDKE ALIAKCNDYR RRLLSVNIRV RADlRDNYSP 
+SYEP_DROME      1502   IQaIVVPCGI TVNTKDDERA QLLDACKALE KRLVGGGVRC EGDyRDNYSP 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        853   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1280   GWKFNHWELK GVPIRLEVGP RDMKSCQFVA VRRDTGEKLT VAENEAETKL 
+SYEP_DROME      1552   GWKFNHWELK GVPLRLEVGP KDLKAQQLVA VRRDTGEKIT IPLADVEKKI 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        853   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1330   QAILEDIQVT LFTRASEDLK THmvvantme dfqkildsgk ivqiPFCGEI 
+SYEP_DROME      1602   PALLETIHES MLNKAQEDMT SHtkkvtnwt dfcgfleqkn illaPFCGEI 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DROME        779   ---------- ---------- ---------- ---------- ---------- 
+SYQ_LUPLU        558   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HUMAN        563   ---------- ---------- ---------- ---------- ---------- 
+SYQ_CAEEL        551   ---------- ---------- ---------- ---------- ---------- 
+SYQ_DEIRA        776   ---------- ---------- ---------- ---------- ---------- 
+SYQ_HAEIN        787   ---------- ---------- ---------- ---------- ---------- 
+SYQ_NEIMA        853   ---------- ---------- ---------- ---------- ---------- 
+SYQ_BUCBP        795   ---------- ---------- ---------- ---------- ---------- 
+SYEC_YEAST       725   ---------- ---------- ---------- ---------- ---------- 
+SYEC_SCHPO       717   ---------- ---------- ---------- ---------- ---------- 
+SYEP_HUMAN      1380   DCEDWIKKTT ARDQDLEPGA PSMGAKSLCI PFkplcelqp gakcvcgk-- 
+SYEP_DROME      1652   SCEDKIKADS ARGEEAEPGA PAMGAKSLCI PFdqpapiaa sdkcinpsct 
+SYE_METKA        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_METTH        549   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULSO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_SULTO        572   ---------- ---------- ---------- ---------- ---------- 
+SYE_AERPE        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_METJA        554   ---------- ---------- ---------- ---------- ---------- 
+SYE_PYRAB        576   ---------- ---------- ---------- ---------- ---------- 
+SYE_ARCFU        567   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEVO        575   ---------- ---------- ---------- ---------- ---------- 
+SYE_THEAC        552   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1euq_A           530   ---------- --- 
+SYQ_DROME        779   ---------- --- 
+SYQ_LUPLU        558   ---------- --- 
+SYQ_HUMAN        563   ---------- --- 
+SYQ_CAEEL        551   ---------- --- 
+SYQ_DEIRA        776   ---------- --- 
+SYQ_HAEIN        787   ---------- --- 
+SYQ_NEIMA        853   ---------- --- 
+SYQ_BUCBP        795   ---------- --- 
+SYEC_YEAST       725   ---------- --- 
+SYEC_SCHPO       717   ---------- --- 
+SYEP_HUMAN      1428   NPAKYYTLFG RSY 
+SYEP_DROME      1702   NKPKFYTLFG RSY 
+SYE_METKA        549   ---------- --- 
+SYE_METTH        549   ---------- --- 
+SYE_SULSO        572   ---------- --- 
+SYE_SULTO        572   ---------- --- 
+SYE_AERPE        554   ---------- --- 
+SYE_METJA        554   ---------- --- 
+SYE_PYRAB        576   ---------- --- 
+SYE_ARCFU        567   ---------- --- 
+SYE_THEVO        575   ---------- --- 
+SYE_THEAC        552   ---------- --- 
+                         
+                       0000000000 000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((((((1euq_A      :0.001645SYQ_LUPLU   :0.001645):0.000681SYQ_HUMAN   :0.002326):0.000256SYQ_CAEEL   :0.002582):0.000988SYQ_NEIMA   :0.003570):0.001244(((SYQ_DROME   :0.001721SYQ_DEIRA   :0.001721):0.000162SYQ_HAEIN   :0.001883):0.001045SYQ_BUCBP   :0.002928):0.001885):0.003440((SYEC_YEAST  :0.002133SYEC_SCHPO  :0.002133):0.001317(SYEP_HUMAN  :0.000981SYEP_DROME  :0.000981):0.002469):0.004804):0.005151((SYE_METKA   :0.001607SYE_METTH   :0.001607):0.003361(((SYE_SULSO   :0.003162(SYE_SULTO   :0.002941(SYE_AERPE   :0.002861SYE_METJA   :0.002861):0.000080):0.000221):0.000916SYE_THEAC   :0.004077):0.000164((SYE_PYRAB   :0.002028SYE_ARCFU   :0.002028):0.001135SYE_THEVO   :0.003163):0.001078):0.000726):0.008437);
+ 
+ 

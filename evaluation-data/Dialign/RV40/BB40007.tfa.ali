@@ -1,0 +1,737 @@
+1al2_ac            1   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21         1   MGA------- ---------- ---------- ---------- ---------- 
+POLG_EC16H         1   MGA------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A         1   -GA------- ---------- ---------- ---------- ---------- 
+POLG_HRV89         1   MGA------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB         1   mackhgypdv cpictavdat pgfeyllmad gewyptdllc vdldddvfwp 
+POLG_HPAV2         1   mnmsrqgifq tvgsgldhil s--------- ---------- ---------- 
+POLG_EC22H         1   metiksiadm atgvvssvds tinavnekve svgneiggnl ltkvaddasn 
+                                                                 
+                       1110000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac            1   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21         4   ---------- ---------- -----QVSTQ KTGAHENQNV AANGSTINYT 
+POLG_EC16H         4   ---------- ---------- -----QVSTQ KTGAHETLLE AAQGATINYT 
+POLG_HRV1A         3   ---------- ---------- -----GVSRQ NVGTHSTQNS VSNGSSLNYF 
+POLG_HRV89         4   ---------- ---------- -----QVSRQ NVGTHSTQNS VSNGSSLNYF 
+POLG_TMEVB        51   sdtsnqsqtm dwtdvplird ivmepQGNSS SSDKSNSQSS GNEGVIINNF 
+POLG_HPAV2        22   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H        51   ilgpncfat- ---------- ---------- -TAEPENKNV VQATTTVNTT 
+                                                                 
+                       0000000000 0000000000 0000011222 2222222222 2222222222 
+ 
+1al2_ac            1   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21        29   TINYYKDSAS NSATRQDLSQ DPSKFTEPVK DLMLKTAPA- ------LN-- 
+POLG_EC16H        29   NINYYKDAAS NSANRQDFSQ DPSKFTEPVK DIMIKSMPA- ------LN-- 
+POLG_HRV1A        28   NINYFKDAAS SGASR----- ---------- ---------- ------LD-- 
+POLG_HRV89        29   NINYFKDAAS SGASR----- ---------- ---------- ------LDfs 
+POLG_TMEVB       101   YSNQYQNSID LSASggnagd apqtngqlsn ilggaanafa tmaplLLD-- 
+POLG_HPAV2        22   ---------- ---------- ---------- ---------- -----LAD-- 
+POLG_EC22H        79   NLTQHPSApt mpfspdfsnv dnfhsmaydi ---------- ---------- 
+                                                                 
+                       2222222222 2111100000 0000000000 0000000000 0000001200 
+ 
+1al2_ac            1   ---------- ---------- ------EACG YSDRVLQLTL GNSTITTQEA 
+POLG_CXA21        70   ---------- ---------- --SPNVEACG YSDRVRQITL GNSTITTQEA 
+POLG_EC16H        70   ---------- ---------- --SPSAEECG YSDRVRSITL GNSTITTQES 
+POLG_HRV1A        45   ---------- ---------- --SPSVEACG YSDRIMQITR GDSTISSDDV 
+POLG_HRV89        48   qdpskftdpv kdvlekgipt lqSPTVEACG YSDRLIQITR GDSTITSQDT 
+POLG_TMEVB       149   ---------- ---------- --QNTEEMEN LSDRVASDKA GNSATNTQST 
+POLG_HPAV2        25   ---------- ---------- --IEEEQMIQ SVDRTAVTGA SYFTSVDQSS 
+POLG_EC22H       109   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0022224444 4444444444 4444444444 
+ 
+1al2_ac           25   ANSVVAYGRW PEYLRDSEAN PVDQPTEPDV AACRFYTLDT VSWTKESRGW 
+POLG_CXA21        98   ANAIVAYGEW PTYINDSEAN PVDAPTEPDV SSNRFYTLES VSWKTTSRGW 
+POLG_EC16H        98   ANVVVAYGRW PKYLEDDQAT AEDQPTQPDV ATCRFYTLES VQWEANSAGW 
+POLG_HRV1A        73   ANAVVGYGVW PHYLTPQDAT AINKPTQPDT SSNRFYTLES KHWNGSSKGW 
+POLG_HRV89        98   ANAVVAYGVW PSYLTPDDAT AIDKPTQPDT SSNRFYTLDS RSWTSASSGW 
+POLG_TMEVB       177   VGRLCGYGKS HHG--EHPAS CADTATDKVL AAERYYTIDL ASWTTSQEAF 
+POLG_HPAV2        53   Vhtaevg--S HQV--EPLRT SVDKPGSKRT QGEKFFLIHS ADWLTTHALF 
+POLG_EC22H       109   ---------- ---------- -----TTGDK NPSKLVRLET HEWTPSWARG 
+                                                                 
+                       4444444444 4233222222 2244555555 5555555555 5554445466 
+ 
+1al2_ac           75   WWKLPDALRD M-----GLFG QN-MYYHYLG RSGYTVHVQC NASKFHQGAL 
+POLG_CXA21       148   WWKLPDCLKD M-----GMFG QN-MYYHYLG RSGYTIHVQC NASKFHQGAL 
+POLG_EC16H       148   WWKFPEALKD M-----GLFG QN-MYYHYLG RAGYTIHVQC NASKFHQGCL 
+POLG_HRV1A       123   WWKLPDALKD M-----GIFG EN-MYYHFLG RSGYTVHVQC NASKFHQGTL 
+POLG_HRV89       148   WWKLPDALKN M-----GIFG EN-MFYHFLG RSGYTIHVQC NSSKFHQGLL 
+POLG_TMEVB       225   shiriplphv lagedgGVFG AT-LRRHYLC KTGWRVQVQC NASQFHAGSL 
+POLG_HPAV2        99   HEVAKLDVVK LLYNEQfavq -GLLRYHTYA RFGIEIQVQI NPTPFQQGGL 
+POLG_EC22H       134   YQITHVELPK VFWDHQdkpa yGQSRYFAAV RCGFHFQVQV NVNQGTAGSA 
+                                                                 
+                       6666666666 6000008788 8808888888 9999999999 9777777777 
+ 
+1al2_ac          119   GVFAVPEMCL AGDSNTTTMH TSYQN----- -------ANP GEKGGTFTGT 
+POLG_CXA21       192   GVFLIPEFVM ACNTESKTSY VSYIN----- -------ANP GERGGEFTNT 
+POLG_EC16H       192   LVVCVPEAEM GC-AKpdenv datnltngen tceltagAAP AEKGkvqtav 
+POLG_HRV1A       167   LVAMIPEHQL AS-AKHGSVT AGYKL----- -------THP GEAGRDVsqe 
+POLG_HRV89       192   IVAAIPEHQL AS-ATSGNVS VGYNH----- -------THP GEQGREVVPS 
+POLG_TMEVB       274   LVFMAPEfyt gk-------- ---------- ---------- ----GTKTGT 
+POLG_HPAV2       148   ICAMVPGDQs yg-------- ---------- ---------- ---------- 
+POLG_EC22H       184   LVVYEPKPVV TYDSKl---- ---------- ---------- ---------- 
+                                                                 
+                       7777777110 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          157   FTPDNNQTSP ARRFCPVDYL LGNGTLLGN- ---------- -AFVFPHQII 
+POLG_CXA21       230   YNPSNTDVSE GRQFAALDYL LGSGVLAGN- ---------- -AFVYPHQII 
+POLG_EC16H       241   cnatmgvA-- ---------- ------VGN- ---------- -LTIFPHQWI 
+POLG_HRV1A       204   rdasl-RQPS DDSWLNF--- --DGTLLGN- ---------- -LLIFPHQFI 
+POLG_HRV89       229   RTSSDNKRPS DDSWLNF--- --DGTLLGN- ---------- -LPIYPHQYI 
+POLG_TMEVB       292   MEPSDpftmd tewrspqgap tgyrydsrtg ffatnhqnqw qWTVYPHQIL 
+POLG_HPAV2       160   -------S-- ---------- ------IAS- ---------- -LTVYPHGLL 
+POLG_EC22H       200   -------E-- ---------- ------FGA- ---------- -FTNLPHVLM 
+                                                                 
+                       0000000000 0000000000 0012224440 0000000000 0556666666 
+ 
+1al2_ac          195   NLRTNNCATL VLPYVNSLSI DSMV--KHNN WGIAILPLAP LNFASESSPE 
+POLG_CXA21       268   NLRTNNSATI VVPYVNSLVI DCMA--KHNN WGIVILPLAP LAFAATSSPQ 
+POLG_EC16H       261   NLRTNNCATI VMPYINSVPM DNMF--RHYN FTLMVIPFVP LTSm-GGSTY 
+POLG_HRV1A       236   NLRSNNSATL IVPYVNAVPM DSML--RHNN WCLVIIPISP LRSETTSSNI 
+POLG_HRV89       262   NLRTNNSATL ILPYVNAVPM DSML--RHNN WSLVIIPICP LQVQPGGTQS 
+POLG_TMEVB       342   NLRTNTTVDL EVPYVNVAPS SSWT--QHAN WTLVVAVLSP LQYATGSSPD 
+POLG_HPAV2       173   NCNINNVVRI KVPFIytrga yhfKDPQYPV WELTIRVWSE LNIGTGTSAY 
+POLG_EC22H       213   NLAETTQADL CIPYVadtny v--KTDSSDL GQLKVYVWTP LSIPTGSANQ 
+                                                                 
+                       6666666666 6666655555 5555005555 4333322222 2222222222 
+ 
+1al2_ac          243   IPITLTIAPM CCEFNGLRNI TLPrlq---- ---------- ---------- 
+POLG_CXA21       316   VPITVTIAPM CTEFNGLRNI TIPVH-QGLP TMNTPGSNQF LTSDDFQSPC 
+POLG_EC16H       308   VPITVTIAPM CAEYNGLRLS Tq--H-QGLP VMNVPGSNQF LTSDNFQSPC 
+POLG_HRV1A       284   VPITVSISPM CAEFSGARAK n--IK-QGLP VYITPGSGQF MTTDDMQSPC 
+POLG_HRV89       310   IPITVSISPM FSEFSGPRSK VVFSTTQGLP VMLTPGSGQF LTTDDTQSPS 
+POLG_TMEVB       390   VQITASLQPV NPVFNGLRHE TVIAQSpipv tvrehkgcfy stnpdttvpi 
+POLG_HPAV2       223   TSLNVLARFT DLELHGLTPL stqm------ ---------- ---------- 
+POLG_EC22H       261   VDVTILGSLL QLDFQNPRVF AQDVNiydna pngkkknwkk imtmstkykw 
+                                                                 
+                       3333333333 3333331100 0000002222 2222222222 2222222222 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       365   ALPNFDVTPP IHIPGEVKNM MELAEIDTLI PMNAVDGKVN TMEMYQIPLN 
+POLG_EC16H       355   AMPEYDVTPP LDIPGEVNNL MEVAEVDSVV PVNNLSDNVK TIKAYQIPVS 
+POLG_HRV1A       331   ALPWYHPTKE ISIPGEVKNL IEMCQVDTLI PVNNVGNNVG NVSMYTVQLG 
+POLG_HRV89       360   AFPYFHPTKE IFIPGQVRNL IEMCQVDTLI PVNNTQENVR SVNMYTVDLR 
+POLG_TMEVB       440   ygktis-TPS DYMCGEFSDL LELCKLPTFL GNPNTNNKry pyfsatnsvp 
+POLG_HPAV2       247   ---------- ------MRNE FRVSTTENVV NLSNYEDara kmsfaldqed 
+POLG_EC22H       311   trtkidiaeg pgsmnmanvl cttgaqsval vge------- --RAFYDPRT 
+                                                                 
+                       2221111111 1011111111 1111111111 1111111111 1111111110 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       415   dnlskapifc ls--LSPASD KRLSH----- ---------- ---------- 
+POLG_EC16H       405   AGDSSRPEAV FKFqLDPGSG SVLKH----- ---------- ---------- 
+POLG_HRV1A       381   NQtgMAQKVF SIKVDITSTP LAT------- ---------- ---------- 
+POLG_HRV89       410   TQvdLAKEVF SIPVDIASQP LAT------- ---------- ---------- 
+POLG_TMEVB       489   atsmvdyqva lscscman-- ---------- ---------- ---------- 
+POLG_HPAV2       281   wksdpsqggg ikithfttwt siptlaaqfp fnasasvgqq ikvipvdpyf 
+POLG_EC22H       352   AGSKSRFDDL VKIaqlfsvm adsttpsenh gvdakgyfkw sattapqsiv 
+                                                                 
+                       0000000000 0000111111 1110000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       438   ---------- ---TMLGEIL NYYTHWTGSI RFTFLFCGSM MATGKLLLSY 
+POLG_EC16H       430   ---------- ---TLLGEII NYYAHWSGSI KLTFVFCGSA MATGKLLIAY 
+POLG_HRV1A       404   ---------- ---TLIGEIA SYYTHWTGSL RFSFMFCGTA NTTLKLLLAY 
+POLG_HRV89       433   ---------- ---TLIGELA SYYTHWTGSL RFSFMFCGSA SSTLKLLIAY 
+POLG_TMEVB       507   ---------- ---SMLAAVA RNFNQYRGSL NFLFVFTGAA MVKGKFLIAY 
+POLG_HPAV2       331   fqmtntnpdq kciTALASIC QMFCFWRGDL VFDFQVFPTK YHSGRLLFCF 
+POLG_EC22H       402   hrnivylrlf pn---LNVFV NSYSYFRGSL VLRLSVYAST FNRGRLRMGF 
+                                                                 
+                       0000000000 0001333333 3333333444 4444444443 4444444444 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       475   SPPGAKPPTN RKDAMLGTHI IWDL----GL QSSCSMVAPW ISNTVYRRC- 
+POLG_EC16H       467   SPPGASAPAT RKDAMLGTHI IWDL----GL QSSCVLCVPW ISQTHYRMV- 
+POLG_HRV1A       441   TPPGIDEPTT RKDAMLGTHV VWDV----GL QSTISLVVPW VSASHFRLTA 
+POLG_HRV89       470   TPPGVGKPKS RREAMLGTHL VWDV----GL QSTASLVVPW VSASHFRFTT 
+POLG_TMEVB       544   TPPGAGKPTT RDQAMQSTYA IWDL----GL NSSFNFTAPF ISPTHYRQTS 
+POLG_HPAV2       381   VPGnelidvs gitlkqatta pcavmditGV QSTLRFRVPW ISDTPYRVNR 
+POLG_EC22H       449   FPNATTDSTS tldnai--YT ICDI----GS DNSFEITIPY SFSTWMRKTN 
+                                                                 
+                       4444222333 3333333333 3333000033 3333333333 3333333111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       520   ------ARDD FTEGGFITCF YQTRIVVPAS TPT------- ---------- 
+POLG_EC16H       512   ------ERDE YTTAGYISCW YQTNIIVPPD TPS------- ---------- 
+POLG_HRV1A       487   D-------NK YSMAGYITCW YQTNLVVPPS TPQ------- ---------- 
+POLG_HRV89       516   P-------DT YSSAGYITCW YQTNFVVPDS TPD------- ---------- 
+POLG_TMEVB       590   YTsptit--- -SVDGWVTVW KLTPLTYPSG TPT------- ---------- 
+POLG_HPAV2       431   YTksahQKGE YTAIGKLIVY CYNRLTSPSN VAS------- ---------- 
+POLG_EC22H       493   ghpiglfqie vlnrltynss spsevycivq gkmgqdarff cptgsvvtfq 
+                                                                 
+                       0000000011 1111333333 3333222222 2220000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       547   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       539   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       513   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       542   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB       619   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2       464   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       543   nswgsqmdlt dplcieddte nckqtmspne lgltsaqddg plgqekpnyf 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       547   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       539   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       513   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       542   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB       619   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2       464   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       593   lnfrsmnvdi ftvshtkvdn lfgrawffme htftnegqwr vplefpkqgh 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       547   ---------- ---------- ---------- ---------- ---SMFMLGF 
+POLG_EC16H       539   ---------- ---------- ---------- ---------- ---QCYMLCL 
+POLG_HRV1A       513   ---------- ---------- ---------- ---------- ---TADMLCF 
+POLG_HRV89       542   ---------- ---------- ---------- ---------- ---NAKMVCM 
+POLG_TMEVB       619   ---------- ---------- ---------- ---------- ---NSDILTL 
+POLG_HPAV2       464   ---------- ---------- ---------- ---------- ---HVRVNVY 
+POLG_EC22H       643   gslsllfayf tgelnihvlf lsergflrva htydtsndrv nflSSNGVIT 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0002222222 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       554   VSACPDFSVR LLRDTSHISQ skliartqgi edlidtaikn alrVSQPLRP 
+POLG_EC16H       546   ASACNDFSVR MLKDTPFIQQ EAKLQGEPgk aiesaisrva dtissgp--- 
+POLG_HRV1A       520   VSACKDFCLR MARDTDLHIQ SGpieQNPVE NYIDEV---- ---LNEVLVV 
+POLG_HRV89       549   VSACKDFCLR LARDTNLHTQ EGVLTQNPVE NYIDSV---- ---LNEVLVV 
+POLG_TMEVB       626   VSAGDDFTLR MPISPTKWVP QGVDNAEKGk vsnddasvdf vaepvklpen 
+POLG_HPAV2       471   LSAINLECfa plyhamdvtt qvgddsggfs ttvsteqnvp dpqvgittmk 
+POLG_EC22H       693   VPAGEQMTLS APYYSNKPLR TVRDNNSLGy lmckpfltgt stgkievyls 
+                                                                 
+                       2222222222 2111000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       604   SQLKQPNGVN SQE------V PALTAVETGA SGQAIPSDVV ETRHVINYKT 
+POLG_EC16H       593   --------TN SEQ------V PALTAAETGH TSQVVPGDTI QTRHVKNYHS 
+POLG_HRV1A       563   PNIKESHHTT SNS------A PLLDAAETGH TSNVQPEDAI ETRYVITSQT 
+POLG_HRV89       592   PNIQPSTSVS SHA------A PALDAAETGH TSSVQPEDMI ETRYVITDQT 
+POLG_TMEVB       676   qtrvaffydr avpigmlrpg qnmettfnyq endyrlncll ltplpsfcpd 
+POLG_HPAV2       521   dlkgkanrgk mdvsgvqapV GAITTIEDPV LAKKVPETFP ELKPGESRHT 
+POLG_EC22H       743   lrc------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 1111111111 1111122222 2222211111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       648   RSESCLESFF GRAACVTILS LTNSSKSGEE K---KHFNIW NITYTDTVQL 
+POLG_EC16H       629   RSESTIENFL CRSACVHIAR YEAGANASNE D---R-FVRW EINNKELVQL 
+POLG_HRV1A       607   RDEMSIESFL GRSGCVHISR ikvdytdyng qdi--NFTKW KITLQEMAQI 
+POLG_HRV89       636   RDETSIESFL GRSGCIAMIE FNTSSDKTEH DkigKGFKTW KVSLQEMAQI 
+POLG_TMEVB       726   sssgpqktka pvqwrwvrsg gvnganfplm tkqdyaflc- ---------- 
+POLG_HPAV2       571   SDHMSIYKFM GRSHFLCTFT FNSNNkeytf pitlsstsnp phglp--STL 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111111111 1111110000 0000000000 0000001111 1111111111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       695   RRKLEFFTYS RFDLEMTFVF Tenypstasg evrnqcd--Q IMYIPPGAPR 
+POLG_EC16H       675   RRKCEMFTYL RYDVEVTFVI TSQQDqgtdl sqdmpvlthQ VMYVPPGGSV 
+POLG_HRV1A       655   RRKFELFTYV RFDSEITLVp ciAGRGDDIG HIVM-----Q YMYVPPGAPI 
+POLG_HRV89       686   RRKYELFTYT RFDSEITIVt aaAAQGNDSG HIVL-----Q FMYVPPGAPV 
+POLG_TMEVB       765   ---FSPFTFY KCDLEVTVSA LGMTRVASVL RWAPTGAPAD VTdqligytp 
+POLG_HPAV2       619   RWFFNLFQLY RGPLDLTIIV TGATDVDGMA WFTPVGLAVD TPwvekesal 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111111111 1111111110 0000000000 0000000001 1111111111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       743   PSSWDDYTWQ SSSNPSIFYM YGNAPPRMSI PYVGIANAYS HFYDGFarvp 
+POLG_EC16H       725   TKQGDSYAWQ TSTNPSVFWT EGNAPPRMSI PFISIGNAYS SFYDGW---- 
+POLG_HRV1A       700   PSKRNDFSWQ SGTNMSIFWQ HGQPFPRFSI PFLSIASAYY MFYDGY---- 
+POLG_HRV89       731   PEKRDDYTWQ SGTNASVFWQ EGQPYPRFTI PFMSIASAYY MFYDGY---- 
+POLG_TMEVB       812   slgetrnphm wlvgagnsqv sfvvpynspl svlp-----A AWFNGW---- 
+POLG_HPAV2       669   -----SIDYK TALGAVRFNT RRTGSIQIRL PWYSYLYAVS GALDGlgdkt 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       1111112222 2222122222 2211111111 1111111111 1111110000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       793   legeNTDA-- ---------- ---------- ---------- ---------- 
+POLG_EC16H       771   ----SHFS-- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       746   ----DGDN-- ---------- ---------- ---------- ---------- 
+POLG_HRV89       777   ----DGDS-- ---------- ---------- ---------- ---------- 
+POLG_TMEVB       853   ----SDFG-- ---------- ---------- ---------- ---------- 
+POLG_HPAV2       714   dstfglvsiq ianynhsdey lsfscylsvt eqsefyfpra plnsnamlst 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000111000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       801   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       775   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       750   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       781   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB       857   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2       764   esmvsriaag dlessvddpr seedkrfesh iecrkpykel rlevgkqrlk 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       801   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       775   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       750   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       781   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB       857   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2       814   yaqeelsnev lppprkmkgl fsqanislfy teehemmkfs wrgvtadtra 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       801   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       775   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       750   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       781   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB       857   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2       864   lrrfgfslaa grsvwtlemd agvltgrlir lndekwtemk ddkivsliek 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       801   -GDTFYGLVS INDFGVLAVR AVNRSNPHTI HTSVRVYMKP KHIRCWCPRP 
+POLG_EC16H       775   -QKGVYGYNT LNKMGTLFVR HVNKETPKPV TSTVRVYFKP KHIRAWIPRP 
+POLG_HRV1A       750   -TSSKYGSVV TNDMGTICSR IVTEKQKLSV VITTHIYHKA KHTKAWCPRP 
+POLG_HRV89       781   -AASKYGSVV TNDMGTICVR IVTSNQKHDS NIvcRIYHKA KHIKAWCPRP 
+POLG_TMEVB       857   -NTKDFGVAP NADFGRLWIQ g--------- NTSASVRIRY KKMKVFCPRP 
+POLG_HPAV2       914   fTSNKYWSKV NFPHGMLDLE EIAANSKEFP NMsetdlcfl lhw------- 
+POLG_EC22H       746   ---------- ---------- ---------- ---------- ---------P 
+                                                                 
+                       0000000000 0000110000 0000000000 0000111111 1111111111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       850   PRAVLYrgeg vdmi-----S SAIQPLTKVD SITTFGFGHQ NKAVYVAGYK 
+POLG_EC16H       824   PRLCPYKYKA NVNF-----D VTAITDSRLT ITTvpqvehn lrta------ 
+POLG_HRV1A       799   PRAVPYTHSH VTNYMPETGD VTTAIVRRNT ITTa------ ---------- 
+POLG_HRV89       830   PRAVAYQHTH STNYIPSNGE ATTQIKTRPD VFTVTNVGPS SMFVHVGNLI 
+POLG_TMEVB       897   TLFFPWPTPT TTKI-----N Adnpvpilel enpaalyrid lfitftdefi 
+POLG_HPAV2       957   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       747   NFFFPLPAPK VTSS-----R Alrgdmanlt nqspygqqpq nrmmklayld 
+                                                                 
+                       1111111111 1111000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       895   ICNYHLatpS DHLNAISVLW DRDLM----- ---------- ---------- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       880   YRNLHLfn-S DLDDSILVSY SSDLI----- ---------- ---------- 
+POLG_TMEVB       942   tfdykvhgrp vltfripgfg ltpagrmlvc mgeqpahgpf tssrslyhvi 
+POLG_HPAV2       957   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       792   rgfykhygii vgdhvyqlds ddifktaltg kakftktklt sd-------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       920   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       904   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB       992   ftatcssfsf siykgryrsw kkpihdelvd rgyttfgeff kavrgyhady 
+POLG_HPAV2       957   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       834   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       920   ---------- ---------- ---------- ------VVES RAQGTDTIAR 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       904   ---------- ---------- ---------- ------IYRT NTEGNDVIPN 
+POLG_TMEVB      1042   yrqrlihdve tnpgpvqsvF QPQGAVLTKS LAPQAGIQNL LLRLLGIDGD 
+POLG_HPAV2       957   ---------- ---------L NPKKINLADR MLGLSGVQEI KEQGVGLIAE 
+POLG_EC22H       834   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       934   CS-------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       918   CD-------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB      1092   CSEVSKAITv vtdlvaawek ak-------- ---------- ---------- 
+POLG_HPAV2       988   CRTFLHSIAg tlksmmfgfh hsvtveiint vlcfvksgil lyviqqlnqd 
+POLG_EC22H       834   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       936   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       920   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB      1114   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2      1038   ehshiigllr vmnyvdigcs viscgkvfsk mletvfnwqm dsrmmelrtq 
+POLG_EC22H       834   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       936   ---------C rcgvYYCESR RKYYLVTFTG PTFRFMEAND YYPARYQSHM 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       920   ---------C TECTYYCHHK DRYFPIRVTA HDWYEIQESE YYPKHIQYNL 
+POLG_TMEVB      1114   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2      1088   sfsnwlrdiC SGITIFKNFK DGICWLYTKL KDFYEVNygk kkdilnilkd 
+POLG_EC22H       834   ---------- ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21       977   LIGcgfaEPG DCGGILRCTH GVIGIITAGG EGIVAFADIR dlWVYEEEAM 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89       961   LIGegpcEPG DCGGKLLCKH GVIGMITAGG EGHVAFIDLR kfqc----AE 
+POLG_TMEVB      1114   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2      1138   nqqkiekaie eadkfcilqi qdvekseqyq kgvd------ ---------- 
+POLG_EC22H       834   ---------- ---------- ---------- ---------- --WVIEEEce 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1027   EQGITSYIES LGTAFGAGFT HT-------- ---------- ---------- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1007   EQGLSDYVEH LGQVFGVGFV DS-------- ---------- ---------- 
+POLG_TMEVB      1114   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2      1172   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       842   ldyfrikyle savdsehifs vdkncetiak difgthtlsq hqaiglvgti 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1049   ---------- ---------- ---------- ---ISEKVTE LTTMVTSTIT 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1029   ---------- ---------- ---------- ---IKQQVnf inp--TSKIG 
+POLG_TMEVB      1114   ---------- ---------- ---------- ---------- -TTLVSPEFW 
+POLG_HPAV2      1172   ---------- ---------- ---------- ------LIQK LRTVYSMAQV 
+POLG_EC22H       892   lltaglmsti ktpvnavtik effnhaidgd eqgLSLLVQK CTTFFSSAAT 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1066   EKLLKNLVKI VSAL------ --VIVVRNYE DTTTILATLA LLGCDI---S 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1044   SKVIKWLLRI VSAM------ --IIMVRNSS DPQTVIATLT LLGCSG---S 
+POLG_TMEVB      1123   SKLILKTTKF IAAS------ --VLYLHNPD FTTTVCLSLM TGVDLLTNdS 
+POLG_HPAV2      1186   D--------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       942   EILDNDLVKF Ivkilvrilc ymVLYCHKPN ILTTACLSTL LIMDVTSSsv 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1105   PWQW------ ---------- ---------- -----LKKKA CDLLEIPHV- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1083   PWRF------ ---------- ---------- -----LKEKL CAWLQLSYV- 
+POLG_TMEVB      1165   VFDW------ ---------- ---------- -----LKQKL SSFFRTPppa 
+POLG_HPAV2      1187   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H       992   lspsckalmq clmdgdvkkl aeivaesmsn tdddeVKEQI CDTVKYTKT- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1123   ---MRQGDGW MKKFTEACNA AKGLRWVSNK ISKFVDWLKc kIIPEAKDKV 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1101   ---HKQSDSW LKKFTEACNA ARGLEWIGQK ISKFIDWIKS -MLPQAQLKI 
+POLG_TMEVB      1184   cPNVMQPQGP LREANEGFTF AKNIEWAMKT IQSVVNWLTS -WFKQEedhp 
+POLG_HPAV2      1187   -PNLMVHLSP LRDCiarvhq klknlgfinq am-------- ---------- 
+POLG_EC22H      1041   ---ILSNQGP FKGFNEVSTA FRHIDWWIHT LLKIKDMVLS -VFKpsiesk 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1170   EFLTKLKQLD MLENQIATIh qscpsqeqQE ILFNNVRWLA VQSRRFAPLY 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1147   DYLTKLKQLN LLEKQIETIr lapasv--QE KIFIEINTLH DLSLKFLPLY 
+POLG_TMEVB      1233   qskldkllme fpdhcrnimd mrngrka--- ---------- YCECTASFKy 
+POLG_HPAV2      1218   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H      1087   aiqwlernke hvcsildyas diiveskdqs kmktqdfyqr YSDCLAKFKp 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1220   AVEARRISKM ESTINNYIqf kskh------ --------RI EPVCMLVHGS 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1195   ASEARRIKNL YIKCSNVIkg gk-------- --------RN EPVAVLIHGS 
+POLG_TMEVB      1270   fdelynlavt ckriplaslc ekfknrh--- ---DHSVTRP EPVVVVLRGA 
+POLG_HPAV2      1218   ---------- ---------- ---------- ------VTRC EPVVCYLHGK 
+POLG_EC22H      1137   imaicfrsch nsisntvyrl fqelaripnr istNNDLIRI EPIGIWIQGE 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1256   PGTGKGIASS LIGRAIAER- ETT----SVY SVPLAPSHFD GYKQQgyd-M 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1229   PGTGKSLATS VLARMLTve- --T----DIY SLPPDPKYFD GYDQQSVVIM 
+POLG_TMEVB      1314   AGQGKSVTSQ IIAQSVSKma fgrq---SVY SMPPDSEYFD GYENQFSVIM 
+POLG_HPAV2      1232   RGGGKSLTSI ALATKICKH- YgvepekNIY TKPVASDYWD GYSGQLVCII 
+POLG_EC22H      1187   PGQGKSFLTH TLSRQLQKsc KLN----GVF TNPTASEFMD GYDNQDIHLI 
+                                                                 
+                       0000000000 0000000000 0000000001 1111111111 1111111112 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1300   DDLNQNPDGM DMKLFCQMVS TVEFIPPMAS LEEKGILFTS DYVLASTNSH 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1272   DDIMQNPSGE DMTLFCQMVS SVPFIPPMAD LPDKGKPFTS KFVLASTNHT 
+POLG_TMEVB      1361   DDLGQNPDGE DFTVFCQMVS STNFLPNMAH LERKGTPFTS SFIVATTNLP 
+POLG_HPAV2      1281   DDIGQNTTDE DWSDFCQLVS GCPMRLNMAS LEEKGRHFSS PFIIATSNWS 
+POLG_EC22H      1233   DDLGQTRKEK DIEMLCNCIS SVPFIVPMAH LEEKGKFYTS KLVVATTNKS 
+                                                                 
+                       2222222222 2222222221 1111112222 2222211111 1111111111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1350   SIAPPTVAHS DALTRRFAFD VEVYTMSEHS VKGKLNMATA Tqlckdc--P 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1322   LLTPPTVSSL PAMARRFYFD LDIQVKKEYL LDGKLDIAKS FRpcdvniki 
+POLG_TMEVB      1411   KFRPVTVAHY PAVDRRITFD FTVtagphck tpagmldvek afdeipgskP 
+POLG_HPAV2      1331   NPSPKTVYVK EAIDRRLHFK VEVkpasffk nphndmlnvn laktndaikd 
+POLG_EC22H      1283   DfsstvlqdS GALKRRFPYI MHIRAAKAYS KAGKLNVSQA MAtmstgecw 
+                                                                 
+                       1000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1398   TPANFKKCCP LVCGKALQLM DRYTRQRFTV DEITTLIMNE KNRRANIGNC 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1372   gna---KCCP FICGKAVEFK DRNSCTTLSL SQLYSHIKEE DRRRSSAAQA 
+POLG_TMEVB      1461   QLACFSADCP LLHKRGVMFT CNRTQTVYNL QQVVKMVNDT ITRKTEnvkk 
+POLG_HPAV2      1381   mscvdlimdg hnVSL----- ---------M DLLSSLVMTV DIRKQNMTEF 
+POLG_EC22H      1333   evskngrdwe t-LKL----- ---------K DLVDKITIDY NERVKNYNAW 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1448   MEALFQGPlr ykdlkidvkt vPPPECISDL LQAVDSQEVR DYCEKKGWIV 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1419   MEAIFQGIDl qs-------- -PPPPAIADL LRSVKTPEII KYCQDNNWIV 
+POLG_TMEVB      1511   mnslvaqspp dwehfenilt clrqnnaalq dqldelqeaf aqarersdfl 
+POLG_HPAV2      1417   MELWSQGISD DNDSAVaeff qsfpsgepsn sklsgffqsv tnhkwvavga 
+POLG_EC22H      1368   KQQLENQTLD DLDDAVsyik hnfpdaipyv deylniemst lieqmeafie 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1498   nvtsqiqler --NINRAMTI LQAVTTFAAV AGVVYVMYKL FAGQQGAYTG 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1460   paecsierdl gianmtigi- ---IANVVSI VGVIYIIYKL FCTLQGPYSG 
+POLG_TMEVB      1561   sdwlkvsaii faGIASLSAV IKLASKFKES IWPTPVRVEL SEGEQAAYAG 
+POLG_HPAV2      1467   avgilgvlvg gwvvykhfsh keeepipaeg vyhgvtkpkh vikldadpve 
+POLG_EC22H      1418   pkpsvfkcfa nkigskiska srevvdwfsd kiksmlsfve rnkawltvvs 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1546   LPNKKPNVPT IRIakvqgpg fdyavamaKR NIVTATTTKG EFTMLGVHDN 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1506   EPKPKSRAPE RRVvtqgpee efgrsll-KH NCCVVTTDKG KFTGLGIYDQ 
+POLG_TMEVB      1611   raraqkqalq vldiqgggkv laqagnpvmd felfcakniv apitfyypdk 
+POLG_HPAV2      1517   sqstleiagl vrknlvqfgv gekngcvrwv mna------- ----LGVKDD 
+POLG_EC22H      1468   avts------ ---------- ---------- ---------- ---------- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1596   VAILPTHAAP GETIIVDGkE VEILDARALE ---------- ------DQAG 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1555   VMVLPTHSDP GSEILVDGvK VKVSDSYDLH ---------- ------NHEG 
+POLG_TMEVB      1661   aevtqsclll rahlfvvnrh vaetdwtafk lkdvrherht valrsvNRSG 
+POLG_HPAV2      1556   WLLVPSHAyk fekdyemmef yfnrggtyys isagnvviqs ldvgfq---- 
+POLG_EC22H      1472   ---------- ---------- ---------- ---------- ---------A 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1630   TNLEITIITL KRNEKFRDIR PHIPTQITET NDGVLIVNTS KYPNmyVPVG 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1589   VKLEITVVKL IRNEKFKDIR KYLPSREDDY PACNlallan qdeptiISVG 
+POLG_TMEVB      1711   AKTDLTFIKV TKGPLFKDNV NKFCSNKDDF PARNDTVTgi mntglafvys 
+POLG_HPAV2      1602   ---DVVLMKV PTIPKFRDIT EHFIKKGDVP RALNRLATlv ttvngtpmli 
+POLG_EC22H      1473   ISILLLVTKI FKKEESKDER AYNPTLPVAK PKGTFPVSQR EFKNeapydg 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1680   AVTEQ----- ---------- ---------- ---------- ---------- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1639   DAVSY----- ---------- ---------- ---------- ---------- 
+POLG_TMEVB      1761   gnflignqpv ntttgacfnh c--------- ---------- ---------- 
+POLG_HPAV2      1649   segplkmeek atyvhkkndg ttvdltvdqa wrgkgeglpg mcg------- 
+POLG_EC22H      1523   qlehiisqma yitgsttghm thcagyqhde iilhghsiky leqedeltlh 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1685   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1644   ---------- ---------- ---------- ---------- ---------- 
+POLG_TMEVB      1782   ---------- ---------- ---------- ---------- ---------- 
+POLG_HPAV2      1692   ---------- ---------- ---------- ---------- ---------- 
+POLG_EC22H      1573   yknkvfpieq psvtqvtlgg kpmdlailkc klpfrfkkns kyytnkigte 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1685   ---------- ---------- ---GYLNLSG RQTARTLMYN FPTRAGQCGG 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1644   ---------- ---------- ---GNILLSG TNTARMIKYH YPTKAGYCGG 
+POLG_TMEVB      1782   ---------- ---------- ---------- ------LHYR AQTRRGWCGS 
+POLG_HPAV2      1692   ---------- ---------- ---------- ---------- --------GA 
+POLG_EC22H      1623   smliwmteqg iitkevqrvh hsgGIKTREG TESTKTISYT VKSCKGMCGG 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1712   IITCtG---- KVIGMHVGGN GSHGFAAALK RSYFTQNQGE IQWMRSSKev 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1671   VLykvG---- SILGIHVGGN GRDGFSAMLL KSYFGETQGl itkelpvsvk 
+POLG_TMEVB      1796   AIICNVNGKK AVYGMHSAGG GGLAAATIIT KELIEaaeks mlalepqgai 
+POLG_HPAV2      1694   LVSSNQSIQN AILGIHVAGG NSILVAKLVT QEMFQNIDKK IESQRIMKve 
+POLG_EC22H      1673   LLISKVEGNF KILGMHIAGN GEMGVAipfn flkndmsdqg ivteitp--- 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1758   gyP----IIN APSKTKLEPS AFHYVFEGVK EPAVLTKNDP RLKTDFEEAI 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1717   nLP----SVH VSSKTRLQPS VFHDVFPGTK EPAVLSSNDP RLETDFDSAL 
+POLG_TMEVB      1846   vdiatgsVVH VPRKTKLRRT VAHDVFQPKF EPAVLSRYDP RTDKDVDvva 
+POLG_HPAV2      1744   ftqcs---MN VVSKTLFRKS PIYHHIDKTM infpaampfs kaeidpmavm 
+POLG_EC22H      1720   -IQ----PMY INTKTQIHKS PVYGAVEVKM GPAVLSKSDT RLEEPVECLI 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1804   FSKYVGNKIT EVDEYMKEAV DHYAGQLMSL DINTEq---M CLEDAMYGTD 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1763   FSKYKGNPAC QVTPHMKIAV AHYAAQLSTL DINPQp---L SLEESVFGIE 
+POLG_TMEVB      1896   fskhttnmes lppifdvvcg eyanrvftil gke---NGLL TVEQAVLGLP 
+POLG_HPAV2      1791   lskyslpive epegykeasi fyqnkivgkt qlvddf---L DLDMAITGAP 
+POLG_EC22H      1765   KKsaskyrvn kfqvnnelwq gvkacvkskf reifgmNGIV DMKTAILGTS 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0111111111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1851   GLEALDLSTS AGYPYVAMGK KKRDILDKQT RDtkemqrll DTYG------ 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1810   GLEALDLNTS AGFPYVSLGI KKKDLIDKKT KDitklrkai DEYG------ 
+POLG_TMEVB      1943   GMDPMEKDTS PGLPYTQQGL RRTDLLNfit akmtpqldya hsklvigvyd 
+POLG_HPAV2      1838   GIDAINMDSS PGFPYVQEKL TKRDLIWLDe nglllgvhpr laqrilfntv 
+POLG_EC22H      1815   HVNSMDLSTS AGYSFVKSGY KKKDLICLEp fsvapllerl vqdkfhnllk 
+                                                                 
+                       1111111111 1111111111 1111110000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1895   -------INL PLVTYVKDEL RSKTKVEQGK SRLIEASSLN DSVAMRMAFG 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1854   -------IDL PMVTFLKDEL RKKEKIKDGK TRVIEANSVN DTVLFRSVFG 
+POLG_TMEVB      1993   --------DV VYQSFLKDEI RPIEKIHEAK TRIVDVPPFA HCIWGRQLLG 
+POLG_HPAV2      1888   mmencsdLDV VFTTCPKDEL RPLEKVLESK TRAIDACPLD YTILCRMYWG 
+POLG_EC22H      1865   gnqittt--- -FNTCLKDEL RKLDKIASGK TRCIEACEVD YCIVYRMIMM 
+                                                                 
+                       0000000000 0111111111 1111111111 1111111111 1110011111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1938   NLYAAFHKNP GVVTGSAVGC DPDLFWSKIP VL---ME--E KLFAFDYTGY 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1897   NLFSAFHKNP GIVTGSAVGC DPEVFWSTIP LM---LDG-E CLMAFDYSNY 
+POLG_TMEVB      2035   RFASKFQTKP GLELGSAIGT DPDVDWTRYA VE---LSGfN YVYDVDYSNF 
+POLG_HPAV2      1938   PAISYFHLNP GFHTGVAIGI DPDKQWDELf ktmirFG--D VGLDLDFSAF 
+POLG_EC22H      1911   EIYDKIYQTP CYYSGLAVGI NPYKDWHFMI NA---LN--D YNYEMDYSQY 
+                                                                 
+                       1111111111 1111111111 1111111110 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      1983   DASLSPAWFE ALKMVLEKIG FGN----R-V dyIDYLNHSH HLYKNKTYCV 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1943   DGSLHPVWFK CLSMLLEDIG FSS----Q-L --INQICNSK HIYKSKYYEV 
+POLG_TMEVB      2082   DASHSTAMFE CLinnffteq ngfdrriaey lrslav--SR HAYEDRRVLI 
+POLG_HPAV2      1986   DASLSPFMIR EAGRIMSELS GTPShfgtaL --INTIIYSK HLLYNCCYHV 
+POLG_EC22H      1956   DGSLSSMLLW EAVEVLAYCH DSPDlvmQ-L --HKPVIDSD HVVFNERWLI 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000011 1111111111 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      2028   KGGMPSGCSG TSIFNSMINN LIIRTLLLRT YKGIDLDH-- -LKMIAYGDD 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      1986   EGGMPSGCAG TSIFNTIINN IIIRTLVLDA YKNIDLDK-- -LKILAYGDD 
+POLG_TMEVB      2130   RGGLPSGCAA TSMLNTIMNN VIIRAALYLT YSNFDFDD-- -IKVLSYGDD 
+POLG_HPAV2      2034   CGSMPSGSPC TALLNSIINN Vnlyyvfski fgkspvffcq aLKILCYGDD 
+POLG_EC22H      2003   HGGMPSGSPC TTVLNSLCNl mmc---IYTT NLISPGID-- -CLPIVYGDD 
+                                                                 
+                       1111111111 1111111111 1111111100 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      2075   VIASYPHEVD ASLLAQSGKD YGLT-----M TPADKSATFE TVTW-ENVTF 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      2033   VIFSYNFKLD MAVLAKEGEK YGLT-----I TPADKSDVFQ ELTY-KNVTF 
+POLG_TMEVB      2177   LLIGTNYQID FNLVKERLAP FGYK-----I TPANKTTTFP LTSHLQDVTF 
+POLG_HPAV2      2084   VLIVFSRDVQ IDNLDLIGqk ivdefkklgM TATSADKNVP QLKPVSELTF 
+POLG_EC22H      2047   VILSLDKEIE PEKLQSIMAd sfgaevtgsr kdep-----P SLKPRMEVEF 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ---------- 
+POLG_CXA21      2119   LKRFFRADEK YPFLVHPVMP MKEIHESIRW TKDPRNTQDH VRSLCLLAWH 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ---------- 
+POLG_HRV89      2077   LKRGFRADER HsFLIHPTFP VAEIHDSIRW TKNPSCMQEH VLSLCHLMWH 
+POLG_TMEVB      2222   LKRRFVRFNS YLFrpqmdav nlkamvsyc- --KPGTLKEK LMSIALLAVH 
+POLG_HPAV2      2134   LKRSFnlved rirpaise-- -KTIWSLIAW QRSNAEFEQN LENAQWFAFM 
+POLG_EC22H      2092   LKRkpgyfpe stfivgkldt -ENMIQHLMW MKNFSTFKQQ LQSYLMELCL 
+                                                                 
+                       0000000000 0000000000 0000000000 0000000000 0000000000 
+ 
+1al2_ac          269   ---------- ---------- ---------- ---------- ------ 
+POLG_CXA21      2169   NGEEEYNKFL AKIRSVPIGR ALLLPEYSTL YRRWLDSF-- ------ 
+POLG_EC16H       863   ---------- ---------- ---------- ---------- ------ 
+POLG_HRV1A       833   ---------- ---------- ---------- ---------- ------ 
+POLG_HRV89      2127   NGRHAYQEFI KGIRSVSAGR ALYIPAYEVL EHEWYEKF-- ------ 
+POLG_TMEVB      2269   SGPDIYDEIF LPFRNVG--- -IVVPTYSSM LYRWLSLFr- ------ 
+POLG_HPAV2      2181   HGYEFYQKFY YFVQSCLeke mieyrlksyd wwrmrfydqc ficdls 
+POLG_EC22H      2141   HGKDTYQHYI KILEPYLqew nitvddydvv itklmpmvfd ------ 
+                                                             
+                       0000000000 0000000000 0000000000 0000000000 000000 
+ 
+
+ 
+ 
+   Sequence tree:
+   ==============
+
+Tree constructed using UPGMAbased on DIALIGN fragment weight scores
+ 
+(((1al2_ac     :0.004451(((POLG_CXA21  :0.000927POLG_HRV89  :0.000927):0.000569POLG_HRV1A  :0.001496):0.000519POLG_EC16H  :0.002015):0.002436):0.001918POLG_TMEVB  :0.006368):0.012386(POLG_HPAV2  :0.010897POLG_EC22H  :0.010897):0.007857);
+ 
+ 
