@@ -20,11 +20,11 @@ typedef struct
 {
     int longueur;
 
-    // might map positions to eq class numbers?
+    /// might map positions to eq class numbers?
     int *aligSetNbr;
-    // maybe this is next class information
+    /// maybe this is next class information
     int *predAligSetPos;
-    // maybe this is next class information
+    /// maybe this is next class information
     int *succAligSetPos;
 } sequence;
 
@@ -34,23 +34,23 @@ typedef struct
     sequence* seq;
     int maxLong;
 
-    // this stores information about which eq class is aligned with which 
-    // positions for each sequence
-    // is used to tell if a eq class is aligned with a seq (not aligned if val == 0)
+    /// this stores information about which eq class is aligned with which 
+    /// positions for each sequence
+    /// is used to tell if a eq class is aligned with a seq (not aligned if val == 0)
     positionSet* aligSet;
-    // how many eq ckasses are there
+    /// how many eq ckasses are there
     int nbrAligSets, oldNbrAligSets;
 
-    // these are prob used to save the actual frontiers,
-    // they are indexed with a eq class id and a sequence id
+    /// these are prob used to save the actual frontiers,
+    /// they are indexed with a eq class id and a sequence id
     int **predFrontier, **succFrontier;
 
     int* topolog;
-    // gauche and droite might be next class information?
-    // gauche is left
-    // and droite is right
+    /// gauche and droite might be next class information?
+    /// gauche is left
+    /// and droite is right
     int *gauche1, *gauche2, *droite1, *droite2;
-    // indexed with 2 seq numbers
+    /// indexed with 2 seq numbers
     int **pos_;
 
 } CLOSURE;

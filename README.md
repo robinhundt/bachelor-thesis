@@ -17,4 +17,4 @@ Contains the Balibase3 and IRMBase2 datasets. Currently only Balibase is used bu
 The results of running the different alignment tools on the balibase data and scoring the resulting alignments. This folder is created by the tool in `alignment-evaluation`.
 
 ### pattern_sets
-The pattern sets that are used for the evaluation of `spam-align`.
+The pattern sets that are used for the evaluation of `spam-align`.cod

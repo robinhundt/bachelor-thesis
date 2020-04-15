@@ -1,26 +1,15 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Document Structure}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Paragraph Formatting}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Font}{2}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Emphasizing}{2}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Font Styles}{2}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Font Sizes}{3}{subsection.1.3.3}%
-\contentsline {section}{\numberline {1.4}Colors}{3}{section.1.4}%
-\contentsline {section}{\numberline {1.5}List Structures}{3}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Tables}{5}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}Table Environment}{5}{subsection.1.6.1}%
-\contentsline {section}{\numberline {1.7}Using Graphics}{6}{section.1.7}%
-\contentsline {subsection}{\numberline {1.7.1}Figure Environment}{6}{subsection.1.7.1}%
-\contentsline {section}{\numberline {1.8}Citing}{7}{section.1.8}%
-\contentsline {section}{\numberline {1.9}Footnotes}{7}{section.1.9}%
-\contentsline {section}{\numberline {1.10}Mathmode}{8}{section.1.10}%
-\contentsline {section}{\numberline {1.11}Listings}{8}{section.1.11}%
-\contentsline {section}{\numberline {1.12}Acronyms}{9}{section.1.12}%
-\contentsline {section}{\numberline {1.13}PDF/A validation}{9}{section.1.13}%
-\contentsline {chapter}{\numberline {2}Basics}{11}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Analysis}{13}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Design}{15}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Implementation}{17}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{19}{chapter.6}%
-\contentsline {chapter}{Bibliography}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {2}Basics}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Multiple sequence alignment}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Prior Work}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Algorithm}{7}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Implementation}{9}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Evaluation}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}BAliBASE 3}{11}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Sum-of-pairs and column score}{11}{section.6.2}%
+\contentsline {section}{\numberline {6.3}MAFFT}{11}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Results}{11}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Conclusion}{13}{chapter.7}%
+\contentsline {subsection}{\numberline {7.0.1}Further work}{13}{subsection.7.0.1}%
+\contentsline {chapter}{Bibliography}{15}{chapter*.4}%

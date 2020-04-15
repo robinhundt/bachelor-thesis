@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  11 APR 2020 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  15 APR 2020 15:15
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -390,6 +390,14 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/marvosym/marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen175
+\WF@size=\dimen176
+\c@WF@wrappedlines=\count292
+\WF@box=\box57
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/filecontents/filecontents.sty
 Package: filecontents 2019/09/20 v1.5 Create an external file from within a LaT
 eX document
@@ -404,13 +412,15 @@ Package filecontents Warning: This package is obsolete. Disabling it and
 LaTeX Warning: File `main.xmpdata' already exists on the system.
                Not generating it from this source.
 
-(./colorprofiles.sty
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/colorprofiles/colorprofiles.sty
 Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A sup
 port
- (./colorprofiles.tex))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/pdfx/pdfx.sty
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/colorprofiles/colorprofiles.tex
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/pdfx/pdfx.sty
 Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
-\pdfx@minorversion=\count292
+\pdfx@minorversion=\count293
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
@@ -436,8 +446,8 @@ File: l8ugrk-penc.def 2018/11/28 v0.6 Greek support for UTF8 in XMP metadata
 File: l8umath-penc.def 2017/06/23 v0.6 Custom LaTeX file, for UTF8 encoded math
  symbols
 ))
-\pdfxsafeforxmp@toks=\toks24
-\pdfx@tmptoks=\toks25
+\pdfxsafeforxmp@toks=\toks25
+\pdfx@tmptoks=\toks26
 
 
 Package hyperref Warning: Option `pdftex' has already been used,
@@ -512,12 +522,12 @@ Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS)
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks26
-\MT@count=\count293
+\MT@toks=\toks27
+\MT@count=\count294
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen175
+\MT@outer@kern=\dimen177
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count294
+\MT@listname@count=\count295
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
@@ -536,19 +546,19 @@ Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count295
+\etb@tempcnta=\count296
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box57
+\ttl@box=\box58
 \beforetitleunit=\skip59
 \aftertitleunit=\skip60
-\ttl@plus=\dimen176
-\ttl@minus=\dimen177
-\ttl@toksa=\toks27
-\titlewidth=\dimen178
-\titlewidthlast=\dimen179
-\titlewidthfirst=\dimen180
+\ttl@plus=\dimen178
+\ttl@minus=\dimen179
+\ttl@toksa=\toks28
+\titlewidth=\dimen180
+\titlewidthlast=\dimen181
+\titlewidthfirst=\dimen182
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
@@ -556,25 +566,25 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 72
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 73
 .
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -616,17 +626,17 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
-\scratchdimen=\dimen181
-\scratchbox=\box58
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count299
-\MPscratchDim=\dimen182
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count297
+\scratchdimen=\dimen183
+\scratchbox=\box59
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen184
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks30
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -636,8 +646,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 72.
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring OFF on input line 73.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -649,16 +659,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count302
+\c@section@level=\count303
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-\c@lstlisting=\count303
+\c@lstlisting=\count304
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -667,14 +677,14 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ) ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 72.
+LaTeX Info: Redefining \microtypecontext on input line 73.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 72.
+LaTeX Info: Redefining \showhyphens on input line 73.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -687,9 +697,9 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 72.
+(Font)              <7> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 72.
+(Font)              <5> on input line 73.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -766,213 +776,106 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ] (./content/introduction.tex
 Chapter 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-
- []
+) [1
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
-
- []
-
-[1
-
-
-]
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 83
-.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-
-
-LaTeX Warning: Font shape declaration has incorrect series value `mc'.
-               It should not contain an `m'! Please correct it.
-               Found on input line 20.
-
-
-LaTeX Warning: Font shape declaration has incorrect series value `mc'.
-               It should not contain an `m'! Please correct it.
-               Found on input line 23.
-
-
-LaTeX Warning: Font shape declaration has incorrect series value `mc'.
-               It should not contain an `m'! Please correct it.
-               Found on input line 26.
-
-
-LaTeX Warning: Font shape declaration has incorrect series value `mc'.
-               It should not contain an `m'! Please correct it.
-               Found on input line 46.
-
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `phv' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 98--108
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
-23.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 190--197
-\T1/ppl/m/n/10 (+20) The \T1/pcr/m/n/10 tabular \T1/ppl/m/n/10 (+20) en-vi-ron-
-ment can be used to cre-ate a sim-ple ta-ble:
- []
-
-[5]
-<images/goe_logo_small.jpg, id=223, 25.5655pt x 21.86168pt>
-File: images/goe_logo_small.jpg Graphic file (type jpg)
-<use images/goe_logo_small.jpg>
-Package pdftex.def Info: images/goe_logo_small.jpg  used on input line 245.
-(pdftex.def)             Requested size: 64.0161pt x 54.74774pt.
-File: images/goe_logo_small.jpg Graphic file (type jpg)
-<use images/goe_logo_small.jpg>
-Package pdftex.def Info: images/goe_logo_small.jpg  used on input line 258.
-(pdftex.def)             Requested size: 64.0161pt x 54.74774pt.
- [6 <./images/goe_logo_small.jpg>]
-
-LaTeX Warning: Citation `doe2013' on page 7 undefined on input line 277.
-
-
-LaTeX Warning: Citation `meyer2014' on page 7 undefined on input line 279.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--294
-[][]$\T1/pcr/m/n/10 https : / / www . hochschulverband . de / fileadmin / redak
-tion / download / pdf /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-[][]$\T1/pcr/m/n/10 https : / / www . sub . uni-[]goettingen . de / en / learni
-ng-[]teaching /
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 300.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 300.
-[7]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 330.
- [8]
-Package acronym Info: Label `acro:FYI' newly defined as it shall be overridden
-although it is yet undefined on input line 367.
-
-
-Package acronym Warning: Acronym `FYI' is not defined on input line 367.
-
-
-Package acronym Warning: Acronym `FYI' is not defined on input line 367.
-
-
-Package acronym Warning: Acronym `FYI' is not defined on input line 367.
-
-
-Package acronym Warning: Acronym `FYI' is not defined on input line 368.
-
-
-Overfull \hbox (31.00864pt too wide) in paragraph at lines 373--373
-[]\T1/pcr/m/n/10 \ac{FYI} is a common abbreviation. \ac{FYI} can be used in mul
-tiple contexts.[] 
- []
-
-) [9] [10
+] [2
 
 ] (./content/basics.tex
 Chapter 2.
+) [3
+
+
+] [4
+
+] (./content/prior_work.tex
+Chapter 3.
+) [5
+
+
+] [6
+
+] (./content/algorithm.tex
+Chapter 4.
+) [7
+
+
+] [8
+
+] (./content/implementation.tex
+Chapter 5.
+) [9
+
+
+] [10
+
+] (./content/evaluation.tex
+Chapter 6.
+<./images/balibase.png, id=178, 401.5pt x 401.5pt>
+File: ./images/balibase.png Graphic file (type png)
+<use ./images/balibase.png>
+Package pdftex.def Info: ./images/balibase.png  used on input line 6.
+(pdftex.def)             Requested size: 213.39568pt x 213.40048pt.
+
+Overfull \hbox (42.68175pt too wide) in paragraph at lines 6--7
+ [][] 
+ []
+
 ) [11
 
 
-] [12
+ <./images/balibase.png>] [12
 
-] (./content/analysis.tex
-Chapter 3.
+] (./content/conclusion.tex
+Chapter 7.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
 ) [13
 
 
 ] [14
 
-] (./content/design.tex
-Chapter 4.
-) [15
+] (./main.bbl) [15
 
 
 ] [16
 
-] (./content/implementation.tex
-Chapter 5.
-) [17
+] (./content/appendix_a.tex) [17
 
 
 ] [18
 
-] (./content/conclusion.tex
-Chapter 6.
-) [19
-
-
-] [20
-
-] (./main.bbl) [21
-
-
-] [22
-
-] (./content/appendix_a.tex) [23
-
-] [24
-
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
 
 (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 157.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 83394777FDE460224AE285D9FC967EC5;1513.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+(rerunfilecheck)             Checksum: B9FEB8162DD38D46D969CCC6A03DE2C7;849.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 23931 strings out of 482109
- 392798 string characters out of 5933913
- 814767 words of memory out of 5000000
- 38660 multiletter control sequences out of 15000+600000
- 577051 words of font info for 160 fonts, out of 8000000 for 9000
+ 23341 strings out of 482109
+ 387450 string characters out of 5933913
+ 805976 words of memory out of 5000000
+ 38188 multiletter control sequences out of 15000+600000
+ 554147 words of font info for 80 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  36i,12n,50p,1193b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
-019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/201
-9/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2019/texmf-
-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fon
-ts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
-1/urw/palatino/uplb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/p
-alatino/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino
-/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8
-a.pfb>
-Output written on main.pdf (34 pages, 705272 bytes).
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2019/texmf
+-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (28 pages, 715586 bytes).
 PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 46831 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 261 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 25751 words of extra memory for PDF output out of 29859 (max. 10000000)
 
