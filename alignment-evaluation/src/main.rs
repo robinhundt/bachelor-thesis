@@ -28,14 +28,14 @@ fn main() -> Result<()> {
     //     "../evaluation-data/".into(),
     // )
     // .unwrap();
-    compute_results_for_balibase(
-        AlignmentProgram::MafftFast,
-        &["--quiet", "--retree", "1", "--maxiterate", "0"],
-        vec![],
-        "../datasets/bb3_release".into(),
-        "../evaluation-data/".into(),
-    )
-    .unwrap();
+    // compute_results_for_balibase(
+    //     AlignmentProgram::MafftFast,
+    //     &["--quiet", "--retree", "1", "--maxiterate", "0"],
+    //     vec![],
+    //     "../datasets/bb3_release".into(),
+    //     "../evaluation-data/".into(),
+    // )
+    // .unwrap();
     //
     // compute_results_for_balibase(
     //     AlignmentProgram::Dialign,
@@ -46,28 +46,28 @@ fn main() -> Result<()> {
     // )
     // .unwrap();
 
-    // for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_cunt(31) {
-    //     let pattern_set_path = pattern_set_path?;
-    //     let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
-    //     let pattern_set = PatternSet {
-    //         patterns: pattern_set,
-    //         name: pattern_set_path
-    //             .path()
-    //             .file_stem()
-    //             .unwrap()
-    //             .to_string_lossy()
-    //             .to_owned()
-    //             .to_string(),
-    //     };
-    //     compute_results_for_balibase(
-    //         AlignmentProgram::SpamAlign(pattern_set),
-    //         &vec![],
-    //         vec![],
-    //         "../datasets/bb3_release".into(),
-    //         "../evaluation-data/".into(),
-    //     )
-    //     .unwrap();
-    // }
+    for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(31) {
+        let pattern_set_path = pattern_set_path?;
+        let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
+        let pattern_set = PatternSet {
+            patterns: pattern_set,
+            name: pattern_set_path
+                .path()
+                .file_stem()
+                .unwrap()
+                .to_string_lossy()
+                .to_owned()
+                .to_string(),
+        };
+        compute_results_for_balibase(
+            AlignmentProgram::SpamAlign(pattern_set),
+            &vec![],
+            vec![],
+            "../datasets/bb3_release".into(),
+            "../evaluation-data/".into(),
+        )
+        .unwrap();
+    }
 
     Ok(())
 }

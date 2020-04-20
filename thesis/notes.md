@@ -65,6 +65,8 @@ The thesis has to be in PDF/A format for archiving. This template automatically 
 
 
 # Ideas
+- When using max dim approach also generate pairwise diags because filtered out micro aligs might result in positions not being aligned who would otherwise be aligned
 - Extending found spaced word matches
 - provide multiple pattern sets with different weight ratios, first construct diagonals for pattern sets with high weights -> add diagonals above $THRESHOLD but retain those below -> construct diagonals with lower weight ratio (this should be faster since earlier diagonals provide anchors and search space is smaller) -> merge new diagonals with earlier ones -> add to alignment
     - is threshold needed? Pattern with high enough weight provide indirect threshold anyway
+- have a look at overlap weights?
