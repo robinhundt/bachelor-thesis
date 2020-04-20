@@ -21,21 +21,21 @@ use spam_align::{read_fasta, write_as_fasta};
 
 fn main() -> Result<()> {
     // compute_results_for_balibase(
-    //     AlignmentProgram::MafftAuto,
-    //     &["--quiet", "--auto"],
+    //     AlignmentProgram::MafftAccurate,
+    //     &["--quiet", "--localpair", "--maxiterate", "1000"],
     //     vec![],
     //     "../datasets/bb3_release".into(),
     //     "../evaluation-data/".into(),
     // )
     // .unwrap();
-    // compute_results_for_balibase(
-    //     AlignmentProgram::MafftFast,
-    //     &["--quiet", "--retree", "1", "--maxiterate", "0"],
-    //     vec![],
-    //     "../datasets/bb3_release".into(),
-    //     "../evaluation-data/".into(),
-    // )
-    // .unwrap();
+    compute_results_for_balibase(
+        AlignmentProgram::MafftFast,
+        &["--quiet", "--retree", "1", "--maxiterate", "0"],
+        vec![],
+        "../datasets/bb3_release".into(),
+        "../evaluation-data/".into(),
+    )
+    .unwrap();
     //
     // compute_results_for_balibase(
     //     AlignmentProgram::Dialign,
@@ -73,7 +73,7 @@ fn main() -> Result<()> {
 }
 
 enum AlignmentProgram {
-    MafftAuto,
+    MafftAccurate,
     MafftFast,
     Dialign,
     SpamAlign(PatternSet),
@@ -150,7 +150,7 @@ fn compute_results_for_balibase(
             let mut out_path = out_folder_path.clone();
             out_path.push(fasta_file.file_name().unwrap());
             let duration = match &program {
-                AlignmentProgram::MafftAuto | AlignmentProgram::MafftFast => {
+                AlignmentProgram::MafftAccurate | AlignmentProgram::MafftFast => {
                     run_mafft(fasta_file, &out_path, args).unwrap()
                 }
                 AlignmentProgram::Dialign => {

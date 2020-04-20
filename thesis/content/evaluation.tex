@@ -1,6 +1,6 @@
 \chapter{Evaluation}
 
-\section{\bb 3}
+\section{\bb 3 alignment benchmark dataset}
 \begin{wrapfigure}{r}{0.4\textwidth}
 	\centering
 	\includegraphics[width=0.5\textwidth]{./images/balibase.png}
@@ -67,8 +67,21 @@ Given a test alignment $A_t$ and a reference alignment $A_r$ with $M$ sequences 
 \end{mydef}
 Note that $C_i = 1$ only if all the residues in the $i$-th column are aligned correctly and no residue belonging to this column is part of another one. For this reason, the numerator is smaller or equal to the denominator.\\
 The definition of the column score is slightly different than that provided by the authors of \bb \cite{thompson1999comprehensive} but resembles the actual implementation in the included BaliScore tool and its reimplementation provided with this thesis.\\
-These scores are only calculated for the core blocks of the \bb alignments, meaning that for the following evaluation, $A_t$ is an alignment over the full sequences, while $A_r$ contains only the aligned residues inside the core blocks.
+These scores are only calculated for the core blocks of the \bb alignments, meaning that for the following evaluation $A_t$ is an alignment over the full sequences, while $A_r$ contains only the aligned residues inside the core blocks.
 
-\section{MAFFT}
+\section{Evaluated programs}
+
+
+\subsection{Mafft}
+Additionally to \textit{Dialign2.2} and \textit{spam-align} the widely used multiple alignment program \textit{MAFFT} (version 7) is evaluated. It employs a progressive alignment strategy 
+
+\begin{itemize}
+	\item progressive alignment
+	\item guide tree from all pairwise alignments
+\end{itemize}
+
+\subsection{Dialign}
+
+\subsection{Spam}
 
 \section{Results}

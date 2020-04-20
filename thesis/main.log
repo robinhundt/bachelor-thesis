@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  20 APR 2020 14:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  20 APR 2020 15:24
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -882,12 +882,17 @@ Chapter 1.
 
 ] (./content/basics.tex
 Chapter 2.
-) [3
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 6
+.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)) [3
 
 
 ] [4
 
-] (./content/prior_work.tex
+]
+(./content/prior_work.tex
 Chapter 3.
 ) [5
 
@@ -910,7 +915,7 @@ Chapter 5.
 
 ] (./content/evaluation.tex
 Chapter 6.
-<./images/balibase.png, id=183, 401.5pt x 401.5pt>
+<./images/balibase.png, id=218, 401.5pt x 401.5pt>
 File: ./images/balibase.png Graphic file (type png)
 <use ./images/balibase.png>
 Package pdftex.def Info: ./images/balibase.png  used on input line 6.
@@ -920,15 +925,11 @@ Overfull \hbox (42.68175pt too wide) in paragraph at lines 6--7
  [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
-7.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [11
+[11
 
 
  <./images/balibase.png>]
-<./images/balibase-web.png, id=197, 629.35126pt x 216.81pt>
+<./images/balibase-web.png, id=232, 629.35126pt x 216.81pt>
 File: ./images/balibase-web.png Graphic file (type png)
 <use ./images/balibase-web.png>
 Package pdftex.def Info: ./images/balibase-web.png  used on input line 35.
@@ -938,24 +939,25 @@ line 45.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <./images/balibase-web.png>]) [13] [14
-
-] (./content/conclusion.tex
-Chapter 7.
-) [15
-
+ [12 <./images/balibase-web.png>]) [13] [14] [15
 
 ] [16
 
-] (./main.bbl) [17
-
+] (./content/conclusion.tex
+Chapter 7.
+) [17
 
 ] [18
 
-] (./content/appendix_a.tex) [19
+] (./main.bbl) [19
 
 
 ] [20
+
+] (./content/appendix_a.tex) [21
+
+
+] [22
 
 ]
 \tf@thm=\write6
@@ -968,14 +970,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E67233C83BD104F88ADCA9D09F6D959C;912.
+(rerunfilecheck)             Checksum: E1FF90A67DD1BBB56E5A43975D1DCAAE;1409.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
- 25796 strings out of 482109
- 435349 string characters out of 5933913
- 844397 words of memory out of 5000000
- 40591 multiletter control sequences out of 15000+600000
+ 25812 strings out of 482109
+ 435571 string characters out of 5933913
+ 845397 words of memory out of 5000000
+ 40598 multiletter control sequences out of 15000+600000
  561345 words of font info for 102 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  36i,19n,50p,1193b,2663s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -993,9 +995,9 @@ t/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts
 /urw/palatino/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/pa
 latino/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/
 uplri8a.pfb>
-Output written on main.pdf (30 pages, 823690 bytes).
+Output written on main.pdf (32 pages, 831473 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 28836 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 366 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 28892 words of extra memory for PDF output out of 29859 (max. 10000000)
 
