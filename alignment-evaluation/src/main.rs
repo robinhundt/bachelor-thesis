@@ -1,26 +1,23 @@
-use crate::data_loaders::balibase::parse_xml_file;
-use crate::score::{compute_scores, AlignmentScores};
-use anyhow::Result;
-use indicatif::ProgressIterator;
-use itertools::Itertools;
-use rayon::prelude::*;
-use serde::{Deserialize, Serialize};
-use spam_align::align::{align, AlignProgress};
-use spam_align::spaced_word::{read_patterns_from_file, Pattern};
-use spam_align::{format_as_fasta, read_fasta, write_as_fasta, Alignment};
 use std::ffi::OsStr;
 use std::fmt::Display;
 use std::fs::{DirEntry, File};
 use std::iter::FromIterator;
 use std::ops::{Add, Not};
 use std::path::PathBuf;
-use std::process::{Command, ExitStatus, Stdio};
+use std::process::Command;
 use std::sync::Mutex;
 use std::time::{Duration, Instant};
 use std::{fmt, fs};
 
-mod data_loaders;
-mod score;
+use anyhow::Result;
+use bali_score::{balibase, compute_scores, fasta, AlignmentScores};
+use indicatif::ProgressIterator;
+use itertools::Itertools;
+use rayon::prelude::*;
+use serde::{Deserialize, Serialize};
+use spam_align::align::{align, AlignProgress};
+use spam_align::spaced_word::{read_patterns_from_file, Pattern};
+use spam_align::{read_fasta, write_as_fasta};
 
 fn main() -> Result<()> {
     // compute_results_for_balibase(
@@ -31,15 +28,15 @@ fn main() -> Result<()> {
     //     "../evaluation-data/".into(),
     // )
     // .unwrap();
-    compute_results_for_balibase(
-        AlignmentProgram::MafftFast,
-        &["--quiet", "--retree", "1", "--maxiterate", "0"],
-        vec![],
-        "../datasets/bb3_release".into(),
-        "../evaluation-data/".into(),
-    )
-    .unwrap();
-
+    // compute_results_for_balibase(
+    //     AlignmentProgram::MafftFast,
+    //     &["--quiet", "--retree", "1", "--maxiterate", "0"],
+    //     vec![],
+    //     "../datasets/bb3_release".into(),
+    //     "../evaluation-data/".into(),
+    // )
+    // .unwrap();
+    //
     // compute_results_for_balibase(
     //     AlignmentProgram::Dialign,
     //     &["-fa"],
@@ -48,8 +45,8 @@ fn main() -> Result<()> {
     //     "../evaluation-data/".into(),
     // )
     // .unwrap();
-    //
-    // for pattern_set_path in fs::read_dir("../pattern_sets/data")? {
+
+    // for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_cunt(31) {
     //     let pattern_set_path = pattern_set_path?;
     //     let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
     //     let pattern_set = PatternSet {
@@ -90,11 +87,11 @@ struct PatternSet {
 impl Display for AlignmentProgram {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         match self {
-            AlignmentProgram::MafftAuto => write!(f, "Mafft-Auto"),
+            AlignmentProgram::MafftAccurate => write!(f, "Mafft-Accurate"),
             AlignmentProgram::MafftFast => write!(f, "Mafft-Fast"),
             AlignmentProgram::Dialign => write!(f, "Dialign"),
             AlignmentProgram::SpamAlign(pattern_set) => {
-                write!(f, "spam-align-{}", pattern_set.name)
+                write!(f, "spam-align-max-dim-{}", pattern_set.name)
             }
         }
     }
@@ -115,6 +112,7 @@ fn compute_results_for_balibase(
     out_path: PathBuf,
 ) -> Result<()> {
     let balibase_folders = ["RV11", "RV12", "RV20", "RV30", "RV40", "RV50"];
+    // let balibase_folders = ["RV20"];
     let balibase_folders = balibase_folders.iter().map(|folder| {
         let mut path = balibase_path.clone();
         path.push(folder);
@@ -162,8 +160,8 @@ fn compute_results_for_balibase(
                     run_spam_align(fasta_file, &out_path, pattern_set).unwrap()
                 }
             };
-            let test_alignment = Alignment::read_fasta(&out_path).unwrap();
-            let ref_alignment = parse_xml_file(xml_file).unwrap();
+            let test_alignment = fasta::parse(&out_path).unwrap();
+            let ref_alignment = balibase::parse(xml_file).unwrap();
             let scores = compute_scores(&ref_alignment, &test_alignment, false);
             let eval_result = EvalResult {
                 scores,
@@ -224,7 +222,7 @@ fn run_dialign(
         .wait()?;
     let alignment_time = now.elapsed();
     assert!(exit_status.success());
-    Ok((alignment_time))
+    Ok(alignment_time)
 }
 
 fn run_spam_align(

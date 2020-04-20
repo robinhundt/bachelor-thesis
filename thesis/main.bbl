@@ -31,4 +31,9 @@ D.~J. Russell, \emph{Multiple Sequence Alignment Methods -}, softcover reprint
   of the original 1st ed. 2014~ed.\hskip 1em plus 0.5em minus 0.4em\relax
   unbekannt: Humana Press, 2016.
 
+\bibitem{thompson1999comprehensive}
+J.~D. Thompson, F.~Plewniak, and O.~Poch, ``A comprehensive comparison of
+  multiple sequence alignment programs,'' \emph{Nucleic acids research},
+  vol.~27, no.~13, pp. 2682--2690, 1999.
+
 \end{thebibliography}

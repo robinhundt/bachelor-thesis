@@ -1,3 +1,6 @@
 [submodule "alignment-evaluation/spam-align"]
 	path = alignment-evaluation/spam-align
 	url = git@gitlab.gwdg.de:robinwilliam.hundt/spam-align.git
+[submodule "alignment-evaluation/bali-score"]
+	path = alignment-evaluation/bali-score
+	url = git@gitlab.gwdg.de:robinwilliam.hundt/bali-score.git

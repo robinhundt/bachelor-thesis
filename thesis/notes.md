@@ -54,6 +54,7 @@ Containing notes and ramblings on this thesis
 # TODOs
 
 What is the objective/scoring function????
+Change output so that unaligned pos are lowercase
 
 ## IMPORTANT pdf/a validation
 The thesis has to be in PDF/A format for archiving. This template automatically generates your file according to the PDF/A standard. It can be that this is violated by changing the document, for example by inserting non-compliant graphics. Please check, whether your final version of the document is PDF/A compliant, e.g., by using a freely available tool like \emph{veraPDF}\footnote{https://verapdf.org/home/}.

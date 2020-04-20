@@ -19,7 +19,10 @@
 
 % OWN packages
 \usepackage{wrapfig}
+\usepackage{amsmath}
 \usepackage{cleveref}
+\usepackage{ntheorem}
+
 
 %--- pdf/a format ----
 % insert metadata about the document here
@@ -35,6 +38,12 @@
 \usepackage[a-1b,mathxmp]{pdfx}[2018/12/22]
 \usepackage[T1]{fontenc}
 \hypersetup{pdfstartview=}
+
+
+\theoremstyle{break}
+\newtheorem{mydef}{Definition}[section]
+\newtheorem{mylemma}{Lemma}[section]
+\newtheorem{mytheorem}{Theorem}[section]
 
 
 %

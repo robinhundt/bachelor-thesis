@@ -342,7 +342,7 @@ void columnscore(ALNPTR test_aln, int nseqs, int seqlength, int* refseq_col, int
 {
     int i, j, k;
     int iseq, ncols;
-    int * 1scores;
+    int* scores;
     int* index;
     int n;
     int* colscore1;
@@ -391,6 +391,10 @@ void columnscore(ALNPTR test_aln, int nseqs, int seqlength, int* refseq_col, int
         /* count 1 for each column */
         if (seq_code[0][i] > 0 && scores[0] >= refseq_col[seq_code[0][i] - 1])
             colscore1[i] = 1;
+
+        // ncols will simply be the number of core blocks at the end ...
+        // except when core blocks are defined by gap threshold, then 
+        // this is probably buggy ...
         if (seq_code[0][i] != 0)
             ncols++;
 

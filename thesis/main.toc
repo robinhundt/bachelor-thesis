@@ -9,8 +9,8 @@
 \contentsline {section}{\numberline {6.1}BAliBASE 3}{11}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}Core blocks}{12}{subsection.6.1.1}%
 \contentsline {section}{\numberline {6.2}Sum-of-pairs and column score}{12}{section.6.2}%
-\contentsline {section}{\numberline {6.3}MAFFT}{12}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Results}{12}{section.6.4}%
+\contentsline {section}{\numberline {6.3}MAFFT}{13}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Results}{13}{section.6.4}%
 \contentsline {chapter}{\numberline {7}Conclusion}{15}{chapter.7}%
-\contentsline {subsection}{\numberline {7.0.1}Further work}{15}{subsection.7.0.1}%
+\contentsline {section}{\numberline {7.1}Further work}{15}{section.7.1}%
 \contentsline {chapter}{Bibliography}{17}{chapter*.4}%

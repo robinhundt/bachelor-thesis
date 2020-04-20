@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 spam-align = {path = "spam-align"}
+bali-score = {path = "bali-score"}
 serde = { version = "1.0.105", features = ["derive"] }
 itertools = "0.9.0"
 rayon = "1.3.0"

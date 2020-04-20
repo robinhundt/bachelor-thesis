@@ -3,37 +3,46 @@
 import subprocess
 
 weight_and_dont_care_position_combinations = """
-|3|3|
-|3|4|
-|3|5|
-|3|6|
-|3|7|
-|4|3|
-|4|4|
-|4|5|
-|4|6|
-|4|7|
-|4|8|
-|5|3|
-|5|4|
-|5|5|
-|5|6|
-|5|7|
-|5|8|
-|5|9|
-|5|10|
-|5|11|
-|7|3|
-|7|4|
-|7|5|
-|7|6|
-|7|7|
-|7|8|
-|7|9|
-|7|10|
-|7|11|
-|7|12|
-|7|13|
+|2|2|
+|2|3|
+|2|4|
+|2|5|
+|2|6|
+|2|7|
+# |3|3|
+# |3|4|
+# |3|5|
+# |3|6|
+# |3|7|
+|3|8|
+|3|9|
+|3|10|
+# |4|3|
+# |4|4|
+# |4|5|
+# |4|6|
+# |4|7|
+# |4|8|
+# |5|3|
+# |5|4|
+# |5|5|
+# |5|6|
+# |5|7|
+# |5|8|
+# |5|9|
+# |5|10|
+# |5|11|
+# |7|3|
+# |7|4|
+# |7|5|
+# |7|6|
+# |7|7|
+# |7|8|
+# |7|9|
+# |7|10|
+# |7|11|
+# |7|12|
+# |7|13|
 """
 
 rasbhari_path = "/home/robin/code/rasbhari-v1.4.0/rasbhari"
@@ -45,6 +54,8 @@ homologue_region_length = ['-H', '20']
 
 
 for line in weight_and_dont_care_position_combinations.strip().split('\n'):
+    if line.startswith("#"):
+        continue
     weight, dont_care = [t for t in line.split('|') if t]
     print(f'Generating patterns for weight {weight} and don\'t care {dont_care}')
 
