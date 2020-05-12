@@ -51,13 +51,6 @@ fn main() -> Result<()> {
     for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(43) {
         let pattern_set_path = pattern_set_path?;
         let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
-        if pattern_set[0].weight() != 3
-            || !(pattern_set[0].dont_care() == 11
-                || pattern_set[0].dont_care() == 12
-                || pattern_set[0].dont_care() == 13)
-        {
-            continue;
-        }
         let pattern_set = PatternSet {
             patterns: pattern_set,
             name: pattern_set_path
