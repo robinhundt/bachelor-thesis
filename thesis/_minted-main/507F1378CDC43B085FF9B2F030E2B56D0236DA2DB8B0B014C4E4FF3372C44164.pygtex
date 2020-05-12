@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{struct} \PYG{n+nc}{Sequences}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{	}\PYG{n}{lengths}: \PYG{n+nb}{Vec}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{usize}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n}{alig\PYGZus{}set\PYGZus{}nbr}: \PYG{n+nc}{Matrix}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{usize}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n}{pred\PYGZus{}alig\PYGZus{}set\PYGZus{}pos}: \PYG{n+nc}{Matrix}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{usize}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n}{succ\PYGZus{}alig\PYGZus{}set\PYGZus{}pos}: \PYG{n+nc}{Matrix}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{usize}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

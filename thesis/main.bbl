@@ -21,15 +21,43 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{Russell2016}
+D.~J. Russell, \emph{Multiple Sequence Alignment Methods -}, softcover reprint
+  of the original 1st ed. 2014~ed.\hskip 1em plus 0.5em minus 0.4em\relax
+  Humana Press, 2016.
+
+\bibitem{morgenstern1996multiple}
+B.~Morgenstern, A.~Dress, and T.~Werner, ``Multiple dna and protein sequence
+  alignment based on segment-to-segment comparison,'' \emph{Proceedings of the
+  National Academy of Sciences}, vol.~93, no.~22, pp. 12\,098--12\,103, 1996.
+
+\bibitem{abdeddaim2000speeding}
+S.~Abdedda{\"\i}m and B.~Morgenstern, ``Speeding up the dialign multiple
+  alignment program by using the ‘greedy alignment of biological sequences
+  library’(gabios-lib),'' in \emph{International Conference on Biology,
+  Informatics, and Mathematics}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Springer, 2000, pp. 1--11.
+
+\bibitem{abdeddaim1997incremental}
+S.~Abdedda{\"\i}m, ``On incremental computation of transitive closure and
+  greedy alignment,'' in \emph{Annual Symposium on Combinatorial Pattern
+  Matching}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 1997, pp.
+  167--179.
+
+\bibitem{Lidl2013}
+R.~Lidl and G.~Pilz, \emph{Applied Abstract Algebra -}, 2nd~ed.\hskip 1em plus
+  0.5em minus 0.4em\relax Berlin Heidelberg: Springer Science \& Business
+  Media, 2013.
+
+\bibitem{hundt2020praktkium}
+R.~W. Hundt, ``Praktikumsbericht,'' \emph{Vertiefte anwendungsorientierte
+  Systementwicklung im forschungsbezogenen Praktikum, Georg-August-Universität
+  Göttingen}, 2020.
+
 \bibitem{thompson2005balibase}
 J.~D. Thompson, P.~Koehl, R.~Ripp, and O.~Poch, ``Balibase 3.0: latest
   developments of the multiple sequence alignment benchmark,'' \emph{Proteins:
   Structure, Function, and Bioinformatics}, vol.~61, no.~1, pp. 127--136, 2005.
-
-\bibitem{Russell2016}
-D.~J. Russell, \emph{Multiple Sequence Alignment Methods -}, softcover reprint
-  of the original 1st ed. 2014~ed.\hskip 1em plus 0.5em minus 0.4em\relax
-  unbekannt: Humana Press, 2016.
 
 \bibitem{thompson1999comprehensive}
 J.~D. Thompson, F.~Plewniak, and O.~Poch, ``A comprehensive comparison of

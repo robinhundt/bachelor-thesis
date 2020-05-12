@@ -1,2 +1,7 @@
-\contentsline {mydef}{{Definition}{6.2.{1}}{Sum-of-pairs score}}{12}{mydef.6.2.1}%
-\contentsline {mydef}{{Definition}{6.2.{2}}{Column score}}{13}{mydef.6.2.2}%
+\contentsline {mydef}{{Definition}{2.2.{1}}{Site}}{4}{mydef.2.2.1}%
+\contentsline {mydef}{{Definition}{2.2.{2}}{Ordering of Sites}}{4}{mydef.2.2.2}%
+\contentsline {mylemma}{{Lemma}{2.2.{1}}{Extension of binary relation to quasi order relation}}{4}{mylemma.2.2.1}%
+\contentsline {mydef}{{Definition}{2.2.{3}}{Consistency}}{4}{mydef.2.2.3}%
+\contentsline {mydef}{{Definition}{2.2.{4}}{Alignment}}{4}{mydef.2.2.4}%
+\contentsline {mydef}{{Definition}{6.2.{1}}{Sum-of-pairs score}}{16}{mydef.6.2.1}%
+\contentsline {mydef}{{Definition}{6.2.{2}}{Column score}}{17}{mydef.6.2.2}%

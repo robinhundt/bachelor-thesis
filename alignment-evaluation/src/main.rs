@@ -49,6 +49,13 @@ fn main() -> Result<()> {
     for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(31) {
         let pattern_set_path = pattern_set_path?;
         let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
+        if pattern_set[0].weight() != 3
+            || !(pattern_set[0].dont_care() == 11
+                || pattern_set[0].dont_care() == 12
+                || pattern_set[0].dont_care() == 13)
+        {
+            continue;
+        }
         let pattern_set = PatternSet {
             patterns: pattern_set,
             name: pattern_set_path
@@ -91,7 +98,7 @@ impl Display for AlignmentProgram {
             AlignmentProgram::MafftFast => write!(f, "Mafft-Fast"),
             AlignmentProgram::Dialign => write!(f, "Dialign"),
             AlignmentProgram::SpamAlign(pattern_set) => {
-                write!(f, "spam-align-max-dim-{}", pattern_set.name)
+                write!(f, "spam-align-{}", pattern_set.name)
             }
         }
     }
@@ -112,7 +119,6 @@ fn compute_results_for_balibase(
     out_path: PathBuf,
 ) -> Result<()> {
     let balibase_folders = ["RV11", "RV12", "RV20", "RV30", "RV40", "RV50"];
-    // let balibase_folders = ["RV20"];
     let balibase_folders = balibase_folders.iter().map(|folder| {
         let mut path = balibase_path.clone();
         path.push(folder);

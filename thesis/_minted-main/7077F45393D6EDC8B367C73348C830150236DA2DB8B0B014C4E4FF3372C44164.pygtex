@@ -1,0 +1,15 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{pub}\PYG{+w}{ }\PYG{k}{struct} \PYG{n+nc}{Closure}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{	}\PYG{n}{sequences}: \PYG{n+nc}{Sequences}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n}{alig\PYGZus{}set}: \PYG{n+nc}{Matrix}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{usize}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{+w}{	}
+\PYG{+w}{	}\PYG{n}{nbr\PYGZus{}alig\PYGZus{}sets}: \PYG{k+kt}{usize}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n}{old\PYGZus{}nbr\PYGZus{}alig\PYGZus{}sets}: \PYG{k+kt}{usize}\PYG{p}{,}
+\PYG{+w}{	}
+\PYG{+w}{	}\PYG{n}{pred\PYGZus{}frontier}: \PYG{n+nc}{Matrix}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{usize}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n}{succ\PYGZus{}frontier}: \PYG{n+nc}{Matrix}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{usize}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{+w}{	}
+\PYG{+w}{	}\PYG{n}{pred\PYGZus{}frontier\PYGZus{}ops}: \PYG{n+nb}{Vec}\PYG{o}{\PYGZlt{}}\PYG{n}{FrontierOp}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{+w}{	}\PYG{n}{succ\PYGZus{}frontier\PYGZus{}ops}: \PYG{n+nb}{Vec}\PYG{o}{\PYGZlt{}}\PYG{n}{FrontierOp}\PYG{o}{\PYGZgt{}}\PYG{p}{,}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

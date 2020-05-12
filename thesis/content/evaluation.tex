@@ -37,6 +37,11 @@ Evaluating and comparing alignment programs is a difficult problem due to the un
 	\label{}
 \end{figure}
 
+\subsection{Quality of Alignments}
+
+Quality measures for protein alignment benchmarks \\
+https://academic.oup.com/nar/article/38/7/2145/3100529
+
 
 \section{Sum-of-pairs and column score}
 Comparing the alignment output of different methods can be done by computing the sum-of-pairs and column scores.\\
@@ -69,6 +74,9 @@ Note that $C_i = 1$ only if all the residues in the $i$-th column are aligned co
 The definition of the column score is slightly different than that provided by the authors of \bb \cite{thompson1999comprehensive} but resembles the actual implementation in the included BaliScore tool and its reimplementation provided with this thesis.\\
 These scores are only calculated for the core blocks of the \bb alignments, meaning that for the following evaluation $A_t$ is an alignment over the full sequences, while $A_r$ contains only the aligned residues inside the core blocks.
 
+
+
+
 \section{Evaluated programs}
 
 
@@ -80,8 +88,12 @@ Additionally to \textit{Dialign2.2} and \textit{spam-align} the widely used mult
 	\item guide tree from all pairwise alignments
 \end{itemize}
 
+\textit{MAFFT} is evaluated for two different alignment strategies, from now on referred to as \textit{fast} and \textit{accurate}
+
 \subsection{Dialign}
 
-\subsection{Spam}
+\subsection{Spam-Align}
+
+
 
 \section{Results}

@@ -1,2 +1,37 @@
 \chapter{Implementation}
-In this chapter, the implementation of ...
+The implementation of the algorithm is done in the Rust programming language \footnote{\href{rust-lang.org/}{rust-lang.org/}} and contained in the git sub module \mintinline{sh}{spam-align} of the alignment evaluation folder.\\
+
+
+The core part of the algorithm as described in \ref{chap:algorithm} is designed to iteratively maintain a partial alignment, as per definition \ref{def:alignment}, that allows the fast insertion of newly aligned sites as well as checking if a given pair of sites is consistent with the given alignment.\\
+An initial implementation is part of the \textit{Dialign2.2} program
+\begin{itemize}
+	\item explain 
+\end{itemize}
+
+\begin{multicols}{2}
+\begin{minted}[tabsize=2]{rust}
+pub struct Closure {
+	sequences: Sequences,
+	alig_set: Matrix<usize>,
+	
+	nbr_alig_sets: usize,
+	old_nbr_alig_sets: usize,
+	
+	pred_frontier: Matrix<usize>,
+	succ_frontier: Matrix<usize>,
+	
+	pred_frontier_ops: Vec<FrontierOp>,
+	succ_frontier_ops: Vec<FrontierOp>,
+}
+\end{minted}
+
+\begin{minted}[tabsize=2]{rust}
+struct Sequences {
+	lengths: Vec<usize>,
+	alig_set_nbr: Matrix<usize>,
+	pred_alig_set_pos: Matrix<usize>,
+	succ_alig_set_pos: Matrix<usize>,
+}
+\end{minted}
+	
+\end{multicols}

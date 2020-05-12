@@ -1,2 +1,177 @@
 \chapter{Algorithm}
-In this chapter, the analysis of ...
+\label{chap:algorithm}
+This thesis provides an implementation and improvement of the alignment algorithm proposed in \cite{hundt2020praktkium}
+
+\begin{algorithm}[H]
+	\DontPrintSemicolon
+	\KwData{Sequences $S = {S_1, ..., S_N}$}
+	\KwData{Pattern set $P = {P_1, ..., P_M}$}
+	\KwResult{Partial Alignment $A$ }
+	\SetKwData{ma}{micro\_alignments}
+	\SetKwData{pa}{partial\_alignment}
+	\SetKwFunction{sort}{sort\_by\_score\_ascending}
+	\SetKwFunction{incons}{is\_inconsistent}
+	\SetKwFunction{findspam}{find\_spaced\_word\_matches}
+	\SetKwFunction{addsite}{add\_site\_pair}
+	\SetKwFunction{notaligned}{not\_aligned}
+	
+	
+	\pa $\leftarrow$ $\{\}$\;
+	
+	\ma $\leftarrow$ \findspam{$S$, $P$}\;
+	\ma.\sort{}\;
+	
+	\ForEach{ma in \ma}{
+		\If{\incons{ma, \pa}}{
+			continue\;
+		}
+		\ForEach{site\_pair in ma}{
+		\If{\pa.\notaligned{site\_pair}} {
+				\pa.\addsite{site\_pair}\;	
+			}
+		}
+	}	
+	\Return \pa\;
+	
+	\caption{align($S$, $P$)}
+	\label{alg:align}
+\end{algorithm}
+
+\begin{algorithm}[h]
+	\DontPrintSemicolon
+	\KwData{Consistent site pair $a,b \in X$ to align}
+	\KwData{Partial Alignment $A$}
+	\KwResult{Partial Alignment $A' = A \cup \{(a, b)\}$ }l
+	\SetKwData{pred}{pred}
+	\SetKwData{succ}{succ}
+	\SetKwFunction{min}{min}
+	\SetKwFunction{max}{max}
+	
+	\tcp{Clone the old pred and succ values}
+	\pred $\leftarrow$ $pred_A$\;
+	\succ $\leftarrow$ $succ_A$\;
+	
+	\tcp{Update the successor frontier}
+	\ForEach {$x \in X$} {
+		\For {$i \leftarrow 0$ \KwTo $n$} {
+			\If{$ x \preceq_{A} a$}{
+				$succ_A[x, i]$ $\leftarrow$ \min{\succ$[x, i]$, \succ$[b, i]$}
+			}
+			\ElseIf{$ x \preceq_{A_i} b$} {
+				$succ_A[x, i]$ $\leftarrow$ \min{\succ$[x, i]$, \succ$[a, i]$}
+			}
+			\Else{
+				$succ_A[x, i]$ $\leftarrow$ \succ$[x, i]$
+			}
+		}
+	}
+	
+	\tcp{Update the predeccessor frontier}
+	\ForEach {$x \in X$} {
+		\For {$i \leftarrow 0$ \KwTo $n$} {
+			\If{$ x \succeq_{A} a$}{
+				$pred_A[x, i]$ $\leftarrow$ \max {\pred$[x, i]$, \pred$[b, i]$}
+			}
+			\ElseIf{$ x \succeq_{A_i} b$} {
+				$pred_A[x, i]$ $\leftarrow$ \max{\pred$[x, i]$, \pred$[a, i]$}
+			}
+			\Else{
+				$pred_A[x, i]$ $\leftarrow$ \pred$[x, i]$
+			}
+		}
+	}
+	\caption{add\_site\_pair(x, y) as proposed in \cite{hundt2020praktkium}}
+	\label{alg:add-site-pair}
+\end{algorithm}
+
+
+As pointed out in \cite{abdeddaim2000speeding, hundt2020praktkium} partitioning the aligned sites into equivalence classes respective to the relation of whether two sites aligned allows for a more compact storage and efficient update of the transitivity frontiers due to them coinciding for every site in an eq class.\\
+\\
+\begin{figure}[ht]
+	\tikzset{SeqNode/.style={circle, draw, fill=black, inner sep=0pt, minimum width=4pt}}
+	\centering
+	\begin{tikzpicture}[thick]
+	
+	\draw 
+	(0, 0) node [] {$S_1$}
+	(1,0) -- (2,0)
+	\foreach \x in {2, ..., 6}
+	{
+		(\x,0) node[SeqNode] {} -- (\x+1,0)
+	}
+	(0, 1) node [] {$S_2$}
+	(1, 1) -- (2,1)
+	\foreach \x in {2,..., 6}
+	{
+		(\x, 1) node[SeqNode] {} -- (\x+1,1)
+	}
+	(0, 2) node [] {$S_3$}
+	(1, 2) -- (2,2)
+	\foreach \x in {2,..., 6}
+	{
+		(\x, 2) node[SeqNode] {} -- (\x+1,2)
+	}
+	(3, 0)+(-0.2, 0.2) node [] {a}
+	(4, 1)+(-0.2, 0.2) node [] {b}
+	(4, 2)+(-0.2, 0.2) node [] {c}
+	(5, 2)+(0, 0.3) node [] {[3, 4]};
+	\draw[-, line width=1.5] (3,0) -- (4,1);
+	\draw[-, line width=1.5] (4,1) -- (4,2);
+	\end{tikzpicture}
+	\caption{TODO}
+	\label{fig:eq-classes}
+\end{figure}
+
+
+While the algorithm \ref{alg:add-site-pair} for maintaining a transitive closure when adding a pair of sites $(a, b)$ into a partial alignment works, it is far from optimal. 
+
+
+\begin{figure}[ht]
+	\tikzset{SeqNode/.style={circle, draw, fill=black, inner sep=0pt, minimum width=4pt}}
+	\centering
+	\begin{tikzpicture}[thick]
+	
+	\draw 
+	(0, 0) node [] {$S_1$}
+	(1,0) -- (2,0)
+	\foreach \x in {2, ..., 6}
+	{
+		(\x,0) node[SeqNode] {} -- (\x+1,0)
+	}
+	(0, 1) node [] {$S_2$}
+	(1, 1) -- (2,1)
+	\foreach \x in {2,..., 6}
+	{
+		(\x, 1) node[SeqNode] {} -- (\x+1,1)
+	}
+	(2, 0)+(-0.2, 0.2) node [] {a}
+	(3, 1)+(-0.2, 0.2) node [] {b};
+	\draw[-,dotted, line width=1.5] (2,0) -- (3,1);
+	\draw[-, line width=1.5] (4,0) -- (4,1);
+	\end{tikzpicture}
+	\caption{TODO}
+	\label{fig:unnecessary-cmp}
+\end{figure}
+
+\Cref{fig:unnecessary-cmp} displays a partial alignment between two sequences. The continuous line represents two sites already aligned while the dotted line connects the site pair that is to be added. Updating the predecessor frontier for sequence $S_1$ would result in the following updates to $pred_A[x, i]$:
+
+% TODO float table
+\begin{table}[h]
+	\centering
+	\begin{tabular}{l c c}
+		$x$ & $pred_A[x, 2]$ before update &  $pred_A[x, 2]$ after update\\
+		(1, 1) & 0 & 2 \\
+		(1, 2) & 0 & 2 \\
+		(1, 3) & 3 & 3 \\
+		(1, 4) & 3 & 3 \\
+		(1, 5) & 3 & 3 \\
+	\end{tabular}
+	\label{}
+\end{table}
+
+It is evident that once the position of $x$ is greater or equal than that of an already aligned position, the alignment of $a$ and $b$ has no effect on the predecessor frontiers $pred_A[x, 2]$ for sites $x$ with a position that is greater or equal than $3$.\\
+This property allows an alternative solution 
+
+\begin{itemize}
+	\item describe version of algorithm utilizing eq classes and property described in \ref{fig:unnecessary-cmp} -> should this include datastructures and memory management?
+\end{itemize}

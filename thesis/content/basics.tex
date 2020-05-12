@@ -2,7 +2,113 @@
 
 \section{Multiple sequence alignment}
 
-\begin{itemize}
-	\item show table of MSA with gaps inserted, maybe picture from balibase?
-\end{itemize}
 
+
+As a generalisation of pairwise sequence alignments, multiple sequence alignments are the basis for numerous further analyses such as "inferring phylogenetic relationships, homology search of functional elements, classification of proteins, designing detection markers" \cite[pg. 3]{Russell2016}. In contrast to the pairwise alignment problem, aligning an arbitrary number of sequences is a NP-complete problem, when formulated as the maximisation (or minimisation) of an objective function \cite[pg. 172]{Russell2016}.\\
+The classical formulation of the problem is based upon a model of evolution where single residues get inserted, deleted or substituted. Since an insertion in one sequence is indistinguishable of a deletion in another one, these two operations are commonly viewed as one and referred to as an \textit{indel}. The goal is then to insert gaps, representing an indel and denoted as \textit{'-'} into the sequences, such that they have the same length and a given score function is maximal for the produced Alignment. These aligned sequences are usually displayed as a table of residues and gap characters as seen in \cref{tab:msa-example}\cite{Russell2016}. 
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c}
+	seq1 & L&L&I&R&N&L&I&Q&V&-&V&K&S&V&-&-&-&- \\
+	seq2 & L&L&I&R&K&L&I&D&V&-&V&R&T&V&-&-&-&- \\
+	seq3 & L&L&I&R&Q&L&I&D&V&-&I&K&T&V&-&-&-&- \\
+	seq4 & L&L&I&-&-&-&-&Q&M&A&D&Q&Y&L&P&E&T&L \\
+\end{tabular}
+\caption{Example of multiple sequence alignment. The gap symbol '-' represents an insertion or deletion (often combined as \textit{indel}).}
+\label{tab:msa-example}
+\end{table}
+
+
+\section{Mathematical notion of Consistency and Alignments}
+A more formal definition of the term \textit{Alignment} is based upon the work by Morgenstern et al. \cite{morgenstern1996multiple} and Abdedda{\"\i}m \cite{abdeddaim2000speeding}. The following definitions constitute a condensed formalization of the one provided in the preliminary work to this thesis \cite{hundt2020praktkium}.\\ 
+% TODO so formulieren dass klar ist, dass das größtenteils verbatim ist
+
+Let $S_i$ be a Sequence over an Alphabet, e.g. DNA, Amino Acids, etc., and $S := \{S_1, ..., S_n\}$ a set of Sequences.\\
+
+\begin{mydef}[Site]
+	A site $x = [i,p]$ represents the $p$-th position in the $i$-th sequence and $X$ is the set of all sites for $S$.\\
+	The function 
+	\begin{align*}
+	seq: &X \rightarrow \mathbb{N}\\
+	&x \mapsto i
+	\end{align*}
+	maps a site to its corresponding sequence. Whereas the function
+	\begin{align*}
+	pos: &X \rightarrow \mathbb{N}\\
+	&x \mapsto p
+	\end{align*}
+\end{mydef}
+maps a site to its position.
+\begin{mydef}[Ordering of Sites]
+	For $x = [i, p], x'=[i', p'] \in X$ we define $x \preceq y$ if and only if $i = i'$ and $p \leq p'$.\\
+	The relation $\preceq$ is a partial ordering on $X$.
+\end{mydef}
+
+
+\begin{mylemma}[Extension of binary relation to quasi order relation]
+	Let $A$ be a reflexive binary relation on some set $X$ and $R$ any binary relation on $X$.\\
+	The transitive closure $\preceq_R :=(A\cup R)^t$ is a quasi order relation on $X$.\\
+	\label{lem:extension-quasiorder}
+\end{mylemma}
+
+As per lemma \ref{lem:extension-quasiorder} we extend $\preceq$ to the quasi partial order $\preceq_R$ by taking the transitive closure of the union of $\preceq$ and $R$. Consequently $u\preceq v$, $vRw$, $w\preceq x$, $xRy$ and $y\preceq z$ from which follows that $y \preceq_R z$.
+
+\begin{mydef}[Consistency]
+	Let $R$ be a binary relation on a set of sites $X$. $R$ is consistent if for $x, y \in X$ where $seq(x) = seq(y)$
+	\begin{equation*}
+	x \preceq_R y \implies x \preceq y
+	\end{equation*}
+	
+	
+	holds. Additionally a set $\{R_1, ..., R_n\}$ of binary relations on $X$ is consistent if $\cup_i R_i$ is consistent.
+	
+	\label{def:consistency}
+\end{mydef}
+
+\begin{mydef}[Alignment]
+	An alignment (or partial alignment) $A$ is a consistent equivalence relation on the set of sites $X$ for a set of sequences $S$. 
+	\label{def:alignment}
+\end{mydef}
+
+
+\begin{figure}[ht]
+	\tikzset{SeqNode/.style={circle, draw, fill=black, inner sep=0pt, minimum width=4pt}}
+	\centering
+	\begin{tikzpicture}[thick]
+	
+	\draw 
+	(0, 0) node [] {$S_1$}
+	(1,0) -- (2,0)
+	\foreach \x in {2, ..., 12}
+	{
+		(\x,0) node[SeqNode] {} -- (\x+1,0)
+	}
+	(0, 1) node [] {$S_2$}
+	(1, 1) -- (2,1)
+	\foreach \x in {2,..., 12}
+	{
+		(\x, 1) node[SeqNode] {} -- (\x+1,1)
+	}
+	(0, 2) node [] {$S_3$}
+	(1, 2) -- (2,2)
+	\foreach \x in {2,..., 12}
+	{
+		(\x, 2) node[SeqNode] {} -- (\x+1,2)
+	};
+	\foreach \x in {2, ..., 5}
+	{
+		\draw[-, line width=1.5] (\x,0) -- (\x + 1,1);
+	}
+	\foreach \x in {5, ..., 8}
+	{
+		\draw[-, line width=1.5] (\x,1) -- (\x - 1,2);
+	}
+	\foreach \x in {8, ..., 10}
+	{
+		\draw[-, line width=1.5] (\x,1) -- (\x + 2 ,0);
+	}
+	\end{tikzpicture}
+	\caption{Example of a consistent equivalence relation $A$ on the set of sites $X$ for $S=\{S_1, S_2, S_3\}$. Connections between nodes $x,y$ represent represent a relation $xAy$.}
+	\label{fig:consistent-alignment}
+\end{figure}
