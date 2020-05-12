@@ -20,33 +20,35 @@ use spam_align::spaced_word::{read_patterns_from_file, Pattern};
 use spam_align::{read_fasta, write_as_fasta};
 
 fn main() -> Result<()> {
-    // compute_results_for_balibase(
-    //     AlignmentProgram::MafftAccurate,
-    //     &["--quiet", "--localpair", "--maxiterate", "1000"],
-    //     vec![],
-    //     "../datasets/bb3_release".into(),
-    //     "../evaluation-data/".into(),
-    // )
-    // .unwrap();
-    // compute_results_for_balibase(
-    //     AlignmentProgram::MafftFast,
-    //     &["--quiet", "--retree", "1", "--maxiterate", "0"],
-    //     vec![],
-    //     "../datasets/bb3_release".into(),
-    //     "../evaluation-data/".into(),
-    // )
-    // .unwrap();
-    //
-    // compute_results_for_balibase(
-    //     AlignmentProgram::Dialign,
-    //     &["-fa"],
-    //     vec![("DIALIGN2_DIR", "../dialign_package/dialign2_dir")],
-    //     "../datasets/bb3_release".into(),
-    //     "../evaluation-data/".into(),
-    // )
-    // .unwrap();
+    compute_results_for_balibase(
+        AlignmentProgram::MafftAccurate,
+        &["--quiet", "--localpair", "--maxiterate", "1000"],
+        vec![],
+        "../datasets/bb3_release".into(),
+        "../evaluation-data/".into(),
+    )
+    .unwrap();
+    eprintln!("Mafft-Accurate Complete");
+    compute_results_for_balibase(
+        AlignmentProgram::MafftFast,
+        &["--quiet", "--retree", "1", "--maxiterate", "0"],
+        vec![],
+        "../datasets/bb3_release".into(),
+        "../evaluation-data/".into(),
+    )
+    .unwrap();
+    eprintln!("Mafft-Fast Complete");
+    compute_results_for_balibase(
+        AlignmentProgram::Dialign,
+        &["-fa"],
+        vec![("DIALIGN2_DIR", "../dialign_package/dialign2_dir")],
+        "../datasets/bb3_release".into(),
+        "../evaluation-data/".into(),
+    )
+    .unwrap();
+    eprintln!("Dialign Complete");
 
-    for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(31) {
+    for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(43) {
         let pattern_set_path = pattern_set_path?;
         let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
         if pattern_set[0].weight() != 3
