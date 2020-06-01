@@ -1,6 +1,9 @@
 \chapter{Algorithm}
 \label{chap:algorithm}
-This thesis provides an implementation and improvement of the alignment algorithm proposed in \cite{hundt2020praktkium}
+This thesis provides an implementation and improvement of the alignment algorithm proposed in \cite{hundt2020praktkium}.
+
+% TODO the algorithms input and output data needs
+% to be cleaned up
 
 \begin{algorithm}[H]
 	\DontPrintSemicolon
@@ -9,7 +12,7 @@ This thesis provides an implementation and improvement of the alignment algorith
 	\KwResult{Partial Alignment $A$ }
 	\SetKwData{ma}{micro\_alignments}
 	\SetKwData{pa}{partial\_alignment}
-	\SetKwFunction{sort}{sort\_by\_score\_ascending}
+	\SetKwFunction{sort}{sort\_by\_score\_descending}
 	\SetKwFunction{incons}{is\_inconsistent}
 	\SetKwFunction{findspam}{find\_spaced\_word\_matches}
 	\SetKwFunction{addsite}{add\_site\_pair}
@@ -33,50 +36,51 @@ This thesis provides an implementation and improvement of the alignment algorith
 	}	
 	\Return \pa\;
 	
-	\caption{align($S$, $P$)}
+	\caption{\bf{align($S$, $P$)}}
 	\label{alg:align}
 \end{algorithm}
+
+Observation 3 of \cite{abdeddaim1997incremental, abdeddaim2000speeding} gave rise to following algorithm which can be improved
 
 \begin{algorithm}[h]
 	\DontPrintSemicolon
 	\KwData{Consistent site pair $a,b \in X$ to align}
 	\KwData{Partial Alignment $A$}
-	\KwResult{Partial Alignment $A' = A \cup \{(a, b)\}$ }l
-	\SetKwData{pred}{pred}
-	\SetKwData{succ}{succ}
+	\KwResult{Partial Alignment $A' = A \cup \{(a, b)\}$ }
+
 	\SetKwFunction{min}{min}
 	\SetKwFunction{max}{max}
 	
 	\tcp{Clone the old pred and succ values}
-	\pred $\leftarrow$ $pred_A$\;
-	\succ $\leftarrow$ $succ_A$\;
+	$pred \leftarrow$ $pred_A$\;
+	$succ \leftarrow$ $succ_A$\;
 	
 	\tcp{Update the successor frontier}
 	\ForEach {$x \in X$} {
-		\For {$i \leftarrow 0$ \KwTo $n$} {
+		\For {$i \leftarrow 1$ \KwTo $N$} {
 			\If{$ x \preceq_{A} a$}{
-				$succ_A[x, i]$ $\leftarrow$ \min{\succ$[x, i]$, \succ$[b, i]$}
+				$succ_A[x, i]$ $\leftarrow$ \min{$succ[x, i], succ[b, i]$}
 			}
 			\ElseIf{$ x \preceq_{A_i} b$} {
-				$succ_A[x, i]$ $\leftarrow$ \min{\succ$[x, i]$, \succ$[a, i]$}
+				$succ_A[x, i]$ $\leftarrow$ \min{$succ[x, i], succ[a, i]$}
 			}
 			\Else{
-				$succ_A[x, i]$ $\leftarrow$ \succ$[x, i]$
+				$succ_A[x, i] \leftarrow succ[x, i]$
 			}
 		}
 	}
 	
 	\tcp{Update the predeccessor frontier}
 	\ForEach {$x \in X$} {
-		\For {$i \leftarrow 0$ \KwTo $n$} {
+		\For {$i \leftarrow 1$ \KwTo $N$} {
 			\If{$ x \succeq_{A} a$}{
-				$pred_A[x, i]$ $\leftarrow$ \max {\pred$[x, i]$, \pred$[b, i]$}
+				$pred_A[x, i]$ $\leftarrow$ \max {$pred[x, i], pred[b, i]$}
 			}
 			\ElseIf{$ x \succeq_{A_i} b$} {
-				$pred_A[x, i]$ $\leftarrow$ \max{\pred$[x, i]$, \pred$[a, i]$}
+				$pred_A[x, i]$ $\leftarrow$ \max{$pred[x, i], pred[a, i]$}
 			}
 			\Else{
-				$pred_A[x, i]$ $\leftarrow$ \pred$[x, i]$
+				$pred_A[x, i] \leftarrow pred[x, i]$
 			}
 		}
 	}
@@ -84,6 +88,96 @@ This thesis provides an implementation and improvement of the alignment algorith
 	\label{alg:add-site-pair}
 \end{algorithm}
 
+
+TODO Question: Why are \ref{alg:add-site-pair} and \ref{alg:add-site-pair-revised} equivalent?
+
+\begin{algorithm}[h]
+	\DontPrintSemicolon
+	\KwData{Consistent site pair $a,b \in X$ to align}
+	\KwData{Partial Alignment $A$}
+	\KwResult{Partial Alignment $A' = A \cup \{(a, b)\}$ }
+	
+	\tcp{Update the successor frontier}
+	\For {$i \leftarrow 1$ \KwTo $N$} {
+		\For{$j \leftarrow 1$ \KwTo $N$}{
+			\For{$p \leftarrow pred_A[a][i]$ \KwTo $1$}{
+				$u \leftarrow Site [p, i]$\;
+				\If{not $succ_A[b][j] < succ_A[u][j]$}{
+					\bf{break}\;
+				}
+%			Why is u predecessor of a? needed for Observation 3
+% 			u is pred of a because u is <= pred[a][i] 
+				$succ_A[u][j] \leftarrow succ_A[b][j]$\;
+			}
+		}
+		
+	}
+
+	\tcp{Update the predecessor frontier}
+	\For {$i \leftarrow 1$ \KwTo $N$} {
+		\For{$j \leftarrow 1$ \KwTo $N$}{
+			\For{$p \leftarrow succ_A[b][i]$ \KwTo $len(S_i)$}{
+				$u \leftarrow Site [p, i]$\;
+				\If{not $pred_A[a][j] > pred_A[u][j]$}{
+					\bf{break}\;
+				}
+				$pred_A[u][j] \leftarrow pred_A[a][j]$\;
+			}
+		}
+		
+	}
+
+	\caption{add\_site\_pair(x, y) as proposed by Abdedda{\"\i}m \cite{abdeddaim1997incremental}}
+	\label{alg:add-site-pair-revised}
+\end{algorithm}
+
+
+\begin{algorithm}[h]
+	\DontPrintSemicolon
+	\KwData{Consistent site pair $a,b \in X$ to align}
+	\KwData{Index $nn$ of alignment set that was merged from alignment sets of $a$ and $b$}
+	\KwData{Successor frontier $succ$}
+	\KwData{Predecessor frontier $pred$}
+	\KwData{$alig\_set$ matrix, mapping an alignment set and sequence to a position}
+	\KwData{$pred\_alig\_set\_pos$ mapping a sequence and position to the index of the next predecessor alignment set of that site}
+	\KwResult{Updated tranisitivity frontiers $succ$ and $pred$}
+	\SetKwFunction{push}{push}
+	
+	\tcp{Update the successor frontier}
+	$frontier\_ops \leftarrow [\ ]$
+	
+	\For {$i \leftarrow 1$ \KwTo $N$} {
+		\If{$left_a[i] == left_b[i]$}{
+			\bf{continue}\;
+		}
+		\For{$j \leftarrow 1$ \KwTo $N$}{
+			$k \leftarrow pred_A[nn,\ i]$\;
+			\If{$k > 0$ \bf{and} $k == alig\_set[nn,\ i]$}{
+				$k \leftarrow pred\_alig\_set\_pos[i,\ k]$\;	
+			}
+			\While{$k > 0$}{
+				$n \leftarrow alig\_set\_nbr[i,\ k]$\;
+				\If{$succ[n,\ j] > succ[nn,\ j]$}{
+					$frontier\_ops$.\push($[n,\ j,\ succ[nn,\ j]]$)\;
+					$k \leftarrow pred\_alig\_set\_pos[i,\ k]$\;
+				} 
+				\Else{
+					\bf{break}\;
+				}
+			}
+		}
+	}
+	
+	\ForEach{$[n,\ j,\ new\_front] \in frontier\_ops$}{
+		$succ[n,\ j] \leftarrow new\_front$\;
+	}
+	\BlankLine
+	\tcp{Update the predecessor frontier}
+	\tcp{ommited for brevity}
+	
+	\caption{revised add\_site\_pair(x, y) based on GABIOS-LIB implementation in Dialign2.2 \cite{abdeddaim2000speeding}}
+	\label{alg:add-site-pair-revised-2}
+\end{algorithm}
 
 As pointed out in \cite{abdeddaim2000speeding, hundt2020praktkium} partitioning the aligned sites into equivalence classes respective to the relation of whether two sites aligned allows for a more compact storage and efficient update of the transitivity frontiers due to them coinciding for every site in an eq class.\\
 \\
@@ -153,6 +247,9 @@ While the algorithm \ref{alg:add-site-pair} for maintaining a transitive closure
 	\label{fig:unnecessary-cmp}
 \end{figure}
 
+
+
+
 \Cref{fig:unnecessary-cmp} displays a partial alignment between two sequences. The continuous line represents two sites already aligned while the dotted line connects the site pair that is to be added. Updating the predecessor frontier for sequence $S_1$ would result in the following updates to $pred_A[x, i]$:
 
 % TODO float table
@@ -173,5 +270,7 @@ It is evident that once the position of $x$ is greater or equal than that of an 
 This property allows an alternative solution 
 
 \begin{itemize}
-	\item describe version of algorithm utilizing eq classes and property described in \ref{fig:unnecessary-cmp} -> should this include datastructures and memory management?
+	\item describe version of algorithm utilizing eq classes and property described in \ref{fig:unnecessary-cmp} -> should this include data structures and memory evincemanagement?
+	\item maybe first dp algorithm without unnecessary cmps (like in Fi. 4 of \cite{abdeddaim1997incremental}) and the formulate with eq classes (which wasn't done in paper) 
+	\item highlight how this differs from most alignment algorithms in that it is completely greedy
 \end{itemize}

@@ -1,10 +1,66 @@
 \chapter{Prior Work}
+Spam-Align align builds upon several other algorithms and methods, namely GABIOS-LIB by Abdedda{\"\i}m \cite{abdeddaim1997incremental}, Dialign by Morgenstern et al. \cite{morgenstern1996multiple} which later incorporated GABIOS-LIB \cite{abdeddaim2000speeding} as well as Spaced Word Matches proposed by Leimeister et al. in \textit{Fast alignment-free sequence comparison using spaced-word frequencies} \cite{leimeister2014fast}.
 
+\section{GABIOS-LIB}
 
-\section{Gabios-Lib}
+GABIOS-LIB is a library written by Sa{\"\i}d Abdedda{\"\i}m implementing the \textit{EdgeAddition} algorithm for the incremental computation of the transitive closure of an alignment graph \cite{abdeddaim1997incremental}. 
+
+\begin{itemize}
+	\item written to be used in greedy alignment algorithms, used in Dialign 2.2
+	\item able to answer the question of whether two sites are alignable in $o(1)$
+	\item allows efficient incremental updates of closure when new sites are added to alignment 
+	\item $O(k^2n+n^2)$ time for k sequences with a total length of n ($n = |X|$)
+	\item $O(kn)$ space
+\end{itemize}
+ 
 
 \section{Dialign}
+Dialign is a multiple sequence algorithm first proposed by Morgenstern et al. in 1996 \cite{morgenstern1996multiple} with several alterations and reimplementations over the years  \cite{abdeddaim2000speeding, morgenstern1999dialign, sub:wey:kau:mor:05, sub:kau:mor:08, morgenstern2004dialign}. In the following, \textit{Dialign} will refer to the version 2.2 \cite{morgenstern2004dialign} of the software.\\
+
+
+\begin{itemize}
+	\item is an iterative and greedy algorithm
+	\item first computes pairwise alignments  consisting of a set of non overlapping segment pairs (referred to as diagonals) with a maximal sum of scores for every combination of sequences
+	\item set of diagonals is scored by their weight and greedily incorporated into alignment while using GABIOS-LIB to efficiently ensure consistent of alignments
+	\item diagonals with score below threshold (default 0) are discarded
+	\item process of finding diagonals and adding them to alignment is repeated for unaligned parts of sequences until everything is aligned or no diagonals of positive score can be found
+	\item dialign sepnds majority of time on constructing paiwise alignments in order to find diagonals -> src is own lousy profile, maybe show profile data for big alignment in bb in appendix?
+\end{itemize}
+
+
 
 \section{Spaced Word Matches}
 
+\begin{itemize}
+	\item based on spaced seeds by \cite{ma2002patternhunter}
+	\item pattern of care and don't care positions is used to find imprecise? matches between sequences 
+\end{itemize}
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{ l c c c c c c c c c c}
+		$S_1$: & a&b&l&l&h&i&a&f&c&b \\ 
+		$S_2$: & c&b&l&i&g&i&k&f&i&t \\  
+		$P$: &    &1&1&0&0&0&0&1
+	\end{tabular}
+	\caption{Example of a Spaced Word Match}
+	\label{tab:spaced-word}
+\end{table}
+
+\begin{mydef}[Pattern as defined in \cite{hundt2020praktkium}]
+	A Pattern is a sequence over the Alphabet $\Sigma = \{0, 1\}$, where $1$ corresponds to a "Match position" and $0$ to a "Don't Care" position. A patterns weight $k$ is defined as the number of "Match positions" it contains.
+\end{mydef}
+
 \subsection{Multi dimensional matches}
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{ l c c c c c c c c c c}
+		$S_1$: & a&b&l&l&h&i&a&f&c&b \\ 
+		$S_2$: & c&b&l&i&g&i&k&f&i&t \\
+		$S_3$: & k&b&l&q&k&i&a&f&i&l \\
+		$P$: &    &1&1&0&0&0&0&1
+	\end{tabular}
+	\caption{Example of a multi dimensional Spaced Word Match}
+	\label{tab:spaced-word}
+\end{table}

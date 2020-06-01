@@ -8,8 +8,9 @@ An initial implementation is part of the \textit{Dialign2.2} program
 	\item explain 
 \end{itemize}
 
+% TODO should this be here or in appendix?
 \begin{multicols}{2}
-\begin{minted}[tabsize=2]{rust}
+\begin{minted}[tabsize=1]{rust}
 pub struct Closure {
 	sequences: Sequences,
 	alig_set: Matrix<usize>,
@@ -33,5 +34,19 @@ struct Sequences {
 	succ_alig_set_pos: Matrix<usize>,
 }
 \end{minted}
-	
+\captionof{listing}{Data types responsible for storing partial alignment information.}
+\label{lst:core-types}
 \end{multicols}
+
+Listing \ref{lst:core-types} provides the definition of the core data types responsible for tracking the status of an alignment that is constructed by iteratively aligning sites. A \mintinline{rust}{struct} in Rust functions as simple record of heterogeneous data similar to those in the \textit{C} programming language. Members of a \mintinline{rust}{struct} are defined as \code{<name of member field>: <type of field>}.\\
+\mintinline{rust}{alig_set: Matrix<usize>} is a 2-dimensional matrix implementation containing \mintinline{rust}{usize} elements, which are usigned integers with a size equal to the target architecture pointer size (meaning 64 bits on a 64 bit target). 
+
+
+Differences to Gabios-Lib
+\begin{itemize}
+	\item matrices are contiguous memory instead of pointer of pointers -> reduces indirection and improves cache locality
+	\item no unnecessary left and right buffers which need to be written each iteration
+	\item frontier ops instead of pos matrix allows applying frontier changes in $O(\#changes)$ instead of $O(\#seq^2 * \text{part in while loop, don't know upper bound})$
+	\item sequences is struct of matrices instead of Vec of struct of vecs -> less indirection
+\end{itemize}
+

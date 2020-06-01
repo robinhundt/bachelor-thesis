@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  12 MAY 2020 13:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  22 MAY 2020 11:10
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1071,6 +1071,28 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \colbreak@box=\box133
 \mc@col@check@num=\count380
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen328
+\captionmargin@=\dimen329
+\captionwidth=\dimen330
+\caption@tempdima=\dimen331
+\caption@indent=\dimen332
+\caption@parindent=\dimen333
+\caption@hangindent=\dimen334
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count381
+\c@continuedfloat=\count382
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/filecontents/filecontents.sty
 Package: filecontents 2019/09/20 v1.5 Create an external file from within a LaT
 eX document
@@ -1093,7 +1115,7 @@ port
 (/usr/local/texlive/2019/texmf-dist/tex/generic/colorprofiles/colorprofiles.tex
 )) (/usr/local/texlive/2019/texmf-dist/tex/latex/pdfx/pdfx.sty
 Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
-\pdfx@minorversion=\count381
+\pdfx@minorversion=\count383
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
@@ -1187,11 +1209,11 @@ Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
 \MT@toks=\toks67
-\MT@count=\count382
+\MT@count=\count384
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen328
+\MT@outer@kern=\dimen335
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count383
+\MT@listname@count=\count385
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
@@ -1213,25 +1235,31 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box134
 \beforetitleunit=\skip96
 \aftertitleunit=\skip97
-\ttl@plus=\dimen329
-\ttl@minus=\dimen330
+\ttl@plus=\dimen336
+\ttl@minus=\dimen337
 \ttl@toksa=\toks68
-\titlewidth=\dimen331
-\titlewidthlast=\dimen332
-\titlewidthfirst=\dimen333
+\titlewidth=\dimen338
+\titlewidthlast=\dimen339
+\titlewidthfirst=\dimen340
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 ))
-\c@mydef=\count384
-\c@mylemma=\count385
-\c@mytheorem=\count386
+\c@mydef=\count386
+\c@mylemma=\count387
+\c@mytheorem=\count388
 runsystem(which pygmentize && touch main.aex)...executed.
 
 runsystem(rm main.aex)...executed.
 
 
 (./main.aux
+
+LaTeX Warning: Label `tab:spaced-word' multiply defined.
+
+
+LaTeX Warning: Label `tab:spaced-word@cref' multiply defined.
+
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -1241,25 +1269,25 @@ LaTeX Warning: Label `@cref' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 90
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 91
 .
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1301,16 +1329,16 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count387
-\scratchdimen=\dimen334
+\scratchcounter=\count389
+\scratchdimen=\dimen341
 \scratchbox=\box135
-\nofMPsegments=\count388
-\nofMParguments=\count389
+\nofMPsegments=\count390
+\nofMParguments=\count391
 \everyMPshowfont=\toks69
-\MPscratchCnt=\count390
-\MPscratchDim=\dimen335
-\MPnumerator=\count391
-\makeMPintoPDFobject=\count392
+\MPscratchCnt=\count392
+\MPscratchDim=\dimen342
+\MPnumerator=\count393
+\makeMPintoPDFobject=\count394
 \everyMPtoPDFconversion=\toks70
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1322,7 +1350,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box136
-Package hyperref Info: Link coloring OFF on input line 90.
+Package hyperref Info: Link coloring OFF on input line 91.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1334,16 +1362,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count393
+\c@section@level=\count395
 )
-LaTeX Info: Redefining \ref on input line 90.
-LaTeX Info: Redefining \pageref on input line 90.
-LaTeX Info: Redefining \nameref on input line 90.
+LaTeX Info: Redefining \ref on input line 91.
+LaTeX Info: Redefining \pageref on input line 91.
+LaTeX Info: Redefining \nameref on input line 91.
  (./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
-\c@lstlisting=\count394
+\c@lstlisting=\count396
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1352,14 +1380,16 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ) ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 90.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 91.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 90.
+LaTeX Info: Redefining \showhyphens on input line 91.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1371,7 +1401,7 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 91.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1380,7 +1410,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 91.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1448,13 +1478,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ] [6
 
-] (./content/abstract.tex) [7
+] (./content/abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) [7
 
 
 ] [8
 
-] (./main.toc
-[9
+] (./main.toc [9
 
 
 
@@ -1474,47 +1513,46 @@ Chapter 1.
 
 ] (./content/basics.tex
 Chapter 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 4
+.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
 [3
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) h
-as been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.26 
-     ]
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 Package hyperref Info: bookmark level for unknown mydef defaults to 0 on input 
-line 29.
+line 34.
 Package hyperref Info: bookmark level for unknown mylemma defaults to 0 on inpu
-t line 49.
-) [4] [5pdfTeX warning (ext4): destination with the same identifier (name{figur
-e.2.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.143     \myemptypage
-                      ] [6
+t line 54.
+[4]) [5] [6
 
 ] (./content/prior_work.tex
 Chapter 3.
-) [7
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+[7
 
 
-] [8
+]) [8] [9
+
+] [10
 
 ] (./content/algorithm.tex
 Chapter 4.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 19
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 22
 .
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -1549,44 +1587,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--124
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--218
 
  []
 
-[9
+[11
 
+]
 
-pdfTeX warning (ext4): destination with the same identifier (name{algocf.1}) ha
-s been already used, duplicate ignored
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.157 
-      ]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
-76.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-)
-[10pdfTeX warning (ext4): destination with the same identifier (name{algocf.2})
- has been already used, duplicate ignored
+[12]) [13] [14] [15
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.177 \end{itemize}
-                   ]) [11pdfTeX warning (ext4): destination with the same ident
-ifier (name{figure.4.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.149     \myemptypage
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{figure.4.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.149     \myemptypage
-                      ] [12
+] [16
 
 ] (./content/implementation.tex
 Chapter 5.
@@ -1601,10 +1620,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
 \openout4 = `main.pyg'.
 
-runsystem(pygmentize -l rust -f latex -P commandprefix=PYG -F tokenmerge -o _mi
-nted-main/7077F45393D6EDC8B367C73348C830150236DA2DB8B0B014C4E4FF3372C44164.pygt
-ex main.pyg)...executed.
-
 
 (./_minted-main/7077F45393D6EDC8B367C73348C830150236DA2DB8B0B014C4E4FF3372C4416
 4.pygtex)
@@ -1612,14 +1627,42 @@ ex main.pyg)...executed.
 
 
 (./_minted-main/507F1378CDC43B085FF9B2F030E2B56D0236DA2DB8B0B014C4E4FF3372C4416
-4.pygtex)) [13
+4.pygtex)
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 37.
+See the caption package documentation for explanation.
+
+Package hyperref Info: bookmark level for unknown listing defaults to 0 on inpu
+t line 37.
+\openout5 = `main.pyg'.
 
 
-] [14
+(./_minted-main/D2CD4AAF21EC908398737F330808A96D0236DA2DB8B0B014C4E4FF3372C4416
+4.pygtex)
+\openout5 = `main.pyg'.
+
+
+(./_minted-main/D2CD4AAF21EC908398737F330808A96D0236DA2DB8B0B014C4E4FF3372C4416
+4.pygtex)
+\openout5 = `main.pyg'.
+
+
+(./_minted-main/65EF90DCAC1CF0B8197A4A4A85102D370236DA2DB8B0B014C4E4FF3372C4416
+4.pygtex)
+\openout5 = `main.pyg'.
+
+
+(./_minted-main/82FA795FB3CD6A2C7DA34E94F55A37440236DA2DB8B0B014C4E4FF3372C4416
+4.pygtex) [17
+
+]) [18] [19
+
+] [20
 
 ] (./content/evaluation.tex
 Chapter 6.
-<./images/balibase.png, id=309, 401.5pt x 401.5pt>
+<./images/balibase.png, id=372, 401.5pt x 401.5pt>
 File: ./images/balibase.png Graphic file (type png)
 <use ./images/balibase.png>
 Package pdftex.def Info: ./images/balibase.png  used on input line 6.
@@ -1629,82 +1672,66 @@ Overfull \hbox (42.68175pt too wide) in paragraph at lines 6--7
  [][] 
  []
 
-[15
+[21
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.22 \end{itemize}
-                   <./images/balibase.png>]
-<./images/balibase-web.png, id=322, 629.35126pt x 216.81pt>
+ <./images/balibase.png>]
+<./images/balibase-web.png, id=385, 629.35126pt x 216.81pt>
 File: ./images/balibase-web.png Graphic file (type png)
 <use ./images/balibase-web.png>
 Package pdftex.def Info: ./images/balibase-web.png  used on input line 35.
 (pdftex.def)             Requested size: 341.43439pt x 117.6215pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3240) has occurred while \output is active []
 
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
-2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.59  	\end{align*}
-                    <./images/balibase-web.png>] [17]) [18] [19
-
-] [20
-
-]
-(./content/conclusion.tex
-Chapter 7.
-) [21
-
-] [22
-
-] (./main.bbl) [23
-
-
-] [24
-
-] (./content/appendix_a.tex) [25
-
+ [22 <./images/balibase-web.png>] [23]) [24] [25
 
 ] [26
+
+] (./content/conclusion.tex
+Chapter 7.
+) [27
+
+] [28
+
+] (./main.bbl [29
+
+
+]) [30] [31
+
+] [32
+
+] (./content/appendix_a.tex)
+[33
+
+] [34
 
 ]
 \tf@thm=\write9
 \openout9 = `main.thm'.
 
-runsystem(rm _minted-main/37DAF8C0F839E4D2BD0D6920744E24290236DA2DB8B0B014C4E4F
-F3372C44164.pygtex)...executed.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 174.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 174.
-
-(./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 174.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 174.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FCBD771472E99FA6F0EF61405F548478;1695.
+(rerunfilecheck)             Checksum: 3AE5F216C29C6367A7A4AE291D9DBFA8;1696.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
 runsystem(rm main.pyg)...executed.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 174.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 40827 strings out of 482109
- 754328 string characters out of 5933913
- 1191224 words of memory out of 5000000
- 55161 multiletter control sequences out of 15000+600000
- 578528 words of font info for 180 fonts, out of 8000000 for 9000
+ 41965 strings out of 482109
+ 776052 string characters out of 5933913
+ 1215747 words of memory out of 5000000
+ 56227 multiletter control sequences out of 15000+600000
+ 582785 words of font info for 204 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 68i,19n,74p,1193b,2676s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,22n,96p,1193b,2676s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -1726,9 +1753,9 @@ w/palatino/uplb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palat
 ino/uplbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/up
 lr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr8a.pf
 b></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (38 pages, 919097 bytes).
+Output written on main.pdf (46 pages, 948535 bytes).
 PDF statistics:
- 479 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 41728 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 555 PDF objects out of 1000 (max. 8388607)
+ 120 named destinations out of 1000 (max. 500000)
+ 43264 words of extra memory for PDF output out of 51595 (max. 10000000)
 

@@ -14,45 +14,45 @@ Database file #1: content/references.bib
 Warning--edition ordinal word "Softcover reprint of the original 1st ed. 2014" may be too high (or improper) for conversion in Russell2016
 
 Done.
-You've used 8 entries,
+You've used 13 entries,
             4087 wiz_defined-function locations,
-            880 strings with 8930 characters,
-and the built_in function-call counts, 6088 in all, are:
-= -- 483
-> -- 121
-< -- 59
-+ -- 71
-- -- 23
-* -- 303
-:= -- 896
-add.period$ -- 18
-call.type$ -- 8
-change.case$ -- 9
-chr.to.int$ -- 144
-cite$ -- 9
-duplicate$ -- 428
-empty$ -- 502
-format.name$ -- 22
-if$ -- 1412
+            908 strings with 9865 characters,
+and the built_in function-call counts, 10518 in all, are:
+= -- 884
+> -- 215
+< -- 106
++ -- 125
+- -- 38
+* -- 520
+:= -- 1582
+add.period$ -- 28
+call.type$ -- 13
+change.case$ -- 14
+chr.to.int$ -- 237
+cite$ -- 14
+duplicate$ -- 738
+empty$ -- 794
+format.name$ -- 40
+if$ -- 2439
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 64
-newline$ -- 47
-num.names$ -- 8
-pop$ -- 153
+int.to.str$ -- 13
+missing$ -- 115
+newline$ -- 62
+num.names$ -- 13
+pop$ -- 239
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 4
-skip$ -- 462
+skip$ -- 814
 stack$ -- 0
-substring$ -- 332
-swap$ -- 343
-text.length$ -- 11
+substring$ -- 574
+swap$ -- 632
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 8
+type$ -- 13
 warning$ -- 1
-while$ -- 29
-width$ -- 9
-write$ -- 95
+while$ -- 51
+width$ -- 15
+write$ -- 152
 (There was 1 warning)
