@@ -24,10 +24,17 @@
 \onehalfspacing
 {}
 
-% Make chapter heading smaller
-\usepackage{titlesec}
-\titleformat{\chapter}[display]
-  {\LARGE\bf}{\chaptertitlename\ \thechapter}{10pt}{\huge\bf}
+%% Make chapter heading smaller
+%\usepackage{titlesec}
+%\titleformat{\chapter}[display]
+%  {\LARGE\bf}{\chaptertitlename\ \thechapter}{10pt}{\huge\bf}
+
+% This are much nicer chapter headings than the original one and even smaller
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\LARGE\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\LARGE\bfseries}
+
 
 %define some colors
 \definecolor{darkblue}{rgb}{0.0,0.0,0.5}

@@ -25,14 +25,14 @@ The classical formulation of the problem is based upon a model of evolution wher
 \end{table}
 
 
-\section{Mathematical notion of Consistency and Alignments}
+\section{Definition of Consistency and Alignments}
 A more formal definition of the term \textit{Alignment} is based upon the work by Morgenstern et al. \cite{morgenstern1996multiple} and Abdedda{\"\i}m \cite{abdeddaim2000speeding}. The following definitions constitute a condensed formalization of the one provided in the preliminary work to this thesis \cite{hundt2020praktkium}.\\ 
 % TODO so formulieren dass klar ist, dass das größtenteils verbatim ist
 
-Let $S_i$ be a Sequence over an Alphabet, e.g. DNA, Amino Acids, etc., and $S := \{S_1, ..., S_n\}$ a set of Sequences.\\
+Let $S_i$ be a Sequence over an Alphabet, e.g. DNA, Amino Acids, etc., and $S := \{S_1, ..., S_n\}$ a set of Sequences. The length of the \textit{i-th} sequence is denoted by $len(S_i)$.\\
 
 \begin{mydef}[Site]
-	A site $x = [i,p]$ represents the $p$-th position in the $i$-th sequence and $X$ is the set of all sites for $S$.\\
+	A site $x \defeq [i,p]$ represents the $p$-th position in the $i$-th sequence and $X$ is the set of all sites for $S$.\\
 	The function 
 	\begin{align*}
 	seq: &X \rightarrow \mathbb{N}\\
@@ -71,6 +71,8 @@ As per lemma \ref{lem:extension-quasiorder} we extend $\preceq$ to the quasi par
 	\label{def:consistency}
 \end{mydef}
 
+TODO: Clarify what an alignment graph and a path in one is. Terminology is later used.
+
 \begin{mydef}[Alignment]
 	An alignment (or partial alignment) $A$ is a consistent equivalence relation on the set of sites $X$ for a set of sequences $S$. 
 	\label{def:alignment}
@@ -82,38 +84,40 @@ As per lemma \ref{lem:extension-quasiorder} we extend $\preceq$ to the quasi par
 	\centering
 	\begin{tikzpicture}[thick]
 	
-	\draw 
+	\draw[-latex] 
 	(0, 0) node [] {$S_1$}
-	(1,0) -- (2,0)
+	(1,0) -- (2,0);
 	\foreach \x in {2, ..., 12}
 	{
-		(\x,0) node[SeqNode] {} -- (\x+1,0)
-	}
+		\draw[-latex](\x,0) node[SeqNode] {} -- (\x+1,0);
+	};
+	\draw[-latex]
 	(0, 1) node [] {$S_2$}
-	(1, 1) -- (2,1)
+	(1, 1) -- (2,1);
 	\foreach \x in {2,..., 12}
 	{
-		(\x, 1) node[SeqNode] {} -- (\x+1,1)
-	}
+		\draw[-latex](\x, 1) node[SeqNode] {} -- (\x+1,1);
+	};
+	\draw[-latex]
 	(0, 2) node [] {$S_3$}
-	(1, 2) -- (2,2)
+	(1, 2) -- (2,2);
 	\foreach \x in {2,..., 12}
 	{
-		(\x, 2) node[SeqNode] {} -- (\x+1,2)
+		\draw[-latex](\x, 2) node[SeqNode] {} -- (\x+1,2);
 	};
 	\foreach \x in {2, ..., 5}
 	{
-		\draw[-, line width=1.5] (\x,0) -- (\x + 1,1);
+		\draw[line width=1.2] (\x,0) -- (\x + 1,1);
 	}
 	\foreach \x in {5, ..., 8}
 	{
-		\draw[-, line width=1.5] (\x,1) -- (\x - 1,2);
+		\draw[line width=1.2] (\x,1) -- (\x - 1,2);
 	}
 	\foreach \x in {8, ..., 10}
 	{
-		\draw[-, line width=1.5] (\x,1) -- (\x + 2 ,0);
+		\draw[line width=1.2] (\x,1) -- (\x + 2 ,0);
 	}
 	\end{tikzpicture}
-	\caption{Example of a consistent equivalence relation $A$ on the set of sites $X$ for $S=\{S_1, S_2, S_3\}$. Connections between nodes $x,y$ represent represent a relation $xAy$.}
+	\caption{Example of an alignment graph representing a consistent equivalence relation $A$ on the set of sites $X$ for $S=\{S_1, S_2, S_3\}$. Undirected connections between nodes $x,y$ represent a relation $xAy$.}
 	\label{fig:consistent-alignment}
 \end{figure}

@@ -1,17 +1,23 @@
 \chapter{Algorithm}
 \label{chap:algorithm}
-This thesis provides an implementation and improvement of the alignment algorithm proposed in \cite{hundt2020praktkium}.
+This thesis provides an implementation and improvement of the alignment algorithm proposed in \cite{hundt2020praktkium}. It shares the idea of finding segment pairs, or micro alignments, in the input sequences which are greedily aligned with Dialign. However in contrast to that approach, these micro alignments are found by searching for spaced word matches with multiple patterns, a process that is much faster than doing a pairwise alignment for all input sequence combinations. 
+\begin{itemize}
+	\item describe how micro alignments, especially multi dim are found?
+	\item what scoring function should be used and why?
+	\item TODO maybe have a look at overlap weight again
+	\item describe version of algorithm utilizing eq classes and property described in \ref{fig:unnecessary-cmp} -> should this include data structures and memory evincemanagement?
+	\item maybe first dp algorithm without unnecessary cmps (like in Fi. 4 of \cite{abdeddaim1997incremental}) and the formulate with eq classes (which wasn't done in paper) 
+	\item highlight how this differs from most alignment algorithms in that it is completely greedy
+\end{itemize}
 
 % TODO the algorithms input and output data needs
 % to be cleaned up
 
-\begin{algorithm}[H]
+\begin{algorithm}[h]
 	\DontPrintSemicolon
 	\KwData{Sequences $S = {S_1, ..., S_N}$}
 	\KwData{Pattern set $P = {P_1, ..., P_M}$}
 	\KwResult{Partial Alignment $A$ }
-	\SetKwData{ma}{micro\_alignments}
-	\SetKwData{pa}{partial\_alignment}
 	\SetKwFunction{sort}{sort\_by\_score\_descending}
 	\SetKwFunction{incons}{is\_inconsistent}
 	\SetKwFunction{findspam}{find\_spaced\_word\_matches}
@@ -19,28 +25,30 @@ This thesis provides an implementation and improvement of the alignment algorith
 	\SetKwFunction{notaligned}{not\_aligned}
 	
 	
-	\pa $\leftarrow$ $\{\}$\;
+	$A \leftarrow$ $\{\}$\;
 	
-	\ma $\leftarrow$ \findspam{$S$, $P$}\;
-	\ma.\sort{}\;
+	micro\_alignments $\leftarrow$ \findspam{$S$, $P$}\;
+	micro\_alignments.\sort{}\;
 	
-	\ForEach{ma in \ma}{
-		\If{\incons{ma, \pa}}{
+	\ForEach{ma in micro\_alignments}{
+		\If{\incons{ma, $A$}}{
 			continue\;
 		}
 		\ForEach{site\_pair in ma}{
-		\If{\pa.\notaligned{site\_pair}} {
-				\pa.\addsite{site\_pair}\;	
+		\If{$A$.\notaligned{site\_pair}} {
+				$A$.\addsite{site\_pair}\;	
 			}
 		}
 	}	
-	\Return \pa\;
+	\Return $A$\;
 	
 	\caption{\bf{align($S$, $P$)}}
 	\label{alg:align}
 \end{algorithm}
 
-Observation 3 of \cite{abdeddaim1997incremental, abdeddaim2000speeding} gave rise to following algorithm which can be improved
+TODO: describe find\_spaced\_word\_matches
+
+The, unfortunately incomplete, description of the \textit{EdgeAddition} algorithm in \cite{abdeddaim2000speeding} lead to the proposal of the algorithm \ref{alg:add-site-pair} in the preliminary work \cite{hundt2020praktkium}; due to the incomplete understanding it is computationally much more expensive than necessary since for every site pair that is added, many sites are considered whose transitivity frontiers can not be influenced.
 
 \begin{algorithm}[h]
 	\DontPrintSemicolon
@@ -88,77 +96,88 @@ Observation 3 of \cite{abdeddaim1997incremental, abdeddaim2000speeding} gave ris
 	\label{alg:add-site-pair}
 \end{algorithm}
 
+Algorithm \ref{alg:add-site-pair-revised} represents a considerably improved version of \ref{alg:add-site-pair}. It is based on, and improves, the version of \textit{EdgeAddition} contained in Dialign2.2. The most significant improvement over \ref{alg:edge-addtition} stems from the fact that the transitivity frontiers for sites, which are aligned, coincide, as pointed out in \cite{abdeddaim2000speeding}. In other words, given $x \in X$ and an alignment $A$ the following holds $\forall x' \in [x]_A, \forall i \in {1, ..., N}$:
+\begin{align*}
+ pred_A[x'][i] &= pred_A[x][i] \text{ and}\\
+ succ_A[x'][i] &= succ_A[x][i]
+\end{align*}
+This allows faster updates and a more compact representation for the transitivity frontiers, since only one value per equivalence class needs to be kept in memory. For those sites $x$ which are not yet aligned, $|[x]_A|$ is $1$, the transitivity frontiers are equal to its nearest aligned site.
 
-TODO Question: Why are \ref{alg:add-site-pair} and \ref{alg:add-site-pair-revised} equivalent?
-
-\begin{algorithm}[h]
-	\DontPrintSemicolon
-	\KwData{Consistent site pair $a,b \in X$ to align}
-	\KwData{Partial Alignment $A$}
-	\KwResult{Partial Alignment $A' = A \cup \{(a, b)\}$ }
+\begin{figure}[ht]
+	\tikzset{SeqNode/.style={circle, draw, fill=black, inner sep=0pt, minimum width=4pt}}
+	\centering
+	\begin{tikzpicture}[thick]
 	
-	\tcp{Update the successor frontier}
-	\For {$i \leftarrow 1$ \KwTo $N$} {
-		\For{$j \leftarrow 1$ \KwTo $N$}{
-			\For{$p \leftarrow pred_A[a][i]$ \KwTo $1$}{
-				$u \leftarrow Site [p, i]$\;
-				\If{not $succ_A[b][j] < succ_A[u][j]$}{
-					\bf{break}\;
-				}
-%			Why is u predecessor of a? needed for Observation 3
-% 			u is pred of a because u is <= pred[a][i] 
-				$succ_A[u][j] \leftarrow succ_A[b][j]$\;
-			}
-		}
-		
+	\draw[-latex]
+	(0, 0) node [] {$S_1$}
+	(1,0) -- (2,0);
+	\foreach \x in {2, ..., 6}
+	{
+		\draw[-latex](\x,0) node[SeqNode] {} -- (\x+1,0);
 	}
-
-	\tcp{Update the predecessor frontier}
-	\For {$i \leftarrow 1$ \KwTo $N$} {
-		\For{$j \leftarrow 1$ \KwTo $N$}{
-			\For{$p \leftarrow succ_A[b][i]$ \KwTo $len(S_i)$}{
-				$u \leftarrow Site [p, i]$\;
-				\If{not $pred_A[a][j] > pred_A[u][j]$}{
-					\bf{break}\;
-				}
-				$pred_A[u][j] \leftarrow pred_A[a][j]$\;
-			}
-		}
-		
+	\draw[-latex]
+	(0, 1) node [] {$S_2$}
+	(1, 1) -- (2,1);
+	\foreach \x in {2,..., 6}
+	{
+		\draw[-latex](\x, 1) node[SeqNode] {} -- (\x+1,1);
 	}
-
-	\caption{add\_site\_pair(x, y) as proposed by Abdedda{\"\i}m \cite{abdeddaim1997incremental}}
-	\label{alg:add-site-pair-revised}
-\end{algorithm}
+	\draw[-latex]
+	(0, 2) node [] {$S_3$}
+	(1, 2) -- (2,2);
+	\foreach \x in {2,..., 6}
+	{
+		\draw[-latex](\x, 2) node[SeqNode] {} -- (\x+1,2);
+	}
+	\draw[-latex]
+	(0, 3) node [] {$S_4$}
+	(1, 3) -- (2,3);
+	\foreach \x in {2,..., 6}
+	{
+		\draw[-latex](\x, 3) node[SeqNode] {} -- (\x+1,3);
+	}
+	\draw
+	(3, 0)+(-0.2, 0.2) node [] {a}
+	(4, 1)+(-0.2, 0.2) node [] {b}
+	(4, 2)+(-0.2, 0.2) node [] {c}
+	(5, 2)+(-0, -0.3) node [] {[3, 4]};
+	\draw[-, line width=1.2] (3,0) -- (4,1);
+	\draw[-, line width=1.2] (4,1) -- (4,2);
+	\draw[-, line width=1.2] (5,2) -- (6,3);
+	\end{tikzpicture}
+	\caption{Since $a, b, c$ are aligned, their shared successor frontier towards sequence $3$ is at position $4$.}
+	\label{fig:eq-classes}
+\end{figure}
 
 
 \begin{algorithm}[h]
 	\DontPrintSemicolon
-	\KwData{Consistent site pair $a,b \in X$ to align}
-	\KwData{Index $nn$ of alignment set that was merged from alignment sets of $a$ and $b$}
+	\KwData{Consistent site pair $x,y \in X$ to align}
+	\KwData{Index $nn$ of alignment set that was merged from alignment sets of $x$ and $y$}
 	\KwData{Successor frontier $succ$}
 	\KwData{Predecessor frontier $pred$}
+	\KwData{$pred_x$ and $pred_y$ are predecessor frontiers of x and y respectevily}
 	\KwData{$alig\_set$ matrix, mapping an alignment set and sequence to a position}
 	\KwData{$pred\_alig\_set\_pos$ mapping a sequence and position to the index of the next predecessor alignment set of that site}
 	\KwResult{Updated tranisitivity frontiers $succ$ and $pred$}
 	\SetKwFunction{push}{push}
 	
-	\tcp{Update the successor frontier}
-	$frontier\_ops \leftarrow [\ ]$
+	\tcp{Calculate updates to successor frontier}
+	$succ\_frontier\_ops \leftarrow [\ ]$
 	
 	\For {$i \leftarrow 1$ \KwTo $N$} {
-		\If{$left_a[i] == left_b[i]$}{
+		\If{$pred_x[i] == pred_y[i]$}{
 			\bf{continue}\;
 		}
 		\For{$j \leftarrow 1$ \KwTo $N$}{
-			$k \leftarrow pred_A[nn,\ i]$\;
+			$k \leftarrow pred[nn,\ i]$\;
 			\If{$k > 0$ \bf{and} $k == alig\_set[nn,\ i]$}{
 				$k \leftarrow pred\_alig\_set\_pos[i,\ k]$\;	
 			}
 			\While{$k > 0$}{
 				$n \leftarrow alig\_set\_nbr[i,\ k]$\;
-				\If{$succ[n,\ j] > succ[nn,\ j]$}{
-					$frontier\_ops$.\push($[n,\ j,\ succ[nn,\ j]]$)\;
+				\If{$succ[n,\ j] > succ[nn,\ j]$}{ \label{alg:add-site-pair-revised_data-dep}
+					$succ\_frontier\_ops$.\push($[n,\ j,\ succ[nn,\ j]]$)\;
 					$k \leftarrow pred\_alig\_set\_pos[i,\ k]$\;
 				} 
 				\Else{
@@ -167,110 +186,56 @@ TODO Question: Why are \ref{alg:add-site-pair} and \ref{alg:add-site-pair-revise
 			}
 		}
 	}
+	\tcp{Calculate updates to predecessor frontier}
+	$pred\_frontier\_ops \leftarrow [\ ]$
 	
-	\ForEach{$[n,\ j,\ new\_front] \in frontier\_ops$}{
+	\For {$i \leftarrow 1$ \KwTo $N$} {
+		\If{$succ_x[i] == succ_y[i]$}{
+			\bf{continue}\;
+		}
+		\For{$j \leftarrow 1$ \KwTo $N$}{
+			$k \leftarrow succ[nn,\ i]$\;
+			\If{$k == alig\_set[nn,\ i]$}{
+				$k \leftarrow succ\_alig\_set\_pos[i,\ k]$\;	
+			}
+			\While{$k > 0$}{
+				$n \leftarrow alig\_set\_nbr[i,\ k]$\;
+				\If{$pred[n,\ j] < pred[nn,\ j]$}{
+					$succ\_frontier\_ops$.\push($[n,\ j,\ pred[nn,\ j]]$)\;
+					$k \leftarrow succ\_alig\_set\_pos[i,\ k]$\;
+				} 
+				\Else{
+					\bf{break}\;
+				}
+			}
+		}
+	}
+	
+	\ForEach{$[n,\ j,\ new\_front] \in succ\_frontier\_ops$}{
 		$succ[n,\ j] \leftarrow new\_front$\;
 	}
-	\BlankLine
-	\tcp{Update the predecessor frontier}
-	\tcp{ommited for brevity}
+	\ForEach{$[n,\ j,\ new\_front] \in pred\_frontier\_ops$}{
+		$pred[n,\ j] \leftarrow new\_front$\;
+	}
 	
 	\caption{revised add\_site\_pair(x, y) based on GABIOS-LIB implementation in Dialign2.2 \cite{abdeddaim2000speeding}}
-	\label{alg:add-site-pair-revised-2}
+	\label{alg:add-site-pair-revised}
 \end{algorithm}
 
-As pointed out in \cite{abdeddaim2000speeding, hundt2020praktkium} partitioning the aligned sites into equivalence classes respective to the relation of whether two sites aligned allows for a more compact storage and efficient update of the transitivity frontiers due to them coinciding for every site in an eq class.\\
-\\
-\begin{figure}[ht]
-	\tikzset{SeqNode/.style={circle, draw, fill=black, inner sep=0pt, minimum width=4pt}}
-	\centering
-	\begin{tikzpicture}[thick]
-	
-	\draw 
-	(0, 0) node [] {$S_1$}
-	(1,0) -- (2,0)
-	\foreach \x in {2, ..., 6}
-	{
-		(\x,0) node[SeqNode] {} -- (\x+1,0)
-	}
-	(0, 1) node [] {$S_2$}
-	(1, 1) -- (2,1)
-	\foreach \x in {2,..., 6}
-	{
-		(\x, 1) node[SeqNode] {} -- (\x+1,1)
-	}
-	(0, 2) node [] {$S_3$}
-	(1, 2) -- (2,2)
-	\foreach \x in {2,..., 6}
-	{
-		(\x, 2) node[SeqNode] {} -- (\x+1,2)
-	}
-	(3, 0)+(-0.2, 0.2) node [] {a}
-	(4, 1)+(-0.2, 0.2) node [] {b}
-	(4, 2)+(-0.2, 0.2) node [] {c}
-	(5, 2)+(0, 0.3) node [] {[3, 4]};
-	\draw[-, line width=1.5] (3,0) -- (4,1);
-	\draw[-, line width=1.5] (4,1) -- (4,2);
-	\end{tikzpicture}
-	\caption{TODO}
-	\label{fig:eq-classes}
-\end{figure}
+
+
+
 
 
 While the algorithm \ref{alg:add-site-pair} for maintaining a transitive closure when adding a pair of sites $(a, b)$ into a partial alignment works, it is far from optimal. 
 
 
-\begin{figure}[ht]
-	\tikzset{SeqNode/.style={circle, draw, fill=black, inner sep=0pt, minimum width=4pt}}
-	\centering
-	\begin{tikzpicture}[thick]
-	
-	\draw 
-	(0, 0) node [] {$S_1$}
-	(1,0) -- (2,0)
-	\foreach \x in {2, ..., 6}
-	{
-		(\x,0) node[SeqNode] {} -- (\x+1,0)
-	}
-	(0, 1) node [] {$S_2$}
-	(1, 1) -- (2,1)
-	\foreach \x in {2,..., 6}
-	{
-		(\x, 1) node[SeqNode] {} -- (\x+1,1)
-	}
-	(2, 0)+(-0.2, 0.2) node [] {a}
-	(3, 1)+(-0.2, 0.2) node [] {b};
-	\draw[-,dotted, line width=1.5] (2,0) -- (3,1);
-	\draw[-, line width=1.5] (4,0) -- (4,1);
-	\end{tikzpicture}
-	\caption{TODO}
-	\label{fig:unnecessary-cmp}
-\end{figure}
 
-
-
+TODO: This belongs in prior work since it's part of the original EdgeAddition paper. Clarify that \ref{alg:add-site-pair} is an inefficient algorithm for ensuring \ref{obs:frontier-relation} based on an incomplete understanding of EdgeAddition algo
 
 \Cref{fig:unnecessary-cmp} displays a partial alignment between two sequences. The continuous line represents two sites already aligned while the dotted line connects the site pair that is to be added. Updating the predecessor frontier for sequence $S_1$ would result in the following updates to $pred_A[x, i]$:
-
-% TODO float table
-\begin{table}[h]
-	\centering
-	\begin{tabular}{l c c}
-		$x$ & $pred_A[x, 2]$ before update &  $pred_A[x, 2]$ after update\\
-		(1, 1) & 0 & 2 \\
-		(1, 2) & 0 & 2 \\
-		(1, 3) & 3 & 3 \\
-		(1, 4) & 3 & 3 \\
-		(1, 5) & 3 & 3 \\
-	\end{tabular}
-	\label{}
-\end{table}
 
 It is evident that once the position of $x$ is greater or equal than that of an already aligned position, the alignment of $a$ and $b$ has no effect on the predecessor frontiers $pred_A[x, 2]$ for sites $x$ with a position that is greater or equal than $3$.\\
 This property allows an alternative solution 
 
-\begin{itemize}
-	\item describe version of algorithm utilizing eq classes and property described in \ref{fig:unnecessary-cmp} -> should this include data structures and memory evincemanagement?
-	\item maybe first dp algorithm without unnecessary cmps (like in Fi. 4 of \cite{abdeddaim1997incremental}) and the formulate with eq classes (which wasn't done in paper) 
-	\item highlight how this differs from most alignment algorithms in that it is completely greedy
-\end{itemize}
+

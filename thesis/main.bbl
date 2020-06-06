@@ -21,6 +21,11 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{hundt2020praktkium}
+R.~W. Hundt, ``Praktikumsbericht,'' \emph{Vertiefte anwendungsorientierte
+  Systementwicklung im forschungsbezogenen Praktikum, Georg-August-Universität
+  Göttingen}, 2020.
+
 \bibitem{Russell2016}
 D.~J. Russell, \emph{Multiple Sequence Alignment Methods -}, softcover reprint
   of the original 1st ed. 2014~ed.\hskip 1em plus 0.5em minus 0.4em\relax
@@ -37,11 +42,6 @@ S.~Abdedda{\"\i}m and B.~Morgenstern, ``Speeding up the dialign multiple
   library’(gabios-lib),'' in \emph{International Conference on Biology,
   Informatics, and Mathematics}.\hskip 1em plus 0.5em minus 0.4em\relax
   Springer, 2000, pp. 1--11.
-
-\bibitem{hundt2020praktkium}
-R.~W. Hundt, ``Praktikumsbericht,'' \emph{Vertiefte anwendungsorientierte
-  Systementwicklung im forschungsbezogenen Praktikum, Georg-August-Universität
-  Göttingen}, 2020.
 
 \bibitem{abdeddaim1997incremental}
 S.~Abdedda{\"\i}m, ``On incremental computation of transitive closure and
@@ -74,9 +74,25 @@ B.~Morgenstern, ``Dialign: multiple dna and protein sequence alignment at
   bibiserv,'' \emph{Nucleic acids research}, vol.~32, no. suppl\_2, pp.
   W33--W36, 2004.
 
+\bibitem{boden2013alignment}
+M.~Boden, M.~Sch{\"o}neich, S.~Horwege, S.~Lindner, C.~Leimeister, and
+  B.~Morgenstern, ``Alignment-free sequence comparison with spaced k-mers,'' in
+  \emph{German Conference on Bioinformatics 2013}.\hskip 1em plus 0.5em minus
+  0.4em\relax Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik, 2013.
+
 \bibitem{ma2002patternhunter}
 B.~Ma, J.~Tromp, and M.~Li, ``Patternhunter: faster and more sensitive homology
   search,'' \emph{Bioinformatics}, vol.~18, no.~3, pp. 440--445, 2002.
+
+\bibitem{leimeister2017fast}
+C.-A. Leimeister, S.~Sohrabi-Jahromi, and B.~Morgenstern, ``Fast and accurate
+  phylogeny reconstruction using filtered spaced-word matches,''
+  \emph{Bioinformatics}, vol.~33, no.~7, pp. 971--979, 2017.
+
+\bibitem{leimeister2018accurate}
+C.-A. Leimeister, T.~Dencker, and B.~Morgenstern, ``Accurate multiple alignment
+  of distantly related genome sequences using filtered spaced word matches as
+  anchor points,'' \emph{Bioinformatics}, vol.~35, no.~2, pp. 211--218, 2018.
 
 \bibitem{thompson2005balibase}
 J.~D. Thompson, P.~Koehl, R.~Ripp, and O.~Poch, ``Balibase 3.0: latest
@@ -87,5 +103,10 @@ J.~D. Thompson, P.~Koehl, R.~Ripp, and O.~Poch, ``Balibase 3.0: latest
 J.~D. Thompson, F.~Plewniak, and O.~Poch, ``A comprehensive comparison of
   multiple sequence alignment programs,'' \emph{Nucleic acids research},
   vol.~27, no.~13, pp. 2682--2690, 1999.
+
+\bibitem{katoh2013mafft}
+K.~Katoh and D.~M. Standley, ``Mafft multiple sequence alignment software
+  version 7: improvements in performance and usability,'' \emph{Molecular
+  biology and evolution}, vol.~30, no.~4, pp. 772--780, 2013.
 
 \end{thebibliography}

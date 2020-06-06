@@ -15,40 +15,40 @@ use indicatif::ProgressIterator;
 use itertools::Itertools;
 use rayon::prelude::*;
 use serde::{Deserialize, Serialize};
-use spam_align::align::{align, AlignProgress};
+use spam_align::align::{align, AlignProgress, Strategy};
 use spam_align::spaced_word::{read_patterns_from_file, Pattern};
 use spam_align::{read_fasta, write_as_fasta};
 
 fn main() -> Result<()> {
-    compute_results_for_balibase(
-        AlignmentProgram::MafftAccurate,
-        &["--quiet", "--localpair", "--maxiterate", "1000"],
-        vec![],
-        "../datasets/bb3_release".into(),
-        "../evaluation-data/".into(),
-    )
-    .unwrap();
-    eprintln!("Mafft-Accurate Complete");
-    compute_results_for_balibase(
-        AlignmentProgram::MafftFast,
-        &["--quiet", "--retree", "1", "--maxiterate", "0"],
-        vec![],
-        "../datasets/bb3_release".into(),
-        "../evaluation-data/".into(),
-    )
-    .unwrap();
-    eprintln!("Mafft-Fast Complete");
-    compute_results_for_balibase(
-        AlignmentProgram::Dialign,
-        &["-fa"],
-        vec![("DIALIGN2_DIR", "../dialign_package/dialign2_dir")],
-        "../datasets/bb3_release".into(),
-        "../evaluation-data/".into(),
-    )
-    .unwrap();
-    eprintln!("Dialign Complete");
+    // compute_results_for_balibase(
+    //     AlignmentProgram::MafftAccurate,
+    //     &["--quiet", "--localpair", "--maxiterate", "1000"],
+    //     vec![],
+    //     "../datasets/bb3_release".into(),
+    //     "../evaluation-data/".into(),
+    // )
+    // .unwrap();
+    // eprintln!("Mafft-Accurate Complete");
+    // compute_results_for_balibase(
+    //     AlignmentProgram::MafftFast,
+    //     &["--quiet", "--retree", "1", "--maxiterate", "0"],
+    //     vec![],
+    //     "../datasets/bb3_release".into(),
+    //     "../evaluation-data/".into(),
+    // )
+    // .unwrap();
+    // eprintln!("Mafft-Fast Complete");
+    // compute_results_for_balibase(
+    //     AlignmentProgram::Dialign,
+    //     &["-fa"],
+    //     vec![("DIALIGN2_DIR", "../dialign_package/dialign2_dir")],
+    //     "../datasets/bb3_release".into(),
+    //     "../evaluation-data/".into(),
+    // )
+    // .unwrap();
+    // eprintln!("Dialign Complete");
 
-    for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(43) {
+    for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(71) {
         let pattern_set_path = pattern_set_path?;
         let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
         let pattern_set = PatternSet {
@@ -61,6 +61,9 @@ fn main() -> Result<()> {
                 .to_owned()
                 .to_string(),
         };
+        if pattern_set.patterns[0].weight() != 1 {
+            continue;
+        }
         compute_results_for_balibase(
             AlignmentProgram::SpamAlign(pattern_set),
             &vec![],
@@ -163,7 +166,7 @@ fn compute_results_for_balibase(
             };
             let test_alignment = fasta::parse(&out_path).unwrap();
             let ref_alignment = balibase::parse(xml_file).unwrap();
-            let scores = compute_scores(&ref_alignment, &test_alignment, false);
+            let scores = compute_scores(&ref_alignment, &test_alignment);
             let eval_result = EvalResult {
                 scores,
                 time_ms: duration.as_millis(),
@@ -233,7 +236,12 @@ fn run_spam_align(
 ) -> Result<Duration> {
     let now = Instant::now();
     let mut input = read_fasta(fasta_in)?;
-    align(&mut input, &pattern_set.patterns, AlignProgress::Hide);
+    align(
+        &mut input,
+        &pattern_set.patterns,
+        Strategy::TwoDim,
+        AlignProgress::Hide,
+    );
     write_as_fasta(fasta_out, &input)?;
     Ok(now.elapsed())
 }

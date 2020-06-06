@@ -3,19 +3,165 @@ Spam-Align align builds upon several other algorithms and methods, namely GABIOS
 
 \section{GABIOS-LIB}
 
-GABIOS-LIB is a library written by Sa{\"\i}d Abdedda{\"\i}m implementing the \textit{EdgeAddition} algorithm for the incremental computation of the transitive closure of an alignment graph \cite{abdeddaim1997incremental}. 
+GABIOS-LIB is a library written by Sa{\"\i}d Abdedda{\"\i}m implementing the \textit{EdgeAddition} algorithm for the incremental computation of the transitive closure of a directed cyclic graph for which a spanning set of non overlapping paths is known \cite{abdeddaim1997incremental}. In the context of sequence alignment each residue is a node, every node in sequence has a directed edge towards the node corresponding to the residue with the next highest position (thus the sequences form the spanning set of the graph) and an undirected edge between nodes of different sequences equates an alignment of these residues.\\
+Given $k$ sequences with a total length of $n \defeq |X|$ the upper bounds for the computation of a transitivity frontier of a multiple sequence alignment are $O(k^2n+n^2)$ time and $O(kn)$ space.\\
+This is accomplished by incrementally maintaining the transitive closure $\preceq_A$ with A being an equivalence relation on the set of sites $|X|$ defined as $xAy \defeq x \text{ is aligned to } y$ for $x,y\in X$. Given the quasi partial order $\preceq_{A}$ an alignment of the sites $x,y\in X$ is consistent iff $x\preceq_{A}y \iff y \preceq_{A} x$. Either $x \preceq_{A} y$ and $y\preceq_{A} x$ both hold, in which case they are already aligned, or neither of those is true, resulting in $A \cup (x,y)$ being consistent.\\
+
+
+\begin{mydef}[Transitivity frontiers as defined in \cite{abdeddaim2000speeding}]
+	For a given alignment $A$ (as an equivalence relation on a set of sites $X$), a site $x \in X$ and a sequence index $i$ we define the predecessor and successor transitivity frontiers in the following way:
+	\begin{align*}
+	pred_A[x, i] &\defeq \begin{cases*} 
+		\max{\{p: [i, p] \preceq_A x\}} & \text{ if there exists a site $[i, p]$ which is $\preceq_A x$}\\
+		0 & \text { otherwise}
+	\end{cases*}\\
+	succ_A[x, i] &\defeq  \begin{cases*}
+		\min{\{p: x \preceq_A [i, p]\}} & \text{ if there exists a site $[i, p]$ for which $x \preceq_A [i,p]$ holds}\\
+		len(S_i) + 1 & \text{ otherwise}
+	\end{cases*}
+	\end{align*}
+	\label{def:transi-frontiers}
+\end{mydef}
+
+Accordingly $\preceq_A$ can also be defined as $x,y \in X \text{ with } x = [i, p]: x \preceq_A y \iff p \leq pred_A[y][i]$.
+
+ \textit{EdgeAddition} \ref{alg:edge-addtition} is able to efficiently maintain this transitive closure by computing the predecessor and successor transitivity frontiers \ref{def:transi-frontiers}. It is based on the observation that for a site $u$ in a sequence $S_i$ the frontiers towards another sequence $S_j$, before and after the addition of a consistent site pair $(x, y)$, are related in the following way: 
+
+\begin{align}
+	pred_{A'}[u][j] &= \begin{cases}
+		max\{pred_A[u][j], pred[x][j]\} \quad \! &\text{if u was successor of y}\\
+		pred_A[u][j] &\text{otherwise}
+	\end{cases}\\
+	succ_{A'}[u][j] &= \begin{cases}
+	min\{succ_A[u][j], succ_A[y], [j]\} &\text{if u was predecessor of x}\\
+	succ_A[u][j] &\text{otherwise}
+	\end{cases}
+	\label{obs:frontier-relation}
+\end{align}
+
+ Algorithm \ref{alg:edge-addtition} ensures observation \ref{obs:frontier-relation} by iterating over each pair of sequence indices $(i,j)$ and, in the case of the successor frontier, iterating the sites in sequence $S_i$ from $pred_A[x][i]$ in decreasing order, as long as $succ_A[y][j]$ is smaller than $succ_A[u][j]$, assigning $succ_A[y][j]$ to $succ_A[u][j]$ while it is the minimum of the two. Underlying is the idea, that only those frontier values from sequence $i$ to sequence $j$ are susceptible to change by the alignment of $(x, y)$, which have a path to $x$ (due to this the sites in sequence $i$ are iterated starting at $pred_A[x][i]$ being the highest position in sequence $i$ that has a path to $x$). Furthermore once a site in sequence $i$ has a $succ_A[u][j]$ value that is \textbf{not} greater than $succ_A[y][j]$, there are no further sites in sequence $i$ for which that condition would be true and the next sequence pair can be considered.
+ Updating the predecessor frontier is done in a similar fashion.\\
+ 
+ 
+ \begin{algorithm}[h]
+ 	\DontPrintSemicolon
+ 	\KwData{Consistent site pair $x,y \in X$ to align}
+ 	\KwData{Partial Alignment $A$ as an equivalence relation on $X$}
+ 	\KwData{$succ_A$ successor frontiers for $A$}
+ 	\KwData{$pred_A$ predecessor frontiers for $A$}
+ 	\KwResult{Partial Alignment $A' = A \cup \{(x, y)\}$}
+ 	\KwResult{Updated transitivity frontiers}
+ 	
+ 	\tcp{Update the successor frontier}
+ 	\For {$i \leftarrow 1$ \KwTo $N$} {
+ 		\For{$j \leftarrow 1$ \KwTo $N$}{
+ 			\For{$p \leftarrow pred_A[x][i]$ \KwTo $1$}{
+ 				$u \leftarrow Site [i, p]$\;
+ 				\If{not $succ_A[y][j] < succ_A[u][j]$}{
+ 					\bf{break}\;
+ 				}
+ 				%			Why is u predecessor of a? needed for Observation 3
+ 				% 			u is pred of a because u is <= pred[a][i] 
+ 				$succ_A[u][j] \leftarrow succ_A[y][j]$\;
+ 			}
+ 		}
+ 		
+ 	}
+ 	
+ 	\tcp{Update the predecessor frontier}
+ 	\For {$i \leftarrow 1$ \KwTo $N$} {
+ 		\For{$j \leftarrow 1$ \KwTo $N$}{
+ 			\For{$p \leftarrow succ_A[y][i]$ \KwTo $len(S_i)$}{
+ 				$u \leftarrow Site [p, i]$\;
+ 				\If{not $pred_A[x][j] > pred_A[u][j]$}{
+ 					\bf{break}\;
+ 				}
+ 				$pred_A[u][j] \leftarrow pred_A[x][j]$\;
+ 			}
+ 		}
+ 		
+ 	}
+ 	
+ 	\caption{EdgeAddition(x, y) as proposed by Abdedda{\"\i}m \cite{abdeddaim1997incremental}}
+ 	\label{alg:edge-addtition}
+ \end{algorithm}
+ 
+ \begin{figure}[h]
+ 	\tikzset{SeqNode/.style={circle, draw, fill=black, inner sep=0pt, minimum width=4pt}}
+ 	\tikzset{SeqNodeHighlight/.style={circle, draw=red, fill=red, inner sep=0pt, minimum width=4pt}}
+ 	\centering
+ 	\begin{tikzpicture}[thick]
+	
+	\draw[-latex] 
+	(0, 0) node [] {$S_1$}
+	(1,0) -- (2,0);
+	\foreach \x in {2, ..., 10}
+	{
+		\draw[-latex](\x,0) node[SeqNode] {} -- (\x+1,0);
+	};
+	\draw[-latex]
+	(0, 1) node [] {$S_2$}
+	(1, 1) -- (2,1);
+	\foreach \x in {2,3,7,8,9,10}
+	{
+		\draw[-latex](\x, 1) node[SeqNode] {} -- (\x+1,1);
+	};
+	\foreach \x in {4,...,6}
+	{
+		\draw[-latex](\x, 1) node[SeqNodeHighlight] {} -- (\x+1,1);
+	};
+	\draw[-latex]
+	(0, 2) node [] {$S_3$}
+	(1, 2) -- (2,2);
+	\foreach \x in {2,..., 10}
+	{
+		\draw[-latex](\x, 2) node[SeqNode] {} -- (\x+1,2);
+	};
+	 \draw[-latex]
+	 (0, 3) node [] {$S_4$}
+	 (1, 3) -- (2,3);
+	 \foreach \x in {2,...,10}
+	 {
+		 	\draw[-latex](\x, 3) node[SeqNode] {} -- (\x+1,3);
+	 };
+ 	\draw[dotted, line width=1.2] (8, 3) -- (8, 2);
+    \draw 
+    (8, 3)+(-0.2, 0.2) node [] {x}
+    (8, 2)+(-0.2, 0.2) node [] {y};
+ 	\draw[line width=1.2] (8, 2) -- (9, 0);
+ 	\draw[line width=1.2] (7, 3) -- (6, 1);
+ 	\draw[line width=1.2] (3, 1) -- (3, 0);
+    \draw
+    (9, 0)+(0, -0.3) node [] {[1, 8]}
+    (6, 1)+(0, -0.3) node [] {[2, 5]}
+    (3, 1)+(0, +0.3) node [] {[2, 2]}
+    (3, 0)+(0, -0.3) node [] {[1, 2]};
+ 	\end{tikzpicture}
+ 	\caption{Alignment graph visualizing for which nodes (highlighted in red) in sequence $i = 2$ with respect to sequence $j = 1$ the successor frontiers change due to the alignment of $(x, y)$.}
+ 	\label{fig:algo-exampl}
+ \end{figure}
+
+As an example we consider the situation displayed in \autoref{fig:algo-exampl}. The site pair $(x, y)$ is to be aligned and the transitivity frontiers updated. Examining the successor frontier from $i = 2$ towards $j = 1$, the \textit{EdgeAddition} algorithm first considers the predecessor of $x$ in $i$, namely $pred_A[x][i] = 5$, and since the successor frontier $succ_A[[2, 5][j] = len(S_2)$ is set to the maximum value, it is changed to $succ_A[y][j] = 8$. Since the successor frontier for $[2, 5]$ was updated, the next site in $S_2$ by decreasing order is considered and the frontier is updated. This continues until site $[2,2]$ which is aligned to $[1,2]$ and thus has a successor frontier of $succ_A[[2,2]][1] = 2$ which is less the one from $y$ to $S_1$. Due to the successor frontier from one sequence towards another monotonically falling with decreasing position, the inner for loop can be broken out of and the next sequence pair can be considered. 
+ 
 
 \begin{itemize}
 	\item written to be used in greedy alignment algorithms, used in Dialign 2.2
 	\item able to answer the question of whether two sites are alignable in $o(1)$
 	\item allows efficient incremental updates of closure when new sites are added to alignment 
+	\item works by incrementally computing transitivity frontiers
 	\item $O(k^2n+n^2)$ time for k sequences with a total length of n ($n = |X|$)
 	\item $O(kn)$ space
+	\item works by maintaining predecessor and successor transitivity frontiers -> define them
+	\item $\preceq_A$ can be defined in terms of pred frontier
+
 \end{itemize}
  
 
+
 \section{Dialign}
-Dialign is a multiple sequence algorithm first proposed by Morgenstern et al. in 1996 \cite{morgenstern1996multiple} with several alterations and reimplementations over the years  \cite{abdeddaim2000speeding, morgenstern1999dialign, sub:wey:kau:mor:05, sub:kau:mor:08, morgenstern2004dialign}. In the following, \textit{Dialign} will refer to the version 2.2 \cite{morgenstern2004dialign} of the software.\\
+Dialign is a multiple sequence algorithm first proposed by Morgenstern et al. in 1996 \cite{morgenstern1996multiple} with several alterations and reimplementations over the years  \cite{abdeddaim2000speeding, morgenstern1999dialign, sub:wey:kau:mor:05, sub:kau:mor:08, morgenstern2004dialign}. In the following, \textit{Dialign} refers to the version 2.2 \cite{morgenstern2004dialign} of the software.\\
+Foremost a pairwise sequence alignment consisting of a set of non overlapping segment pairs (referred to as diagonals) with a maximal sum of scores is computed for every sequence combination. These diagonals are then sorted by their weight (which is computed from the score) and greedily incorporated into an alignment, employing GABIOS-LIB to efficiently ensure its consistency. Diagonals with a weight of 0 are not added to the alignment and discarded. This process of finding diagonals and adding them to an alignment is repeated for the unaligned parts of the sequences until all residues are aligned or no diagonals with a positive score can be found. Those diagonals which are added first to the alignment establish a \textit{frame} into which the following diagonals need to fit, the expectation being that those diagonals with a very high weight are very likely to be correct. An incorrectly aligned diagonal during those first might lead to the whole alignment being implausible.\\
+Considering this, Dialign can be classified as an iterative and greedy alignment algorithm \cite{morgenstern1996multiple}.
 
 
 \begin{itemize}
@@ -30,6 +176,9 @@ Dialign is a multiple sequence algorithm first proposed by Morgenstern et al. in
 
 
 \section{Spaced Word Matches}
+
+Spaced word matches are an idea first proposed by Boden et al. \cite{boden2013alignment} (at that time they were referred to as \textit{spaced k-mers}), based upon the idea of \textit{spaced seeds} for fast database searching by Ma et al. \cite{ma2002patternhunter} and later heavily expanded upon by Chris Leimeister \cite{leimeister2014fast, leimeister2017fast, leimeister2018accurate}.\\
+The idea essentially is to search for \textit{inexact} k-mer matches, which can differ at predefined positions, referred to as \textit{"Don't care positions"}. 
 
 \begin{itemize}
 	\item based on spaced seeds by \cite{ma2002patternhunter}
@@ -53,6 +202,8 @@ Dialign is a multiple sequence algorithm first proposed by Morgenstern et al. in
 
 \subsection{Multi dimensional matches}
 
+TODO: Leave this is out in case analysis of multi dim matches is not included in evaluation.
+
 \begin{table}[H]
 	\centering
 	\begin{tabular}{ l c c c c c c c c c c}
@@ -62,5 +213,5 @@ Dialign is a multiple sequence algorithm first proposed by Morgenstern et al. in
 		$P$: &    &1&1&0&0&0&0&1
 	\end{tabular}
 	\caption{Example of a multi dimensional Spaced Word Match}
-	\label{tab:spaced-word}
+	\label{tab:multi-spaced-word}
 \end{table}

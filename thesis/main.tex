@@ -12,7 +12,7 @@
 \usepackage{siunitx}
 \usepackage{multirow}
 \usepackage{setspace}
-\usepackage{xcolor}
+\usepackage[table]{xcolor}
 \usepackage{listings}
 \usepackage{tabularx}
 \usepackage{marvosym}
@@ -23,11 +23,14 @@
 \usepackage{wrapfig}
 \usepackage{cleveref}
 \usepackage{ntheorem}
-\usepackage[ruled, vlined]{algorithm2e}
+\usepackage[ruled, vlined, linesnumbered]{algorithm2e}
 \usepackage{tkz-graph}
 \usepackage{minted}
 \usepackage{multicol}
 \usepackage{caption}
+\usepackage{mathtools}
+\usepackage{booktabs}
+
 
 
 %--- pdf/a format ----
@@ -73,10 +76,10 @@
 \newcommand{\mycourse}{Applied Computer Science}
 %\newcommand{\mycourse}{Internet Technologies and Information Systems}
 
-\newcommand{\mytitle}{My Title}
+\newcommand{\mytitle}{Multiple sequence alignment based on spaced-word matches}
 \newcommand{\myauthor}{Robin William Hundt}
 \newcommand{\mydepartment}{Institute of Computer Science}
-\newcommand{\mysubmissiondate}{09. May 2020}
+\newcommand{\mysubmissiondate}{08. June 2020}
 \newcommand{\mythesisid}{201x-xx} %assigned by examination office
 \newcommand{\myfirstsupervisor}{Prof. Dr. Burkhard Morgenstern}
 \newcommand{\mysecondsupervisor}{Dr. Peter Meinicke}
@@ -138,24 +141,16 @@
     
     %--- chaper 1..n ---
     \input{content/introduction}
-    \myemptypage
 
     \input{content/basics}
-    \myemptypage
 
     \input{content/prior_work}
-	\myemptypage
 
     \input{content/algorithm}
-    \myemptypage
-
 
     \input{content/implementation}
-	\myemptypage
 
     \input{content/evaluation}
-    \myemptypage
-
 
     \input{content/conclusion}
     \myemptypage

@@ -2,25 +2,26 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Basics}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Multiple sequence alignment}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Mathematical notion of Consistency and Alignments}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Definition of Consistency and Alignments}{4}{section.2.2}%
 \contentsline {chapter}{\numberline {3}Prior Work}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}GABIOS-LIB}{7}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Dialign}{7}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Spaced Word Matches}{8}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Multi dimensional matches}{8}{subsection.3.3.1}%
-\contentsline {chapter}{\numberline {4}Algorithm}{11}{chapter.4}%
+\contentsline {section}{\numberline {3.2}Dialign}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Spaced Word Matches}{11}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Multi dimensional matches}{11}{subsection.3.3.1}%
+\contentsline {chapter}{\numberline {4}Algorithm}{13}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Implementation}{17}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Evaluation}{21}{chapter.6}%
-\contentsline {section}{\numberline {6.1}BAliBASE 3 alignment benchmark dataset}{21}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Core blocks}{22}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Quality of Alignments}{22}{subsection.6.1.2}%
-\contentsline {section}{\numberline {6.2}Sum-of-pairs and column score}{22}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Evaluated programs}{23}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Mafft}{23}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Dialign}{24}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Spam-Align}{24}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6.4}Results}{24}{section.6.4}%
+\contentsline {chapter}{\numberline {6}Evaluation}{19}{chapter.6}%
+\contentsline {section}{\numberline {6.1}BAliBASE 3 alignment benchmark dataset}{19}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Core blocks}{20}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Quality of Alignments}{20}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Sum-of-pairs and column score}{20}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Bali-Score}{21}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Evaluated programs}{22}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Mafft}{22}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Dialign}{22}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Spam-Align}{22}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Results}{22}{section.6.5}%
 \contentsline {chapter}{\numberline {7}Conclusion}{27}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Further work}{27}{section.7.1}%
 \contentsline {subsection}{\numberline {7.1.1}Parallelisation Opportunities}{27}{subsection.7.1.1}%
-\contentsline {chapter}{Bibliography}{30}{chapter*.16}%
+\contentsline {chapter}{Bibliography}{30}{chapter*.21}%

@@ -4,7 +4,7 @@
 \begin{wrapfigure}{r}{0.4\textwidth}
 	\centering
 	\includegraphics[width=0.5\textwidth]{./images/balibase.png}
-	\caption{Flow chart showing the semi automatic process used to establish the reference sets TODO cite self}
+	\caption{Semi automatic process used to establish the reference sets. Source: \cite{hundt2020praktkium}}
 	\label{fig:balibase}
 \end{wrapfigure}
 
@@ -75,17 +75,27 @@ The definition of the column score is slightly different than that provided by t
 These scores are only calculated for the core blocks of the \bb alignments, meaning that for the following evaluation $A_t$ is an alignment over the full sequences, while $A_r$ contains only the aligned residues inside the core blocks.
 
 
+\section{Bali-Score}
+Accompanying this thesis is a reimplementation of the \textit{bali-score} tool, which can be used to calculate the SPS and column scores given a test alignment in \code{fasta} format and a \bb reference \code{xml} file. Although some of the features part of the original implementation or not part of this version, it is not dependent on the \textit{Expat XML parser}, which proved to be burdensome.\\
+The source code is available on \href{TODO github url}{github.com} and, provided the current stable Rust toolchain \footnote{View \href{https://rustup.rs}{rustup.rs} for installation instruction} is available, installing the tool can simply be done by issuing \code{cargo install --path .} in the cloned repository root. For usage instructions view \code{bali-score -h}.
+
 
 
 \section{Evaluated programs}
 
 
 \subsection{Mafft}
-Additionally to \textit{Dialign2.2} and \textit{spam-align} the widely used multiple alignment program \textit{MAFFT} (version 7) is evaluated. It employs a progressive alignment strategy 
+Mafft (version 7), standing for \textbf{m}ultiple \textbf{a}lignment using \textbf{f}ast \textbf{F}ourier \textbf{t}ransform, is a widely used similarity based multiple sequence alignment program employing progressive, iterative and structural strategies \cite{katoh2013mafft}.
+
+
 
 \begin{itemize}
-	\item progressive alignment
-	\item guide tree from all pairwise alignments
+	\item mafft offers plethora of strategies for different situations
+	\item two strategies are evaluated
+	\begin{itemize}
+		\item here referred to as Mafft-Fast: FFT-NS-1 (very fast; recommended for >2000 sequences; progressive method with a rough guide tree): mafft --retree 1 --maxiterate 0 input [> output]
+		\item here referred to as Mafft-Accurate: L-INS-i (probably most accurate; recommended for <200 sequences; iterative refinement method incorporating local pairwise alignment information): mafft --localpair --maxiterate 1000 input [> output]
+	\end{itemize}
 \end{itemize}
 
 \textit{MAFFT} is evaluated for two different alignment strategies, from now on referred to as \textit{fast} and \textit{accurate}
@@ -95,5 +105,50 @@ Additionally to \textit{Dialign2.2} and \textit{spam-align} the widely used mult
 \subsection{Spam-Align}
 
 
+\begin{itemize}
+	\item which pattern sets have been used? -> include rasbhari parameters
+\end{itemize}
+
 
 \section{Results}
+
+\begin{itemize}
+	\item execution times include finding of micro alignments which is unnecessarily complex atm. and takes up roughly 50\% of program run time 
+\end{itemize}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\textwidth]{../alignment-evaluation/sop-by-pattern-params.png}
+	\caption{Sum of pairs scores aggregated over \bb reference sets and weights.}
+	\label{}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\textwidth]{../alignment-evaluation/cs-by-pattern-params.png}
+	\caption{Column scores aggregated over \bb reference sets and weights.}
+	\label{}
+\end{figure}
+
+Table shows sum-of-pairs scores for compared programs (only selected parameters for spam-align).
+3
+\input{../alignment-evaluation/df_sop_best}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\textwidth]{../alignment-evaluation/sop-boxplot.png}
+	\caption{Sum of pairs scores. Spam-Align is called with a pattern of weight 2 and 11 don't care positions.}
+	\label{}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\textwidth]{../alignment-evaluation/cs-boxplot.png}
+	\caption{Column scores. Spam-Align is called with a pattern of weight 2 and 11 don't care positions.}
+	\label{}
+\end{figure}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\textwidth]{../alignment-evaluation/time-by-pattern-params.png}
+	\caption{Mean execution times in ms.}
+	\label{}
+\end{figure}
