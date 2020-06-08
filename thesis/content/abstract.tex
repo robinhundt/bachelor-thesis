@@ -1,15 +1,22 @@
 \begin{abstract}
     \textbf{Motivation}\\
-    \begin{itemize}
-    	\item sequencing data is ever increasing
-    	\item MSA, while being an indispensable part of biology and bioinformatics research is a computationally very expensive problem
-    	\item in need of new heuristics and algorithms which can be used to calculate MSA with constrained resources
-    	\item earlier work examined the feasibility of an alignment approach based on spaced word matches and consistency checks in conjuction with GABIOS-LIB
-    	\item this work provides an implementation and evaluation of this approach
-    \end{itemize}
+    The amount of sequencing data that is generated is ever increasing. A multiple alignment of these sequences is a NP-complete problem, but constitutes an indispensable part of biology and bioinformatics research. Thus, the need for new heuristics and algorithms able to produce biologically plausible multiple sequence alignments with constrained time and memory resources arises.\\
+    In the space of alignment-free sequence comparisons, the concept of Spaced Word Matches proved to be a useful tool for the phylogeny reconstruction of large inputs in a fraction of the time and memory a traditional approach would necessitate. In prior work we established that these Spaced Word Matches can be seen as micro-alignments of segments in the input sequences and that it may be possible to efficiently compute a complete alignment by finding and greedily constructing a consistent set of micro-alignments. The aim of this thesis was to further refine, implement and evaluate this alignment approach, in order to answer the question of whether it is possible to \textbf{efficiently} compute \textbf{biologically plausible} multiple sequence alignments by greedily aligning spaced word matches.
+
     
     \textbf{Results}\\
+    This thesis provides an alignment tool called SpaM-Align, referring to \textbf{S}paced \textbf{M}atches, which is based on the idea of greedily aligning spaced word matches. A crucial part SpaM-Align is a reimplementation and improvement upon GABIOS-LIB, a library providing the EdgeAddition algorithm for the incremental computation of a transitive closure of an alignment graph.\\
+    The tool is evaluated on the \bb version 3 database and compared to Mafft and Dialign, two established alignment programs. I demonstrate that this approach is able to produce alignments orders of magnitude faster than the Dialign (version 2.2) alignment program, which served as an inspiration for SpaM-Align, and in similar time as the state-of-the-art alignment program Mafft (version 7). However the quality of the produced alignments is, in the best case, slightly worse than those produced by Dialign and significantly worse than what is computed by Mafft.
     
     
 \end{abstract}
+
+
+% TODO maybe structure it with the following headings
+
+%Background: Latest information on the topic; key phrases that pique interest (e.g., “…the role of this enzyme has never been clearly understood”).
+%Objective: Your goals; what the study examined and why.
+%Methods: Brief description of the study (e.g., retrospective study).
+%Results: Findings and observations.
+%Conclusions: Were these results expected? Whether more research is needed or not?
 

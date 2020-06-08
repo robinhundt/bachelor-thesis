@@ -143,35 +143,36 @@ Accordingly $\preceq_A$ can also be defined as $x,y \in X \text{ with } x = [i, 
 
 As an example we consider the situation displayed in \autoref{fig:algo-exampl}. The site pair $(x, y)$ is to be aligned and the transitivity frontiers updated. Examining the successor frontier from $i = 2$ towards $j = 1$, the \textit{EdgeAddition} algorithm first considers the predecessor of $x$ in $i$, namely $pred_A[x][i] = 5$, and since the successor frontier $succ_A[[2, 5][j] = len(S_2)$ is set to the maximum value, it is changed to $succ_A[y][j] = 8$. Since the successor frontier for $[2, 5]$ was updated, the next site in $S_2$ by decreasing order is considered and the frontier is updated. This continues until site $[2,2]$ which is aligned to $[1,2]$ and thus has a successor frontier of $succ_A[[2,2]][1] = 2$ which is less the one from $y$ to $S_1$. Due to the successor frontier from one sequence towards another monotonically falling with decreasing position, the inner for loop can be broken out of and the next sequence pair can be considered. 
  
-
-\begin{itemize}
-	\item written to be used in greedy alignment algorithms, used in Dialign 2.2
-	\item able to answer the question of whether two sites are alignable in $o(1)$
-	\item allows efficient incremental updates of closure when new sites are added to alignment 
-	\item works by incrementally computing transitivity frontiers
-	\item $O(k^2n+n^2)$ time for k sequences with a total length of n ($n = |X|$)
-	\item $O(kn)$ space
-	\item works by maintaining predecessor and successor transitivity frontiers -> define them
-	\item $\preceq_A$ can be defined in terms of pred frontier
-
-\end{itemize}
+%
+%\begin{itemize}
+%	\item written to be used in greedy alignment algorithms, used in Dialign 2.2
+%	\item able to answer the question of whether two sites are alignable in $o(1)$
+%	\item allows efficient incremental updates of closure when new sites are added to alignment 
+%	\item works by incrementally computing transitivity frontiers
+%	\item $O(k^2n+n^2)$ time for k sequences with a total length of n ($n = |X|$)
+%	\item $O(kn)$ space
+%	\item works by maintaining predecessor and successor transitivity frontiers -> define them
+%	\item $\preceq_A$ can be defined in terms of pred frontier
+%
+%\end{itemize}
  
 
 
 \section{Dialign}
+\label{sec:dialgin}
 Dialign is a multiple sequence algorithm first proposed by Morgenstern et al. in 1996 \cite{morgenstern1996multiple} with several alterations and reimplementations over the years  \cite{abdeddaim2000speeding, morgenstern1999dialign, sub:wey:kau:mor:05, sub:kau:mor:08, morgenstern2004dialign}. In the following, \textit{Dialign} refers to the version 2.2 \cite{morgenstern2004dialign} of the software.\\
 Foremost a pairwise sequence alignment consisting of a set of non overlapping segment pairs (referred to as diagonals) with a maximal sum of scores is computed for every sequence combination. These diagonals are then sorted by their weight (which is computed from the score) and greedily incorporated into an alignment, employing GABIOS-LIB to efficiently ensure its consistency. Diagonals with a weight of 0 are not added to the alignment and discarded. This process of finding diagonals and adding them to an alignment is repeated for the unaligned parts of the sequences until all residues are aligned or no diagonals with a positive score can be found. Those diagonals which are added first to the alignment establish a \textit{frame} into which the following diagonals need to fit, the expectation being that those diagonals with a very high weight are very likely to be correct. An incorrectly aligned diagonal during those first might lead to the whole alignment being implausible.\\
 Considering this, Dialign can be classified as an iterative and greedy alignment algorithm \cite{morgenstern1996multiple}.
 
 
-\begin{itemize}
-	\item is an iterative and greedy algorithm
-	\item first computes pairwise alignments  consisting of a set of non overlapping segment pairs (referred to as diagonals) with a maximal sum of scores for every combination of sequences
-	\item set of diagonals is scored by their weight and greedily incorporated into alignment while using GABIOS-LIB to efficiently ensure consistent of alignments
-	\item diagonals with score below threshold (default 0) are discarded
-	\item process of finding diagonals and adding them to alignment is repeated for unaligned parts of sequences until everything is aligned or no diagonals of positive score can be found
-	\item dialign sepnds majority of time on constructing paiwise alignments in order to find diagonals -> src is own lousy profile, maybe show profile data for big alignment in bb in appendix?
-\end{itemize}
+%\begin{itemize}
+%	\item is an iterative and greedy algorithm
+%	\item first computes pairwise alignments  consisting of a set of non overlapping segment pairs (referred to as diagonals) with a maximal sum of scores for every combination of sequences
+%	\item set of diagonals is scored by their weight and greedily incorporated into alignment while using GABIOS-LIB to efficiently ensure consistent of alignments
+%	\item diagonals with score below threshold (default 0) are discarded
+%	\item process of finding diagonals and adding them to alignment is repeated for unaligned parts of sequences until everything is aligned or no diagonals of positive score can be found
+%	\item dialign sepnds majority of time on constructing paiwise alignments in order to find diagonals -> src is own lousy profile, maybe show profile data for big alignment in bb in appendix?
+%\end{itemize}
 
 
 
@@ -198,20 +199,21 @@ The idea essentially is to search for \textit{inexact} k-mer matches, which can 
 
 \begin{mydef}[Pattern as defined in \cite{hundt2020praktkium}]
 	A Pattern is a sequence over the Alphabet $\Sigma = \{0, 1\}$, where $1$ corresponds to a "Match position" and $0$ to a "Don't Care" position. A patterns weight $k$ is defined as the number of "Match positions" it contains.
+	\label{def:pattern}
 \end{mydef}
 
-\subsection{Multi dimensional matches}
-
-TODO: Leave this is out in case analysis of multi dim matches is not included in evaluation.
-
-\begin{table}[H]
-	\centering
-	\begin{tabular}{ l c c c c c c c c c c}
-		$S_1$: & a&b&l&l&h&i&a&f&c&b \\ 
-		$S_2$: & c&b&l&i&g&i&k&f&i&t \\
-		$S_3$: & k&b&l&q&k&i&a&f&i&l \\
-		$P$: &    &1&1&0&0&0&0&1
-	\end{tabular}
-	\caption{Example of a multi dimensional Spaced Word Match}
-	\label{tab:multi-spaced-word}
-\end{table}
+%\subsection{Multi dimensional matches}
+%
+%TODO: Leave this is out in case analysis of multi dim matches is not included in evaluation.
+%
+%\begin{table}[H]
+%	\centering
+%	\begin{tabular}{ l c c c c c c c c c c}
+%		$S_1$: & a&b&l&l&h&i&a&f&c&b \\ 
+%		$S_2$: & c&b&l&i&g&i&k&f&i&t \\
+%		$S_3$: & k&b&l&q&k&i&a&f&i&l \\
+%		$P$: &    &1&1&0&0&0&0&1
+%	\end{tabular}
+%	\caption{Example of a multi dimensional Spaced Word Match}
+%	\label{tab:multi-spaced-word}
+%\end{table}

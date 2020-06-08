@@ -9,7 +9,6 @@ The following combinations of *care* and *don't care* are chosen for the precisi
 
 |weight| don't care positions|
 |------|---------------------|
-|2|2|
 |2|3|
 |2|4|
 |2|5|
@@ -66,6 +65,20 @@ The following combinations of *care* and *don't care* are chosen for the precisi
 |5|14|
 |5|15|
 |5|16|
+|6|3|
+|6|4|
+|6|5|
+|6|6|
+|6|7|
+|6|8|
+|6|9|
+|6|10|
+|6|11|
+|6|12|
+|6|13|
+|6|14|
+|6|15|
+|6|16|
 |7|3|
 |7|4|
 |7|5|

@@ -29,15 +29,15 @@ fn main() -> Result<()> {
     // )
     // .unwrap();
     // eprintln!("Mafft-Accurate Complete");
-    // compute_results_for_balibase(
-    //     AlignmentProgram::MafftFast,
-    //     &["--quiet", "--retree", "1", "--maxiterate", "0"],
-    //     vec![],
-    //     "../datasets/bb3_release".into(),
-    //     "../evaluation-data/".into(),
-    // )
-    // .unwrap();
-    // eprintln!("Mafft-Fast Complete");
+    compute_results_for_balibase(
+        AlignmentProgram::MafftFast,
+        &["--quiet", "--retree", "1", "--maxiterate", "0"],
+        vec![],
+        "../datasets/bb3_release".into(),
+        "../evaluation-data/".into(),
+    )
+    .unwrap();
+    eprintln!("Mafft-Fast Complete");
     // compute_results_for_balibase(
     //     AlignmentProgram::Dialign,
     //     &["-fa"],
@@ -48,31 +48,36 @@ fn main() -> Result<()> {
     // .unwrap();
     // eprintln!("Dialign Complete");
 
-    for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(71) {
-        let pattern_set_path = pattern_set_path?;
-        let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
-        let pattern_set = PatternSet {
-            patterns: pattern_set,
-            name: pattern_set_path
-                .path()
-                .file_stem()
-                .unwrap()
-                .to_string_lossy()
-                .to_owned()
-                .to_string(),
-        };
-        if pattern_set.patterns[0].weight() != 1 {
-            continue;
-        }
-        compute_results_for_balibase(
-            AlignmentProgram::SpamAlign(pattern_set),
-            &vec![],
-            vec![],
-            "../datasets/bb3_release".into(),
-            "../evaluation-data/".into(),
-        )
-        .unwrap();
-    }
+    // for pattern_set_path in fs::read_dir("../pattern_sets/data")?.progress_count(84) {
+    //     let pattern_set_path = pattern_set_path?;
+    //     let pattern_set = read_patterns_from_file(pattern_set_path.path())?;
+    //     let pattern_set = PatternSet {
+    //         patterns: pattern_set,
+    //         name: pattern_set_path
+    //             .path()
+    //             .file_stem()
+    //             .unwrap()
+    //             .to_string_lossy()
+    //             .to_owned()
+    //             .to_string(),
+    //     };
+    //     compute_results_for_balibase(
+    //         AlignmentProgram::SpamAlign(pattern_set.clone(), false),
+    //         &vec![],
+    //         vec![],
+    //         "../datasets/bb3_release".into(),
+    //         "../evaluation-data/".into(),
+    //     )
+    //     .unwrap();
+    //     compute_results_for_balibase(
+    //         AlignmentProgram::SpamAlign(pattern_set, true),
+    //         &vec![],
+    //         vec![],
+    //         "../datasets/bb3_release".into(),
+    //         "../evaluation-data/".into(),
+    //     )
+    //     .unwrap();
+    // }
 
     Ok(())
 }
@@ -81,9 +86,10 @@ enum AlignmentProgram {
     MafftAccurate,
     MafftFast,
     Dialign,
-    SpamAlign(PatternSet),
+    SpamAlign(PatternSet, bool),
 }
 
+#[derive(Clone)]
 struct PatternSet {
     patterns: Vec<Pattern>,
     name: String,
@@ -95,8 +101,9 @@ impl Display for AlignmentProgram {
             AlignmentProgram::MafftAccurate => write!(f, "Mafft-Accurate"),
             AlignmentProgram::MafftFast => write!(f, "Mafft-Fast"),
             AlignmentProgram::Dialign => write!(f, "Dialign"),
-            AlignmentProgram::SpamAlign(pattern_set) => {
-                write!(f, "spam-align-{}", pattern_set.name)
+            AlignmentProgram::SpamAlign(pattern_set, dyn_dim) => {
+                let dyn_dim = if *dyn_dim {"dyn-dim-"} else {""};
+                write!(f, "spam-align-{}{}", dyn_dim, pattern_set.name)
             }
         }
     }
@@ -160,8 +167,8 @@ fn compute_results_for_balibase(
                 AlignmentProgram::Dialign => {
                     run_dialign(fasta_file, &out_path, args, envs.clone()).unwrap()
                 }
-                AlignmentProgram::SpamAlign(pattern_set) => {
-                    run_spam_align(fasta_file, &out_path, pattern_set).unwrap()
+                AlignmentProgram::SpamAlign(pattern_set, dyn_dim) => {
+                    run_spam_align(fasta_file, &out_path, pattern_set, *dyn_dim).unwrap()
                 }
             };
             let test_alignment = fasta::parse(&out_path).unwrap();
@@ -233,13 +240,15 @@ fn run_spam_align(
     fasta_in: &PathBuf,
     fasta_out: &PathBuf,
     pattern_set: &PatternSet,
+    dyn_dim: bool
 ) -> Result<Duration> {
     let now = Instant::now();
     let mut input = read_fasta(fasta_in)?;
+    let strategy = if dyn_dim {Strategy::DynDim} else {Strategy::TwoDim};
     align(
         &mut input,
         &pattern_set.patterns,
-        Strategy::TwoDim,
+        strategy,
         AlignProgress::Hide,
     );
     write_as_fasta(fasta_out, &input)?;

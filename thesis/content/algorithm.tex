@@ -1,14 +1,14 @@
 \chapter{Algorithm}
 \label{chap:algorithm}
 This thesis provides an implementation and improvement of the alignment algorithm proposed in \cite{hundt2020praktkium}. It shares the idea of finding segment pairs, or micro alignments, in the input sequences which are greedily aligned with Dialign. However in contrast to that approach, these micro alignments are found by searching for spaced word matches with multiple patterns, a process that is much faster than doing a pairwise alignment for all input sequence combinations. 
-\begin{itemize}
-	\item describe how micro alignments, especially multi dim are found?
-	\item what scoring function should be used and why?
-	\item TODO maybe have a look at overlap weight again
-	\item describe version of algorithm utilizing eq classes and property described in \ref{fig:unnecessary-cmp} -> should this include data structures and memory evincemanagement?
-	\item maybe first dp algorithm without unnecessary cmps (like in Fi. 4 of \cite{abdeddaim1997incremental}) and the formulate with eq classes (which wasn't done in paper) 
-	\item highlight how this differs from most alignment algorithms in that it is completely greedy
-\end{itemize}
+%\begin{itemize}
+%	\item describe how micro alignments, especially multi dim are found?
+%	\item what scoring function should be used and why?
+%	\item TODO maybe have a look at overlap weight again
+%	\item describe version of algorithm utilizing eq classes and property described in \ref{fig:unnecessary-cmp} -> should this include data structures and memory evincemanagement?
+%	\item maybe first dp algorithm without unnecessary cmps (like in Fi. 4 of \cite{abdeddaim1997incremental}) and the formulate with eq classes (which wasn't done in paper) 
+%	\item highlight how this differs from most alignment algorithms in that it is completely greedy
+%\end{itemize}
 
 % TODO the algorithms input and output data needs
 % to be cleaned up
@@ -23,6 +23,7 @@ This thesis provides an implementation and improvement of the alignment algorith
 	\SetKwFunction{findspam}{find\_spaced\_word\_matches}
 	\SetKwFunction{addsite}{add\_site\_pair}
 	\SetKwFunction{notaligned}{not\_aligned}
+	\SetKwFunction{insertgaps}{insert\_gaps}
 	
 	
 	$A \leftarrow$ $\{\}$\;
@@ -40,13 +41,18 @@ This thesis provides an implementation and improvement of the alignment algorith
 			}
 		}
 	}	
-	\Return $A$\;
+	\insertgaps{$S$, $A$}\;
+	\Return $S$\;
 	
 	\caption{\bf{align($S$, $P$)}}
 	\label{alg:align}
 \end{algorithm}
 
+\section{Finding spaced word matches}
+
 TODO: describe find\_spaced\_word\_matches
+
+\section{Incrementally maintaining a transitive closure}
 
 The, unfortunately incomplete, description of the \textit{EdgeAddition} algorithm in \cite{abdeddaim2000speeding} lead to the proposal of the algorithm \ref{alg:add-site-pair} in the preliminary work \cite{hundt2020praktkium}; due to the incomplete understanding it is computationally much more expensive than necessary since for every site pair that is added, many sites are considered whose transitivity frontiers can not be influenced.
 
@@ -154,11 +160,10 @@ This allows faster updates and a more compact representation for the transitivit
 	\DontPrintSemicolon
 	\KwData{Consistent site pair $x,y \in X$ to align}
 	\KwData{Index $nn$ of alignment set that was merged from alignment sets of $x$ and $y$}
-	\KwData{Successor frontier $succ$}
-	\KwData{Predecessor frontier $pred$}
+	\KwData{Successor and predecessor frontiers $succ, pred$}
 	\KwData{$pred_x$ and $pred_y$ are predecessor frontiers of x and y respectevily}
 	\KwData{$alig\_set$ matrix, mapping an alignment set and sequence to a position}
-	\KwData{$pred\_alig\_set\_pos$ mapping a sequence and position to the index of the next predecessor alignment set of that site}
+	\KwData{$pred\_alig\_set\_pos$ mapping a sequence and position to the index of the next predecessor alignment set of that site, $succ\_alig\_set\_pos$ equivalent for successor alignment set}
 	\KwResult{Updated tranisitivity frontiers $succ$ and $pred$}
 	\SetKwFunction{push}{push}
 	
@@ -222,20 +227,7 @@ This allows faster updates and a more compact representation for the transitivit
 	\label{alg:add-site-pair-revised}
 \end{algorithm}
 
-
-
-
-
-
-While the algorithm \ref{alg:add-site-pair} for maintaining a transitive closure when adding a pair of sites $(a, b)$ into a partial alignment works, it is far from optimal. 
-
-
-
-TODO: This belongs in prior work since it's part of the original EdgeAddition paper. Clarify that \ref{alg:add-site-pair} is an inefficient algorithm for ensuring \ref{obs:frontier-relation} based on an incomplete understanding of EdgeAddition algo
-
-\Cref{fig:unnecessary-cmp} displays a partial alignment between two sequences. The continuous line represents two sites already aligned while the dotted line connects the site pair that is to be added. Updating the predecessor frontier for sequence $S_1$ would result in the following updates to $pred_A[x, i]$:
-
-It is evident that once the position of $x$ is greater or equal than that of an already aligned position, the alignment of $a$ and $b$ has no effect on the predecessor frontiers $pred_A[x, 2]$ for sites $x$ with a position that is greater or equal than $3$.\\
-This property allows an alternative solution 
-
-
+\section{Inserting gaps to produce an alignment from transitivity closure}
+Once the list of spaced word matches that are found in the sequences $S$ is filtered and added to the transitive closure, the information about the equivalence classes of aligned sites can be utilized to efficiently insert gaps into the input sequences such that those sites belonging to the same class are in the same column of the resulting alignment.\\
+This can be achieved by using the quasi-order $\preceq_{A}$, originally defined on the set of sites $X$, as a partial order on the alignment equivalence classes $[x]_A$. This is allowed by the simple observation that $\forall x, y \in X, x' \in [x]_A \text{ and } y' \in [y]_A$, $x' \preceq_A y'$ if and only if $x \preceq_A y$ which leads to the definition $[x]_A \preceq_A [y]_A \defeq x \preceq_A y$. Anti-symmetry follows trivially and thus $\preceq_A$ partially orders the alignment equivalence classes.\\
+Since the revised \textit{EdgeAddition} algorithm \ref{alg:add-site-pair-revised} already stores information about equivalence classes, it is easy to collect a partially ordered list of equivalence classes $E$. Using this sorted list, the sequences can be aligned by taking the first class, setting the positions of the aligned sites to the maximum position in the class and then shifting the sites of the eq classes coming after the aligned one by the number of gaps that were added to the sequences.  

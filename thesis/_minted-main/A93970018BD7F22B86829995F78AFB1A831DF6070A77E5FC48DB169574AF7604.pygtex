@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZhy{}m \PYG{l+m}{5}        \PYG{c+c1}{\PYGZsh{} patterns per set}
+\PYGZhy{}q \PYG{l+m}{0}.05     \PYG{c+c1}{\PYGZsh{} background match probability}
+\PYGZhy{}p \PYG{l+m}{0}.3      \PYG{c+c1}{\PYGZsh{} match probability}
+\PYGZhy{}S \PYG{l+m}{400}      \PYG{c+c1}{\PYGZsh{} sequence length}
+\PYGZhy{}H \PYG{l+m}{20}       \PYG{c+c1}{\PYGZsh{} homologue region length}
+\end{Verbatim}

@@ -37,16 +37,5 @@ Listing \ref{lst:core-types} provides the definition of the core data types resp
 In contrast to GABIOS-LIB, a dedicated \code{Matrix} type is used which is backed by a contiguous section of memory and not a pointer to memory containing pointers to the actual data. Allocating a matrix of $n$ rows thus only takes a single allocation instead of $n+1$, additionally reducing pointer indirection and increasing CPU cache utilization.\\
 For the algorithm \ref{alg:add-site-pair-revised} the predecessor frontiers of $x$ and $y$ are needed, so that sequences $j$, for which there is no possibility of change, can be skipped. Distinguishing the improved algorithm is the detail that these frontiers do not need to be computed for each insertion of a site pair and stored in a separate data structure; rather it is sufficient, and faster, to simply compute the appropriate alignment set index and provide $pred_x$ as a pointer to the right row of $pred$.\\
 A key difference and major improvement is constituted by the way updates to the frontiers are applied. Since line \ref{alg:add-site-pair-revised_data-dep} introduces a data anti-dependency,meaning a value must be written after it is read, between successive iterations, changing the transitivity frontiers can not be done in place. In the improved version \code{FrontierOperations} consisting of the alignment set index, the sequence and the new frontier value are stored in a growable memory buffer, called a \code{Vec}, and applied to the frontiers afterwards. Although applying the changes in this way might require more memory than storing the new values in a $N\times N$ matrix and computing the requisite indices for the $pred$ structure, it does not lead to asymptotically more memory consumption and has the benefit of being considerably faster.\\
-The member \code{sequences} of the \code{Closure} struct is implemented as a vector of structs containing vectors, again introducing overhead by pointer indirection. 
-
-\mintinline{rust}{alig_set: Matrix<usize>} is a 2-dimensional matrix implementation containing \mintinline{rust}{usize} elements, which are usigned integers with a size equal to the target architecture pointer size (meaning 64 bits on a 64 bit target). 
-
-
-Differences to Gabios-Lib
-\begin{itemize}
-	\item matrices are contiguous memory instead of pointer of pointers -> reduces indirection and improves cache locality
-	\item no unnecessary left and right buffers which need to be written each iteration
-	\item frontier ops instead of pos matrix allows applying frontier changes in $O(\#changes)$ instead of $O(\#seq^2 * \text{part in while loop, don't know upper bound})$
-	\item sequences is struct of matrices instead of Vec of struct of vecs -> less indirection
-\end{itemize}
-
+GABIOS-LIB implements the member \code{sequences} of the \code{Closure} struct as a vector of structs containing vectors, further introducing overhead by pointer indirection. As can be seen in listing \ref{lst:core-types}, this structure is changed to a struct of matrices, reducing the number of pointers that need to be followed in order to access a value in e.g. \code{pred\_alig\_set\_pos} from two to one.\\
+During the development process, benchmarks located at \code{spam-align/benches} were used to ensure that the described optimizations do in fact improve the performance of the algorithm.

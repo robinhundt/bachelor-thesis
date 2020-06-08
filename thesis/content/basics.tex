@@ -1,13 +1,14 @@
 \chapter{Basics}
 
-\begin{itemize}
-	\item what is a MSA and for what is it important?
-	\item math def of consistency and msa
-\end{itemize}
+Understanding the proposed multiple sequence alignment algorithm naturally demands an understanding of the term. While it is usually defined as a generalization of the pairwise sequence alignment problem centered on the insertion of gap characters \ref{sec:msa-classical}, Morgenstern defined an alignment as a consistent equivalence relation \ref{sec:consistency}.
+
+%\begin{itemize}
+%	\item what is a MSA and for what is it important?
+%	\item math def of consistency and msa
+%\end{itemize}
 
 \section{Multiple sequence alignment}
-
-
+\label{sec:msa-classical}
 
 As a generalisation of pairwise sequence alignments, multiple sequence alignments are the basis for numerous further analyses such as "inferring phylogenetic relationships, homology search of functional elements, classification of proteins, designing detection markers" \cite[pg. 3]{Russell2016}. In contrast to the pairwise alignment problem, aligning an arbitrary number of sequences is a NP-complete problem, when formulated as the maximisation (or minimisation) of an objective function \cite[pg. 172]{Russell2016}.\\
 The classical formulation of the problem is based upon a model of evolution where single residues get inserted, deleted or substituted. Since an insertion in one sequence is indistinguishable of a deletion in another one, these two operations are commonly viewed as one and referred to as an \textit{indel}. The goal is then to insert gaps, representing an indel and denoted as \textit{'-'} into the sequences, such that they have the same length and a given score function is maximal for the produced Alignment. These aligned sequences are usually displayed as a table of residues and gap characters as seen in \cref{tab:msa-example}\cite{Russell2016}. 
@@ -26,6 +27,7 @@ The classical formulation of the problem is based upon a model of evolution wher
 
 
 \section{Definition of Consistency and Alignments}
+\label{sec:consistency}
 A more formal definition of the term \textit{Alignment} is based upon the work by Morgenstern et al. \cite{morgenstern1996multiple} and Abdedda{\"\i}m \cite{abdeddaim2000speeding}. The following definitions constitute a condensed formalization of the one provided in the preliminary work to this thesis \cite{hundt2020praktkium}.\\ 
 % TODO so formulieren dass klar ist, dass das größtenteils verbatim ist
 
@@ -71,7 +73,7 @@ As per lemma \ref{lem:extension-quasiorder} we extend $\preceq$ to the quasi par
 	\label{def:consistency}
 \end{mydef}
 
-TODO: Clarify what an alignment graph and a path in one is. Terminology is later used.
+%TODO: Clarify what an alignment graph and a path in one is. Terminology is later used.
 
 \begin{mydef}[Alignment]
 	An alignment (or partial alignment) $A$ is a consistent equivalence relation on the set of sites $X$ for a set of sequences $S$. 

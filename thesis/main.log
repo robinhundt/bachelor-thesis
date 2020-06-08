@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  6 JUN 2020 16:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  8 JUN 2020 19:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1321,38 +1321,7 @@ runsystem(which pygmentize && touch main.aex)...executed.
 runsystem(rm main.aex)...executed.
 
 
-(./main.aux
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `@cref' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `@cref' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `@cref' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `@cref' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `@cref' multiply defined.
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
@@ -1564,26 +1533,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ] [6
 
-] (./content/abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 4
-.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-) [7
+] (./content/abstract.tex) [7
 
 
 ] [8
 
-] (./main.toc [9
+] (./main.toc
+[9
 
 
 
@@ -1597,29 +1553,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
 ] (./content/introduction.tex
 Chapter 1.
+<images/w_3-d_7-hist.png, id=224, 794.97pt x 794.97pt>
+File: images/w_3-d_7-hist.png Graphic file (type png)
+<use images/w_3-d_7-hist.png>
+Package pdftex.def Info: images/w_3-d_7-hist.png  used on input line 6.
+(pdftex.def)             Requested size: 213.39568pt x 213.39536pt.
+
+Overfull \hbox (42.68175pt too wide) in paragraph at lines 6--7
+ [][] 
+ []
+
 ) (./content/basics.tex [1
 
-] [2
+ <./images/w_3-d_7-hist.png>] [2
 
 ]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5970) has occurred while \output is active []
 
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
 Package hyperref Info: bookmark level for unknown mydef defaults to 0 on input 
-line 34.
+line 36.
 Package hyperref Info: bookmark level for unknown mylemma defaults to 0 on inpu
-t line 54.
+t line 56.
 [4]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1652,26 +1618,28 @@ Missing character: There is no ; in font nullfont!
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9] [10]) (./content/algorithm.tex [11] [12
+[8] [9]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
+85.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+))
+(./content/algorithm.tex [10]
+Chapter 4.
+[11
 
 ]
-Chapter 4.
 
-LaTeX Warning: Reference `fig:unnecessary-cmp' on page 13 undefined on input li
-ne 8.
-
-[13] [14]
-
-LaTeX Warning: Float too large for page by 49.81535pt on input line 223.
+LaTeX Warning: Float too large for page by 49.81535pt on input line 228.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:unnecessary-cmp' on page 1 undefined on input lin
-e 236.
-
-) (./content/implementation.tex [15] [16]
+ [12]
+(./content/implementation.tex [13] [14]
 Chapter 5.
 \openout5 = `main.pyg'.
 
@@ -1704,149 +1672,148 @@ t line 32.
 
 
 (./_minted-main/D2CD4AAF21EC908398737F330808A96D0236DA2DB8B0B014C4E4FF3372C4416
-4.pygtex) [17
+4.pygtex)) [15
 
-]
-\openout5 = `main.pyg'.
-
-
-(./_minted-main/65EF90DCAC1CF0B8197A4A4A85102D370236DA2DB8B0B014C4E4FF3372C4416
-4.pygtex)
-\openout5 = `main.pyg'.
-
-
-(./_minted-main/82FA795FB3CD6A2C7DA34E94F55A37440236DA2DB8B0B014C4E4FF3372C4416
-4.pygtex)) (./content/evaluation.tex [18]
+] (./content/evaluation.tex [16]
 Chapter 6.
-<./images/balibase.png, id=468, 401.5pt x 401.5pt>
+<./images/balibase.png, id=487, 401.5pt x 401.5pt>
 File: ./images/balibase.png Graphic file (type png)
 <use ./images/balibase.png>
-Package pdftex.def Info: ./images/balibase.png  used on input line 6.
+Package pdftex.def Info: ./images/balibase.png  used on input line 10.
 (pdftex.def)             Requested size: 213.39568pt x 213.40048pt.
 
-Overfull \hbox (42.68175pt too wide) in paragraph at lines 6--7
+Overfull \hbox (42.68175pt too wide) in paragraph at lines 10--11
  [][] 
  []
 
-[19
+[17
 
  <./images/balibase.png>]
-<./images/balibase-web.png, id=484, 629.35126pt x 216.81pt>
+<./images/balibase-web.png, id=502, 629.35126pt x 216.81pt>
 File: ./images/balibase-web.png Graphic file (type png)
 <use ./images/balibase-web.png>
-Package pdftex.def Info: ./images/balibase-web.png  used on input line 35.
+Package pdftex.def Info: ./images/balibase-web.png  used on input line 39.
 (pdftex.def)             Requested size: 341.43439pt x 117.6215pt.
+ [18 <./images/balibase-web.png>] [19]
+\openout4 = `main.pyg'.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20 <./images/balibase-web.png>] [21]
-<../alignment-evaluation/sop-by-pattern-params.png, id=506, 722.7pt x 505.89pt>
+(./_minted-main/A93970018BD7F22B86829995F78AFB1A831DF6070A77E5FC48DB169574AF760
+4.pygtex
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <10> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 2.
+) [20]
+<../alignment-evaluation/sop-by-pattern-params.png, id=540, 722.7pt x 505.89pt>
 
 File: ../alignment-evaluation/sop-by-pattern-params.png Graphic file (type png)
 
 <use ../alignment-evaluation/sop-by-pattern-params.png>
 Package pdftex.def Info: ../alignment-evaluation/sop-by-pattern-params.png  use
-d on input line 121.
+d on input line 112.
 (pdftex.def)             Requested size: 341.43439pt x 239.0034pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../alignment-evaluation/cs-by-pattern-params.png, id=507, 722.7pt x 505.89pt>
+<../alignment-evaluation/cs-by-pattern-params.png, id=544, 722.7pt x 505.89pt>
 File: ../alignment-evaluation/cs-by-pattern-params.png Graphic file (type png)
 <use ../alignment-evaluation/cs-by-pattern-params.png>
 Package pdftex.def Info: ../alignment-evaluation/cs-by-pattern-params.png  used
- on input line 127.
-(pdftex.def)             Requested size: 341.43439pt x 239.0034pt.
+ on input line 121.
+(pdftex.def)             Requested size: 384.10962pt x 268.87689pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [22]
-(../alignment-evaluation/df_sop_best.tex)
-<../alignment-evaluation/sop-boxplot.png, id=513, 722.7pt x 505.89pt>
+ [21]
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+ [22 <../alignment-evaluation/sop-by-pattern-params.png> <../alignment-evaluati
+on/cs-by-pattern-params.png>]
+<../alignment-evaluation/sop-boxplot.png, id=561, 722.7pt x 505.89pt>
 File: ../alignment-evaluation/sop-boxplot.png Graphic file (type png)
 <use ../alignment-evaluation/sop-boxplot.png>
 Package pdftex.def Info: ../alignment-evaluation/sop-boxplot.png  used on input
- line 138.
-(pdftex.def)             Requested size: 341.43439pt x 239.0034pt.
-
-Underfull \vbox (badness 1259) has occurred while \output is active []
-
- [23 <../alignment-evaluation/sop-by-pattern-params.png> <../alignment-evaluati
-on/cs-by-pattern-params.png>]
-<../alignment-evaluation/cs-boxplot.png, id=522, 722.7pt x 505.89pt>
-File: ../alignment-evaluation/cs-boxplot.png Graphic file (type png)
-<use ../alignment-evaluation/cs-boxplot.png>
-Package pdftex.def Info: ../alignment-evaluation/cs-boxplot.png  used on input 
-line 144.
+ line 167.
 (pdftex.def)             Requested size: 341.43439pt x 239.0034pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../alignment-evaluation/time-by-pattern-params.png, id=523, 722.7pt x 505.89pt
+<../alignment-evaluation/cs-boxplot.png, id=564, 722.7pt x 505.89pt>
+File: ../alignment-evaluation/cs-boxplot.png Graphic file (type png)
+<use ../alignment-evaluation/cs-boxplot.png>
+Package pdftex.def Info: ../alignment-evaluation/cs-boxplot.png  used on input 
+line 176.
+(pdftex.def)             Requested size: 341.43439pt x 239.0034pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../alignment-evaluation/time-by-pattern-params.png, id=567, 722.7pt x 505.89pt
 >
 File: ../alignment-evaluation/time-by-pattern-params.png Graphic file (type png
 )
 <use ../alignment-evaluation/time-by-pattern-params.png>
 Package pdftex.def Info: ../alignment-evaluation/time-by-pattern-params.png  us
-ed on input line 151.
-(pdftex.def)             Requested size: 341.43439pt x 239.0034pt.
+ed on input line 188.
+(pdftex.def)             Requested size: 384.10962pt x 268.87689pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./content/conclusion.tex [24 <../alignment-evaluation/sop-boxplot.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./content/discussion.tex [23] [24 <../alignment-evaluation/sop-boxplot.png>]
 [25 <../alignment-evaluation/cs-boxplot.png> <../alignment-evaluation/time-by-p
 attern-params.png>] [26
 
 ]
 Chapter 7.
-) [27] [28
+) (./content/conclusion.tex [27] [28
 
-] (./main.bbl [29
+]
+Chapter 8.
+) [29] [30
+
+] (./main.bbl [31
 
 
-]) [30] [31
-
-] [32
-
-] (./content/appendix_a.tex)
-[33
+]) [32] [33
 
 ] [34
+
+] (./content/appendix_a.tex)
+[35
+
+] [36
 
 ]
 \tf@thm=\write9
 \openout9 = `main.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 170.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 170.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 754F6244E67E85E29396A9B599E39E29;1741.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: 2A0B114BEBC0630008ED1A42FF8E6A9D;2016.
 runsystem(rm main.pyg)...executed.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 170.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
  ) 
 Here is how much of TeX's memory you used:
- 42832 strings out of 482109
- 791585 string characters out of 5933913
- 1243866 words of memory out of 5000000
- 56948 multiletter control sequences out of 15000+600000
- 580076 words of font info for 224 fonts, out of 8000000 for 9000
+ 42936 strings out of 482109
+ 792677 string characters out of 5933913
+ 1247866 words of memory out of 5000000
+ 56994 multiletter control sequences out of 15000+600000
+ 583142 words of font info for 256 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 68i,22n,96p,1193b,2676s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exi
+ 68i,22n,96p,2147b,2676s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
@@ -1865,14 +1832,14 @@ dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2019/texmf-di
 st/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2019/texm
 f-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2019/texmf-dist/f
 onts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
-e1/urw/palatino/uplb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/
-palatino/uplbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palati
-no/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr
-8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb
->
-Output written on main.pdf (46 pages, 1129945 bytes).
+e1/urw/courier/ucrro8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/
+palatino/uplb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatin
+o/uplbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr
+8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (48 pages, 1199950 bytes).
 PDF statistics:
- 699 PDF objects out of 1000 (max. 8388607)
- 210 named destinations out of 1000 (max. 500000)
- 38177 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 769 PDF objects out of 1000 (max. 8388607)
+ 223 named destinations out of 1000 (max. 500000)
+ 38718 words of extra memory for PDF output out of 42996 (max. 10000000)
 
